@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-13T17:23:15.953Z (UTC), on GitHub Actions._
+_Last run: 2026-09-13T19:45:00.261Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -13,16 +13,16 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub label:bounty — verify payment evidence before any work)
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-13
-- NEW `Bitcoindefi/OpenAO#24` — Etapa 5: espacio aislado de mapas de usuario con propiedad y cuotas · updated 2026-09-13
-- NEW `Bitcoindefi/OpenAO#25` — Etapa 5: flujo de propuesta y moderacion de mapas de usuario · updated 2026-09-13
-- NEW `Ikalus1988/MisakaNet#1665` — [Bounty][$0][Lessons] 把 intake #1472 + #1473（Vertex/Gemini 模型 ID 命名）转成课程 · $0 · updated 2026-09-13
-- NEW `Ikalus1988/MisakaNet#1666` — [Bounty][$0][Lessons] 把 intake #1618 + #1619（写成功但数据静默丢失）转成课程 · $0 · updated 2026-09-13
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1333` — [Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegi · $500 · updated 2026-09-13
-- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-13
-- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-13
-- NEW `maaltarifi97-maker/aioa-playground#1` — [Bounty: $50] slugify() leaves double and trailing hyphens · $50 · updated 2026-09-13
-- `XHToken/Spark-X2.5#9` — HER Hack-Astron #6 | Spark-X2.5 Math Reasoning Challenge · updated 2026-09-13
+- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-09-13
+- NEW `Scottcjn/rustchain-bounties#1618` — [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI · updated 2026-09-13
+- NEW `relayhop/sn-monetization-runtime#1099` — [radar] SN open bounty 2026-09-13T19:22 · updated 2026-09-13
+- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-09-13
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-13
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-13
+- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-13
+- NEW `promptpolish-ai/git-context#2` — Add --json output mode (Bounty: $2 crypto) · $2 · updated 2026-09-13
+- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-13
+- `relayhop/sn-monetization-runtime#1097` — [radar] SN open bounty 2026-09-13T16:09 · updated 2026-09-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ---
