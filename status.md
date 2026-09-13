@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-13T19:45:00.261Z (UTC), on GitHub Actions._
+_Last run: 2026-09-13T22:22:30.346Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -13,16 +13,16 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub label:bounty — verify payment evidence before any work)
-- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-09-13
-- NEW `Scottcjn/rustchain-bounties#1618` — [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI · updated 2026-09-13
-- NEW `relayhop/sn-monetization-runtime#1099` — [radar] SN open bounty 2026-09-13T19:22 · updated 2026-09-13
-- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-09-13
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-13
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-13
-- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-13
-- NEW `promptpolish-ai/git-context#2` — Add --json output mode (Bounty: $2 crypto) · $2 · updated 2026-09-13
-- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-13
-- `relayhop/sn-monetization-runtime#1097` — [radar] SN open bounty 2026-09-13T16:09 · updated 2026-09-13
+- NEW `relayhop/sn-monetization-runtime#1101` — [radar] SN open bounty 2026-09-13T22:21 · updated 2026-09-13
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-13
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-09-13
+- `Scottcjn/rustchain-bounties#1618` — [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI · updated 2026-09-13
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-13
+- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-13
+- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-13
+- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-13
+- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-09-13
+- `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-09-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ---
