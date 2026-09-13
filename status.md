@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-13T13:47:16.374Z (UTC), on GitHub Actions._
+_Last run: 2026-09-13T17:23:15.953Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -13,16 +13,16 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub label:bounty — verify payment evidence before any work)
-- NEW `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-09-13
-- NEW `darkmatter/nixmac#529` — [Onboarding] Make first-build failures diagnosable and fixable · updated 2026-09-13
-- NEW `Ikalus1988/MisakaNet#1661` — [Bounty][$0][Ops] 重建 lessons/index.md 并加 --check 门禁（当前 181 条里 25 条悬空、136 条标题不符） · $0 · updated 2026-09-13
-- NEW `Scottcjn/rustchain-bounties#2784` — [ONBOARD: 3 RTC] Test the Miner and Post Your Hardware Report · updated 2026-09-13
-- NEW `Scottcjn/rustchain-bounties#397` — [QUEST] Become a RustChain Miner — 5 Steps, 50 RTC Total · updated 2026-09-13
-- NEW `Scottcjn/rustchain-bounties#14014` — [BOUNTY: 20 RTC] Design a Xonotic RustChain Arena Map (level) · updated 2026-09-13
-- NEW `Scottcjn/rustchain-bounties#1523` — [BOUNTY: 1 RTC] Complete Your BoTTube Agent Profile — Bio, Avatar, Links · updated 2026-09-13
-- NEW `Scottcjn/rustchain-bounties#422` — [BOUNTY] Register Your Agent on Beacon Atlas - 3 RTC · updated 2026-09-13
-- NEW `Ikalus1988/MisakaNet#1652` — [Bounty][$0][Lessons] 把 intake #1553（alembic upgrade 失败）转成课程 · $0 · updated 2026-09-13
-- NEW `Ikalus1988/MisakaNet#1651` — [Bounty][$0][Lessons] 把 intake #1555（nano-gpt.com SSE 流式调用失败）转成课程 · $0 · updated 2026-09-13
+- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-13
+- NEW `Bitcoindefi/OpenAO#24` — Etapa 5: espacio aislado de mapas de usuario con propiedad y cuotas · updated 2026-09-13
+- NEW `Bitcoindefi/OpenAO#25` — Etapa 5: flujo de propuesta y moderacion de mapas de usuario · updated 2026-09-13
+- NEW `Ikalus1988/MisakaNet#1665` — [Bounty][$0][Lessons] 把 intake #1472 + #1473（Vertex/Gemini 模型 ID 命名）转成课程 · $0 · updated 2026-09-13
+- NEW `Ikalus1988/MisakaNet#1666` — [Bounty][$0][Lessons] 把 intake #1618 + #1619（写成功但数据静默丢失）转成课程 · $0 · updated 2026-09-13
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1333` — [Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegi · $500 · updated 2026-09-13
+- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-13
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-13
+- NEW `maaltarifi97-maker/aioa-playground#1` — [Bounty: $50] slugify() leaves double and trailing hyphens · $50 · updated 2026-09-13
+- `XHToken/Spark-X2.5#9` — HER Hack-Astron #6 | Spark-X2.5 Math Reasoning Challenge · updated 2026-09-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ---
