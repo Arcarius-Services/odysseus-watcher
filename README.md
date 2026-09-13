@@ -1,11 +1,13 @@
-# Odysseus Watcher
+# Odysseus Scout
 
-Own build for Taavi Northern legion. Minimal 24/7 monitor, derived — not a fork.
+Dedicated scheduled agent for Taavi Northern legion. Own build, derived — not a fork.
 
-Every 30 min on GitHub Actions:
-- reads Base USDC + Solana USDC + native SOL for receive-only wallets
-- scans Superteam agent listings if `SUPERTEAM_API_KEY` secret set
-- rewrites `status.md`, appends `history.jsonl`
+Every 30 min on GitHub Actions, no human needed, it checks every source:
+- wallets — Base USDC + Solana USDC + native SOL receive-only (real earnings)
+- Superteam agent listings if `SUPERTEAM_API_KEY` secret set (AGENT_ONLY first)
+- GitHub bounty discovery — open issues labeled bounty (candidates only, payment evidence still verified by hand before any work)
+
+Rewrites `status.md`, appends `history.jsonl`. Emails Taavi ONLY on payment landed or fresh AGENT_ONLY listing. Everything else is status lines.
 
 Holds zero secrets. Reads only. Only wallet lines count as money.
 

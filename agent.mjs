@@ -1,11 +1,13 @@
 /**
- * Odysseus watcher — own build, derived, minimal.
- * Runs on GitHub Actions cron. Dependency-free Node 20+ fetch only.
- * Each run:
- *  1. reads Base USDC + Solana USDC + native SOL for Taavi receive-only wallets
- *  2. scans Superteam agent listings (optional key)
- *  3. writes status.md + history.jsonl + seen-listings.json
- * No private keys ever. Reads only.
+ * Odysseus scout — dedicated scheduled agent, own build, derived, minimal.
+ * Runs on GitHub Actions cron every 30 min. Dependency-free Node 20+ fetch only.
+ * Each run checks every source, no human needed:
+ *  1. wallets — Base USDC + Solana USDC + native SOL receive-only (real earnings)
+ *  2. Superteam agent listings via API key (AGENT_ONLY first)
+ *  3. GitHub bounty discovery — open issues labeled bounty, fresh $ hints (candidates only)
+ * Writes status.md + history.jsonl + seen files. Fails loudly (email) ONLY on:
+ * payment landed, or fresh AGENT_ONLY listing. Everything else is status.
+ * No private keys ever. Reads only. No new accounts.
  */
 import { writeFileSync, appendFileSync, readFileSync, unlinkSync } from 'node:fs'
 
@@ -74,10 +76,38 @@ async function superteamLive() {
   } catch (e) { return { error: e.message } }
 }
 
+// GitHub bounty discovery — open issues labeled "bounty" across public repos.
+// Candidates ONLY: payment evidence still checked by hand before any work (rule #1).
+// Read-only, public search API. GITHUB_TOKEN (Actions default) raises the rate limit.
+async function githubBounties() {
+  try {
+    const q = encodeURIComponent('label:bounty state:open')
+    const headers = { Accept: 'application/vnd.github+json', 'User-Agent': 'odysseus-scout' }
+    if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`
+    const r = await fetch(`https://api.github.com/search/issues?q=${q}&sort=updated&order=desc&per_page=20`, { headers, signal: AbortSignal.timeout(15000) })
+    if (!r.ok) return { error: `HTTP ${r.status}` }
+    const d = await r.json()
+    const items = (d.items || []).map((p) => {
+      const m = (p.title || '').match(/\$\s?[\d,]+(\.\d+)?/)
+      return {
+        id: `${(p.repository_url || '').split('/').slice(-2).join('/')}#${p.number}`,
+        repo: (p.repository_url || '').split('/').slice(-2).join('/'),
+        num: p.number,
+        title: (p.title || '').slice(0, 80),
+        hint: m ? m[0] : null,
+        url: p.html_url,
+        updated: (p.updated_at || '').slice(0, 10),
+      }
+    })
+    return { total: d.total_count ?? items.length, items }
+  } catch (e) { return { error: e.message } }
+}
+
 const usdc = await baseUsdc()
 const solUsdcBal = await solUsdc()
 const solNativeBal = await solNative()
 const superteam = await superteamLive()
+const bounties = await githubBounties()
 
 let prevUsdc = null, prevSol = null, prevSolNative = null
 try {
@@ -92,16 +122,26 @@ try {
 const delta = (typeof usdc === 'number' && typeof prevUsdc === 'number') ? usdc - prevUsdc : 0
 const solDelta = (typeof solUsdcBal === 'number' && typeof prevSol === 'number') ? solUsdcBal - prevSol : 0
 const solNativeDelta = (typeof solNativeBal === 'number' && typeof prevSolNative === 'number') ? solNativeBal - prevSolNative : 0
-const notify = delta > 0 || solDelta > 0 || solNativeDelta > 0
-
 let seen = []
 try { seen = JSON.parse(readFileSync(new URL('./seen-listings.json', import.meta.url), 'utf8')) } catch {}
 const openSlugs = (superteam.open || []).map((o) => o.slug)
 const fresh = openSlugs.filter((s) => !seen.includes(s))
 const freshDetail = (superteam.open || []).filter((o) => fresh.includes(o.slug))
+const freshAgentOnly = freshDetail.filter((o) => o.access === 'AGENT_ONLY')
 writeFileSync(new URL('./seen-listings.json', import.meta.url), JSON.stringify([...new Set([...seen, ...openSlugs])], null, 0))
 
-const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh }
+// Bounty candidates seen-tracking (separate file — issue IDs, not listing slugs)
+let seenB = []
+try { seenB = JSON.parse(readFileSync(new URL('./seen-bounties.json', import.meta.url), 'utf8')) } catch {}
+const bountyItems = bounties.items || []
+const freshBounties = bountyItems.filter((b) => !seenB.includes(b.id))
+writeFileSync(new URL('./seen-bounties.json', import.meta.url), JSON.stringify([...new Set([...seenB, ...bountyItems.map((b) => b.id)])].slice(-200), null, 0))
+
+// Email ONLY on money or fresh AGENT_ONLY (lowest competition, highest odds).
+// Fresh normal listings + bounty candidates are status lines — no email, no spam.
+const notify = delta > 0 || solDelta > 0 || solNativeDelta > 0 || freshAgentOnly.length > 0
+
+const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh, agentOnlyFresh: freshAgentOnly.map((o) => o.slug), bounties: { total: bounties.total ?? null, shown: bountyItems.length, fresh: freshBounties.length, error: bounties.error ?? null } }
 appendFileSync(new URL('./history.jsonl', import.meta.url), JSON.stringify(snapshot) + '\n')
 
 const md = `# Odysseus earning status
@@ -122,14 +162,22 @@ ${superteam.skipped ? `_scan skipped: ${superteam.skipped}_`
 
 ${fresh.length ? `## New since last run\n${freshDetail.map((o) => `- ${o.access === 'AGENT_ONLY' ? 'AGENT_ONLY' : 'open'} · \`${o.slug}\` — ${o.reward} ${o.token || ''} · deadline ${o.deadline}`).join('\n')}` : ''}
 
+## Bounty candidates (GitHub label:bounty — verify payment evidence before any work)
+${bounties.error ? `_discovery error: ${bounties.error}_`
+  : bountyItems.length
+    ? bountyItems.slice(0, 10).map((b) => `- ${freshBounties.some((f) => f.id === b.id) ? 'NEW ' : ''}\`${b.id}\` — ${b.title}${b.hint ? ` · ${b.hint}` : ''} · updated ${b.updated}`).join('\n') + `\n_candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._`
+    : '_none found this run_'}
+
 ---
-_Rewritten by Odysseus watcher every run. History in history.jsonl. Merged is not paid — only wallet lines count._
+_Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
 `
 writeFileSync(new URL('./status.md', import.meta.url), md)
 
 const NOTIFY = new URL('./NOTIFY.txt', import.meta.url)
 if (notify) {
-  const msg = `PAYMENT RECEIVED (${now}) — ${delta > 0 ? `+${delta.toFixed(6)} USDC Base (total ${usdc})` : ''}${solDelta > 0 ? ` +${solDelta.toFixed(6)} USDC Solana (total ${solUsdcBal})` : ''}${solNativeDelta > 0 ? ` +${solNativeDelta.toFixed(9)} SOL (total ${solNativeBal})` : ''}`
+  const msg = (delta > 0 || solDelta > 0 || solNativeDelta > 0)
+    ? `PAYMENT RECEIVED (${now}) — ${delta > 0 ? `+${delta.toFixed(6)} USDC Base (total ${usdc})` : ''}${solDelta > 0 ? ` +${solDelta.toFixed(6)} USDC Solana (total ${solUsdcBal})` : ''}${solNativeDelta > 0 ? ` +${solNativeDelta.toFixed(9)} SOL (total ${solNativeBal})` : ''}`
+    : `AGENT_ONLY LISTING (${now}) — ${freshAgentOnly.map((o) => `${o.slug} (${o.reward} ${o.token || ''}, deadline ${o.deadline})`).join(' | ')} — low competition, check now`
   writeFileSync(NOTIFY, msg + '\n')
 } else {
   try { unlinkSync(NOTIFY) } catch {}
@@ -140,3 +188,5 @@ if (delta > 0) console.log(`::notice title=PAYMENT RECEIVED::+${delta.toFixed(6)
 if (solDelta > 0) console.log(`::notice title=PAYMENT RECEIVED::+${solDelta.toFixed(6)} USDC Solana — total ${solUsdcBal}`)
 if (solNativeDelta > 0) console.log(`::notice title=PAYMENT RECEIVED::+${solNativeDelta.toFixed(9)} SOL — total ${solNativeBal}`)
 if (freshDetail.length) console.log('::notice title=NEW LISTINGS::' + freshDetail.map((o) => `${o.slug} (${o.access}, ${o.reward} ${o.token})`).join(' | '))
+if (freshAgentOnly.length) console.log('::warning title=AGENT_ONLY FRESH::' + freshAgentOnly.map((o) => `${o.slug} (${o.reward} ${o.token})`).join(' | '))
+if (freshBounties.length) console.log('::notice title=NEW BOUNTY CANDIDATES::' + freshBounties.slice(0, 5).map((b) => b.id).join(' | '))
