@@ -80,7 +80,26 @@ async function superteamLive() {
   } catch (e) { return { error: e.message } }
 }
 
-// Sats waters — Stacker News territory RSS (~bounty, ~jobs). Clean XML door,
+// Dealwork — agents first-class job rail (3% fee, USDC). Public listings read
+// with no key; bidding/registration needs Taavi GO (new account = his call).
+// Verified live 2026-09-14: open jobs with real budgets ($15-60), bid mode,
+// deadlines, acceptance criteria. First verified agent payout Aug 2026 (field).
+async function dealworkJobs() {
+  try {
+    const r = await fetch('https://dealwork.ai/api/v1/jobs?per_page=20', { headers: { Accept: 'application/json', 'User-Agent': 'odysseus-scout' }, signal: AbortSignal.timeout(15000) })
+    if (!r.ok) return { error: `HTTP ${r.status}` }
+    const d = await r.json()
+    const items = ((Array.isArray(d) ? d : d.data) || []).map((j) => ({
+      id: `dw:${String(j.id || '').slice(0, 8)}`,
+      title: String(j.title || '').slice(0, 90),
+      budget: j.budgetMin || j.budgetMax ? `$${j.budgetMin ?? '?'}–$${j.budgetMax ?? '?'}` : (j.fixedPrice ? `$${j.fixedPrice}` : null),
+      category: j.category || null,
+      deadline: String(j.biddingDeadline || j.deadline || '').slice(0, 10) || null,
+      url: `https://dealwork.ai/jobs/${j.id}`,
+    }))
+    return { total: items.length, items }
+  } catch (e) { return { error: e.message } }
+}
 // no accounts, no keys. Candidates only; sats pay over Lightning, which needs
 // Taavi's Lightning wallet before a single sat can land (flagged in status).
 async function stackerBounties() {
@@ -162,6 +181,7 @@ const superteam = await superteamLive()
 const bounties = await githubBounties()
 const bountiesWide = await githubBountiesWide()
 const stacker = await stackerBounties()
+const dealwork = await dealworkJobs()
 
 let prevUsdc = null, prevSol = null, prevSolNative = null
 try {
@@ -191,8 +211,9 @@ try { seenB = JSON.parse(readFileSync(new URL('./seen-bounties.json', import.met
 const labelItems = (bounties.items || []).map((b) => ({ src: 'label', ...b }))
 const wideItems = (bountiesWide.items || []).map((b) => ({ src: 'wide', ...b }))
 const snItems = (stacker.items || []).map((b) => ({ src: 'sn', ...b }))
+const dwItems = (dealwork.items || []).map((b) => ({ src: 'dw', ...b }))
 const haveIds = new Set(labelItems.map((b) => b.id))
-const bountyItems = [...labelItems, ...wideItems.filter((b) => !haveIds.has(b.id)), ...snItems.filter((b) => !haveIds.has(b.id))]
+const bountyItems = [...labelItems, ...wideItems.filter((b) => !haveIds.has(b.id)), ...snItems.filter((b) => !haveIds.has(b.id)), ...dwItems.filter((b) => !haveIds.has(b.id))]
 const freshBounties = bountyItems.filter((b) => !seenB.includes(b.id))
 writeFileSync(new URL('./seen-bounties.json', import.meta.url), JSON.stringify([...new Set([...seenB, ...bountyItems.map((b) => b.id)])].slice(-200), null, 0))
 
@@ -200,7 +221,7 @@ writeFileSync(new URL('./seen-bounties.json', import.meta.url), JSON.stringify([
 // Fresh normal listings + bounty candidates are status lines — no email, no spam.
 const notify = delta > 0 || solDelta > 0 || solNativeDelta > 0 || freshAgentOnly.length > 0
 
-const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh, agentOnlyFresh: freshAgentOnly.map((o) => o.slug), bounties: { total: bounties.total ?? null, wideTotal: bountiesWide.total ?? null, satsTotal: stacker.total ?? null, shown: bountyItems.length, fresh: freshBounties.length, error: bounties.error ?? bountiesWide.error ?? null } }
+const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh, agentOnlyFresh: freshAgentOnly.map((o) => o.slug), bounties: { total: bounties.total ?? null, wideTotal: bountiesWide.total ?? null, satsTotal: stacker.total ?? null, dealworkTotal: dealwork.total ?? null, shown: bountyItems.length, fresh: freshBounties.length, error: bounties.error ?? bountiesWide.error ?? dealwork.error ?? null } }
 appendFileSync(new URL('./history.jsonl', import.meta.url), JSON.stringify(snapshot) + '\n')
 
 const md = `# Odysseus earning status
@@ -228,10 +249,15 @@ ${bounties.error ? `_discovery error: ${bounties.error}_`
     ? bountyItems.filter((b) => b.src !== 'sn').slice(0, 8).map((b) => `- ${freshBounties.some((f) => f.id === b.id) ? 'NEW ' : ''}\`${b.id}\` — ${b.title}${b.hint ? ` · ${b.hint}` : ''} · updated ${b.updated}`).join('\n') + `\n_candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._`
     : '_none found this run_'}
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)
-${snItems.length
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)${snItems.length
     ? snItems.slice(0, 5).map((b) => `- ${freshBounties.some((f) => f.id === b.id) ? 'NEW ' : ''}[${b.title}](${b.url})${b.hint ? ` · ${b.hint}` : ''}`).join('\n') + `\n_sats pay over Lightning — no Lightning wallet, no landing. Candidates only._`
     : '_none found this run_'}
+
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)
+${dealwork.error ? `_scan error: ${dealwork.error}_`
+  : dwItems.length
+    ? dwItems.slice(0, 6).map((b) => `- ${freshBounties.some((f) => f.id === b.id) ? 'NEW ' : ''}[${b.title}](${b.url})${b.budget ? ` · ${b.budget}` : ''}${b.deadline ? ` · bid by ${b.deadline}` : ''}`).join('\n') + `\n_read-only watch — registration + bids wait for GO._`
+    : '_none open right now_'}
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
