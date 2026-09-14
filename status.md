@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-14T15:03:32.702Z (UTC), on GitHub Actions._
+_Last run: 2026-09-14T15:33:32.578Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-09-14T15:03:32.702Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#16271` — [BOUNTY: 35 RTC] Harden x86 vintage-arch reward validation (anti-spoof) · updated 2026-09-14
-- NEW `Scottcjn/rustchain-bounties#16248` — [BOUNTY: 5 RTC] Fix ALL broken README/doc links in Scottcjn/Rustchain + add link · updated 2026-09-14
+- NEW `Scottcjn/rustchain-bounties#728` — [BOUNTY: 1 RTC] Answer Questions in GitHub Discussions (Up to 7 RTC) · updated 2026-09-14
+- `Scottcjn/Rustchain#165` — [BOUNTY] Share Why You Starred RustChain — 3 RTC + Community Shoutout (Pool: 300 · updated 2026-09-14
+- `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-09-14
+- NEW `jahmeergnlt/traefik#1` — 🎯 Fix Race Condition Causing Stale Middleware Chain During Concurrent Provider  · updated 2026-09-14
+- `Scottcjn/rustchain-bounties#254` — [BOUNTY] Open an Issue or Comment on Any Scottcjn Repo — 1 RTC Each · updated 2026-09-14
+- `Scottcjn/rustchain-bounties#16271` — [BOUNTY: 35 RTC] Harden x86 vintage-arch reward validation (anti-spoof) · updated 2026-09-14
+- `Scottcjn/rustchain-bounties#16248` — [BOUNTY: 5 RTC] Fix ALL broken README/doc links in Scottcjn/Rustchain + add link · updated 2026-09-14
 - `Scottcjn/rustchain-bounties#2784` — [ONBOARD: 3 RTC] Test the Miner and Post Your Hardware Report · updated 2026-09-14
-- `Scottcjn/rustchain-bounties#2218` — [BOUNTY: 3 RTC] Add Your Machine to the Green Tracker — Machines Preserved from  · updated 2026-09-14
-- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-14
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-14
-- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-09-14
-- `Scottcjn/rustchain-bounties#16238` — [BOUNTY: 1 RTC] Star RustChain + 2 ecosystem repos · updated 2026-09-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+1. `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · score 2 (2 rivals, fresh)
 2. `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · score 2 (2 rivals, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · score 2 (5 rivals — crowded, $200, skill fit, fresh)
+3. `Scottcjn/rustchain-bounties#2784` — [ONBOARD: 3 RTC] Test the Miner and Post Your Hardware Report · score 0 (5 rivals — crowded, skill fit, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
