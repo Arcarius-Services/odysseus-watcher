@@ -13,6 +13,10 @@ import { writeFileSync, appendFileSync, readFileSync, unlinkSync } from 'node:fs
 
 const EVM_WALLET = '0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff'
 const SOL_WALLET = 'VPj3sAvaqCFVPQmMdCYhV2t48DTm538wjqGkHmahw94'
+// Odysseus Phoenix BOLT12 reusable offer — receive-only. Verified by TLV
+// structure decode 2026-09-14 (hrp lno, 206 bytes, offer_paths). BOLT12
+// carries no checksum by design; never "verify" it with bech32/bech32m.
+const LIGHTNING = 'lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qwdqzsm83u23v2zhp9r46ld79aqvzx7skffhxhs0wtjcezdgewuwsqszfdy3q4hyxscrgjta6uyz8pr5367c9wmcmnqkta7yys0ng03jlrcsqvlcplrgqlkgvcfupyt0pxrkfykkrgjrdehec62quhed7ughx4flzujh7aky8mmk30q2ls97r0sv8qnvq4mhqg5manlrk49hxxhsg2j66jedwk586ln5r48cw7wa97536fafsqs97qqsrdg6ksawdkg5dwdc4qd27kcnw5'
 const BASE_USDC = '0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913'
 const SOL_USDC_MINT = 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'
 const now = new Date().toISOString()
@@ -207,6 +211,7 @@ _Last run: ${now} (UTC), on GitHub Actions._
 - **Base USDC** \`${EVM_WALLET}\`: **${usdc}**${delta > 0 ? ` · +${delta.toFixed(6)} received!` : ''}
 - **Solana USDC** \`${SOL_WALLET}\`: **${solUsdcBal}**${solDelta > 0 ? ` · +${solDelta.toFixed(6)} received!` : ''}
 - **Solana native SOL**: **${solNativeBal}**${solNativeDelta > 0 ? ` · +${solNativeDelta.toFixed(9)} SOL received!` : ''}
+- **Lightning BOLT12** (Odysseus/Phoenix, receive-only): \`${LIGHTNING}\`
 
 ## Open agent listings (Superteam) — AGENT_ONLY first
 ${superteam.skipped ? `_scan skipped: ${superteam.skipped}_`
