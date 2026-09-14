@@ -102,6 +102,41 @@ async function dealworkJobs() {
 }
 // no accounts, no keys. Candidates only; sats pay over Lightning, which needs
 // Taavi's Lightning wallet before a single sat can land (flagged in status).
+
+// Receptivity sniper — power-law targeting. Real payers award+close within
+// hours; farms stay open with crowds. Scores GH candidates on: few/no prior
+// attempts (distinct /try|/claim|/attempt voices in comments), $ hint, skill
+// fit (our hook/bot/agent/automation shape), freshness. Bounded: ≤10 calls.
+const SKILLFIT = ['hook', 'agent', 'action', 'workflow', 'skill', 'cli', 'bot', 'automation', 'docs', 'changelog', 'test', 'refactor', 'typescript', 'node']
+const ATTEMPTRE = /\/try\b|\/claim\b|\/attempt\b|claiming|interested|working on this/i
+async function snipeRank(items) {
+  const headers = { Accept: 'application/vnd.github+json', 'User-Agent': 'odysseus-scout' }
+  if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`
+  const out = []
+  for (const b of items.filter((x) => x.src === 'label' || x.src === 'wide').slice(0, 10)) {
+    let attempts = null
+    try {
+      const r = await fetch(`https://api.github.com/repos/${b.repo}/issues/${b.num}/comments?per_page=30`, { headers, signal: AbortSignal.timeout(12000) })
+      if (r.ok) {
+        const cs = await r.json()
+        attempts = new Set(cs.filter((c) => ATTEMPTRE.test(c.body || '')).map((c) => c.user?.login)).size
+      }
+    } catch {}
+    const t = (b.title || '').toLowerCase()
+    const fit = SKILLFIT.some((k) => t.includes(k))
+    const fresh = (Date.now() - Date.parse(b.updated || '2000-01-01')) < 7 * 864e5
+    let score = 0
+    const why = []
+    if (attempts === 0) { score += 3; why.push('uncontested') }
+    else if (attempts !== null && attempts <= 2) { score += 1; why.push(`${attempts} rival${attempts > 1 ? 's' : ''}`) }
+    else if (attempts !== null) { score -= 3; why.push(`${attempts} rivals — crowded`) }
+    if (b.hint && !b.hint.includes('$0')) { score += 2; why.push(b.hint) }
+    if (fit) { score += 2; why.push('skill fit') }
+    if (fresh) { score += 1; why.push('fresh') }
+    out.push({ ...b, attempts, score, why: why.join(', ') })
+  }
+  return out.sort((a, b) => b.score - a.score)
+}
 async function stackerBounties() {
   const feeds = ['~bounty', '~jobs']
   const items = []
@@ -216,12 +251,13 @@ const haveIds = new Set(labelItems.map((b) => b.id))
 const bountyItems = [...labelItems, ...wideItems.filter((b) => !haveIds.has(b.id)), ...snItems.filter((b) => !haveIds.has(b.id)), ...dwItems.filter((b) => !haveIds.has(b.id))]
 const freshBounties = bountyItems.filter((b) => !seenB.includes(b.id))
 writeFileSync(new URL('./seen-bounties.json', import.meta.url), JSON.stringify([...new Set([...seenB, ...bountyItems.map((b) => b.id)])].slice(-200), null, 0))
+const sniper = await snipeRank(bountyItems)
 
 // Email ONLY on money or fresh AGENT_ONLY (lowest competition, highest odds).
 // Fresh normal listings + bounty candidates are status lines — no email, no spam.
 const notify = delta > 0 || solDelta > 0 || solNativeDelta > 0 || freshAgentOnly.length > 0
 
-const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh, agentOnlyFresh: freshAgentOnly.map((o) => o.slug), bounties: { total: bounties.total ?? null, wideTotal: bountiesWide.total ?? null, satsTotal: stacker.total ?? null, dealworkTotal: dealwork.total ?? null, shown: bountyItems.length, fresh: freshBounties.length, error: bounties.error ?? bountiesWide.error ?? dealwork.error ?? null } }
+const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh, agentOnlyFresh: freshAgentOnly.map((o) => o.slug), bounties: { total: bounties.total ?? null, wideTotal: bountiesWide.total ?? null, satsTotal: stacker.total ?? null, dealworkTotal: dealwork.total ?? null, sniper: sniper.slice(0, 3).map((b) => ({ id: b.id, score: b.score, why: b.why })), shown: bountyItems.length, fresh: freshBounties.length, error: bounties.error ?? bountiesWide.error ?? dealwork.error ?? null } }
 appendFileSync(new URL('./history.jsonl', import.meta.url), JSON.stringify(snapshot) + '\n')
 
 const md = `# Odysseus earning status
@@ -253,11 +289,15 @@ ${bounties.error ? `_discovery error: ${bounties.error}_`
     ? snItems.slice(0, 5).map((b) => `- ${freshBounties.some((f) => f.id === b.id) ? 'NEW ' : ''}[${b.title}](${b.url})${b.hint ? ` · ${b.hint}` : ''}`).join('\n') + `\n_sats pay over Lightning — no Lightning wallet, no landing. Candidates only._`
     : '_none found this run_'}
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)
-${dealwork.error ? `_scan error: ${dealwork.error}_`
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)${dealwork.error ? `_scan error: ${dealwork.error}_`
   : dwItems.length
     ? dwItems.slice(0, 6).map((b) => `- ${freshBounties.some((f) => f.id === b.id) ? 'NEW ' : ''}[${b.title}](${b.url})${b.budget ? ` · ${b.budget}` : ''}${b.deadline ? ` · bid by ${b.deadline}` : ''}`).join('\n') + `\n_read-only watch — registration + bids wait for GO._`
     : '_none open right now_'}
+
+## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
+${sniper.length
+    ? sniper.slice(0, 3).map((b, i) => `${i + 1}. \`${b.id}\` — ${b.title}${b.hint ? ` · ${b.hint}` : ''} · score ${b.score} (${b.why || 'no signal'})`).join('\n')
+    : '_no candidates scored this run_'}
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
