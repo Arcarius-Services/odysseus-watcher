@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-14T20:55:29.774Z (UTC), on GitHub Actions._
+_Last run: 2026-09-14T23:50:54.827Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-09-14T20:55:29.774Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `maaltarifi97-maker/aioa-playground#1` — [Bounty: $50] slugify() leaves double and trailing hyphens · $50 · updated 2026-09-14
-- NEW `relayhop/sn-monetization-runtime#1105` — [radar] SN open bounty 2026-09-14T06:07 · updated 2026-09-14
 - `relayhop/sn-monetization-runtime#1113` — [radar] SN open bounty 2026-09-14T12:34 · updated 2026-09-14
+- NEW `Bitcoindefi/OpenAO#3` — Etapa 0: capa de persistencia de ediciones de mapa · updated 2026-09-14
 - `relayhop/sn-monetization-runtime#1115` — [radar] SN open bounty 2026-09-14T13:54 · updated 2026-09-14
-- `Ikalus1988/MisakaNet#1651` — [Bounty][$0][Lessons] 把 intake #1555（nano-gpt.com SSE 流式调用失败）转成课程 · $0 · updated 2026-09-14
-- `Ikalus1988/MisakaNet#1652` — [Bounty][$0][Lessons] 把 intake #1553（alembic upgrade 失败）转成课程 · $0 · updated 2026-09-14
-- NEW `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · updated 2026-09-14
-- NEW `relayhop/sn-monetization-runtime#1116` — [radar] SN open bounty 2026-09-14T19:16 · updated 2026-09-14
+- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-09-14
+- NEW `Scottcjn/rustchain-bounties#3075` — [AGENT-BOUNTY: 20 RTC] Submit rustchain-mcp to 3 MCP directories + registries · updated 2026-09-14
+- NEW `Henry00IS/ShapeEditor#3` — [50$ Bounty] Create RealtimeCSG Brush from PolygonMesh · updated 2026-09-14
+- `auscaster/frantic-board#391` — Frantic bounty #130: Answer live Reddit threads with a dated Sourcey fact · updated 2026-09-14
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `relayhop/sn-monetization-runtime#1113` — [radar] SN open bounty 2026-09-14T12:34 · score 4 (uncontested, fresh)
-2. `relayhop/sn-monetization-runtime#1115` — [radar] SN open bounty 2026-09-14T13:54 · score 4 (uncontested, fresh)
-3. `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · score 4 (2 rivals, skill fit, fresh)
+2. `Bitcoindefi/OpenAO#3` — Etapa 0: capa de persistencia de ediciones de mapa · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1115` — [radar] SN open bounty 2026-09-14T13:54 · score 4 (uncontested, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
