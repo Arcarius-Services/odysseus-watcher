@@ -76,7 +76,32 @@ async function superteamLive() {
   } catch (e) { return { error: e.message } }
 }
 
-// GitHub bounty discovery — open issues labeled "bounty" across public repos.
+// Wide discovery — $ bounties WITHOUT the label (21,985 hits; the labeled
+// scan never sees them). Same public API, capped hard, candidates only.
+async function githubBountiesWide() {
+  try {
+    const q = encodeURIComponent('bounty $ in:title state:open')
+    const headers = { Accept: 'application/vnd.github+json', 'User-Agent': 'odysseus-scout' }
+    if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`
+    const r = await fetch(`https://api.github.com/search/issues?q=${q}&sort=updated&order=desc&per_page=12`, { headers, signal: AbortSignal.timeout(15000) })
+    if (!r.ok) return { error: `HTTP ${r.status}` }
+    const d = await r.json()
+    const items = (d.items || []).map((p) => {
+      const m = (p.title || '').match(/\$\s?[\d,]+(\.\d+)?/)
+      return {
+        id: `${(p.repository_url || '').split('/').slice(-2).join('/')}#${p.number}`,
+        repo: (p.repository_url || '').split('/').slice(-2).join('/'),
+        num: p.number,
+        title: (p.title || '').slice(0, 80),
+        hint: m ? m[0] : null,
+        url: p.html_url,
+        updated: (p.updated_at || '').slice(0, 10),
+        src: 'wide',
+      }
+    })
+    return { total: d.total_count ?? items.length, items }
+  } catch (e) { return { error: e.message } }
+}
 // Candidates ONLY: payment evidence still checked by hand before any work (rule #1).
 // Read-only, public search API. GITHUB_TOKEN (Actions default) raises the rate limit.
 async function githubBounties() {
@@ -108,6 +133,7 @@ const solUsdcBal = await solUsdc()
 const solNativeBal = await solNative()
 const superteam = await superteamLive()
 const bounties = await githubBounties()
+const bountiesWide = await githubBountiesWide()
 
 let prevUsdc = null, prevSol = null, prevSolNative = null
 try {
@@ -131,9 +157,13 @@ const freshAgentOnly = freshDetail.filter((o) => o.access === 'AGENT_ONLY')
 writeFileSync(new URL('./seen-listings.json', import.meta.url), JSON.stringify([...new Set([...seen, ...openSlugs])], null, 0))
 
 // Bounty candidates seen-tracking (separate file — issue IDs, not listing slugs)
+// Label + wide queries merged, deduped, labeled items first.
 let seenB = []
 try { seenB = JSON.parse(readFileSync(new URL('./seen-bounties.json', import.meta.url), 'utf8')) } catch {}
-const bountyItems = bounties.items || []
+const labelItems = (bounties.items || []).map((b) => ({ src: 'label', ...b }))
+const wideItems = (bountiesWide.items || []).map((b) => ({ src: 'wide', ...b }))
+const haveIds = new Set(labelItems.map((b) => b.id))
+const bountyItems = [...labelItems, ...wideItems.filter((b) => !haveIds.has(b.id))]
 const freshBounties = bountyItems.filter((b) => !seenB.includes(b.id))
 writeFileSync(new URL('./seen-bounties.json', import.meta.url), JSON.stringify([...new Set([...seenB, ...bountyItems.map((b) => b.id)])].slice(-200), null, 0))
 
@@ -141,7 +171,7 @@ writeFileSync(new URL('./seen-bounties.json', import.meta.url), JSON.stringify([
 // Fresh normal listings + bounty candidates are status lines — no email, no spam.
 const notify = delta > 0 || solDelta > 0 || solNativeDelta > 0 || freshAgentOnly.length > 0
 
-const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh, agentOnlyFresh: freshAgentOnly.map((o) => o.slug), bounties: { total: bounties.total ?? null, shown: bountyItems.length, fresh: freshBounties.length, error: bounties.error ?? null } }
+const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh, agentOnlyFresh: freshAgentOnly.map((o) => o.slug), bounties: { total: bounties.total ?? null, wideTotal: bountiesWide.total ?? null, shown: bountyItems.length, fresh: freshBounties.length, error: bounties.error ?? bountiesWide.error ?? null } }
 appendFileSync(new URL('./history.jsonl', import.meta.url), JSON.stringify(snapshot) + '\n')
 
 const md = `# Odysseus earning status
