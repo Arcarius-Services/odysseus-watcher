@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-14T16:56:48.821Z (UTC), on GitHub Actions._
+_Last run: 2026-09-14T20:55:29.774Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-09-14T16:56:48.821Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-09-14
-- `Scottcjn/rustchain-bounties#731` — [BOUNTY: 0.33 RTC/repo] Watch Our Repos — Stay Notified, Earn RTC (Up to 7 RTC) · updated 2026-09-14
-- `tenstorrent/tt-metal#56277` — [Bounty $7500] Remove legacy sqrt/rsqrt/reciprocal compatibility paths · $7500 · updated 2026-09-14
-- `tenstorrent/tt-metal#56290` — [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation · $500 · updated 2026-09-14
-- `tenstorrent/tt-metal#54551` — [Bounty $1,000] ttnn.prod_bw returns non-finite gradients for zero inputs · $1,000 · updated 2026-09-14
-- `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · updated 2026-09-14
-- `tenstorrent/tt-metal#55130` — [Bounty $5,000] ttnn.bias_gelu silently computes the approximate GELU while ttnn · $5,000 · updated 2026-09-14
-- `tenstorrent/tt-metal#54016` — [Bounty $35000] Welford Two-Pass Statistics Optimisation · $35000 · updated 2026-09-14
+- `maaltarifi97-maker/aioa-playground#1` — [Bounty: $50] slugify() leaves double and trailing hyphens · $50 · updated 2026-09-14
+- NEW `relayhop/sn-monetization-runtime#1105` — [radar] SN open bounty 2026-09-14T06:07 · updated 2026-09-14
+- `relayhop/sn-monetization-runtime#1113` — [radar] SN open bounty 2026-09-14T12:34 · updated 2026-09-14
+- `relayhop/sn-monetization-runtime#1115` — [radar] SN open bounty 2026-09-14T13:54 · updated 2026-09-14
+- `Ikalus1988/MisakaNet#1651` — [Bounty][$0][Lessons] 把 intake #1555（nano-gpt.com SSE 流式调用失败）转成课程 · $0 · updated 2026-09-14
+- `Ikalus1988/MisakaNet#1652` — [Bounty][$0][Lessons] 把 intake #1553（alembic upgrade 失败）转成课程 · $0 · updated 2026-09-14
+- NEW `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · updated 2026-09-14
+- NEW `relayhop/sn-monetization-runtime#1116` — [radar] SN open bounty 2026-09-14T19:16 · updated 2026-09-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-2. `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · score 6 (uncontested, $5, fresh)
-3. `tenstorrent/tt-metal#55130` — [Bounty $5,000] ttnn.bias_gelu silently computes the approximate GELU while ttnn · $5,000 · score 6 (uncontested, $5,000, fresh)
+1. `relayhop/sn-monetization-runtime#1113` — [radar] SN open bounty 2026-09-14T12:34 · score 4 (uncontested, fresh)
+2. `relayhop/sn-monetization-runtime#1115` — [radar] SN open bounty 2026-09-14T13:54 · score 4 (uncontested, fresh)
+3. `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · score 4 (2 rivals, skill fit, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
