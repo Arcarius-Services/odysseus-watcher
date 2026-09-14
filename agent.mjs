@@ -76,8 +76,31 @@ async function superteamLive() {
   } catch (e) { return { error: e.message } }
 }
 
-// Wide discovery — $ bounties WITHOUT the label (21,985 hits; the labeled
-// scan never sees them). Same public API, capped hard, candidates only.
+// Sats waters — Stacker News territory RSS (~bounty, ~jobs). Clean XML door,
+// no accounts, no keys. Candidates only; sats pay over Lightning, which needs
+// Taavi's Lightning wallet before a single sat can land (flagged in status).
+async function stackerBounties() {
+  const feeds = ['~bounty', '~jobs']
+  const items = []
+  const ent = (s) => (s || '').replace(/&quot;/g, '"').replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim()
+  for (const f of feeds) {
+    try {
+      const r = await fetch(`https://stacker.news/${f}/rss`, { headers: { 'User-Agent': 'odysseus-scout' }, signal: AbortSignal.timeout(15000) })
+      if (!r.ok) continue
+      const xml = await r.text()
+      for (const m of xml.matchAll(/<item>([\s\S]*?)<\/item>/g)) {
+        const b = m[1]
+        const t = ent((b.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/) || [])[1] || '')
+        const link = ((b.match(/<link>(.*?)<\/link>/) || [])[1] || '').trim()
+        const pub = ((b.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1] || '').slice(0, 16)
+        const sats = (t.match(/([\d,]+)\s*sats?/i) || [])[1] || null
+        if (t) items.push({ id: `sn:${f}#${link.split('/').pop()}`, title: t.slice(0, 90), hint: sats ? `${sats} sats` : null, url: link, updated: pub, src: 'sn' })
+        if (items.length >= 30) break
+      }
+    } catch {}
+  }
+  return { total: items.length, items }
+}
 async function githubBountiesWide() {
   try {
     const q = encodeURIComponent('bounty $ in:title state:open')
@@ -134,6 +157,7 @@ const solNativeBal = await solNative()
 const superteam = await superteamLive()
 const bounties = await githubBounties()
 const bountiesWide = await githubBountiesWide()
+const stacker = await stackerBounties()
 
 let prevUsdc = null, prevSol = null, prevSolNative = null
 try {
@@ -162,8 +186,9 @@ let seenB = []
 try { seenB = JSON.parse(readFileSync(new URL('./seen-bounties.json', import.meta.url), 'utf8')) } catch {}
 const labelItems = (bounties.items || []).map((b) => ({ src: 'label', ...b }))
 const wideItems = (bountiesWide.items || []).map((b) => ({ src: 'wide', ...b }))
+const snItems = (stacker.items || []).map((b) => ({ src: 'sn', ...b }))
 const haveIds = new Set(labelItems.map((b) => b.id))
-const bountyItems = [...labelItems, ...wideItems.filter((b) => !haveIds.has(b.id))]
+const bountyItems = [...labelItems, ...wideItems.filter((b) => !haveIds.has(b.id)), ...snItems.filter((b) => !haveIds.has(b.id))]
 const freshBounties = bountyItems.filter((b) => !seenB.includes(b.id))
 writeFileSync(new URL('./seen-bounties.json', import.meta.url), JSON.stringify([...new Set([...seenB, ...bountyItems.map((b) => b.id)])].slice(-200), null, 0))
 
@@ -171,7 +196,7 @@ writeFileSync(new URL('./seen-bounties.json', import.meta.url), JSON.stringify([
 // Fresh normal listings + bounty candidates are status lines — no email, no spam.
 const notify = delta > 0 || solDelta > 0 || solNativeDelta > 0 || freshAgentOnly.length > 0
 
-const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh, agentOnlyFresh: freshAgentOnly.map((o) => o.slug), bounties: { total: bounties.total ?? null, wideTotal: bountiesWide.total ?? null, shown: bountyItems.length, fresh: freshBounties.length, error: bounties.error ?? bountiesWide.error ?? null } }
+const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh, agentOnlyFresh: freshAgentOnly.map((o) => o.slug), bounties: { total: bounties.total ?? null, wideTotal: bountiesWide.total ?? null, satsTotal: stacker.total ?? null, shown: bountyItems.length, fresh: freshBounties.length, error: bounties.error ?? bountiesWide.error ?? null } }
 appendFileSync(new URL('./history.jsonl', import.meta.url), JSON.stringify(snapshot) + '\n')
 
 const md = `# Odysseus earning status
@@ -192,10 +217,15 @@ ${superteam.skipped ? `_scan skipped: ${superteam.skipped}_`
 
 ${fresh.length ? `## New since last run\n${freshDetail.map((o) => `- ${o.access === 'AGENT_ONLY' ? 'AGENT_ONLY' : 'open'} · \`${o.slug}\` — ${o.reward} ${o.token || ''} · deadline ${o.deadline}`).join('\n')}` : ''}
 
-## Bounty candidates (GitHub label:bounty — verify payment evidence before any work)
+## Bounty candidates (GitHub — verify payment evidence before any work)
 ${bounties.error ? `_discovery error: ${bounties.error}_`
-  : bountyItems.length
-    ? bountyItems.slice(0, 10).map((b) => `- ${freshBounties.some((f) => f.id === b.id) ? 'NEW ' : ''}\`${b.id}\` — ${b.title}${b.hint ? ` · ${b.hint}` : ''} · updated ${b.updated}`).join('\n') + `\n_candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._`
+  : bountyItems.filter((b) => b.src !== 'sn').length
+    ? bountyItems.filter((b) => b.src !== 'sn').slice(0, 8).map((b) => `- ${freshBounties.some((f) => f.id === b.id) ? 'NEW ' : ''}\`${b.id}\` — ${b.title}${b.hint ? ` · ${b.hint}` : ''} · updated ${b.updated}`).join('\n') + `\n_candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._`
+    : '_none found this run_'}
+
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)
+${snItems.length
+    ? snItems.slice(0, 5).map((b) => `- ${freshBounties.some((f) => f.id === b.id) ? 'NEW ' : ''}[${b.title}](${b.url})${b.hint ? ` · ${b.hint}` : ''}`).join('\n') + `\n_sats pay over Lightning — no Lightning wallet, no landing. Candidates only._`
     : '_none found this run_'}
 
 ---
