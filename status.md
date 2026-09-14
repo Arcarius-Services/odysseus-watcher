@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-14T13:03:18.533Z (UTC), on GitHub Actions._
+_Last run: 2026-09-14T13:33:32.608Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Scottcjn/rustchain-bounties#13224` — [BOUNTY: up to 17 RTC · 67 RTC pool] Tear apart RIP-0301 — paid design critique · updated 2026-09-14
+- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-09-14
+- `Ikalus1988/MisakaNet#1650` — [Bounty][$0][Lessons] 把 intake #1574（LLM 代替用户发言 / god-moding）转成课程 · $0 · updated 2026-09-14
+- `Ikalus1988/MisakaNet#1651` — [Bounty][$0][Lessons] 把 intake #1555（nano-gpt.com SSE 流式调用失败）转成课程 · $0 · updated 2026-09-14
 - `Scottcjn/rustchain-bounties#12442` — [BOUNTY: 3 RTC] RustChain vs Helium / DePIN Networks Comparison · updated 2026-09-14
 - `Ikalus1988/MisakaNet#1652` — [Bounty][$0][Lessons] 把 intake #1553（alembic upgrade 失败）转成课程 · $0 · updated 2026-09-14
 - `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-14
 - `auscaster/frantic-board#391` — Frantic bounty #130: Answer live Reddit threads with a dated Sourcey fact · updated 2026-09-14
-- NEW `relayhop/sn-monetization-runtime#1113` — [radar] SN open bounty 2026-09-14T12:34 · updated 2026-09-14
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-14
-- `Ikalus1988/MisakaNet#1655` — [Bounty][$0][Lessons] 把 intake #1643（NPC 外派 + 间接提及 → 说话人/地点错位）转成课程 · $0 · updated 2026-09-14
-- `Ikalus1988/MisakaNet#1661` — [Bounty][$0][Ops] 重建 lessons/index.md 并加 --check 门禁（当前 181 条里 25 条悬空、136 条标题不符） · $0 · updated 2026-09-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,14 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)
-- NEW [Chief of Staff — Bookkeeping, Excel cleanup & QBO reconciliations ($15–$60)](https://dealwork.ai/jobs/1fd6ebb1-a2fe-4b57-b922-d20092d85e5a) · $15.0000–$60.0000 · bid by 2026-09-27
-- NEW [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/7ecd6fd9-162b-48f8-9860-0f9b1b2ca0f2) · $5.0000–$40.0000
-- NEW [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/6dad3c5a-c949-4cb5-ae38-6c3d431989f5) · $5.0000–$40.0000
-- NEW [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/f8f665a6-c779-4903-99d0-aaaae7cd95ea) · $5.0000–$50.0000 · bid by 2026-12-31
-- NEW [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/ef7d5642-8295-4fb5-a6f4-0cc9bd82fbf5) · $5.0000–$50.0000 · bid by 2026-09-26
-- NEW [Esmond — sourced research maps, market scans & technical writing ($10-$30)](https://dealwork.ai/jobs/d1df093e-466b-4d0c-a8fb-fab389272889) · $10.0000–$30.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Chief of Staff — Bookkeeping, Excel cleanup & QBO reconciliations ($15–$60)](https://dealwork.ai/jobs/1fd6ebb1-a2fe-4b57-b922-d20092d85e5a) · $15.0000–$60.0000 · bid by 2026-09-27
+- [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/7ecd6fd9-162b-48f8-9860-0f9b1b2ca0f2) · $5.0000–$40.0000
+- [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/6dad3c5a-c949-4cb5-ae38-6c3d431989f5) · $5.0000–$40.0000
+- [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/f8f665a6-c779-4903-99d0-aaaae7cd95ea) · $5.0000–$50.0000 · bid by 2026-12-31
+- [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/ef7d5642-8295-4fb5-a6f4-0cc9bd82fbf5) · $5.0000–$50.0000 · bid by 2026-09-26
+- [Esmond — sourced research maps, market scans & technical writing ($10-$30)](https://dealwork.ai/jobs/d1df093e-466b-4d0c-a8fb-fab389272889) · $10.0000–$30.0000
 _read-only watch — registration + bids wait for GO._
+
+## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
+1. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
+2. `Ikalus1988/MisakaNet#1650` — [Bounty][$0][Lessons] 把 intake #1574（LLM 代替用户发言 / god-moding）转成课程 · $0 · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1113` — [radar] SN open bounty 2026-09-14T12:34 · score 4 (uncontested, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
