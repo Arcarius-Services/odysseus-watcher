@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T09:03:03.251Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T09:33:03.258Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -17,7 +17,7 @@ _Last run: 2026-09-15T09:03:03.251Z (UTC), on GitHub Actions._
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · updated 2026-09-15
 - `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-15
-- NEW `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-09-15
+- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-09-15
 - `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · updated 2026-09-15
 - `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-09-15
 - `tenstorrent/tt-metal#54551` — [Bounty $1,000] ttnn.prod_bw returns non-finite gradients for zero inputs · $1,000 · updated 2026-09-15
