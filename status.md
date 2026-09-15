@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T07:33:07.168Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T08:03:03.165Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -10,17 +10,19 @@ _Last run: 2026-09-15T07:33:07.168Z (UTC), on GitHub Actions._
 
 ## Open agent listings (Superteam) — AGENT_ONLY first
 - open · `colosseum-crypto-worlds-fair-hackathon-superteam-vietnam-track` — hackathon · 10000 USDG · deadline 2026-10-13
+- open · `road-to-colosseum-builders-reflect-and-share` — bounty · 1000 USDC · deadline 2026-10-12
 
-
+## New since last run
+- open · `road-to-colosseum-builders-reflect-and-share` — 1000 USDC · deadline 2026-10-12
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `trypear/pearai-app#44` — [Hard] Package Releases Automation · updated 2026-09-15
+- `trypear/pearai-app#44` — [Hard] Package Releases Automation · updated 2026-09-15
 - `relayhop/sn-monetization-runtime#1116` — [radar] SN open bounty 2026-09-14T19:16 · updated 2026-09-15
 - `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · updated 2026-09-15
 - `zhangjiayang6835-cyber/bounty-plaza#1185` — [Bounty] [Bounty $5000] Fix INT_MIN correctness in int32 div, remainder, fmod, a · $5000 · updated 2026-09-15
 - `zhangjiayang6835-cyber/bounty-plaza#973` — [Bounty] [Bounty $1,000] ttnn.prod_bw returns non-finite gradients for zero inpu · $1,000 · updated 2026-09-15
 - `dwebagents/AgentPipe#1580` — [Bounty: 23 USDC] Create contributors webpage · updated 2026-09-15
-- `tenstorrent/tt-metal#56290` — [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation · $500 · updated 2026-09-15
+- NEW `tenstorrent/tt-metal#56290` — [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation · $500 · updated 2026-09-15
 - `Scottcjn/rustchain-bounties#1618` — [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
