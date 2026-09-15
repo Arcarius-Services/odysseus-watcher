@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T16:33:03.621Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T17:03:03.293Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-15T16:33:03.621Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `OmniBlocks/Boxy-gh#140` — bounty · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#16255` — [BOUNTY: 8 RTC] rustchain-mcp: document + test streaming/long-running tool behav · updated 2026-09-15
 - `Scottcjn/rustchain-bounties#16238` — [BOUNTY: 1 RTC] Star RustChain + 2 ecosystem repos · updated 2026-09-15
+- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-15
+- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#2451` — Founding 100 Antiquity Miners — 3,333 RTC Program · updated 2026-09-15
+- `OmniBlocks/Boxy-gh#140` — bounty · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-15
 - `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,7 +32,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Python Scripts (](https://dealwork.ai/jobs/ac7124c5-f972-4155-8844-9baa51d77c4e) · $5.0000–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Python Scripts (](https://dealwork.ai/jobs/ac7124c5-f972-4155-8844-9baa51d77c4e) · $5.0000–$40.0000
 - [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/8b8d049e-0083-420e-bc20-b7f78cf1191d) · $5.0000–$40.0000
 - [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/433d34cb-d077-4c2b-9fc1-91c102275cb6) · $5.0000–$40.0000
 - [Chief of Staff — Bookkeeping, Excel cleanup & QBO reconciliations ($15–$60)](https://dealwork.ai/jobs/1fd6ebb1-a2fe-4b57-b922-d20092d85e5a) · $15.0000–$60.0000 · bid by 2026-09-27
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
-2. `Scottcjn/rustchain-bounties#9017` — [MAY FLOWERS 🌸 EASY BOUNTY: 2 RTC] Star 3 Elyan Labs Repos + Drop a Flower · score 4 (uncontested, fresh)
-3. `OmniBlocks/Boxy-gh#140` — bounty · score 2 (2 rivals, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+3. `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · score 2 (5 rivals — crowded, $200, skill fit, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
