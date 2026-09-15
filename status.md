@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T08:33:03.352Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T09:03:03.251Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-15T08:33:03.352Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-15
+- NEW `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-09-15
 - `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · updated 2026-09-15
 - `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-09-15
-- NEW `tenstorrent/tt-metal#54551` — [Bounty $1,000] ttnn.prod_bw returns non-finite gradients for zero inputs · $1,000 · updated 2026-09-15
-- NEW `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · updated 2026-09-15
+- `tenstorrent/tt-metal#54551` — [Bounty $1,000] ttnn.prod_bw returns non-finite gradients for zero inputs · $1,000 · updated 2026-09-15
+- `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · updated 2026-09-15
 - `trypear/pearai-app#44` — [Hard] Package Releases Automation · updated 2026-09-15
-- `relayhop/sn-monetization-runtime#1116` — [radar] SN open bounty 2026-09-14T19:16 · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · updated 2026-09-15
-- `zhangjiayang6835-cyber/bounty-plaza#1185` — [Bounty] [Bounty $5000] Fix INT_MIN correctness in int32 div, remainder, fmod, a · $5000 · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · score 6 (uncontested, $1,000, fresh)
-2. `trypear/pearai-app#44` — [Hard] Package Releases Automation · score 6 (uncontested, skill fit, fresh)
-3. `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · score 4 (2 rivals, skill fit, fresh)
+1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+2. `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · score 6 (uncontested, $1,000, fresh)
+3. `trypear/pearai-app#44` — [Hard] Package Releases Automation · score 6 (uncontested, skill fit, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
