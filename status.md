@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-14T23:50:54.827Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T04:47:42.991Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-09-14T23:50:54.827Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `relayhop/sn-monetization-runtime#1113` — [radar] SN open bounty 2026-09-14T12:34 · updated 2026-09-14
-- NEW `Bitcoindefi/OpenAO#3` — Etapa 0: capa de persistencia de ediciones de mapa · updated 2026-09-14
-- `relayhop/sn-monetization-runtime#1115` — [radar] SN open bounty 2026-09-14T13:54 · updated 2026-09-14
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-09-14
-- NEW `Scottcjn/rustchain-bounties#3075` — [AGENT-BOUNTY: 20 RTC] Submit rustchain-mcp to 3 MCP directories + registries · updated 2026-09-14
-- NEW `Henry00IS/ShapeEditor#3` — [50$ Bounty] Create RealtimeCSG Brush from PolygonMesh · updated 2026-09-14
-- `auscaster/frantic-board#391` — Frantic bounty #130: Answer live Reddit threads with a dated Sourcey fact · updated 2026-09-14
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-14
+- `zhangjiayang6835-cyber/bounty-plaza#1214` — [Bounty] [Bounty: $350] Migrate Ethereum Smart Contract from IPv4 to IPv6 · $350 · updated 2026-09-15
+- NEW `LiveHelperChat/livehelperchat#1505` — Integrate Live Helper Chat bot with Telegram Extension · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `relayhop/sn-monetization-runtime#1113` — [radar] SN open bounty 2026-09-14T12:34 · score 4 (uncontested, fresh)
-2. `Bitcoindefi/OpenAO#3` — Etapa 0: capa de persistencia de ediciones de mapa · score 4 (uncontested, fresh)
-3. `relayhop/sn-monetization-runtime#1115` — [radar] SN open bounty 2026-09-14T13:54 · score 4 (uncontested, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#1214` — [Bounty] [Bounty: $350] Migrate Ethereum Smart Contract from IPv4 to IPv6 · $350 · score 4 (1 rival, $350, fresh)
+2. `LiveHelperChat/livehelperchat#1505` — Integrate Live Helper Chat bot with Telegram Extension · score 4 (1 rival, skill fit, fresh)
+3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
