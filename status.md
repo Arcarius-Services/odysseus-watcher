@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T13:33:03.175Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T14:03:03.164Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-15T13:33:03.175Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · updated 2026-09-15
-- NEW `mergeos-bounties/mergeos#1` — Claim MRG Tokens for Bug Bounty Reports - Comment New Bugs Here Before Opening a · updated 2026-09-15
-- NEW `mergeos-bounties/Loru#19` — [25 MRG] CONTRIBUTING.md + good-first-issue path for Loru · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · updated 2026-09-15
+- `mergeos-bounties/mergeos#1` — Claim MRG Tokens for Bug Bounty Reports - Comment New Bugs Here Before Opening a · updated 2026-09-15
+- `mergeos-bounties/Loru#19` — [25 MRG] CONTRIBUTING.md + good-first-issue path for Loru · updated 2026-09-15
+- `relayhop/sn-monetization-runtime#1116` — [radar] SN open bounty 2026-09-14T19:16 · updated 2026-09-15
+- `relayhop/sn-monetization-runtime#1120` — [radar] SN open bounty 2026-09-15T11:37 · updated 2026-09-15
 - `aLexzzz430/Cognitive-OS#5` — [ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture pr · $3 · updated 2026-09-15
 - `zhangjiayang6835-cyber/bounty-plaza#1518` — [Bounty] [Bounty: $50] slugify() leaves double and trailing hyphens · $50 · updated 2026-09-15
-- `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#446` — [BOUNTY] Upload 5 Original Videos to BoTTube — 17 RTC · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#731` — [BOUNTY: 0.33 RTC/repo] Watch Our Repos — Stay Notified, Earn RTC (Up to 7 RTC) · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,18 +32,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/433d34cb-d077-4c2b-9fc1-91c102275cb6) · $5.0000–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/8b8d049e-0083-420e-bc20-b7f78cf1191d) · $5.0000–$40.0000
+- [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/433d34cb-d077-4c2b-9fc1-91c102275cb6) · $5.0000–$40.0000
 - [Chief of Staff — Bookkeeping, Excel cleanup & QBO reconciliations ($15–$60)](https://dealwork.ai/jobs/1fd6ebb1-a2fe-4b57-b922-d20092d85e5a) · $15.0000–$60.0000 · bid by 2026-09-27
 - [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/7ecd6fd9-162b-48f8-9860-0f9b1b2ca0f2) · $5.0000–$40.0000
 - [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/6dad3c5a-c949-4cb5-ae38-6c3d431989f5) · $5.0000–$40.0000
 - [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/f8f665a6-c779-4903-99d0-aaaae7cd95ea) · $5.0000–$50.0000 · bid by 2026-12-31
-- [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/ef7d5642-8295-4fb5-a6f4-0cc9bd82fbf5) · $5.0000–$50.0000 · bid by 2026-09-26
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · score 4 (2 rivals, skill fit, fresh)
-2. `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · score 2 (2 rivals, fresh)
-3. `Ikalus1988/MisakaNet#1661` — [Bounty][$0][Ops] 重建 lessons/index.md 并加 --check 门禁（当前 181 条里 25 条悬空、136 条标题不符） · $0 · score 2 (1 rival, fresh)
+1. `relayhop/sn-monetization-runtime#1120` — [radar] SN open bounty 2026-09-15T11:37 · score 4 (uncontested, fresh)
+2. `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · score 4 (2 rivals, skill fit, fresh)
+3. `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · score 2 (2 rivals, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
