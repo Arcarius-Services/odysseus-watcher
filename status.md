@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T06:33:07.438Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T07:03:06.823Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-09-15T06:33:07.438Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Scottcjn/rustchain-bounties#1618` — [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI · updated 2026-09-15
-- NEW `dwebagents/AgentPipe#1580` — [Bounty: 23 USDC] Create contributors webpage · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · updated 2026-09-15
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1185` — [Bounty] [Bounty $5000] Fix INT_MIN correctness in int32 div, remainder, fmod, a · $5000 · updated 2026-09-15
+- NEW `zhangjiayang6835-cyber/bounty-plaza#973` — [Bounty] [Bounty $1,000] ttnn.prod_bw returns non-finite gradients for zero inpu · $1,000 · updated 2026-09-15
+- `dwebagents/AgentPipe#1580` — [Bounty: 23 USDC] Create contributors webpage · updated 2026-09-15
+- `tenstorrent/tt-metal#56290` — [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation · $500 · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#1618` — [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI · updated 2026-09-15
 - `Ikalus1988/MisakaNet#1651` — [Bounty][$0][Lessons] 把 intake #1555（nano-gpt.com SSE 流式调用失败）转成课程 · $0 · updated 2026-09-15
 - `Ikalus1988/MisakaNet#1652` — [Bounty][$0][Lessons] 把 intake #1553（alembic upgrade 失败）转成课程 · $0 · updated 2026-09-15
-- NEW `Ikalus1988/MisakaNet#1666` — [Bounty][$0][Lessons] 把 intake #1618 + #1619（写成功但数据静默丢失）转成课程 · $0 · updated 2026-09-15
-- NEW `Ikalus1988/MisakaNet#1665` — [Bounty][$0][Lessons] 把 intake #1472 + #1473（Vertex/Gemini 模型 ID 命名）转成课程 · $0 · updated 2026-09-15
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#16248` — [BOUNTY: 5 RTC] Fix ALL broken README/doc links in Scottcjn/Rustchain + add link · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-2. `Bitcoindefi/OpenAO#4` — Etapa 0: permisos y atribucion para edicion de mapas · score 4 (uncontested, fresh)
+1. `tenstorrent/tt-metal#56290` — [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation · $500 · score 4 (2 rivals, $500, fresh)
+2. `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · score 2 (1 rival, fresh)
 3. `Ikalus1988/MisakaNet#1651` — [Bounty][$0][Lessons] 把 intake #1555（nano-gpt.com SSE 流式调用失败）转成课程 · $0 · score 2 (2 rivals, fresh)
 
 ---
