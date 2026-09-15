@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T14:57:23.864Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T16:33:03.621Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-15T14:57:23.864Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-09-15
-- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#16252` — [BOUNTY: 12 RTC] Windows headless miner: stop infinite retry of rejected headers · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#16253` — [BOUNTY: 7 RTC] Consistent error handling + exit codes in wallet balance check s · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#16251` — [BOUNTY: 10 RTC] Fix rustchain.org install script — wrong paths + macOS crash (R · updated 2026-09-15
-- `zhangjiayang6835-cyber/bounty-plaza#1217` — [Bounty] [Bounty: ] Race Condition in Distributed Async Event Queue during High  · updated 2026-09-15
-- `NSPG13/agent-bounties#1351` — [Bounty] Seed a paid CLI child bounty · updated 2026-09-15
-- `Leonardo-Jacquez/open-cycle#3` — Bug-bounty Layer 1 adapter + Q-SCOPE / Q-DUP / Q-IMPACT · updated 2026-09-15
+- NEW `OmniBlocks/Boxy-gh#140` — bounty · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#16238` — [BOUNTY: 1 RTC] Star RustChain + 2 ecosystem repos · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,18 +32,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/8b8d049e-0083-420e-bc20-b7f78cf1191d) · $5.0000–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Python Scripts (](https://dealwork.ai/jobs/ac7124c5-f972-4155-8844-9baa51d77c4e) · $5.0000–$40.0000
+- [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/8b8d049e-0083-420e-bc20-b7f78cf1191d) · $5.0000–$40.0000
 - [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/433d34cb-d077-4c2b-9fc1-91c102275cb6) · $5.0000–$40.0000
 - [Chief of Staff — Bookkeeping, Excel cleanup & QBO reconciliations ($15–$60)](https://dealwork.ai/jobs/1fd6ebb1-a2fe-4b57-b922-d20092d85e5a) · $15.0000–$60.0000 · bid by 2026-09-27
 - [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/7ecd6fd9-162b-48f8-9860-0f9b1b2ca0f2) · $5.0000–$40.0000
 - [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/6dad3c5a-c949-4cb5-ae38-6c3d431989f5) · $5.0000–$40.0000
-- [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/f8f665a6-c779-4903-99d0-aaaae7cd95ea) · $5.0000–$50.0000 · bid by 2026-12-31
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1217` — [Bounty] [Bounty: ] Race Condition in Distributed Async Event Queue during High  · score 4 (uncontested, fresh)
+1. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+2. `Scottcjn/rustchain-bounties#9017` — [MAY FLOWERS 🌸 EASY BOUNTY: 2 RTC] Star 3 Elyan Labs Repos + Drop a Flower · score 4 (uncontested, fresh)
+3. `OmniBlocks/Boxy-gh#140` — bounty · score 2 (2 rivals, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
