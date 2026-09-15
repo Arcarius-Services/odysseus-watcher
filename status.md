@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T10:01:26.673Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T11:33:09.022Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,20 +15,20 @@ _Last run: 2026-09-15T10:01:26.673Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-09-15
-- `darkmatter/nixmac#397` — Rollback retry button activates current working tree instead of previous store p · updated 2026-09-15
-- `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · updated 2026-09-15
+- NEW `Nexussyn/ai-growth-engine#5` — [AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes · updated 2026-09-15
 - `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-15
-- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-09-15
-- `tenstorrent/tt-metal#54551` — [Bounty $1,000] ttnn.prod_bw returns non-finite gradients for zero inputs · $1,000 · updated 2026-09-15
-- `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-2. `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · score 6 (uncontested, $1,000, fresh)
-3. `trypear/pearai-app#44` — [Hard] Package Releases Automation · score 6 (uncontested, skill fit, fresh)
+1. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+2. `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · score 4 (uncontested, fresh)
+3. `Scottcjn/rustchain-bounties#9017` — [MAY FLOWERS 🌸 EASY BOUNTY: 2 RTC] Star 3 Elyan Labs Repos + Drop a Flower · score 4 (uncontested, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
