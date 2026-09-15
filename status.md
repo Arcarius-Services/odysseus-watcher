@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T18:56:22.624Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T22:10:20.685Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-15T18:56:22.624Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#254` — [BOUNTY] Open an Issue or Comment on Any Scottcjn Repo — 1 RTC Each · updated 2026-09-15
+- NEW `OmniBlocks/monorepo#794` — $100 BOUNTY FOR IMPLEMENTING A FOREVER IF BLOCK INTO OMNIBLOCKS · $100 · updated 2026-09-15
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1548` — [Bounty] $999999999999999999999999 BOUNTY - URGENT · $999999999999999999999999 · updated 2026-09-15
+- NEW `auscaster/frantic-board#390` — Frantic bounty #129: Earn a citation for Sourcey on a page that already ranks fo · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-15
 - `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-15
-- NEW `livepeer/go-livepeer#1815` — livepeer_cli: Show estimated tx cost in a confirmation step · updated 2026-09-15
-- NEW `Scottcjn/rustchain-bounties#256` — [BOUNTY] Fork a Scottcjn Repo — 2 RTC (+1 RTC if you Pin it) · updated 2026-09-15
-- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-15
-- NEW `Scottcjn/rustchain-bounties#16240` — [BOUNTY: 15-35 RTC] Make a real YouTube video or written tutorial on RustChain / · updated 2026-09-15
-- `tenstorrent/tt-metal#56290` — [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation · $500 · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#16255` — [BOUNTY: 8 RTC] rustchain-mcp: document + test streaming/long-running tool behav · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `livepeer/go-livepeer#1815` — livepeer_cli: Show estimated tx cost in a confirmation step · score 6 (uncontested, skill fit, fresh)
-2. `tenstorrent/tt-metal#56290` — [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation · $500 · score 4 (2 rivals, $500, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · score 2 (5 rivals — crowded, $100, skill fit, fresh)
+1. `OmniBlocks/monorepo#794` — $100 BOUNTY FOR IMPLEMENTING A FOREVER IF BLOCK INTO OMNIBLOCKS · $100 · score 6 (uncontested, $100, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1548` — [Bounty] $999999999999999999999999 BOUNTY - URGENT · $999999999999999999999999 · score 6 (uncontested, $999999999999999999999999, fresh)
+3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
