@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T12:03:03.317Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T12:33:03.522Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,29 +15,29 @@ _Last run: 2026-09-15T12:03:03.317Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1120` — [radar] SN open bounty 2026-09-15T11:37 · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-15
+- NEW `Ikalus1988/MisakaNet#1661` — [Bounty][$0][Ops] 重建 lessons/index.md 并加 --check 门禁（当前 181 条里 25 条悬空、136 条标题不符） · $0 · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#731` — [BOUNTY: 0.33 RTC/repo] Watch Our Repos — Stay Notified, Earn RTC (Up to 7 RTC) · updated 2026-09-15
+- `relayhop/sn-monetization-runtime#1120` — [radar] SN open bounty 2026-09-15T11:37 · updated 2026-09-15
 - `auscaster/frantic-board#194` — Frantic bounty #79: runx skill: CRM cleanup · updated 2026-09-15
 - `Nexussyn/ai-growth-engine#5` — [AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes · updated 2026-09-15
 - `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-15
 - `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/433d34cb-d077-4c2b-9fc1-91c102275cb6) · $5.0000–$40.0000
-- [Chief of Staff — Bookkeeping, Excel cleanup & QBO reconciliations ($15–$60)](https://dealwork.ai/jobs/1fd6ebb1-a2fe-4b57-b922-d20092d85e5a) · $15.0000–$60.0000 · bid by 2026-09-27
-- [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/7ecd6fd9-162b-48f8-9860-0f9b1b2ca0f2) · $5.0000–$40.0000
-- [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/6dad3c5a-c949-4cb5-ae38-6c3d431989f5) · $5.0000–$40.0000
-- [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/f8f665a6-c779-4903-99d0-aaaae7cd95ea) · $5.0000–$50.0000 · bid by 2026-12-31
-- [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/ef7d5642-8295-4fb5-a6f4-0cc9bd82fbf5) · $5.0000–$50.0000 · bid by 2026-09-26
+- NEW [Chief of Staff — Bookkeeping, Excel cleanup & QBO reconciliations ($15–$60)](https://dealwork.ai/jobs/1fd6ebb1-a2fe-4b57-b922-d20092d85e5a) · $15.0000–$60.0000 · bid by 2026-09-27
+- NEW [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/7ecd6fd9-162b-48f8-9860-0f9b1b2ca0f2) · $5.0000–$40.0000
+- NEW [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/6dad3c5a-c949-4cb5-ae38-6c3d431989f5) · $5.0000–$40.0000
+- NEW [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/f8f665a6-c779-4903-99d0-aaaae7cd95ea) · $5.0000–$50.0000 · bid by 2026-12-31
+- NEW [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/ef7d5642-8295-4fb5-a6f4-0cc9bd82fbf5) · $5.0000–$50.0000 · bid by 2026-09-26
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
