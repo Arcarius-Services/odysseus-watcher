@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T13:03:03.301Z (UTC), on GitHub Actions._
+_Last run: 2026-09-15T13:33:03.175Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-15T13:03:03.301Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `aLexzzz430/Cognitive-OS#5` — [ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture pr · $3 · updated 2026-09-15
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1518` — [Bounty] [Bounty: $50] slugify() leaves double and trailing hyphens · $50 · updated 2026-09-15
+- NEW `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · updated 2026-09-15
+- NEW `mergeos-bounties/mergeos#1` — Claim MRG Tokens for Bug Bounty Reports - Comment New Bugs Here Before Opening a · updated 2026-09-15
+- NEW `mergeos-bounties/Loru#19` — [25 MRG] CONTRIBUTING.md + good-first-issue path for Loru · updated 2026-09-15
+- `aLexzzz430/Cognitive-OS#5` — [ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture pr · $3 · updated 2026-09-15
+- `zhangjiayang6835-cyber/bounty-plaza#1518` — [Bounty] [Bounty: $50] slugify() leaves double and trailing hyphens · $50 · updated 2026-09-15
 - `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · updated 2026-09-15
-- NEW `Scottcjn/rustchain-bounties#446` — [BOUNTY] Upload 5 Original Videos to BoTTube — 17 RTC · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#446` — [BOUNTY] Upload 5 Original Videos to BoTTube — 17 RTC · updated 2026-09-15
 - `Scottcjn/rustchain-bounties#731` — [BOUNTY: 0.33 RTC/repo] Watch Our Repos — Stay Notified, Earn RTC (Up to 7 RTC) · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-15
-- `Ikalus1988/MisakaNet#1661` — [Bounty][$0][Ops] 重建 lessons/index.md 并加 --check 门禁（当前 181 条里 25 条悬空、136 条标题不符） · $0 · updated 2026-09-15
-- `relayhop/sn-monetization-runtime#1120` — [radar] SN open bounty 2026-09-15T11:37 · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,8 +42,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · score 4 (2 rivals, skill fit, fresh)
-2. `relayhop/sn-monetization-runtime#1120` — [radar] SN open bounty 2026-09-15T11:37 · score 4 (uncontested, fresh)
-3. `auscaster/frantic-board#194` — Frantic bounty #79: runx skill: CRM cleanup · score 4 (2 rivals, skill fit, fresh)
+2. `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · score 2 (2 rivals, fresh)
+3. `Ikalus1988/MisakaNet#1661` — [Bounty][$0][Ops] 重建 lessons/index.md 并加 --check 门禁（当前 181 条里 25 条悬空、136 条标题不符） · $0 · score 2 (1 rival, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
