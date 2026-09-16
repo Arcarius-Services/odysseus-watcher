@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-16T00:15:42.005Z (UTC), on GitHub Actions._
+_Last run: 2026-09-16T05:12:12.304Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-16T00:15:42.005Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `OmniBlocks/bountyfarmer#4` — $9740486 BOUNTY FOR IMPLEMENTING A LINUX EMULATOR INTO OMNIBLOCKS · $9740486 · updated 2026-09-15
-- NEW `auscaster/frantic-board#391` — Frantic bounty #130: Answer live Reddit threads with a dated Sourcey fact · updated 2026-09-15
-- NEW `OmniBlocks/bountyfarmer#1` — $9828150 BOUNTY FOR IMPLEMENTING A SASS MODE INTO OMNIBLOCKS · $9828150 · updated 2026-09-15
-- `NSPG13/agent-bounties#1351` — [Bounty] Seed a paid CLI child bounty · updated 2026-09-15
-- NEW `commaai/opendbc#2557` — Enable 100% branch coverage check · updated 2026-09-15
-- NEW `commaai/openpilot#32425` — test_models: add a test that fuzzes the tx messages · updated 2026-09-15
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1558` — [Bounty] Reverse bounty · updated 2026-09-15
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1559` — [Bounty] $100 BOUNTY FOR IMPLEMENTING A FOREVER IF BLOCK INTO OMNIBLOCKS · $100 · updated 2026-09-15
+- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-16
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-16
+- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-16
+- NEW `Scottcjn/rustchain-bounties#16472` — [BOUNTY: 20 RTC] BoTTube CI jobs hang to a 15-minute timeout and blame the contr · updated 2026-09-16
+- `Scottcjn/rustchain-bounties#16252` — [BOUNTY: 12 RTC] Windows headless miner: stop infinite retry of rejected headers · updated 2026-09-16
+- `Scottcjn/rustchain-bounties#16253` — [BOUNTY: 7 RTC] Consistent error handling + exit codes in wallet balance check s · updated 2026-09-16
+- NEW `Scottcjn/rustchain-bounties#727` — [BOUNTY: 5 RTC] Write a Comparison Article — RustChain vs Other Chains · updated 2026-09-16
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OmniBlocks/bountyfarmer#1` — $9828150 BOUNTY FOR IMPLEMENTING A SASS MODE INTO OMNIBLOCKS · $9828150 · score 6 (uncontested, $9828150, fresh)
-2. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-3. `OmniBlocks/bountyfarmer#4` — $9740486 BOUNTY FOR IMPLEMENTING A LINUX EMULATOR INTO OMNIBLOCKS · $9740486 · score 4 (2 rivals, $9740486, fresh)
+1. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+2. `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · score 2 (2 rivals, fresh)
+3. `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · score 2 (5 rivals — crowded, $100, skill fit, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
