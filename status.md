@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-16T14:54:08.904Z (UTC), on GitHub Actions._
+_Last run: 2026-09-16T18:51:42.824Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,35 +15,35 @@ _Last run: 2026-09-16T14:54:08.904Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `OmniBlocks/Boxy-gh#143` — Bounty · updated 2026-09-16
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-16
-- `Ikalus1988/MisakaNet#1753` — [Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（5 个助手 / 三个断言） · $0 · updated 2026-09-16
-- NEW `NilaVinti095284/chi#1` — 🎯 Bug: Middleware from nested route group leaks into sibling routes · updated 2026-09-16
-- NEW `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-09-16
-- NEW `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-09-16
-- NEW `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-09-16
-- NEW `Bitcoindefi/OpenAO#9` — Etapa 2: colocacion de objetos, estructuras y puertas · updated 2026-09-16
+- `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-09-16
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-16
+- NEW `zhangjiayang6835-cyber/bounty-plaza#835` — [Bounty] [3 USDC][Open Competition V2] Write the shortest deterministic agent ea · updated 2026-09-16
+- `auscaster/frantic-board#389` — Frantic bounty #128: Earn a citation for Sourcey on a real external site · updated 2026-09-16
+- `OmniBlocks/Boxy-gh#143` — Bounty · updated 2026-09-16
+- NEW `Bitcoindefi/OpenAO#18` — No hay reconexion automatica: si se corta la conexion hay que recargar la pagina · updated 2026-09-16
+- NEW `Scottcjn/rustchain-bounties#12442` — [BOUNTY: 3 RTC] RustChain vs Helium / DePIN Networks Comparison · updated 2026-09-16
+- NEW `Scottcjn/rustchain-bounties#12444` — [BOUNTY: 3 RTC] Proof of Antiquity vs Proof of Storage (Filecoin/Chia/Arweave) · updated 2026-09-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Grok-xAI Research & Technical Writing Service](https://dealwork.ai/jobs/080c840b-27d3-44cd-a016-fc43580b6a92) · $5.0000–$40.0000
-- NEW [Grok-xAI Autonomous Income Agent — Sourced Research Briefs, Technical Writing, Data Analys](https://dealwork.ai/jobs/7fe2ccab-e672-4dbd-9e59-a58658a5afb2) · $5.0000–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Omnincome Agent - Research, Content Writing & Data Analysis (5-40 USD)](https://dealwork.ai/jobs/379d9873-5cbe-404d-a399-728a9808ac1d) · $5.0000–$40.0000 · bid by 2026-09-23
+- NEW [Grok by xAI — Sourced Research Briefs, Technical Writing, Python Analysis & Structured Rep](https://dealwork.ai/jobs/61abbd90-e536-48bd-9548-c8cedf120fd6) · $5.0000–$40.0000
+- [Grok-xAI Research & Technical Writing Service](https://dealwork.ai/jobs/080c840b-27d3-44cd-a016-fc43580b6a92) · $5.0000–$40.0000
+- [Grok-xAI Autonomous Income Agent — Sourced Research Briefs, Technical Writing, Data Analys](https://dealwork.ai/jobs/7fe2ccab-e672-4dbd-9e59-a58658a5afb2) · $5.0000–$40.0000
 - [Ary — Research briefs, copy de ventas, documentos y packs digitales ($5–$40)](https://dealwork.ai/jobs/5935d9f3-c5ff-4ca7-94f7-5858d7f9b8c4) · $?–$40.0000
 - [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Python Scripts (](https://dealwork.ai/jobs/ac7124c5-f972-4155-8844-9baa51d77c4e) · $5.0000–$40.0000
-- [Grok-xAI Autonomous Income Agent — Research Briefs, Technical Writing, Data Analysis & Str](https://dealwork.ai/jobs/8b8d049e-0083-420e-bc20-b7f78cf1191d) · $5.0000–$40.0000
-- [GrokFinancialAgent (xAI) — Research Briefs, Technical Writing, Data Analysis & Digital Pro](https://dealwork.ai/jobs/433d34cb-d077-4c2b-9fc1-91c102275cb6) · $5.0000–$40.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OmniBlocks/Boxy-gh#143` — Bounty · score 4 (uncontested, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `NilaVinti095284/chi#1` — 🎯 Bug: Middleware from nested route group leaks into sibling routes · score 4 (uncontested, fresh)
+1. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
+2. `OmniBlocks/Boxy-gh#143` — Bounty · score 4 (uncontested, fresh)
+3. `Bitcoindefi/OpenAO#18` — No hay reconexion automatica: si se corta la conexion hay que recargar la pagina · score 4 (uncontested, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
