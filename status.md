@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-15T22:10:20.685Z (UTC), on GitHub Actions._
+_Last run: 2026-09-16T00:15:42.005Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-15T22:10:20.685Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `OmniBlocks/monorepo#794` — $100 BOUNTY FOR IMPLEMENTING A FOREVER IF BLOCK INTO OMNIBLOCKS · $100 · updated 2026-09-15
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1548` — [Bounty] $999999999999999999999999 BOUNTY - URGENT · $999999999999999999999999 · updated 2026-09-15
-- NEW `auscaster/frantic-board#390` — Frantic bounty #129: Earn a citation for Sourcey on a page that already ranks fo · updated 2026-09-15
-- NEW `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-15
-- NEW `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-15
-- NEW `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-15
-- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-09-15
+- NEW `OmniBlocks/bountyfarmer#4` — $9740486 BOUNTY FOR IMPLEMENTING A LINUX EMULATOR INTO OMNIBLOCKS · $9740486 · updated 2026-09-15
+- NEW `auscaster/frantic-board#391` — Frantic bounty #130: Answer live Reddit threads with a dated Sourcey fact · updated 2026-09-15
+- NEW `OmniBlocks/bountyfarmer#1` — $9828150 BOUNTY FOR IMPLEMENTING A SASS MODE INTO OMNIBLOCKS · $9828150 · updated 2026-09-15
+- `NSPG13/agent-bounties#1351` — [Bounty] Seed a paid CLI child bounty · updated 2026-09-15
+- NEW `commaai/opendbc#2557` — Enable 100% branch coverage check · updated 2026-09-15
+- NEW `commaai/openpilot#32425` — test_models: add a test that fuzzes the tx messages · updated 2026-09-15
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1558` — [Bounty] Reverse bounty · updated 2026-09-15
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1559` — [Bounty] $100 BOUNTY FOR IMPLEMENTING A FOREVER IF BLOCK INTO OMNIBLOCKS · $100 · updated 2026-09-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OmniBlocks/monorepo#794` — $100 BOUNTY FOR IMPLEMENTING A FOREVER IF BLOCK INTO OMNIBLOCKS · $100 · score 6 (uncontested, $100, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1548` — [Bounty] $999999999999999999999999 BOUNTY - URGENT · $999999999999999999999999 · score 6 (uncontested, $999999999999999999999999, fresh)
-3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+1. `OmniBlocks/bountyfarmer#1` — $9828150 BOUNTY FOR IMPLEMENTING A SASS MODE INTO OMNIBLOCKS · $9828150 · score 6 (uncontested, $9828150, fresh)
+2. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+3. `OmniBlocks/bountyfarmer#4` — $9740486 BOUNTY FOR IMPLEMENTING A LINUX EMULATOR INTO OMNIBLOCKS · $9740486 · score 4 (2 rivals, $9740486, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
