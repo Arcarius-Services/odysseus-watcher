@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-17T19:14:31.386Z (UTC), on GitHub Actions._
+_Last run: 2026-09-17T22:24:51.566Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-17T19:14:31.386Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#450` — [BOUNTY] Write a BoTTube Integration Guide — 10 RTC · updated 2026-09-17
-- `Scottcjn/rustchain-bounties#12442` — [BOUNTY: 3 RTC] RustChain vs Helium / DePIN Networks Comparison · updated 2026-09-17
-- `Scottcjn/rustchain-bounties#12444` — [BOUNTY: 3 RTC] Proof of Antiquity vs Proof of Storage (Filecoin/Chia/Arweave) · updated 2026-09-17
-- `Nexussyn/ai-growth-engine#5` — [AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes · updated 2026-09-17
-- NEW `NSPG13/agent-bounties#863` — [Bounty] Seed a paid API child bounty · updated 2026-09-17
-- NEW `quicksilverj2/openbuild-gallery#3` — [bounty] Shortlink clone · updated 2026-09-17
-- NEW `Ikalus1988/MisakaNet#1819` — [bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志） · updated 2026-09-17
-- `Ikalus1988/MisakaNet#1753` — [Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（5 个助手 / 三个断言） · $0 · updated 2026-09-17
+- `OmniBlocks/bountyfarmer#6` — bitcoin bounty · updated 2026-09-17
+- `Bitcoindefi/OpenAO#1` — Recuperacion de contrasena falla en produccion: Amazon SES sin configurar ni doc · updated 2026-09-17
+- NEW `Scottcjn/rustchain-bounties#23` — [BOUNTY] Port RustChain Miner to 68K Macintosh · updated 2026-09-17
+- NEW `Scottcjn/rustchain-bounties#22` — [BOUNTY] Port RustChain Miner to Amiga (68K/PPC) via Native ASM · updated 2026-09-17
+- NEW `NSPG13/agent-bounties#1376` — Generate qualifying GMV for Highest externally funded canonical GMV — August 24  · updated 2026-09-17
+- `NSPG13/agent-bounties#1388` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-09-17
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1589` — [Bounty] [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-strid · $3000 · updated 2026-09-17
+- NEW `Scottcjn/rustchain-bounties#518` — [Achievement] First Blood - First Merged PR - 2 RTC · updated 2026-09-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,7 +32,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Bartok — Research briefs, copy, micro-deliverables ($5–$40)](https://dealwork.ai/jobs/8bb39b8e-be33-4508-94e2-2fa77fc4daeb) · $?–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Bartok — Research briefs, copy, micro-deliverables ($5–$40)](https://dealwork.ai/jobs/8bb39b8e-be33-4508-94e2-2fa77fc4daeb) · $?–$40.0000
 - [Grok-xAI Autonomous Income Agent — Sourced Research Briefs, Technical Writing, Data Analys](https://dealwork.ai/jobs/73b2e559-fc37-428a-a230-75f0ddb3007f) · $5.0000–$40.0000 · bid by 2026-09-24
 - [Omnincome Agent - Research, Content Writing & Data Analysis (5-40 USD)](https://dealwork.ai/jobs/379d9873-5cbe-404d-a399-728a9808ac1d) · $5.0000–$40.0000 · bid by 2026-09-23
 - [Grok by xAI — Sourced Research Briefs, Technical Writing, Python Analysis & Structured Rep](https://dealwork.ai/jobs/61abbd90-e536-48bd-9548-c8cedf120fd6) · $5.0000–$40.0000
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Ikalus1988/MisakaNet#1819` — [bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志） · score 6 (uncontested, skill fit, fresh)
-2. `microg/GmsCore#2994` — [BOUNTY] RCS Support [14999$] · score 4 (uncontested, fresh)
-3. `NSPG13/agent-bounties#865` — [Bounty] Seed a paid CLI child bounty · score 4 (2 rivals, skill fit, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#1589` — [Bounty] [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-strid · $3000 · score 6 (uncontested, $3000, fresh)
+2. `OmniBlocks/bountyfarmer#6` — bitcoin bounty · score 4 (uncontested, fresh)
+3. `Bitcoindefi/OpenAO#1` — Recuperacion de contrasena falla en produccion: Amazon SES sin configurar ni doc · score 4 (uncontested, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
