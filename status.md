@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-17T05:19:33.460Z (UTC), on GitHub Actions._
+_Last run: 2026-09-17T10:24:19.319Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-17T05:19:33.460Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Zimb/zimb#1` — test issue · updated 2026-09-17
-- `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-09-17
+- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-17
+- NEW `mergeos-bounties/mergeos#64` — [300 MRG per PR] Test submitted PRs and verify bounty evidence · updated 2026-09-17
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1584` — [Bounty] [BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS · $1,500 · updated 2026-09-17
+- NEW `CurtFigone19/pgx#18` — 🎯 Respect Context Deadline during pgxpool Health Check Connection Establishment · updated 2026-09-17
 - `Nexussyn/ai-growth-engine#5` — [AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes · updated 2026-09-17
-- NEW `sharmiaalono/goose#2` — 🎯 Fix silent failure when applying SQLite PRAGMA statements during migrations · updated 2026-09-17
-- NEW `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · updated 2026-09-17
-- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-17
-- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-17
-- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-17
+- NEW `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-09-17
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-17
+- `microg/GmsCore#2994` — [BOUNTY] RCS Support [14999$] · updated 2026-09-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Zimb/zimb#1` — test issue · score 6 (uncontested, skill fit, fresh)
-2. `sharmiaalono/goose#2` — 🎯 Fix silent failure when applying SQLite PRAGMA statements during migrations · score 4 (uncontested, fresh)
-3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1584` — [Bounty] [BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS · $1,500 · score 4 (1 rival, $1,500, fresh)
+3. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
