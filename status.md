@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-16T22:06:07.711Z (UTC), on GitHub Actions._
+_Last run: 2026-09-17T00:25:23.284Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-16T22:06:07.711Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Nexussyn/ai-growth-engine#5` — [AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes · updated 2026-09-16
-- NEW `Scottcjn/rustchain-bounties#1618` — [EASY BOUNTY: 1 RTC] Report any accessibility issue in BoTTube UI · updated 2026-09-16
+- `microg/GmsCore#2994` — [BOUNTY] RCS Support [14999$] · updated 2026-09-17
+- `Nexussyn/ai-growth-engine#5` — [AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes · updated 2026-09-17
 - `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-16
-- `NilaVinti095284/chi#1` — 🎯 Bug: Middleware from nested route group leaks into sibling routes · updated 2026-09-16
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-16
-- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-16
-- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-16
-- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-16
+- NEW `FreezingMoon/AncientBeast#1965` — don't turn around while casting [bounty: 8 XTR] · updated 2026-09-16
+- NEW `xevrion-v2/agent-playground#11` — Write unit tests for leaderboard updates · updated 2026-09-16
+- NEW `xevrion-v2/agent-playground#12` — Write unit tests for user routes · updated 2026-09-16
+- NEW `xevrion-v2/agent-playground#9` — Add request body size limit · updated 2026-09-16
+- NEW `xevrion-v2/agent-playground#2` — Fix typo in README · updated 2026-09-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-2. `NilaVinti095284/chi#1` — 🎯 Bug: Middleware from nested route group leaks into sibling routes · score 4 (uncontested, fresh)
-3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+1. `microg/GmsCore#2994` — [BOUNTY] RCS Support [14999$] · score 4 (uncontested, fresh)
+2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+3. `FreezingMoon/AncientBeast#1965` — don't turn around while casting [bounty: 8 XTR] · score 2 (2 rivals, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
