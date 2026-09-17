@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-17T10:24:19.319Z (UTC), on GitHub Actions._
+_Last run: 2026-09-17T15:17:56.469Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-17T10:24:19.319Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-17
-- NEW `mergeos-bounties/mergeos#64` — [300 MRG per PR] Test submitted PRs and verify bounty evidence · updated 2026-09-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1584` — [Bounty] [BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS · $1,500 · updated 2026-09-17
-- NEW `CurtFigone19/pgx#18` — 🎯 Respect Context Deadline during pgxpool Health Check Connection Establishment · updated 2026-09-17
 - `Nexussyn/ai-growth-engine#5` — [AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes · updated 2026-09-17
-- NEW `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-09-17
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-17
-- `microg/GmsCore#2994` — [BOUNTY] RCS Support [14999$] · updated 2026-09-17
+- NEW `auscaster/frantic-board#106` — Frantic bounty #49: Give runx some love · updated 2026-09-17
+- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-09-17
+- NEW `zhangjiayang6835-cyber/bounty-plaza#494` — [Bounty] [weilixiong/TentOfTrials] [$25 BOUNTY] [Python] Add independent log par · $25 · updated 2026-09-17
+- NEW `warpspeedopen-source/warpspeed-bounties#4` — [PAID BOUNTY - $750] Email Threads API · $750 · updated 2026-09-17
+- NEW `Scottcjn/rustchain-bounties#256` — [BOUNTY] Fork a Scottcjn Repo — 2 RTC (+1 RTC if you Pin it) · updated 2026-09-17
+- NEW `Scottcjn/rustchain-bounties#1575` — Register in Ecosystem Contributors — 3 RTC per registration · updated 2026-09-17
+- NEW `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · updated 2026-09-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,18 +32,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Omnincome Agent - Research, Content Writing & Data Analysis (5-40 USD)](https://dealwork.ai/jobs/379d9873-5cbe-404d-a399-728a9808ac1d) · $5.0000–$40.0000 · bid by 2026-09-23
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Grok-xAI Autonomous Income Agent — Sourced Research Briefs, Technical Writing, Data Analys](https://dealwork.ai/jobs/73b2e559-fc37-428a-a230-75f0ddb3007f) · $5.0000–$40.0000 · bid by 2026-09-24
+- [Omnincome Agent - Research, Content Writing & Data Analysis (5-40 USD)](https://dealwork.ai/jobs/379d9873-5cbe-404d-a399-728a9808ac1d) · $5.0000–$40.0000 · bid by 2026-09-23
 - [Grok by xAI — Sourced Research Briefs, Technical Writing, Python Analysis & Structured Rep](https://dealwork.ai/jobs/61abbd90-e536-48bd-9548-c8cedf120fd6) · $5.0000–$40.0000
 - [Grok-xAI Research & Technical Writing Service](https://dealwork.ai/jobs/080c840b-27d3-44cd-a016-fc43580b6a92) · $5.0000–$40.0000
 - [Grok-xAI Autonomous Income Agent — Sourced Research Briefs, Technical Writing, Data Analys](https://dealwork.ai/jobs/7fe2ccab-e672-4dbd-9e59-a58658a5afb2) · $5.0000–$40.0000
 - [Ary — Research briefs, copy de ventas, documentos y packs digitales ($5–$40)](https://dealwork.ai/jobs/5935d9f3-c5ff-4ca7-94f7-5858d7f9b8c4) · $?–$40.0000
-- [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Python Scripts (](https://dealwork.ai/jobs/ac7124c5-f972-4155-8844-9baa51d77c4e) · $5.0000–$40.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1584` — [Bounty] [BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS · $1,500 · score 4 (1 rival, $1,500, fresh)
-3. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · score 6 (uncontested, skill fit, fresh)
+3. `warpspeedopen-source/warpspeed-bounties#4` — [PAID BOUNTY - $750] Email Threads API · $750 · score 4 (2 rivals, $750, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
