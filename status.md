@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-18T17:33:28.821Z (UTC), on GitHub Actions._
+_Last run: 2026-09-18T18:03:29.325Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -16,13 +16,13 @@ _Last run: 2026-09-18T17:33:28.821Z (UTC), on GitHub Actions._
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `microg/GmsCore#2994` — [BOUNTY] RCS Support [14999$] · updated 2026-09-18
-- NEW `Scottcjn/rustchain-bounties#50` — [BOUNTY] On-Chain Governance - Proposal & Voting System · updated 2026-09-18
+- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-18
+- NEW `Scottcjn/rustchain-bounties#13226` — [BOUNTY: 7 RTC] Add an llms.txt + GEO entity profile to a RustChain ecosystem re · updated 2026-09-18
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-18
+- `OmniBlocks/bountyfarmer#35` — CLAIM YOUR REWARD HERE · updated 2026-09-18
+- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-18
+- `Scottcjn/rustchain-bounties#50` — [BOUNTY] On-Chain Governance - Proposal & Voting System · updated 2026-09-18
 - `Scottcjn/rustchain-bounties#16984` — Claim: May Flowers Star Pack — Blackcode-cmd · updated 2026-09-18
-- `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · updated 2026-09-18
-- NEW `daydreamsai/agent-bounties#7` — LP Impermanent Loss Estimator · updated 2026-09-18
-- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-18
-- `OmniBlocks/bountyfarmer#36` — $∞ BOUNTY · updated 2026-09-18
-- `xevrion-v2/agent-playground#2` — Fix typo in README · updated 2026-09-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -43,7 +43,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · score 6 (uncontested, skill fit, fresh)
 2. `microg/GmsCore#2994` — [BOUNTY] RCS Support [14999$] · score 4 (uncontested, fresh)
-3. `Scottcjn/rustchain-bounties#16984` — Claim: May Flowers Star Pack — Blackcode-cmd · score 4 (uncontested, fresh)
+3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
