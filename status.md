@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-18T14:57:01.772Z (UTC), on GitHub Actions._
+_Last run: 2026-09-18T16:33:29.602Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-18T14:57:01.772Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1575` — [Bounty] $999999999999999999 BOUNTY FOR IMPLEMENTING THE UNIVERSE INTO OMNIBLOCK · $999999999999999999 · updated 2026-09-18
-- `Zimb/zimb#1` — test issue · updated 2026-09-18
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-18
-- `auscaster/frantic-board#428` — Frantic bounty #131: Run Ausca Document OCR end to end and report the process · updated 2026-09-18
-- `auscaster/frantic-board#431` — Frantic bounty #134: Run an Ausca Browser Session end to end and report the proc · updated 2026-09-18
-- `sharmiaalono/go-github#1` — 🎯 Fix pagination inconsistency when ListOptions.PerPage is zero · updated 2026-09-18
-- `zhangjiayang6835-cyber/bounty-plaza#1584` — [Bounty] [BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS · $1,500 · updated 2026-09-18
-- `auscaster/frantic-board#430` — Frantic bounty #133: Run Ausca Media Transcription end to end and report the pro · updated 2026-09-18
+- `microg/GmsCore#2994` — [BOUNTY] RCS Support [14999$] · updated 2026-09-18
+- NEW `OmniBlocks/bountyfarmer#36` — $∞ BOUNTY · updated 2026-09-18
+- NEW `xevrion-v2/agent-playground#2` — Fix typo in README · updated 2026-09-18
+- `sharmiaalono/go-github#5` — 🎯 Fix pagination inconsistency and parameter handling when `ListOptions.PerPage · updated 2026-09-18
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-18
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-18
+- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-18
+- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1575` — [Bounty] $999999999999999999 BOUNTY FOR IMPLEMENTING THE UNIVERSE INTO OMNIBLOCK · $999999999999999999 · score 6 (uncontested, $999999999999999999, fresh)
-2. `Zimb/zimb#1` — test issue · score 6 (uncontested, skill fit, fresh)
-3. `auscaster/frantic-board#428` — Frantic bounty #131: Run Ausca Document OCR end to end and report the process · score 4 (uncontested, fresh)
+1. `microg/GmsCore#2994` — [BOUNTY] RCS Support [14999$] · score 4 (uncontested, fresh)
+2. `OmniBlocks/bountyfarmer#36` — $∞ BOUNTY · score 4 (uncontested, fresh)
+3. `sharmiaalono/go-github#5` — 🎯 Fix pagination inconsistency and parameter handling when `ListOptions.PerPage · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
