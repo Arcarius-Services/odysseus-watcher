@@ -137,6 +137,37 @@ async function snipeRank(items) {
   }
   return out.sort((a, b) => b.score - a.score)
 }
+// High grounds — Immunefi public bounty catalog (official keyless endpoint).
+// Programs with $10k+ max payouts: EVM, not invite-only, fresh by launch date
+// or first-seen. Watching is free; hunting needs audit skill + payout KYC
+// (human ground). Candidates only, always.
+async function immunefiPrograms() {
+  try {
+    const r = await fetch('https://immunefi.com/public-api/bounties.json', { headers: { 'User-Agent': 'odysseus-scout', Accept: 'application/json' }, signal: AbortSignal.timeout(20000) })
+    if (!r.ok) return { error: `HTTP ${r.status}` }
+    const d = await r.json()
+    const all = Array.isArray(d) ? d : d.bounties || d.data || []
+    const progs = all.map((p) => {
+      const max = Number(p.maxBounty ?? p.max_bounty ?? p.bountyMax ?? 0) || 0
+      const eco = JSON.stringify(p.ecosystems ?? p.ecosystem ?? p.chain ?? '').toLowerCase()
+      const evm = /evm|ethereum|base|arbitrum|polygon|optimism|bnb|avalanche|solidity/.test(eco) || eco === ''
+      return {
+        id: `im:${p.slug ?? p.project ?? p.id}`,
+        project: p.project ?? p.name ?? p.slug,
+        max, token: p.rewardToken ?? p.token ?? '',
+        kyc: Boolean(p.kyc ?? p.requiresKyc),
+        launch: String(p.launchDate ?? p.launch_date ?? '').slice(0, 10),
+        url: `https://immunefi.com/bounty/${p.slug ?? ''}`,
+        keep: evm && max >= 10000 && !Boolean(p.inviteOnly ?? p.invite_only),
+      }
+    }).filter((p) => p.keep).sort((a, b) => b.max - a.max)
+    let seenI = []
+    try { seenI = JSON.parse(readFileSync(new URL('./seen-immunefi.json', import.meta.url), 'utf8')) } catch {}
+    const freshI = progs.filter((p) => !seenI.includes(p.id))
+    writeFileSync(new URL('./seen-immunefi.json', import.meta.url), JSON.stringify([...new Set([...seenI, ...progs.map((p) => p.id)])].slice(-200), null, 0))
+    return { total: all.length, kept: progs.length, progs: progs.slice(0, 8), fresh: freshI.slice(0, 5).map((p) => p.id) }
+  } catch (e) { return { error: e.message } }
+}
 async function stackerBounties() {
   const feeds = ['~bounty', '~jobs']
   const items = []
@@ -217,6 +248,7 @@ const bounties = await githubBounties()
 const bountiesWide = await githubBountiesWide()
 const stacker = await stackerBounties()
 const dealwork = await dealworkJobs()
+const immunefi = await immunefiPrograms()
 
 let prevUsdc = null, prevSol = null, prevSolNative = null
 try {
@@ -257,7 +289,7 @@ const sniper = await snipeRank(bountyItems)
 // Fresh normal listings + bounty candidates are status lines — no email, no spam.
 const notify = delta > 0 || solDelta > 0 || solNativeDelta > 0 || freshAgentOnly.length > 0
 
-const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh, agentOnlyFresh: freshAgentOnly.map((o) => o.slug), bounties: { total: bounties.total ?? null, wideTotal: bountiesWide.total ?? null, satsTotal: stacker.total ?? null, dealworkTotal: dealwork.total ?? null, sniper: sniper.slice(0, 3).map((b) => ({ id: b.id, score: b.score, why: b.why })), shown: bountyItems.length, fresh: freshBounties.length, error: bounties.error ?? bountiesWide.error ?? dealwork.error ?? null } }
+const snapshot = { ts: now, baseUsdc: usdc, solUsdc: solUsdcBal, solNative: solNativeBal, delta, solDelta, solNativeDelta, superteam, newListings: fresh, agentOnlyFresh: freshAgentOnly.map((o) => o.slug), bounties: { total: bounties.total ?? null, wideTotal: bountiesWide.total ?? null, satsTotal: stacker.total ?? null, dealworkTotal: dealwork.total ?? null, immunefi: { total: immunefi.total ?? null, kept: immunefi.kept ?? null, fresh: immunefi.fresh ?? [], error: immunefi.error ?? null }, sniper: sniper.slice(0, 3).map((b) => ({ id: b.id, score: b.score, why: b.why })), shown: bountyItems.length, fresh: freshBounties.length, error: bounties.error ?? bountiesWide.error ?? dealwork.error ?? null } }
 appendFileSync(new URL('./history.jsonl', import.meta.url), JSON.stringify(snapshot) + '\n')
 
 const md = `# Odysseus earning status
@@ -298,6 +330,12 @@ ${bounties.error ? `_discovery error: ${bounties.error}_`
 ${sniper.length
     ? sniper.slice(0, 3).map((b, i) => `${i + 1}. \`${b.id}\` — ${b.title}${b.hint ? ` · ${b.hint}` : ''} · score ${b.score} (${b.why || 'no signal'})`).join('\n')
     : '_no candidates scored this run_'}
+
+## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
+${immunefi.error ? `_scan error: ${immunefi.error}_`
+  : (immunefi.progs || []).length
+    ? immunefi.progs.slice(0, 5).map((p) => `- ${immunefi.fresh.includes(p.id) ? 'NEW ' : ''}[${p.project}](${p.url}) — max $${Number(p.max).toLocaleString()} ${p.token || ''}${p.kyc ? ' · KYC' : ''}${p.launch ? ` · since ${p.launch}` : ''}`).join('\n') + `\n_big-game water: real pools, expert hunters, payout KYC. Watch free, enter deliberately._`
+    : '_none matching right now_'}
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
