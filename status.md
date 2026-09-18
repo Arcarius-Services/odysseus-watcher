@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-17T22:24:51.566Z (UTC), on GitHub Actions._
+_Last run: 2026-09-18T00:45:48.964Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-17T22:24:51.566Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `OmniBlocks/bountyfarmer#6` — bitcoin bounty · updated 2026-09-17
-- `Bitcoindefi/OpenAO#1` — Recuperacion de contrasena falla en produccion: Amazon SES sin configurar ni doc · updated 2026-09-17
-- NEW `Scottcjn/rustchain-bounties#23` — [BOUNTY] Port RustChain Miner to 68K Macintosh · updated 2026-09-17
-- NEW `Scottcjn/rustchain-bounties#22` — [BOUNTY] Port RustChain Miner to Amiga (68K/PPC) via Native ASM · updated 2026-09-17
-- NEW `NSPG13/agent-bounties#1376` — Generate qualifying GMV for Highest externally funded canonical GMV — August 24  · updated 2026-09-17
-- `NSPG13/agent-bounties#1388` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-09-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1589` — [Bounty] [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-strid · $3000 · updated 2026-09-17
-- NEW `Scottcjn/rustchain-bounties#518` — [Achievement] First Blood - First Merged PR - 2 RTC · updated 2026-09-17
+- `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · updated 2026-09-18
+- NEW `Scottcjn/rustchain-bounties#16984` — Claim: May Flowers Star Pack — Blackcode-cmd · updated 2026-09-18
+- `auscaster/frantic-board#106` — Frantic bounty #49: Give runx some love · updated 2026-09-18
+- NEW `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-09-18
+- `Scottcjn/rustchain-bounties#16238` — [BOUNTY: 1 RTC] Star RustChain + 2 ecosystem repos · updated 2026-09-17
+- `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-09-17
+- `auscaster/frantic-board#431` — Frantic bounty #134: Run an Ausca Browser Session end to end and report the proc · updated 2026-09-17
+- NEW `OmniBlocks/monorepo#795` — Reverse bounty · updated 2026-09-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1589` — [Bounty] [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-strid · $3000 · score 6 (uncontested, $3000, fresh)
-2. `OmniBlocks/bountyfarmer#6` — bitcoin bounty · score 4 (uncontested, fresh)
-3. `Bitcoindefi/OpenAO#1` — Recuperacion de contrasena falla en produccion: Amazon SES sin configurar ni doc · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#1548` — [Bounty] $999999999999999999999999 BOUNTY - URGENT · $999999999999999999999999 · score 6 (uncontested, $999999999999999999999999, fresh)
 
 ---
 _Rewritten by Odysseus scout every run. History in history.jsonl. Merged is not paid — only wallet lines count._
