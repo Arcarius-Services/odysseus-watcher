@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-18T21:13:11.912Z (UTC), on GitHub Actions._
+_Last run: 2026-09-18T22:33:29.109Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-18T21:13:11.912Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `Ikalus1988/MisakaNet#1819` — [bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志） · updated 2026-09-18
 - `OmniBlocks/bountyfarmer#40` — EKEODKDE9DKE9DO BOUNTY · updated 2026-09-18
+- NEW `auscaster/frantic-board#106` — Frantic bounty #49: Give runx some love · updated 2026-09-18
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1602` — [Bounty] EKEODKDE9DKE9DO BOUNTY · updated 2026-09-18
+- NEW `openhab/openhab-addons#7649` — [pioneeravr] Addition of Speaker Selection Command · updated 2026-09-18
 - `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · updated 2026-09-18
 - `Scottcjn/Rustchain#2634` — [BOUNTY CAMPAIGN] Bring Your Human to Work Day — Match Agent Engagement with Ver · updated 2026-09-18
 - `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-18
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-18
-- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-18
-- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-18
-- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OmniBlocks/bountyfarmer#40` — EKEODKDE9DKE9DO BOUNTY · score 4 (uncontested, fresh)
-2. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
-3. `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · score 2 (2 rivals, fresh)
+1. `Ikalus1988/MisakaNet#1819` — [bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志） · score 4 (1 rival, skill fit, fresh)
+2. `OmniBlocks/bountyfarmer#40` — EKEODKDE9DKE9DO BOUNTY · score 4 (uncontested, fresh)
+3. `openhab/openhab-addons#7649` — [pioneeravr] Addition of Speaker Selection Command · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
