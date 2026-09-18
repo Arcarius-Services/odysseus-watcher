@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-18T16:33:29.602Z (UTC), on GitHub Actions._
+_Last run: 2026-09-18T17:03:29.291Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -16,13 +16,13 @@ _Last run: 2026-09-18T16:33:29.602Z (UTC), on GitHub Actions._
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `microg/GmsCore#2994` — [BOUNTY] RCS Support [14999$] · updated 2026-09-18
-- NEW `OmniBlocks/bountyfarmer#36` — $∞ BOUNTY · updated 2026-09-18
-- NEW `xevrion-v2/agent-playground#2` — Fix typo in README · updated 2026-09-18
+- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-18
+- `OmniBlocks/bountyfarmer#36` — $∞ BOUNTY · updated 2026-09-18
+- `xevrion-v2/agent-playground#2` — Fix typo in README · updated 2026-09-18
 - `sharmiaalono/go-github#5` — 🎯 Fix pagination inconsistency and parameter handling when `ListOptions.PerPage · updated 2026-09-18
 - `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-18
 - `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-18
 - `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-18
-- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
