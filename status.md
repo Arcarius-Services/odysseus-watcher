@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-18T21:03:28.885Z (UTC), on GitHub Actions._
+_Last run: 2026-09-18T21:13:11.912Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,11 +15,11 @@ _Last run: 2026-09-18T21:03:28.885Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `OmniBlocks/bountyfarmer#40` — EKEODKDE9DKE9DO BOUNTY · updated 2026-09-18
+- `OmniBlocks/bountyfarmer#40` — EKEODKDE9DKE9DO BOUNTY · updated 2026-09-18
 - `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · updated 2026-09-18
-- NEW `Scottcjn/Rustchain#2634` — [BOUNTY CAMPAIGN] Bring Your Human to Work Day — Match Agent Engagement with Ver · updated 2026-09-18
+- `Scottcjn/Rustchain#2634` — [BOUNTY CAMPAIGN] Bring Your Human to Work Day — Match Agent Engagement with Ver · updated 2026-09-18
 - `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-18
-- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-18
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-18
 - `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-18
 - `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-18
 - `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-18
