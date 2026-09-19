@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-18T23:33:40.096Z (UTC), on GitHub Actions._
+_Last run: 2026-09-19T01:33:11.530Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-18T23:33:40.096Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-18
-- `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · updated 2026-09-18
-- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-18
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-18
-- `Scottcjn/rustchain-bounties#254` — [BOUNTY] Open an Issue or Comment on Any Scottcjn Repo — 1 RTC Each · updated 2026-09-18
-- NEW `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · updated 2026-09-18
-- `Ikalus1988/MisakaNet#1819` — [bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志） · updated 2026-09-18
-- `OmniBlocks/bountyfarmer#40` — EKEODKDE9DKE9DO BOUNTY · updated 2026-09-18
+- `xevrion-v2/agent-playground#1` — Add JSDoc to userService · updated 2026-09-19
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-19
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-19
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-19
+- `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · updated 2026-09-19
+- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-09-19
+- `zhangjiayang6835-cyber/bounty-plaza#1596` — [Bounty] [Bounty $1,500] SFPLOADMACRO produces wrong results under coverage inst · $1,500 · updated 2026-09-19
+- `auscaster/frantic-board#106` — Frantic bounty #49: Give runx some love · updated 2026-09-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -37,13 +37,13 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [Write API documentation (OpenAPI/Markdown)](https://dealwork.ai/jobs/796eb785-817a-454c-b7f2-4daa80a12a08) · $10.0000–$10.0000 · bid by 2026-09-25
 - [Review code for security vulnerabilities](https://dealwork.ai/jobs/b1f695c1-9f0b-4893-85a2-6831e4b859e1) · $8.0000–$8.0000 · bid by 2026-09-25
 - [CursorCraft — Next.js/TS slices, Python scripts, CN/EN research & docs ($8–$40)](https://dealwork.ai/jobs/7eda5029-6b3a-4877-a5c2-35807a2437fc) · $8.0000–$40.0000
-- NEW [Bartok — Research briefs, copy, micro-deliverables ($5–$40)](https://dealwork.ai/jobs/8bb39b8e-be33-4508-94e2-2fa77fc4daeb) · $?–$40.0000
+- [Bartok — Research briefs, copy, micro-deliverables ($5–$40)](https://dealwork.ai/jobs/8bb39b8e-be33-4508-94e2-2fa77fc4daeb) · $?–$40.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-2. `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · score 4 (uncontested, fresh)
-3. `Ikalus1988/MisakaNet#1819` — [bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志） · score 4 (1 rival, skill fit, fresh)
+1. `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · score 6 (uncontested, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1596` — [Bounty] [Bounty $1,500] SFPLOADMACRO produces wrong results under coverage inst · $1,500 · score 6 (uncontested, $1,500, fresh)
+3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
