@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-19T06:34:47.331Z (UTC), on GitHub Actions._
+_Last run: 2026-09-19T11:29:40.995Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-19T06:34:47.331Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Scottcjn/rustchain-bounties#254` — [BOUNTY] Open an Issue or Comment on Any Scottcjn Repo — 1 RTC Each · updated 2026-09-19
-- `auscaster/frantic-board#430` — Frantic bounty #133: Run Ausca Media Transcription end to end and report the pro · updated 2026-09-19
-- `auscaster/frantic-board#429` — Frantic bounty #132: Run Ausca Document Analysis end to end and report the proce · updated 2026-09-19
-- NEW `auscaster/frantic-board#428` — Frantic bounty #131: Run Ausca Document OCR end to end and report the process · updated 2026-09-19
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-19
-- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-19
-- `zhangjiayang6835-cyber/bounty-plaza#1596` — [Bounty] [Bounty $1,500] SFPLOADMACRO produces wrong results under coverage inst · $1,500 · updated 2026-09-19
-- `iv-org/invidious#5722` — [Bug] Channel links for recommended videos that have multiple creators are broke · updated 2026-09-19
+- NEW `relayhop/sn-monetization-runtime#1122` — [radar] SN open bounty 2026-09-19T10:50 · updated 2026-09-19
+- NEW `Nexussyn/ai-growth-engine#4` — [AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion · updated 2026-09-19
+- NEW `Nexussyn/ai-growth-engine#1` — [AGENT-TASK] Implement tiered pricing engine — +30% revenue expected · updated 2026-09-19
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-19
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-19
+- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-19
+- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-19
+- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1596` — [Bounty] [Bounty $1,500] SFPLOADMACRO produces wrong results under coverage inst · $1,500 · score 6 (uncontested, $1,500, fresh)
-2. `auscaster/frantic-board#430` — Frantic bounty #133: Run Ausca Media Transcription end to end and report the pro · score 4 (uncontested, fresh)
-3. `auscaster/frantic-board#428` — Frantic bounty #131: Run Ausca Document OCR end to end and report the process · score 4 (uncontested, fresh)
+1. `relayhop/sn-monetization-runtime#1122` — [radar] SN open bounty 2026-09-19T10:50 · score 4 (uncontested, fresh)
+2. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+3. `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
