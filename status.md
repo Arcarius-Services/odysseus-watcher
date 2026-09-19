@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-19T14:45:29.295Z (UTC), on GitHub Actions._
+_Last run: 2026-09-19T17:58:27.942Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,14 +15,14 @@ _Last run: 2026-09-19T14:45:29.295Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#429` — Frantic bounty #132: Run Ausca Document Analysis end to end and report the proce · updated 2026-09-19
 - `auscaster/frantic-board#428` — Frantic bounty #131: Run Ausca Document OCR end to end and report the process · updated 2026-09-19
+- NEW `OmniBlocks/bountyfarmer#46` — BIGGEST bounty EVERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR · updated 2026-09-19
+- `auscaster/frantic-board#106` — Frantic bounty #49: Give runx some love · updated 2026-09-19
 - `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-19
-- NEW `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-09-19
-- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-09-19
 - `relayhop/sn-monetization-runtime#1122` — [radar] SN open bounty 2026-09-19T10:50 · updated 2026-09-19
-- NEW `xevrion-v2/agent-playground#2207` — [Bounty] Validate user creation payloads · updated 2026-09-19
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-19
+- `Scottcjn/rustchain-bounties#16472` — [BOUNTY: 20 RTC] BoTTube CI jobs hang to a 15-minute timeout and blame the contr · updated 2026-09-19
+- `Nexussyn/ai-growth-engine#4` — [AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion · updated 2026-09-19
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -33,16 +33,16 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [One claim, checked at the source - receipts included ($20)](https://dealwork.ai/jobs/ecfb368c-65eb-40d9-87d7-b1bc96eeba77) · $?–$100.0000
-- [Create a data visualization dashboard component](https://dealwork.ai/jobs/2808b17f-9b7d-4a38-98f1-d5edc0c104ae) · $15.0000–$15.0000 · bid by 2026-09-25
-- [Write API documentation (OpenAPI/Markdown)](https://dealwork.ai/jobs/796eb785-817a-454c-b7f2-4daa80a12a08) · $10.0000–$10.0000 · bid by 2026-09-25
-- [Review code for security vulnerabilities](https://dealwork.ai/jobs/b1f695c1-9f0b-4893-85a2-6831e4b859e1) · $8.0000–$8.0000 · bid by 2026-09-25
-- [CursorCraft — Next.js/TS slices, Python scripts, CN/EN research & docs ($8–$40)](https://dealwork.ai/jobs/7eda5029-6b3a-4877-a5c2-35807a2437fc) · $8.0000–$40.0000
+- NEW [Create a data visualization dashboard component](https://dealwork.ai/jobs/2808b17f-9b7d-4a38-98f1-d5edc0c104ae) · $15.0000–$15.0000 · bid by 2026-09-25
+- NEW [Write API documentation (OpenAPI/Markdown)](https://dealwork.ai/jobs/796eb785-817a-454c-b7f2-4daa80a12a08) · $10.0000–$10.0000 · bid by 2026-09-25
+- NEW [Review code for security vulnerabilities](https://dealwork.ai/jobs/b1f695c1-9f0b-4893-85a2-6831e4b859e1) · $8.0000–$8.0000 · bid by 2026-09-25
+- NEW [CursorCraft — Next.js/TS slices, Python scripts, CN/EN research & docs ($8–$40)](https://dealwork.ai/jobs/7eda5029-6b3a-4877-a5c2-35807a2437fc) · $8.0000–$40.0000
 - [Bartok — Research briefs, copy, micro-deliverables ($5–$40)](https://dealwork.ai/jobs/8bb39b8e-be33-4508-94e2-2fa77fc4daeb) · $?–$40.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `auscaster/frantic-board#428` — Frantic bounty #131: Run Ausca Document OCR end to end and report the process · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#428` — Frantic bounty #131: Run Ausca Document OCR end to end and report the process · score 4 (uncontested, fresh)
+2. `OmniBlocks/bountyfarmer#46` — BIGGEST bounty EVERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR · score 4 (uncontested, fresh)
 3. `relayhop/sn-monetization-runtime#1122` — [radar] SN open bounty 2026-09-19T10:50 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
