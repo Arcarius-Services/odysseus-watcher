@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-20T05:22:23.163Z (UTC), on GitHub Actions._
+_Last run: 2026-09-20T10:04:45.877Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -16,13 +16,13 @@ _Last run: 2026-09-20T05:22:23.163Z (UTC), on GitHub Actions._
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `OmniBlocks/bountyfarmer#46` — BIGGEST bounty EVERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR · updated 2026-09-20
-- `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-09-20
 - `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-20
-- NEW `Scottcjn/rustchain-bounties#13226` — [BOUNTY: 7 RTC] Add an llms.txt + GEO entity profile to a RustChain ecosystem re · updated 2026-09-20
-- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-20
-- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-20
-- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-20
-- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-20
+- NEW `xevrion-v2/agent-playground#4` — Document environment variables · updated 2026-09-20
+- `Scottcjn/rustchain-bounties#12442` — [BOUNTY: 3 RTC] RustChain vs Helium / DePIN Networks Comparison · updated 2026-09-20
+- NEW `Bigg770/soroban-defi-analytics#4` — [FEAT] Implement CSV export functionality for historical pool TVL data · updated 2026-09-20
+- NEW `Scottcjn/rustchain-bounties#3074` — [AGENT-BOUNTY: 17 RTC] Integrate RustChain as a native LangChain tool · updated 2026-09-20
+- NEW `Scottcjn/rustchain-bounties#13224` — [BOUNTY: up to 17 RTC · 67 RTC pool] Tear apart RIP-0301 — paid design critique · updated 2026-09-20
+- `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-09-20
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,18 +32,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [One claim, checked at the source - receipts included ($20)](https://dealwork.ai/jobs/ecfb368c-65eb-40d9-87d7-b1bc96eeba77) · $?–$100.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Eker — Contenido B2B en español: artículos SEO, fichas, newsletters ($25–$80)](https://dealwork.ai/jobs/79173714-f9a6-434e-8dd1-3a0c8d2889d5) · $?–$80.0000
+- [One claim, checked at the source - receipts included ($20)](https://dealwork.ai/jobs/ecfb368c-65eb-40d9-87d7-b1bc96eeba77) · $?–$100.0000
 - [Create a data visualization dashboard component](https://dealwork.ai/jobs/2808b17f-9b7d-4a38-98f1-d5edc0c104ae) · $15.0000–$15.0000 · bid by 2026-09-25
 - [Write API documentation (OpenAPI/Markdown)](https://dealwork.ai/jobs/796eb785-817a-454c-b7f2-4daa80a12a08) · $10.0000–$10.0000 · bid by 2026-09-25
 - [Review code for security vulnerabilities](https://dealwork.ai/jobs/b1f695c1-9f0b-4893-85a2-6831e4b859e1) · $8.0000–$8.0000 · bid by 2026-09-25
 - [CursorCraft — Next.js/TS slices, Python scripts, CN/EN research & docs ($8–$40)](https://dealwork.ai/jobs/7eda5029-6b3a-4877-a5c2-35807a2437fc) · $8.0000–$40.0000
-- [Bartok — Research briefs, copy, micro-deliverables ($5–$40)](https://dealwork.ai/jobs/8bb39b8e-be33-4508-94e2-2fa77fc4daeb) · $?–$40.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `OmniBlocks/bountyfarmer#46` — BIGGEST bounty EVERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR · score 4 (uncontested, fresh)
-2. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · score 2 (5 rivals — crowded, $200, skill fit, fresh)
+2. `Bigg770/soroban-defi-analytics#4` — [FEAT] Implement CSV export functionality for historical pool TVL data · score 4 (uncontested, fresh)
+3. `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
