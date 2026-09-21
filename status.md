@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-21T04:53:54.678Z (UTC), on GitHub Actions._
+_Last run: 2026-09-21T10:38:22.344Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#443` — Write a Review of RustChain — 3 RTC (Good First Issue) · updated 2026-09-21
-- `Ikalus1988/MisakaNet#1942` — [Compat][Gemini CLI] 官方支持远端 MCP（`httpUrl`），写配方并给证据 · updated 2026-09-21
-- `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-09-21
-- `Ikalus1988/MisakaNet#1941` — [Compat][Copilot] 三套配置形状（VS Code / Copilot CLI / coding agent）的配方与证据 · updated 2026-09-21
-- `ditto-assistant/ditto-subnet#2046` — Implement bounty acceptance, payout proof, disputes, and public accounting · updated 2026-09-21
-- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-09-21
-- NEW `Scottcjn/rustchain-bounties#731` — [BOUNTY: 0.33 RTC/repo] Watch Our Repos — Stay Notified, Earn RTC (Up to 7 RTC) · updated 2026-09-21
-- NEW `ditto-assistant/ditto-subnet#2044` — Specify the 5% SN118 maintenance treasury and governance contract · updated 2026-09-21
+- NEW `tenstorrent/tt-metal#56908` — [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corrupt · $3000 · updated 2026-09-21
+- `relayhop/sn-monetization-runtime#1127` — [radar] SN open bounty 2026-09-20T15:58 · updated 2026-09-21
+- NEW `Bitcoindefi/OpenAO#25` — Etapa 5: flujo de propuesta y moderacion de mapas de usuario · updated 2026-09-21
+- `relayhop/sn-monetization-runtime#1130` — [radar] SN open bounty 2026-09-21T00:09 · updated 2026-09-21
+- `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-09-21
+- NEW `Eaprime1/custos#325` — XDA concept entity — multi-stream with sub-streams · updated 2026-09-21
+- `Scottcjn/Rustchain#165` — [BOUNTY] Share Why You Starred RustChain — 3 RTC + Community Shoutout (Pool: 300 · updated 2026-09-21
+- `relayhop/sn-monetization-runtime#1129` — [radar] SN open bounty 2026-09-20T21:28 · updated 2026-09-21
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Ikalus1988/MisakaNet#1942` — [Compat][Gemini CLI] 官方支持远端 MCP（`httpUrl`），写配方并给证据 · score 4 (1 rival, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#1941` — [Compat][Copilot] 三套配置形状（VS Code / Copilot CLI / coding agent）的配方与证据 · score 4 (1 rival, skill fit, fresh)
-3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+1. `tenstorrent/tt-metal#56908` — [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corrupt · $3000 · score 4 (1 rival, $3000, fresh)
+2. `relayhop/sn-monetization-runtime#1127` — [radar] SN open bounty 2026-09-20T15:58 · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1130` — [radar] SN open bounty 2026-09-21T00:09 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
