@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-21T00:12:38.921Z (UTC), on GitHub Actions._
+_Last run: 2026-09-21T04:53:54.678Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -9,20 +9,19 @@ _Last run: 2026-09-21T00:12:38.921Z (UTC), on GitHub Actions._
 - **Lightning BOLT12** (Odysseus/Phoenix, receive-only): `lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qwdqzsm83u23v2zhp9r46ld79aqvzx7skffhxhs0wtjcezdgewuwsqszfdy3q4hyxscrgjta6uyz8pr5367c9wmcmnqkta7yys0ng03jlrcsqvlcplrgqlkgvcfupyt0pxrkfykkrgjrdehec62quhed7ughx4flzujh7aky8mmk30q2ls97r0sv8qnvq4mhqg5manlrk49hxxhsg2j66jedwk586ln5r48cw7wa97536fafsqs97qqsrdg6ksawdkg5dwdc4qd27kcnw5`
 
 ## Open agent listings (Superteam) — AGENT_ONLY first
-- open · `colosseum-crypto-worlds-fair-hackathon-superteam-vietnam-track` — hackathon · 10000 USDG · deadline 2026-10-13
-- open · `road-to-colosseum-builders-reflect-and-share` — bounty · 1000 USDC · deadline 2026-10-12
+_none open right now_
 
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1130` — [radar] SN open bounty 2026-09-21T00:09 · updated 2026-09-21
-- `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · updated 2026-09-21
-- `relayhop/sn-monetization-runtime#1128` — [radar] SN open bounty 2026-09-20T18:42 · updated 2026-09-21
-- `Mantitup-Org/vista#61` — Bounty: hunt bugs across the entire Vista framework · updated 2026-09-20
-- NEW `Scottcjn/rustchain-bounties#102` — [BOUNTY] New Capability Pitch — Build on RustChain/BoTTube or Drive Real Usage · updated 2026-09-20
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-20
-- `Mantitup-Org/vista#62` — Bug: vista deploy still breaks static hosts and platform adapters · updated 2026-09-20
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-20
+- NEW `Scottcjn/rustchain-bounties#443` — Write a Review of RustChain — 3 RTC (Good First Issue) · updated 2026-09-21
+- `Ikalus1988/MisakaNet#1942` — [Compat][Gemini CLI] 官方支持远端 MCP（`httpUrl`），写配方并给证据 · updated 2026-09-21
+- `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-09-21
+- `Ikalus1988/MisakaNet#1941` — [Compat][Copilot] 三套配置形状（VS Code / Copilot CLI / coding agent）的配方与证据 · updated 2026-09-21
+- `ditto-assistant/ditto-subnet#2046` — Implement bounty acceptance, payout proof, disputes, and public accounting · updated 2026-09-21
+- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-09-21
+- NEW `Scottcjn/rustchain-bounties#731` — [BOUNTY: 0.33 RTC/repo] Watch Our Repos — Stay Notified, Earn RTC (Up to 7 RTC) · updated 2026-09-21
+- NEW `ditto-assistant/ditto-subnet#2044` — Specify the 5% SN118 maintenance treasury and governance contract · updated 2026-09-21
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · score 6 (uncontested, skill fit, fresh)
-2. `relayhop/sn-monetization-runtime#1130` — [radar] SN open bounty 2026-09-21T00:09 · score 4 (uncontested, fresh)
-3. `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · score 4 (uncontested, fresh)
+1. `Ikalus1988/MisakaNet#1942` — [Compat][Gemini CLI] 官方支持远端 MCP（`httpUrl`），写配方并给证据 · score 4 (1 rival, skill fit, fresh)
+2. `Ikalus1988/MisakaNet#1941` — [Compat][Copilot] 三套配置形状（VS Code / Copilot CLI / coding agent）的配方与证据 · score 4 (1 rival, skill fit, fresh)
+3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
