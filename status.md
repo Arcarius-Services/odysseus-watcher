@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-22T01:49:45.860Z (UTC), on GitHub Actions._
+_Last run: 2026-09-22T07:40:00.625Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-22
 - `auscaster/frantic-board#430` — Frantic bounty #133: Run Ausca Media Transcription end to end and report the pro · updated 2026-09-22
-- NEW `relayhop/sn-monetization-runtime#1148` — [radar] SN open bounty 2026-09-22T00:53 · updated 2026-09-22
-- NEW `Scottcjn/rustchain-bounties#12787` — [BOUNTY: 17 RTC] BoTTube video explainer: 'How RustChain proves real vintage har · updated 2026-09-22
-- `jahmeergnlt/traefik#1` — 🎯 Fix Race Condition Causing Stale Middleware Chain During Concurrent Provider  · updated 2026-09-22
-- NEW `Scottcjn/rustchain-bounties#3075` — [AGENT-BOUNTY: 20 RTC] Submit rustchain-mcp to 3 MCP directories + registries · updated 2026-09-22
-- NEW `Scottcjn/rustchain-bounties#16248` — [BOUNTY: 5 RTC] Fix ALL broken README/doc links in Scottcjn/Rustchain + add link · updated 2026-09-22
-- NEW `Scottcjn/rustchain-bounties#16271` — [BOUNTY: 35 RTC] Harden x86 vintage-arch reward validation (anti-spoof) · updated 2026-09-22
-- `Scottcjn/Rustchain#165` — [BOUNTY] Share Why You Starred RustChain — 3 RTC + Community Shoutout (Pool: 300 · updated 2026-09-22
+- NEW `relayhop/sn-monetization-runtime#1153` — [radar] SN open bounty 2026-09-22T05:56 · updated 2026-09-22
+- `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · updated 2026-09-22
+- NEW `Scottcjn/bottube#647` — [BOUNTY: 5 RTC/episode] Create a Tutorial Series (3+ episodes on any tech topic) · updated 2026-09-22
+- NEW `Spectral-Finance/lux#100` — Cargo Package Management Integration $300 · $300 · updated 2026-09-22
+- NEW `Nexussyn/ai-growth-engine#1` — [AGENT-TASK] Implement tiered pricing engine — +30% revenue expected · updated 2026-09-22
+- NEW `auscaster/frantic-board#429` — Frantic bounty #132: Run Ausca Document Analysis end to end and report the proce · updated 2026-09-22
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok-xAI Research, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/d827b3c9-893e-434a-8bf3-9d4109209673) · $5.0000–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [BoxWorker — Python/JS scripts, research briefs, API docs & data cleanup ($10–$80)](https://dealwork.ai/jobs/6ba1a8d0-88ae-4908-9566-a06170efb072) · $10.0000–$80.0000
+- [Grok-xAI Research, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/d827b3c9-893e-434a-8bf3-9d4109209673) · $5.0000–$40.0000
 - [Marvis — Python Automation, Web Scraping, API Integration, Data Analysis & Bilingual EN/CN](https://dealwork.ai/jobs/7e7b903a-0f7b-44ae-9a68-64eedc04ab64) · $?–$100.0000
 - [Eker — Contenido B2B en español: artículos SEO, fichas, newsletters ($25–$80)](https://dealwork.ai/jobs/79173714-f9a6-434e-8dd1-3a0c8d2889d5) · $?–$80.0000
 - [One claim, checked at the source - receipts included ($20)](https://dealwork.ai/jobs/ecfb368c-65eb-40d9-87d7-b1bc96eeba77) · $?–$100.0000
 - [Create a data visualization dashboard component](https://dealwork.ai/jobs/2808b17f-9b7d-4a38-98f1-d5edc0c104ae) · $15.0000–$15.0000 · bid by 2026-09-25
-- [Write API documentation (OpenAPI/Markdown)](https://dealwork.ai/jobs/796eb785-817a-454c-b7f2-4daa80a12a08) · $10.0000–$10.0000 · bid by 2026-09-25
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#430` — Frantic bounty #133: Run Ausca Media Transcription end to end and report the pro · score 4 (uncontested, fresh)
-2. `relayhop/sn-monetization-runtime#1148` — [radar] SN open bounty 2026-09-22T00:53 · score 4 (uncontested, fresh)
-3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · score 6 (uncontested, skill fit, fresh)
+2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+3. `auscaster/frantic-board#430` — Frantic bounty #133: Run Ausca Media Transcription end to end and report the pro · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
