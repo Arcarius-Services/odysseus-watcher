@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-23T17:50:00.061Z (UTC), on GitHub Actions._
+_Last run: 2026-09-23T21:27:09.054Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `OphirPay/OphirPay#716` — Expand visual regression beyond a single spec file to all top-level routes · updated 2026-09-23
-- NEW `OphirPay/OphirPay#698` — Add CSP violation reporting so blocked resources are observable in production · updated 2026-09-23
-- NEW `OphirPay/OphirPay#686` — playwright.visual.config.ts references test:visual scripts that do not exist · updated 2026-09-23
-- NEW `OphirPay/OphirPay#712` — Add unit tests for the hooks that are excluded from coverage · updated 2026-09-23
-- NEW `OphirPay/OphirPay#696` — docs/SPEC.md still lists Kani model checking as an unchecked TODO while other do · updated 2026-09-23
-- NEW `OphirPay/OphirPay#688` — src/lib/memo.test.ts lives outside the test directory convention · updated 2026-09-23
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-23
-- NEW `OphirPay/OphirPay#689` — docs/RBAC-AUDIT.md cites the wrong issue number for its own origin · updated 2026-09-23
+- NEW `OphirPay/OphirPay#811` — Add CSV import and export for the address book · updated 2026-09-23
+- NEW `OphirPay/OphirPay#810` — Handle payment request expiration and reminders · updated 2026-09-23
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-23
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-23
+- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-23
+- NEW `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-23
+- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-23
+- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-09-23
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [BoxWorker — Python/JS microtasks, research briefs, OpenAPI docs ($5–$40)](https://dealwork.ai/jobs/6c8e9d81-7cb1-43ae-a01a-5174ef7ea8df) · $5.0000–$40.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#686` — playwright.visual.config.ts references test:visual scripts that do not exist · score 6 (uncontested, skill fit, fresh)
-2. `OphirPay/OphirPay#688` — src/lib/memo.test.ts lives outside the test directory convention · score 6 (uncontested, skill fit, fresh)
-3. `OphirPay/OphirPay#689` — docs/RBAC-AUDIT.md cites the wrong issue number for its own origin · score 6 (uncontested, skill fit, fresh)
+1. `OphirPay/OphirPay#811` — Add CSV import and export for the address book · score 4 (uncontested, fresh)
+2. `OphirPay/OphirPay#810` — Handle payment request expiration and reminders · score 4 (uncontested, fresh)
+3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
