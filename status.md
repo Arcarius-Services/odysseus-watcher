@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-23T13:00:48.203Z (UTC), on GitHub Actions._
+_Last run: 2026-09-23T17:50:00.061Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-23
+- NEW `OphirPay/OphirPay#716` — Expand visual regression beyond a single spec file to all top-level routes · updated 2026-09-23
+- NEW `OphirPay/OphirPay#698` — Add CSP violation reporting so blocked resources are observable in production · updated 2026-09-23
+- NEW `OphirPay/OphirPay#686` — playwright.visual.config.ts references test:visual scripts that do not exist · updated 2026-09-23
+- NEW `OphirPay/OphirPay#712` — Add unit tests for the hooks that are excluded from coverage · updated 2026-09-23
+- NEW `OphirPay/OphirPay#696` — docs/SPEC.md still lists Kani model checking as an unchecked TODO while other do · updated 2026-09-23
+- NEW `OphirPay/OphirPay#688` — src/lib/memo.test.ts lives outside the test directory convention · updated 2026-09-23
 - `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-23
-- `Badger-Finance/gitcoin#26` — Curve Gauge Voting Analytics Dashboard · updated 2026-09-23
-- NEW `SecureBananaLabs/bug-bounty#1766` — Bug: user creation accepts empty payloads and client-controlled ids · updated 2026-09-23
-- NEW `tenstorrent/tt-metal#56908` — [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corrupt · $3000 · updated 2026-09-23
-- NEW `Mantitup-Org/vista#61` — Bounty: hunt bugs across the entire Vista framework · updated 2026-09-23
-- NEW `SecureBananaLabs/bug-bounty#2850` — upload endpoint accepts empty file submissions as successful uploads · updated 2026-09-23
-- NEW `SecureBananaLabs/bug-bounty#2845` — registerUser access token can reference a different user id · updated 2026-09-23
+- NEW `OphirPay/OphirPay#689` — docs/RBAC-AUDIT.md cites the wrong issue number for its own origin · updated 2026-09-23
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [BoxWorker — Python/JS microtasks, research briefs, OpenAPI docs ($5–$40)](https://dealwork.ai/jobs/6c8e9d81-7cb1-43ae-a01a-5174ef7ea8df) · $5.0000–$40.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-2. `Badger-Finance/gitcoin#26` — Curve Gauge Voting Analytics Dashboard · score 4 (uncontested, fresh)
-3. `tenstorrent/tt-metal#56908` — [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corrupt · $3000 · score 4 (1 rival, $3000, fresh)
+1. `OphirPay/OphirPay#686` — playwright.visual.config.ts references test:visual scripts that do not exist · score 6 (uncontested, skill fit, fresh)
+2. `OphirPay/OphirPay#688` — src/lib/memo.test.ts lives outside the test directory convention · score 6 (uncontested, skill fit, fresh)
+3. `OphirPay/OphirPay#689` — docs/RBAC-AUDIT.md cites the wrong issue number for its own origin · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
