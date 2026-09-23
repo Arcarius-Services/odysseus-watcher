@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-22T23:14:56.533Z (UTC), on GitHub Actions._
+_Last run: 2026-09-23T01:45:19.612Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `tenstorrent/tt-metal#56290` — [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation · $500 · updated 2026-09-22
-- NEW `NSPG13/agent-bounties#1351` — [Bounty] Seed a paid CLI child bounty · updated 2026-09-22
-- NEW `hyperlane-xyz/hyperlane-monorepo#4586` — Validator should be able to be configured submit checkpoints on-chain · updated 2026-09-22
-- NEW `relayhop/sn-monetization-runtime#1178` — [radar] SN open bounty 2026-09-22T22:11 · updated 2026-09-22
-- NEW `NSPG13/agent-bounties#1374` — Generate qualifying GMV for Highest externally funded canonical GMV — week of Au · updated 2026-09-22
-- NEW `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-09-22
-- NEW `relayhop/sn-monetization-runtime#1177` — [radar] SN open bounty 2026-09-22T21:59 · updated 2026-09-22
-- `relayhop/sn-monetization-runtime#1175` — [radar] SN open bounty 2026-09-22T19:03 · updated 2026-09-22
+- NEW `SecureBananaLabs/bug-bounty#2782` — CORS configured without origin allowlist in app.js (reissue via #743) · updated 2026-09-23
+- NEW `relayhop/sn-monetization-runtime#1181` — [radar] SN open bounty 2026-09-23T00:35 · updated 2026-09-23
+- NEW `Scottcjn/rustchain-bounties#16240` — [BOUNTY: 15-35 RTC] Make a real YouTube video or written tutorial on RustChain / · updated 2026-09-23
+- NEW `Scottcjn/rustchain-bounties#16242` — [BOUNTY: 3-5 RTC] Write an honest RustChain explainer thread or dev.to post (no  · updated 2026-09-23
+- NEW `Scottcjn/rustchain-bounties#16251` — [BOUNTY: 10 RTC] Fix rustchain.org install script — wrong paths + macOS crash (R · updated 2026-09-23
+- NEW `Scottcjn/rustchain-bounties#16252` — [BOUNTY: 12 RTC] Windows headless miner: stop infinite retry of rejected headers · updated 2026-09-23
+- NEW `Scottcjn/rustchain-bounties#16253` — [BOUNTY: 7 RTC] Consistent error handling + exit codes in wallet balance check s · updated 2026-09-23
+- NEW `Scottcjn/rustchain-bounties#16255` — [BOUNTY: 8 RTC] rustchain-mcp: document + test streaming/long-running tool behav · updated 2026-09-23
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tenstorrent/tt-metal#56290` — [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation · $500 · score 4 (2 rivals, $500, fresh)
-2. `NSPG13/agent-bounties#1351` — [Bounty] Seed a paid CLI child bounty · score 4 (1 rival, skill fit, fresh)
-3. `relayhop/sn-monetization-runtime#1178` — [radar] SN open bounty 2026-09-22T22:11 · score 4 (uncontested, fresh)
+1. `relayhop/sn-monetization-runtime#1181` — [radar] SN open bounty 2026-09-23T00:35 · score 4 (uncontested, fresh)
+2. `relayhop/sn-monetization-runtime#1057` — [radar] SN open bounty 2026-09-12T10:38 · score 4 (uncontested, fresh)
+3. `tenstorrent/tt-metal#56290` — [Bounty $500] ttnn.quantize/requantize uint8 lower-bound saturation · $500 · score 4 (2 rivals, $500, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
