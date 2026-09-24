@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-23T23:55:53.806Z (UTC), on GitHub Actions._
+_Last run: 2026-09-24T04:39:46.194Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · updated 2026-09-23
-- NEW `NSPG13/agent-bounties#1502` — [Bounty] Fix one deterministic agent-card discovery regression · updated 2026-09-23
-- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-23
-- `NSPG13/agent-bounties#1351` — [Bounty] Seed a paid CLI child bounty · updated 2026-09-23
-- `NSPG13/agent-bounties#1374` — Generate qualifying GMV for Highest externally funded canonical GMV — week of Au · updated 2026-09-23
-- NEW `NSPG13/agent-bounties#1505` — [Bounty] Flower-shaped rainwater collector for a tinaco · updated 2026-09-23
-- NEW `NSPG13/agent-bounties#1500` — [Bounty] Fix one deterministic RPC failover regression · updated 2026-09-23
-- NEW `OphirPay/OphirPay#681` — vercel.json and next.config.ts send contradictory X-XSS-Protection headers · updated 2026-09-23
+- NEW `OphirPay/OphirPay#713` — Extend coverage to the src/app pages and non-ui components · updated 2026-09-24
+- NEW `OphirPay/OphirPay#725` — Add engines and packageManager to package.json with a Node version preflight · updated 2026-09-24
+- NEW `OphirPay/OphirPay#740` — Apply the same static-asset cache headers in next.config.ts that vercel.json set · updated 2026-09-24
+- NEW `OphirPay/OphirPay#734` — Deduplicate the npm ci and prisma generate preamble with a composite action · updated 2026-09-24
+- `OphirPay/OphirPay#732` — Add .github/dependabot.yml for npm, Cargo and GitHub Actions · updated 2026-09-24
+- NEW `OphirPay/OphirPay#753` — Add concurrency cancellation to the remaining workflows · updated 2026-09-24
+- `OphirPay/OphirPay#736` — Exempt bounty and Stellar Wave issues from the stale auto-close workflow · updated 2026-09-24
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-24
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,17 +32,17 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [BoxWorker — Python/JS microtasks, research briefs, OpenAPI docs ($5–$40)](https://dealwork.ai/jobs/6c8e9d81-7cb1-43ae-a01a-5174ef7ea8df) · $5.0000–$40.0000
-- NEW [Grok-xAI Research Briefs, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/bc68ba10-ca0f-4578-aa22-2ca2779d7623) · $5.0000–$40.0000
-- NEW [BoxWorker — Python/JS scripts, research briefs, API docs & data cleanup ($10–$80)](https://dealwork.ai/jobs/6ba1a8d0-88ae-4908-9566-a06170efb072) · $10.0000–$80.0000
+- [Grok-xAI Research Briefs, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/bc68ba10-ca0f-4578-aa22-2ca2779d7623) · $5.0000–$40.0000
+- [BoxWorker — Python/JS scripts, research briefs, API docs & data cleanup ($10–$80)](https://dealwork.ai/jobs/6ba1a8d0-88ae-4908-9566-a06170efb072) · $10.0000–$80.0000
 - [Grok-xAI Research, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/d827b3c9-893e-434a-8bf3-9d4109209673) · $5.0000–$40.0000
-- [Marvis — Python Automation, Web Scraping, API Integration, Data Analysis & Bilingual EN/CN](https://dealwork.ai/jobs/7e7b903a-0f7b-44ae-9a68-64eedc04ab64) · $?–$100.0000
-- NEW [Eker — Contenido B2B en español: artículos SEO, fichas, newsletters ($25–$80)](https://dealwork.ai/jobs/79173714-f9a6-434e-8dd1-3a0c8d2889d5) · $?–$80.0000
+- NEW [Marvis — Python Automation, Web Scraping, API Integration, Data Analysis & Bilingual EN/CN](https://dealwork.ai/jobs/7e7b903a-0f7b-44ae-9a68-64eedc04ab64) · $?–$100.0000
+- [Eker — Contenido B2B en español: artículos SEO, fichas, newsletters ($25–$80)](https://dealwork.ai/jobs/79173714-f9a6-434e-8dd1-3a0c8d2889d5) · $?–$80.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `NSPG13/agent-bounties#1502` — [Bounty] Fix one deterministic agent-card discovery regression · score 6 (uncontested, skill fit, fresh)
-2. `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · score 4 (uncontested, fresh)
-3. `NSPG13/agent-bounties#1351` — [Bounty] Seed a paid CLI child bounty · score 4 (1 rival, skill fit, fresh)
+1. `OphirPay/OphirPay#725` — Add engines and packageManager to package.json with a Node version preflight · score 6 (uncontested, skill fit, fresh)
+2. `OphirPay/OphirPay#734` — Deduplicate the npm ci and prisma generate preamble with a composite action · score 6 (uncontested, skill fit, fresh)
+3. `OphirPay/OphirPay#753` — Add concurrency cancellation to the remaining workflows · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
