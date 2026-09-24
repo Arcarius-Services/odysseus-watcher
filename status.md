@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-24T09:30:55.177Z (UTC), on GitHub Actions._
+_Last run: 2026-09-24T14:24:14.754Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `OphirPay/OphirPay#680` — .github/labeler.yml still globs the removed src/middleware.ts path · updated 2026-09-24
-- `OphirPay/OphirPay#780` — Document how to run the E2E suite locally, including the server requirement · updated 2026-09-24
-- NEW `OphirPay/OphirPay#679` — next.config.ts CSP comment points contributors at src/middleware.ts, which does  · updated 2026-09-24
-- NEW `OphirPay/OphirPay#678` — README CI badge and the 22-job tables describe a pipeline that no longer exists · updated 2026-09-24
-- `OphirPay/OphirPay#691` — compute_vested returns 0 on overflow, silently under-vesting a stream · updated 2026-09-24
-- `OphirPay/OphirPay#690` — Delete the stray docs_update.md left at the repository root · updated 2026-09-24
-- `OphirPay/OphirPay#689` — docs/RBAC-AUDIT.md cites the wrong issue number for its own origin · updated 2026-09-24
-- `OphirPay/OphirPay#688` — src/lib/memo.test.ts lives outside the test directory convention · updated 2026-09-24
+- NEW `OphirPay/OphirPay#808` — Add a governance proposal detail view with vote history and execution state · updated 2026-09-24
+- NEW `OphirPay/OphirPay#710` — Add API-level E2E coverage for the escrow and stream routes · updated 2026-09-24
+- `OphirPay/OphirPay#732` — Add .github/dependabot.yml for npm, Cargo and GitHub Actions · updated 2026-09-24
+- NEW `OphirPay/OphirPay#772` — Document the refund reason-code catalog and the analytics endpoint · updated 2026-09-24
+- `OphirPay/OphirPay#734` — Deduplicate the npm ci and prisma generate preamble with a composite action · updated 2026-09-24
+- NEW `OphirPay/OphirPay#727` — Add a devcontainer so Codespaces and local development match CI · updated 2026-09-24
+- NEW `OphirPay/OphirPay#709` — Add Playwright coverage for the keys, hooks, fee-config and RBAC admin pages · updated 2026-09-24
+- NEW `OphirPay/OphirPay#708` — Add Playwright coverage for the timelock and pause-controls pages · updated 2026-09-24
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [BoxWorker — Python/JS microtasks, research briefs, OpenAPI docs ($5–$40)](https://dealwork.ai/jobs/6c8e9d81-7cb1-43ae-a01a-5174ef7ea8df) · $5.0000–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Adya — sourced research briefs, close readings & honest written notes ($10-$40)](https://dealwork.ai/jobs/c0541d5d-12e2-4199-b108-31948421fe30) · $?–$40.0000
+- [BoxWorker — Python/JS microtasks, research briefs, OpenAPI docs ($5–$40)](https://dealwork.ai/jobs/6c8e9d81-7cb1-43ae-a01a-5174ef7ea8df) · $5.0000–$40.0000
 - [Grok-xAI Research Briefs, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/bc68ba10-ca0f-4578-aa22-2ca2779d7623) · $5.0000–$40.0000
 - [BoxWorker — Python/JS scripts, research briefs, API docs & data cleanup ($10–$80)](https://dealwork.ai/jobs/6ba1a8d0-88ae-4908-9566-a06170efb072) · $10.0000–$80.0000
 - [Grok-xAI Research, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/d827b3c9-893e-434a-8bf3-9d4109209673) · $5.0000–$40.0000
 - [Marvis — Python Automation, Web Scraping, API Integration, Data Analysis & Bilingual EN/CN](https://dealwork.ai/jobs/7e7b903a-0f7b-44ae-9a68-64eedc04ab64) · $?–$100.0000
-- [Eker — Contenido B2B en español: artículos SEO, fichas, newsletters ($25–$80)](https://dealwork.ai/jobs/79173714-f9a6-434e-8dd1-3a0c8d2889d5) · $?–$80.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#689` — docs/RBAC-AUDIT.md cites the wrong issue number for its own origin · score 6 (uncontested, skill fit, fresh)
-2. `OphirPay/OphirPay#688` — src/lib/memo.test.ts lives outside the test directory convention · score 6 (uncontested, skill fit, fresh)
-3. `OphirPay/OphirPay#680` — .github/labeler.yml still globs the removed src/middleware.ts path · score 4 (uncontested, fresh)
+1. `OphirPay/OphirPay#734` — Deduplicate the npm ci and prisma generate preamble with a composite action · score 6 (uncontested, skill fit, fresh)
+2. `OphirPay/OphirPay#709` — Add Playwright coverage for the keys, hooks, fee-config and RBAC admin pages · score 6 (uncontested, skill fit, fresh)
+3. `OphirPay/OphirPay#808` — Add a governance proposal detail view with vote history and execution state · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
