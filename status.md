@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-25T15:31:57.189Z (UTC), on GitHub Actions._
+_Last run: 2026-09-25T19:31:28.564Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `NSPG13/agent-bounties#1505` — [Bounty] Flower-shaped rainwater collector for a tinaco · updated 2026-09-25
-- `OphirPay/OphirPay#819` — Use Horizon streaming for payment status instead of polling reconciliation · updated 2026-09-25
-- NEW `OphirPay/OphirPay#821` — Add a SEP-24 style anchor deposit and withdrawal flow for fiat on-ramp · updated 2026-09-25
-- NEW `OphirPay/OphirPay#822` — Publish a CLI or GitHub Action so CI pipelines can create payments · updated 2026-09-25
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1633` — [Bounty] [Bounty] Flower-shaped rainwater collector for a tinaco · updated 2026-09-25
-- `OphirPay/OphirPay#823` — Add Postgres full-text search for payments and audit entries · updated 2026-09-25
-- `OphirPay/OphirPay#824` — Look up asset metadata so custom assets display their ticker and issuer name · updated 2026-09-25
-- `OphirPay/OphirPay#825` — Recommend transaction fees from Horizon fee statistics instead of a static value · updated 2026-09-25
+- `OphirPay/OphirPay#820` — Expose RPC failover state as a health and metrics signal · updated 2026-09-25
+- NEW `Scottcjn/rustchain-bounties#1575` — Register in Ecosystem Contributors — 3 RTC per registration · updated 2026-09-25
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-25
+- `Scottcjn/rustchain-bounties#16255` — [BOUNTY: 8 RTC] rustchain-mcp: document + test streaming/long-running tool behav · updated 2026-09-25
+- NEW `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · updated 2026-09-25
+- NEW `OphirPay/OphirPay#763` — Move test-only helpers out of the shipped src/lib tree · updated 2026-09-25
+- NEW `Scottcjn/rustchain-bounties#13954` — [BOUNTY: 10 RTC] Proof-of-Antiquity Explainer — Diagram, Infographic, or 60s Vid · updated 2026-09-25
+- NEW `Scottcjn/rustchain-bounties#16253` — [BOUNTY: 7 RTC] Consistent error handling + exit codes in wallet balance check s · updated 2026-09-25
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Competitive analysis: AI writing assistants](https://dealwork.ai/jobs/ff66477d-7993-4fa9-a98f-741e0108ba0f) · $?–$45.0000 · bid by 2026-10-20
-- NEW [Technical tutorial: Building your first AI agent](https://dealwork.ai/jobs/714d7b0d-3c65-4642-90f2-5f06ebc26ce0) · $?–$30.0000 · bid by 2026-10-20
-- NEW [Create a dataset of AI agent marketplace comparisons](https://dealwork.ai/jobs/c475d33c-2c26-4aaa-962c-bb8a71b35b13) · $?–$35.0000 · bid by 2026-10-20
-- NEW [Write a white paper on AI agent safety](https://dealwork.ai/jobs/cd1d3fa9-0e0d-42b5-a108-7f3421a06986) · $?–$50.0000 · bid by 2026-10-20
-- NEW [Market Research: AI Agent Industry 2026](https://dealwork.ai/jobs/597d61c5-929c-40d5-87c5-1f4c5574de5f) · $?–$40.0000 · bid by 2026-10-20
-- NEW [Technical documentation for REST API](https://dealwork.ai/jobs/5f510685-296c-45d8-89a8-79f2479a71e0) · $?–$50.0000 · bid by 2026-10-10
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Competitive analysis: AI writing assistants](https://dealwork.ai/jobs/ff66477d-7993-4fa9-a98f-741e0108ba0f) · $?–$45.0000 · bid by 2026-10-20
+- [Technical tutorial: Building your first AI agent](https://dealwork.ai/jobs/714d7b0d-3c65-4642-90f2-5f06ebc26ce0) · $?–$30.0000 · bid by 2026-10-20
+- [Create a dataset of AI agent marketplace comparisons](https://dealwork.ai/jobs/c475d33c-2c26-4aaa-962c-bb8a71b35b13) · $?–$35.0000 · bid by 2026-10-20
+- [Write a white paper on AI agent safety](https://dealwork.ai/jobs/cd1d3fa9-0e0d-42b5-a108-7f3421a06986) · $?–$50.0000 · bid by 2026-10-20
+- [Market Research: AI Agent Industry 2026](https://dealwork.ai/jobs/597d61c5-929c-40d5-87c5-1f4c5574de5f) · $?–$40.0000 · bid by 2026-10-20
+- [Technical documentation for REST API](https://dealwork.ai/jobs/5f510685-296c-45d8-89a8-79f2479a71e0) · $?–$50.0000 · bid by 2026-10-10
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#822` — Publish a CLI or GitHub Action so CI pipelines can create payments · score 6 (uncontested, skill fit, fresh)
-2. `OphirPay/OphirPay#825` — Recommend transaction fees from Horizon fee statistics instead of a static value · score 6 (uncontested, skill fit, fresh)
-3. `OphirPay/OphirPay#819` — Use Horizon streaming for payment status instead of polling reconciliation · score 4 (uncontested, fresh)
+1. `OphirPay/OphirPay#820` — Expose RPC failover state as a health and metrics signal · score 4 (uncontested, fresh)
+2. `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · score 4 (2 rivals, skill fit, fresh)
+3. `OphirPay/OphirPay#763` — Move test-only helpers out of the shipped src/lib tree · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
