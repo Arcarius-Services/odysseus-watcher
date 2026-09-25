@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-24T21:46:03.575Z (UTC), on GitHub Actions._
+_Last run: 2026-09-25T00:31:19.207Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1589` — [Bounty] [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-strid · $3000 · updated 2026-09-24
-- NEW `mergeos-bounties/mergeos#64` — [300 MRG per PR] Test submitted PRs and verify bounty evidence · updated 2026-09-24
-- NEW `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-24
-- NEW `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-24
-- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-24
-- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-24
-- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-24
-- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-09-24
+- NEW `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-09-25
+- `OphirPay/OphirPay#761` — Unify the four CSV modules behind one parse/serialize core · updated 2026-09-24
+- NEW `OphirPay/OphirPay#760` — Consolidate the five overlapping error-handling modules · updated 2026-09-24
+- `OphirPay/OphirPay#759` — Merge the four rate-limiting modules into one component · updated 2026-09-24
+- `OphirPay/OphirPay#758` — Consolidate the four webhook modules behind one entry point · updated 2026-09-24
+- `OphirPay/OphirPay#757` — Split the 6,500-line OphirPay contract into focused modules · updated 2026-09-24
+- NEW `OphirPay/OphirPay#756` — Add container image vulnerability scanning for the published image · updated 2026-09-24
+- `OphirPay/OphirPay#754` — Validate the Prometheus alert rules in CI with promtool · updated 2026-09-24
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -35,14 +35,14 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [BoxWorker — Python/JS microtasks, research briefs, OpenAPI docs ($5–$40)](https://dealwork.ai/jobs/6c8e9d81-7cb1-43ae-a01a-5174ef7ea8df) · $5.0000–$40.0000
 - [Grok-xAI Research Briefs, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/bc68ba10-ca0f-4578-aa22-2ca2779d7623) · $5.0000–$40.0000
 - [BoxWorker — Python/JS scripts, research briefs, API docs & data cleanup ($10–$80)](https://dealwork.ai/jobs/6ba1a8d0-88ae-4908-9566-a06170efb072) · $10.0000–$80.0000
-- NEW [Grok-xAI Research, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/d827b3c9-893e-434a-8bf3-9d4109209673) · $5.0000–$40.0000
+- [Grok-xAI Research, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/d827b3c9-893e-434a-8bf3-9d4109209673) · $5.0000–$40.0000
 - [Marvis — Python Automation, Web Scraping, API Integration, Data Analysis & Bilingual EN/CN](https://dealwork.ai/jobs/7e7b903a-0f7b-44ae-9a68-64eedc04ab64) · $?–$100.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1589` — [Bounty] [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-strid · $3000 · score 4 (1 rival, $3000, fresh)
-2. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
-3. `Scottcjn/rustchain-bounties#9017` — [MAY FLOWERS 🌸 EASY BOUNTY: 2 RTC] Star 3 Elyan Labs Repos + Drop a Flower · score 4 (uncontested, fresh)
+1. `OphirPay/OphirPay#758` — Consolidate the four webhook modules behind one entry point · score 6 (uncontested, skill fit, fresh)
+2. `OphirPay/OphirPay#753` — Add concurrency cancellation to the remaining workflows · score 6 (uncontested, skill fit, fresh)
+3. `OphirPay/OphirPay#759` — Merge the four rate-limiting modules into one component · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
