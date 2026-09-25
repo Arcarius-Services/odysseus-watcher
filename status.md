@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-25T19:31:28.564Z (UTC), on GitHub Actions._
+_Last run: 2026-09-25T22:47:03.332Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `OphirPay/OphirPay#820` — Expose RPC failover state as a health and metrics signal · updated 2026-09-25
-- NEW `Scottcjn/rustchain-bounties#1575` — Register in Ecosystem Contributors — 3 RTC per registration · updated 2026-09-25
-- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-25
+- `OphirPay/OphirPay#754` — Validate the Prometheus alert rules in CI with promtool · updated 2026-09-25
+- NEW `OphirPay/OphirPay#802` — Replace the modeled Kani proof set with a harness that exercises the real contra · updated 2026-09-25
+- `Scottcjn/rustchain-bounties#16253` — [BOUNTY: 7 RTC] Consistent error handling + exit codes in wallet balance check s · updated 2026-09-25
+- `Scottcjn/rustchain-bounties#16251` — [BOUNTY: 10 RTC] Fix rustchain.org install script — wrong paths + macOS crash (R · updated 2026-09-25
 - `Scottcjn/rustchain-bounties#16255` — [BOUNTY: 8 RTC] rustchain-mcp: document + test streaming/long-running tool behav · updated 2026-09-25
-- NEW `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · updated 2026-09-25
-- NEW `OphirPay/OphirPay#763` — Move test-only helpers out of the shipped src/lib tree · updated 2026-09-25
-- NEW `Scottcjn/rustchain-bounties#13954` — [BOUNTY: 10 RTC] Proof-of-Antiquity Explainer — Diagram, Infographic, or 60s Vid · updated 2026-09-25
-- NEW `Scottcjn/rustchain-bounties#16253` — [BOUNTY: 7 RTC] Consistent error handling + exit codes in wallet balance check s · updated 2026-09-25
+- `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · updated 2026-09-25
+- `NSPG13/agent-bounties#1505` — [Bounty] Flower-shaped rainwater collector for a tinaco · updated 2026-09-25
+- NEW `illbnm/homelab-stack#13` — [BOUNTY $80] Notifications — 统一通知中心 (Gotify + Apprise) · $80 · updated 2026-09-25
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#820` — Expose RPC failover state as a health and metrics signal · score 4 (uncontested, fresh)
-2. `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · score 4 (2 rivals, skill fit, fresh)
-3. `OphirPay/OphirPay#763` — Move test-only helpers out of the shipped src/lib tree · score 4 (1 rival, skill fit, fresh)
+1. `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · score 4 (2 rivals, skill fit, fresh)
+2. `OphirPay/OphirPay#824` — Look up asset metadata so custom assets display their ticker and issuer name · score 4 (uncontested, fresh)
+3. `OphirPay/OphirPay#754` — Validate the Prometheus alert rules in CI with promtool · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
