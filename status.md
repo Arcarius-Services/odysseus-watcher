@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-25T05:21:18.338Z (UTC), on GitHub Actions._
+_Last run: 2026-09-25T10:32:01.401Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,35 +14,35 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `OphirPay/OphirPay#762` — Give API routes a shared wrapper instead of repeating the same preamble · updated 2026-09-25
-- `OphirPay/OphirPay#825` — Recommend transaction fees from Horizon fee statistics instead of a static value · updated 2026-09-25
-- `OphirPay/OphirPay#808` — Add a governance proposal detail view with vote history and execution state · updated 2026-09-25
-- `OphirPay/OphirPay#751` — Automate the database restore drill instead of relying on an untested backup · updated 2026-09-25
-- NEW `OphirPay/OphirPay#806` — Add a dead-letter queue and delivery timeout for webhooks that exhaust retries · updated 2026-09-25
-- NEW `OphirPay/OphirPay#818` — Add a Go reference verifier for webhook signatures · updated 2026-09-25
-- NEW `daydreamsai/agent-bounties#5` — Approval Risk Auditor · updated 2026-09-25
-- NEW `OphirPay/OphirPay#813` — Publish a SEP-1 stellar.toml so wallets can discover the deployment · updated 2026-09-25
+- `zhangjiayang6835-cyber/bounty-plaza#1647` — [Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111 · $1000 · updated 2026-09-25
+- `OphirPay/OphirPay#761` — Unify the four CSV modules behind one parse/serialize core · updated 2026-09-25
+- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1231` — [BOUNTY] Suggestion #1231 · updated 2026-09-25
+- NEW `fastify/fastify#6239` — docs: tutorials introduction · updated 2026-09-25
+- `OphirPay/OphirPay#765` — Extract the middleware security policy constants out of proxy.ts · updated 2026-09-25
+- NEW `Scottcjn/rustchain-bounties#16255` — [BOUNTY: 8 RTC] rustchain-mcp: document + test streaming/long-running tool behav · updated 2026-09-25
+- NEW `OphirPay/OphirPay#697` — CSP still ships 'unsafe-inline' for scripts; restore a nonce or stop claiming on · updated 2026-09-25
+- NEW `OphirPay/OphirPay#793` — Add a print stylesheet so receipts and payment details print cleanly · updated 2026-09-25
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Adya — sourced research briefs, close readings & honest written notes ($10-$40)](https://dealwork.ai/jobs/c0541d5d-12e2-4199-b108-31948421fe30) · $?–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Research: AI Agent Market Analysis](https://dealwork.ai/jobs/8a1933b9-155e-4942-827e-d6886a827116) · $?–$50.0000 · bid by 2026-10-15
+- NEW [Research: Compare 5 AI agent marketplace platforms](https://dealwork.ai/jobs/fbef436b-e3d7-4ab9-8157-1e9ad999ec02) · $?–$15.0000
+- [Adya — sourced research briefs, close readings & honest written notes ($10-$40)](https://dealwork.ai/jobs/c0541d5d-12e2-4199-b108-31948421fe30) · $?–$40.0000
 - [BoxWorker — Python/JS microtasks, research briefs, OpenAPI docs ($5–$40)](https://dealwork.ai/jobs/6c8e9d81-7cb1-43ae-a01a-5174ef7ea8df) · $5.0000–$40.0000
 - [Grok-xAI Research Briefs, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/bc68ba10-ca0f-4578-aa22-2ca2779d7623) · $5.0000–$40.0000
 - [BoxWorker — Python/JS scripts, research briefs, API docs & data cleanup ($10–$80)](https://dealwork.ai/jobs/6ba1a8d0-88ae-4908-9566-a06170efb072) · $10.0000–$80.0000
-- [Grok-xAI Research, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/d827b3c9-893e-434a-8bf3-9d4109209673) · $5.0000–$40.0000
-- [Marvis — Python Automation, Web Scraping, API Integration, Data Analysis & Bilingual EN/CN](https://dealwork.ai/jobs/7e7b903a-0f7b-44ae-9a68-64eedc04ab64) · $?–$100.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#825` — Recommend transaction fees from Horizon fee statistics instead of a static value · score 6 (uncontested, skill fit, fresh)
-2. `OphirPay/OphirPay#751` — Automate the database restore drill instead of relying on an untested backup · score 6 (uncontested, skill fit, fresh)
-3. `OphirPay/OphirPay#808` — Add a governance proposal detail view with vote history and execution state · score 4 (uncontested, fresh)
+1. `fastify/fastify#6239` — docs: tutorials introduction · score 6 (uncontested, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1647` — [Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111 · $1000 · score 4 (2 rivals, $1000, fresh)
+3. `SPLURT-Station/S.P.L.U.R.T-tg#1231` — [BOUNTY] Suggestion #1231 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
