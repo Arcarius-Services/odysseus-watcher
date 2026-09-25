@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-25T00:31:19.207Z (UTC), on GitHub Actions._
+_Last run: 2026-09-25T05:21:18.338Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-09-25
-- `OphirPay/OphirPay#761` — Unify the four CSV modules behind one parse/serialize core · updated 2026-09-24
-- NEW `OphirPay/OphirPay#760` — Consolidate the five overlapping error-handling modules · updated 2026-09-24
-- `OphirPay/OphirPay#759` — Merge the four rate-limiting modules into one component · updated 2026-09-24
-- `OphirPay/OphirPay#758` — Consolidate the four webhook modules behind one entry point · updated 2026-09-24
-- `OphirPay/OphirPay#757` — Split the 6,500-line OphirPay contract into focused modules · updated 2026-09-24
-- NEW `OphirPay/OphirPay#756` — Add container image vulnerability scanning for the published image · updated 2026-09-24
-- `OphirPay/OphirPay#754` — Validate the Prometheus alert rules in CI with promtool · updated 2026-09-24
+- `OphirPay/OphirPay#762` — Give API routes a shared wrapper instead of repeating the same preamble · updated 2026-09-25
+- `OphirPay/OphirPay#825` — Recommend transaction fees from Horizon fee statistics instead of a static value · updated 2026-09-25
+- `OphirPay/OphirPay#808` — Add a governance proposal detail view with vote history and execution state · updated 2026-09-25
+- `OphirPay/OphirPay#751` — Automate the database restore drill instead of relying on an untested backup · updated 2026-09-25
+- NEW `OphirPay/OphirPay#806` — Add a dead-letter queue and delivery timeout for webhooks that exhaust retries · updated 2026-09-25
+- NEW `OphirPay/OphirPay#818` — Add a Go reference verifier for webhook signatures · updated 2026-09-25
+- NEW `daydreamsai/agent-bounties#5` — Approval Risk Auditor · updated 2026-09-25
+- NEW `OphirPay/OphirPay#813` — Publish a SEP-1 stellar.toml so wallets can discover the deployment · updated 2026-09-25
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Adya — sourced research briefs, close readings & honest written notes ($10-$40)](https://dealwork.ai/jobs/c0541d5d-12e2-4199-b108-31948421fe30) · $?–$40.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#758` — Consolidate the four webhook modules behind one entry point · score 6 (uncontested, skill fit, fresh)
-2. `OphirPay/OphirPay#753` — Add concurrency cancellation to the remaining workflows · score 6 (uncontested, skill fit, fresh)
-3. `OphirPay/OphirPay#759` — Merge the four rate-limiting modules into one component · score 4 (uncontested, fresh)
+1. `OphirPay/OphirPay#825` — Recommend transaction fees from Horizon fee statistics instead of a static value · score 6 (uncontested, skill fit, fresh)
+2. `OphirPay/OphirPay#751` — Automate the database restore drill instead of relying on an untested backup · score 6 (uncontested, skill fit, fresh)
+3. `OphirPay/OphirPay#808` — Add a governance proposal detail view with vote history and execution state · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
