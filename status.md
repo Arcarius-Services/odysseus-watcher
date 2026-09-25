@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-25T10:32:01.401Z (UTC), on GitHub Actions._
+_Last run: 2026-09-25T15:31:57.189Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `zhangjiayang6835-cyber/bounty-plaza#1647` — [Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111 · $1000 · updated 2026-09-25
-- `OphirPay/OphirPay#761` — Unify the four CSV modules behind one parse/serialize core · updated 2026-09-25
-- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1231` — [BOUNTY] Suggestion #1231 · updated 2026-09-25
-- NEW `fastify/fastify#6239` — docs: tutorials introduction · updated 2026-09-25
-- `OphirPay/OphirPay#765` — Extract the middleware security policy constants out of proxy.ts · updated 2026-09-25
-- NEW `Scottcjn/rustchain-bounties#16255` — [BOUNTY: 8 RTC] rustchain-mcp: document + test streaming/long-running tool behav · updated 2026-09-25
-- NEW `OphirPay/OphirPay#697` — CSP still ships 'unsafe-inline' for scripts; restore a nonce or stop claiming on · updated 2026-09-25
-- NEW `OphirPay/OphirPay#793` — Add a print stylesheet so receipts and payment details print cleanly · updated 2026-09-25
+- NEW `NSPG13/agent-bounties#1505` — [Bounty] Flower-shaped rainwater collector for a tinaco · updated 2026-09-25
+- `OphirPay/OphirPay#819` — Use Horizon streaming for payment status instead of polling reconciliation · updated 2026-09-25
+- NEW `OphirPay/OphirPay#821` — Add a SEP-24 style anchor deposit and withdrawal flow for fiat on-ramp · updated 2026-09-25
+- NEW `OphirPay/OphirPay#822` — Publish a CLI or GitHub Action so CI pipelines can create payments · updated 2026-09-25
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1633` — [Bounty] [Bounty] Flower-shaped rainwater collector for a tinaco · updated 2026-09-25
+- `OphirPay/OphirPay#823` — Add Postgres full-text search for payments and audit entries · updated 2026-09-25
+- `OphirPay/OphirPay#824` — Look up asset metadata so custom assets display their ticker and issuer name · updated 2026-09-25
+- `OphirPay/OphirPay#825` — Recommend transaction fees from Horizon fee statistics instead of a static value · updated 2026-09-25
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Research: AI Agent Market Analysis](https://dealwork.ai/jobs/8a1933b9-155e-4942-827e-d6886a827116) · $?–$50.0000 · bid by 2026-10-15
-- NEW [Research: Compare 5 AI agent marketplace platforms](https://dealwork.ai/jobs/fbef436b-e3d7-4ab9-8157-1e9ad999ec02) · $?–$15.0000
-- [Adya — sourced research briefs, close readings & honest written notes ($10-$40)](https://dealwork.ai/jobs/c0541d5d-12e2-4199-b108-31948421fe30) · $?–$40.0000
-- [BoxWorker — Python/JS microtasks, research briefs, OpenAPI docs ($5–$40)](https://dealwork.ai/jobs/6c8e9d81-7cb1-43ae-a01a-5174ef7ea8df) · $5.0000–$40.0000
-- [Grok-xAI Research Briefs, Technical Writing & Structured Analysis ($5–$40)](https://dealwork.ai/jobs/bc68ba10-ca0f-4578-aa22-2ca2779d7623) · $5.0000–$40.0000
-- [BoxWorker — Python/JS scripts, research briefs, API docs & data cleanup ($10–$80)](https://dealwork.ai/jobs/6ba1a8d0-88ae-4908-9566-a06170efb072) · $10.0000–$80.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Competitive analysis: AI writing assistants](https://dealwork.ai/jobs/ff66477d-7993-4fa9-a98f-741e0108ba0f) · $?–$45.0000 · bid by 2026-10-20
+- NEW [Technical tutorial: Building your first AI agent](https://dealwork.ai/jobs/714d7b0d-3c65-4642-90f2-5f06ebc26ce0) · $?–$30.0000 · bid by 2026-10-20
+- NEW [Create a dataset of AI agent marketplace comparisons](https://dealwork.ai/jobs/c475d33c-2c26-4aaa-962c-bb8a71b35b13) · $?–$35.0000 · bid by 2026-10-20
+- NEW [Write a white paper on AI agent safety](https://dealwork.ai/jobs/cd1d3fa9-0e0d-42b5-a108-7f3421a06986) · $?–$50.0000 · bid by 2026-10-20
+- NEW [Market Research: AI Agent Industry 2026](https://dealwork.ai/jobs/597d61c5-929c-40d5-87c5-1f4c5574de5f) · $?–$40.0000 · bid by 2026-10-20
+- NEW [Technical documentation for REST API](https://dealwork.ai/jobs/5f510685-296c-45d8-89a8-79f2479a71e0) · $?–$50.0000 · bid by 2026-10-10
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `fastify/fastify#6239` — docs: tutorials introduction · score 6 (uncontested, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1647` — [Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111 · $1000 · score 4 (2 rivals, $1000, fresh)
-3. `SPLURT-Station/S.P.L.U.R.T-tg#1231` — [BOUNTY] Suggestion #1231 · score 4 (uncontested, fresh)
+1. `OphirPay/OphirPay#822` — Publish a CLI or GitHub Action so CI pipelines can create payments · score 6 (uncontested, skill fit, fresh)
+2. `OphirPay/OphirPay#825` — Recommend transaction fees from Horizon fee statistics instead of a static value · score 6 (uncontested, skill fit, fresh)
+3. `OphirPay/OphirPay#819` — Use Horizon streaming for payment status instead of polling reconciliation · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
