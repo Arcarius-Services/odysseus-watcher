@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-26T01:29:26.323Z (UTC), on GitHub Actions._
+_Last run: 2026-09-26T06:35:15.060Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1195` — [radar] SN open bounty 2026-09-26T01:27 · updated 2026-09-26
-- NEW `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-09-26
-- NEW `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · updated 2026-09-26
-- `NSPG13/agent-bounties#1505` — [Bounty] Flower-shaped rainwater collector for a tinaco · updated 2026-09-26
-- NEW `OphirPay/OphirPay#817` — Add an automation-platform integration guide with generated payload examples · updated 2026-09-26
-- `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · updated 2026-09-26
-- NEW `Scottcjn/rustchain-bounties#12445` — [BOUNTY: 5-8 RTC] CN-Language Market Framing for RustChain (闲置硬件 / e-waste angle · updated 2026-09-26
-- NEW `Scottcjn/rustchain-bounties#12788` — [BOUNTY: 25 RTC] Miner client port: package the RustChain miner for one new plat · updated 2026-09-26
+- NEW `OphirPay/OphirPay#734` — Deduplicate the npm ci and prisma generate preamble with a composite action · updated 2026-09-26
+- NEW `Ikalus1988/MisakaNet#2283` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-09-26
+- NEW `Ikalus1988/MisakaNet#2282` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-09-26
+- NEW `Ikalus1988/MisakaNet#2281` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-09-26
+- NEW `Ikalus1988/MisakaNet#2280` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-09-26
+- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-26
+- NEW `OphirPay/OphirPay#691` — compute_vested returns 0 on overflow, silently under-vesting a stream · updated 2026-09-26
+- `OphirPay/OphirPay#697` — CSP still ships 'unsafe-inline' for scripts; restore a nonce or stop claiming on · updated 2026-09-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · score 6 (uncontested, skill fit, fresh)
-2. `relayhop/sn-monetization-runtime#1195` — [radar] SN open bounty 2026-09-26T01:27 · score 4 (uncontested, fresh)
-3. `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · score 4 (uncontested, fresh)
+1. `OphirPay/OphirPay#734` — Deduplicate the npm ci and prisma generate preamble with a composite action · score 4 (1 rival, skill fit, fresh)
+2. `Ikalus1988/MisakaNet#2283` — [Bounty] Answer 2 linked question(s) as a lesson · score 4 (uncontested, fresh)
+3. `Ikalus1988/MisakaNet#2282` — [Bounty] Answer 2 linked question(s) as a lesson · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
