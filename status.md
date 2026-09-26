@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-26T11:44:41.645Z (UTC), on GitHub Actions._
+_Last run: 2026-09-26T13:03:33.517Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,18 +14,18 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `OphirPay/OphirPay#823` — Add Postgres full-text search for payments and audit entries · updated 2026-09-26
+- NEW `relayhop/sn-monetization-runtime#1200` — [radar] SN open bounty 2026-09-26T12:59 · updated 2026-09-26
+- NEW `ravshanitoviah/go-github#4` — 🎯 Fix Memory Leak in Buffer Pool Manager · updated 2026-09-26
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1647` — [Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111 · $1000 · updated 2026-09-26
+- `Scottcjn/rustchain-bounties#16252` — [BOUNTY: 12 RTC] Windows headless miner: stop infinite retry of rejected headers · updated 2026-09-26
+- NEW `OphirPay/OphirPay#790` — Add a keyboard shortcut cheat sheet using the existing Kbd primitives · updated 2026-09-26
+- `OphirPay/OphirPay#813` — Publish a SEP-1 stellar.toml so wallets can discover the deployment · updated 2026-09-26
+- NEW `OphirPay/OphirPay#809` — Add a trustline setup flow for non-native assets · updated 2026-09-26
 - `OphirPay/OphirPay#808` — Add a governance proposal detail view with vote history and execution state · updated 2026-09-26
-- `zhangjiayang6835-cyber/bounty-plaza#1324` — [Bounty] [Bounty: $850] Hitbox Collision Dropout during Rapid Contraption Kinema · $850 · updated 2026-09-26
-- `warpspeedopen-source/warpspeed-bounties#6` — [PAID BOUNTY - $660] Enhanced Image Preview · $660 · updated 2026-09-26
-- `warpspeedopen-source/warpspeed-bounties#1` — [PAID BOUNTY - $960] Attachment Summarizer Service · $960 · updated 2026-09-26
-- `OphirPay/OphirPay#807` — Surface refund reason-code analytics in the UI · updated 2026-09-26
-- NEW `OphirPay/OphirPay#813` — Publish a SEP-1 stellar.toml so wallets can discover the deployment · updated 2026-09-26
-- `relayhop/sn-monetization-runtime#1199` — [radar] SN open bounty 2026-09-26T11:16 · updated 2026-09-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `warpspeedopen-source/warpspeed-bounties#1` — [PAID BOUNTY - $960] Attachment Summarizer Service · $960 · score 4 (2 rivals, $960, fresh)
-2. `relayhop/sn-monetization-runtime#1199` — [radar] SN open bounty 2026-09-26T11:16 · score 4 (uncontested, fresh)
-3. `warpspeedopen-source/warpspeed-bounties#7` — [PAID BOUNTY - $660] Note Locking - Biometrics/PIN · $660 · score 4 (2 rivals, $660, fresh)
+1. `relayhop/sn-monetization-runtime#1200` — [radar] SN open bounty 2026-09-26T12:59 · score 4 (uncontested, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1647` — [Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111 · $1000 · score 4 (2 rivals, $1000, fresh)
+3. `ravshanitoviah/go-github#4` — 🎯 Fix Memory Leak in Buffer Pool Manager · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
