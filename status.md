@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-26T14:03:33.269Z (UTC), on GitHub Actions._
+_Last run: 2026-09-26T14:33:33.274Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-09-26
-- NEW `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-09-26
-- NEW `Scottcjn/Rustchain#214` — Bounty: Windows miner smoke test + installer feedback · updated 2026-09-26
-- NEW `Scottcjn/Rustchain#179` — [BOUNTY] Test Windows Miner Bundle win-miner-2026-02 (10 RTC each, Pool: 200 RTC · updated 2026-09-26
+- `Ikalus1988/MisakaNet#2283` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-09-26
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-09-26
+- `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-09-26
+- `Scottcjn/Rustchain#214` — Bounty: Windows miner smoke test + installer feedback · updated 2026-09-26
+- `Scottcjn/Rustchain#179` — [BOUNTY] Test Windows Miner Bundle win-miner-2026-02 (10 RTC each, Pool: 200 RTC · updated 2026-09-26
 - `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-26
 - `Scottcjn/rustchain-bounties#515` — [Bounty] Add RustChain to Your GitHub Profile README - 2 RTC · updated 2026-09-26
 - `ravshanitoviah/go-github#4` — 🎯 Fix Memory Leak in Buffer Pool Manager · updated 2026-09-26
-- `zhangjiayang6835-cyber/bounty-plaza#1324` — [Bounty] [Bounty: $850] Hitbox Collision Dropout during Rapid Contraption Kinema · $850 · updated 2026-09-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
