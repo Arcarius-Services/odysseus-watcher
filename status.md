@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-25T22:47:03.332Z (UTC), on GitHub Actions._
+_Last run: 2026-09-26T01:29:26.323Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `OphirPay/OphirPay#754` — Validate the Prometheus alert rules in CI with promtool · updated 2026-09-25
-- NEW `OphirPay/OphirPay#802` — Replace the modeled Kani proof set with a harness that exercises the real contra · updated 2026-09-25
-- `Scottcjn/rustchain-bounties#16253` — [BOUNTY: 7 RTC] Consistent error handling + exit codes in wallet balance check s · updated 2026-09-25
-- `Scottcjn/rustchain-bounties#16251` — [BOUNTY: 10 RTC] Fix rustchain.org install script — wrong paths + macOS crash (R · updated 2026-09-25
-- `Scottcjn/rustchain-bounties#16255` — [BOUNTY: 8 RTC] rustchain-mcp: document + test streaming/long-running tool behav · updated 2026-09-25
-- `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · updated 2026-09-25
-- `NSPG13/agent-bounties#1505` — [Bounty] Flower-shaped rainwater collector for a tinaco · updated 2026-09-25
-- NEW `illbnm/homelab-stack#13` — [BOUNTY $80] Notifications — 统一通知中心 (Gotify + Apprise) · $80 · updated 2026-09-25
+- NEW `relayhop/sn-monetization-runtime#1195` — [radar] SN open bounty 2026-09-26T01:27 · updated 2026-09-26
+- NEW `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-09-26
+- NEW `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · updated 2026-09-26
+- `NSPG13/agent-bounties#1505` — [Bounty] Flower-shaped rainwater collector for a tinaco · updated 2026-09-26
+- NEW `OphirPay/OphirPay#817` — Add an automation-platform integration guide with generated payload examples · updated 2026-09-26
+- `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · updated 2026-09-26
+- NEW `Scottcjn/rustchain-bounties#12445` — [BOUNTY: 5-8 RTC] CN-Language Market Framing for RustChain (闲置硬件 / e-waste angle · updated 2026-09-26
+- NEW `Scottcjn/rustchain-bounties#12788` — [BOUNTY: 25 RTC] Miner client port: package the RustChain miner for one new plat · updated 2026-09-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · score 4 (2 rivals, skill fit, fresh)
-2. `OphirPay/OphirPay#824` — Look up asset metadata so custom assets display their ticker and issuer name · score 4 (uncontested, fresh)
-3. `OphirPay/OphirPay#754` — Validate the Prometheus alert rules in CI with promtool · score 2 (1 rival, fresh)
+1. `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · score 6 (uncontested, skill fit, fresh)
+2. `relayhop/sn-monetization-runtime#1195` — [radar] SN open bounty 2026-09-26T01:27 · score 4 (uncontested, fresh)
+3. `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
