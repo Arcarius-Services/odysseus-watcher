@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-26T13:33:33.729Z (UTC), on GitHub Actions._
+_Last run: 2026-09-26T14:03:33.269Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-09-26
+- NEW `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-09-26
+- NEW `Scottcjn/Rustchain#214` — Bounty: Windows miner smoke test + installer feedback · updated 2026-09-26
+- NEW `Scottcjn/Rustchain#179` — [BOUNTY] Test Windows Miner Bundle win-miner-2026-02 (10 RTC each, Pool: 200 RTC · updated 2026-09-26
+- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-26
+- `Scottcjn/rustchain-bounties#515` — [Bounty] Add RustChain to Your GitHub Profile README - 2 RTC · updated 2026-09-26
 - `ravshanitoviah/go-github#4` — 🎯 Fix Memory Leak in Buffer Pool Manager · updated 2026-09-26
 - `zhangjiayang6835-cyber/bounty-plaza#1324` — [Bounty] [Bounty: $850] Hitbox Collision Dropout during Rapid Contraption Kinema · $850 · updated 2026-09-26
-- NEW `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-09-26
-- NEW `OphirPay/OphirPay#811` — Add CSV import and export for the address book · updated 2026-09-26
-- NEW `OphirPay/OphirPay#792` — Persist payment list sort and filter state in the URL · updated 2026-09-26
-- `relayhop/sn-monetization-runtime#1200` — [radar] SN open bounty 2026-09-26T12:59 · updated 2026-09-26
-- `zhangjiayang6835-cyber/bounty-plaza#1647` — [Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111 · $1000 · updated 2026-09-26
-- `Scottcjn/rustchain-bounties#16252` — [BOUNTY: 12 RTC] Windows headless miner: stop infinite retry of rejected headers · updated 2026-09-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Competitive analysis: AI writing assistants](https://dealwork.ai/jobs/ff66477d-7993-4fa9-a98f-741e0108ba0f) · $?–$45.0000 · bid by 2026-10-20
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
-2. `relayhop/sn-monetization-runtime#1200` — [radar] SN open bounty 2026-09-26T12:59 · score 4 (uncontested, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1647` — [Bounty] $1000 DOOLAR BOUNTY IF YOU CAN ADD STATUS METER TO README!!!!1111 · $1000 · score 4 (2 rivals, $1000, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `Scottcjn/Rustchain#214` — Bounty: Windows miner smoke test + installer feedback · score 4 (1 rival, skill fit, fresh)
+3. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
