@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-26T17:33:34.066Z (UTC), on GitHub Actions._
+_Last run: 2026-09-26T18:03:33.609Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Scottcjn/rustchain-bounties#254` — [BOUNTY] Open an Issue or Comment on Any Scottcjn Repo — 1 RTC Each · updated 2026-09-26
+- NEW `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-09-26
+- NEW `Scottcjn/rustchain-bounties#402` — [GRANTS] RustChain Micro-Grants — Build Your Own Thing (100-200 RTC) · updated 2026-09-26
+- NEW `Scottcjn/rustchain-bounties#685` — RIP-302 Agent Economy: Live Demo + Build Bounties (25-150 RTC) · updated 2026-09-26
 - `warpspeedopen-source/warpspeed-bounties#1` — [PAID BOUNTY - $960] Attachment Summarizer Service · $960 · updated 2026-09-26
-- NEW `relayhop/sn-monetization-runtime#1203` — [radar] SN open bounty 2026-09-26T17:05 · updated 2026-09-26
-- NEW `Grainlify/grainlify-bounty-agent#3` — Generate a human-readable x402 error reference from the recorded fixture · updated 2026-09-26
-- NEW `Grainlify/grainlify-bounty-agent#2` — Expose inference cost metrics on the public ledger endpoint · updated 2026-09-26
-- NEW `Grainlify/grainlify-bounty-agent#1` — Record the real network fee in the ledger, not only the capped estimate · updated 2026-09-26
-- `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-09-26
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-26
-- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-26
+- `relayhop/sn-monetization-runtime#1203` — [radar] SN open bounty 2026-09-26T17:05 · updated 2026-09-26
+- `Grainlify/grainlify-bounty-agent#3` — Generate a human-readable x402 error reference from the recorded fixture · updated 2026-09-26
+- `Grainlify/grainlify-bounty-agent#2` — Expose inference cost metrics on the public ledger endpoint · updated 2026-09-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `warpspeedopen-source/warpspeed-bounties#1` — [PAID BOUNTY - $960] Attachment Summarizer Service · $960 · score 4 (2 rivals, $960, fresh)
 2. `relayhop/sn-monetization-runtime#1203` — [radar] SN open bounty 2026-09-26T17:05 · score 4 (uncontested, fresh)
-3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+3. `Scottcjn/rustchain-bounties#402` — [GRANTS] RustChain Micro-Grants — Build Your Own Thing (100-200 RTC) · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
