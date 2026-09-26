@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-26T06:35:15.060Z (UTC), on GitHub Actions._
+_Last run: 2026-09-26T11:33:33.450Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `OphirPay/OphirPay#734` — Deduplicate the npm ci and prisma generate preamble with a composite action · updated 2026-09-26
-- NEW `Ikalus1988/MisakaNet#2283` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-09-26
-- NEW `Ikalus1988/MisakaNet#2282` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-09-26
-- NEW `Ikalus1988/MisakaNet#2281` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-09-26
-- NEW `Ikalus1988/MisakaNet#2280` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-09-26
-- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-26
-- NEW `OphirPay/OphirPay#691` — compute_vested returns 0 on overflow, silently under-vesting a stream · updated 2026-09-26
-- `OphirPay/OphirPay#697` — CSP still ships 'unsafe-inline' for scripts; restore a nonce or stop claiming on · updated 2026-09-26
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1324` — [Bounty] [Bounty: $850] Hitbox Collision Dropout during Rapid Contraption Kinema · $850 · updated 2026-09-26
+- NEW `warpspeedopen-source/warpspeed-bounties#6` — [PAID BOUNTY - $660] Enhanced Image Preview · $660 · updated 2026-09-26
+- NEW `warpspeedopen-source/warpspeed-bounties#1` — [PAID BOUNTY - $960] Attachment Summarizer Service · $960 · updated 2026-09-26
+- NEW `OphirPay/OphirPay#807` — Surface refund reason-code analytics in the UI · updated 2026-09-26
+- NEW `OphirPay/OphirPay#808` — Add a governance proposal detail view with vote history and execution state · updated 2026-09-26
+- `OphirPay/OphirPay#813` — Publish a SEP-1 stellar.toml so wallets can discover the deployment · updated 2026-09-26
+- NEW `relayhop/sn-monetization-runtime#1199` — [radar] SN open bounty 2026-09-26T11:16 · updated 2026-09-26
+- NEW `warpspeedopen-source/warpspeed-bounties#7` — [PAID BOUNTY - $660] Note Locking - Biometrics/PIN · $660 · updated 2026-09-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#734` — Deduplicate the npm ci and prisma generate preamble with a composite action · score 4 (1 rival, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#2283` — [Bounty] Answer 2 linked question(s) as a lesson · score 4 (uncontested, fresh)
-3. `Ikalus1988/MisakaNet#2282` — [Bounty] Answer 2 linked question(s) as a lesson · score 4 (uncontested, fresh)
+1. `warpspeedopen-source/warpspeed-bounties#1` — [PAID BOUNTY - $960] Attachment Summarizer Service · $960 · score 4 (2 rivals, $960, fresh)
+2. `relayhop/sn-monetization-runtime#1199` — [radar] SN open bounty 2026-09-26T11:16 · score 4 (uncontested, fresh)
+3. `warpspeedopen-source/warpspeed-bounties#7` — [PAID BOUNTY - $660] Note Locking - Biometrics/PIN · $660 · score 4 (2 rivals, $660, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
