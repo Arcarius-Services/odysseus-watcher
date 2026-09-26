@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-26T15:33:33.278Z (UTC), on GitHub Actions._
+_Last run: 2026-09-26T16:03:33.683Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `OphirPay/OphirPay#817` — Add an automation-platform integration guide with generated payload examples · updated 2026-09-26
-- NEW `OphirPay/OphirPay#818` — Add a Go reference verifier for webhook signatures · updated 2026-09-26
-- NEW `OphirPay/OphirPay#820` — Expose RPC failover state as a health and metrics signal · updated 2026-09-26
-- NEW `OphirPay/OphirPay#815` — Add OpenTelemetry tracing so a payment can be followed across contract, API and  · updated 2026-09-26
-- `Scottcjn/Rustchain#179` — [BOUNTY] Test Windows Miner Bundle win-miner-2026-02 (10 RTC each, Pool: 200 RTC · updated 2026-09-26
-- `Scottcjn/Rustchain#214` — Bounty: Windows miner smoke test + installer feedback · updated 2026-09-26
-- `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-09-26
-- NEW `Scottcjn/rustchain-bounties#254` — [BOUNTY] Open an Issue or Comment on Any Scottcjn Repo — 1 RTC Each · updated 2026-09-26
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-26
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-26
+- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-09-26
+- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-26
+- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-26
+- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-09-26
+- `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-09-26
+- `Scottcjn/rustchain-bounties#9017` — [MAY FLOWERS 🌸 EASY BOUNTY: 2 RTC] Star 3 Elyan Labs Repos + Drop a Flower · updated 2026-09-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Competitive analysis: AI writing assistants](https://dealwork.ai/jobs/ff66477d-7993-4fa9-a98f-741e0108ba0f) · $?–$45.0000 · bid by 2026-10-20
-- NEW [Technical tutorial: Building your first AI agent](https://dealwork.ai/jobs/714d7b0d-3c65-4642-90f2-5f06ebc26ce0) · $?–$30.0000 · bid by 2026-10-20
-- NEW [Create a dataset of AI agent marketplace comparisons](https://dealwork.ai/jobs/c475d33c-2c26-4aaa-962c-bb8a71b35b13) · $?–$35.0000 · bid by 2026-10-20
-- NEW [Write a white paper on AI agent safety](https://dealwork.ai/jobs/cd1d3fa9-0e0d-42b5-a108-7f3421a06986) · $?–$50.0000 · bid by 2026-10-20
-- NEW [Market Research: AI Agent Industry 2026](https://dealwork.ai/jobs/597d61c5-929c-40d5-87c5-1f4c5574de5f) · $?–$40.0000 · bid by 2026-10-20
-- NEW [Technical documentation for REST API](https://dealwork.ai/jobs/5f510685-296c-45d8-89a8-79f2479a71e0) · $?–$50.0000 · bid by 2026-10-10
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Competitive analysis: AI writing assistants](https://dealwork.ai/jobs/ff66477d-7993-4fa9-a98f-741e0108ba0f) · $?–$45.0000 · bid by 2026-10-20
+- [Technical tutorial: Building your first AI agent](https://dealwork.ai/jobs/714d7b0d-3c65-4642-90f2-5f06ebc26ce0) · $?–$30.0000 · bid by 2026-10-20
+- [Create a dataset of AI agent marketplace comparisons](https://dealwork.ai/jobs/c475d33c-2c26-4aaa-962c-bb8a71b35b13) · $?–$35.0000 · bid by 2026-10-20
+- [Write a white paper on AI agent safety](https://dealwork.ai/jobs/cd1d3fa9-0e0d-42b5-a108-7f3421a06986) · $?–$50.0000 · bid by 2026-10-20
+- [Market Research: AI Agent Industry 2026](https://dealwork.ai/jobs/597d61c5-929c-40d5-87c5-1f4c5574de5f) · $?–$40.0000 · bid by 2026-10-20
+- [Technical documentation for REST API](https://dealwork.ai/jobs/5f510685-296c-45d8-89a8-79f2479a71e0) · $?–$50.0000 · bid by 2026-10-10
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#817` — Add an automation-platform integration guide with generated payload examples · score 4 (2 rivals, skill fit, fresh)
-2. `OphirPay/OphirPay#818` — Add a Go reference verifier for webhook signatures · score 4 (2 rivals, skill fit, fresh)
-3. `Scottcjn/Rustchain#214` — Bounty: Windows miner smoke test + installer feedback · score 4 (1 rival, skill fit, fresh)
+1. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+2. `Scottcjn/rustchain-bounties#9017` — [MAY FLOWERS 🌸 EASY BOUNTY: 2 RTC] Star 3 Elyan Labs Repos + Drop a Flower · score 4 (uncontested, fresh)
+3. `OphirPay/OphirPay#818` — Add a Go reference verifier for webhook signatures · score 4 (2 rivals, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
