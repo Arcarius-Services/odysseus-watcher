@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-27T10:44:56.649Z (UTC), on GitHub Actions._
+_Last run: 2026-09-27T15:37:59.365Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-09-27
+- NEW `Ikalus1988/MisakaNet#2282` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-09-27
 - `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-27
-- NEW `iv-org/invidious#5888` — [Bug] Custom emojis are broken · updated 2026-09-27
-- `zhangjiayang6835-cyber/bounty-plaza#952` — [Bounty] [Bounty] Fail-closed Victory Audit on planted auth_bypass · updated 2026-09-27
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-27
 - `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-27
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-27
-- NEW `fastify/fastify#6239` — docs: tutorials introduction · updated 2026-09-27
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-27
+- NEW `Ikalus1988/MisakaNet#2345` — [Test] Round 3 — version/documentation drift hunt: report what the gates cannot  · updated 2026-09-27
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-27
+- NEW `relayhop/sn-monetization-runtime#1208` — [radar] SN open bounty 2026-09-27T13:52 · updated 2026-09-27
+- NEW `Ikalus1988/MisakaNet#1753` — [Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（10 个助手 / 三个断言） · $0 · updated 2026-09-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `fastify/fastify#6239` — docs: tutorials introduction · score 6 (uncontested, skill fit, fresh)
-3. `iv-org/invidious#5888` — [Bug] Custom emojis are broken · score 4 (uncontested, fresh)
+1. `Ikalus1988/MisakaNet#2345` — [Test] Round 3 — version/documentation drift hunt: report what the gates cannot  · score 4 (1 rival, skill fit, fresh)
+2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1208` — [radar] SN open bounty 2026-09-27T13:52 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
