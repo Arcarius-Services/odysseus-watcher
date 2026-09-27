@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-27T15:37:59.365Z (UTC), on GitHub Actions._
+_Last run: 2026-09-27T19:14:58.984Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Ikalus1988/MisakaNet#2282` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-09-27
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-27
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-27
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-27
-- NEW `Ikalus1988/MisakaNet#2345` — [Test] Round 3 — version/documentation drift hunt: report what the gates cannot  · updated 2026-09-27
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-27
-- NEW `relayhop/sn-monetization-runtime#1208` — [radar] SN open bounty 2026-09-27T13:52 · updated 2026-09-27
-- NEW `Ikalus1988/MisakaNet#1753` — [Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（10 个助手 / 三个断言） · $0 · updated 2026-09-27
+- `Grainlify/grainlify-bounty-agent#1` — Record the real network fee in the ledger, not only the capped estimate · updated 2026-09-27
+- `Nexussyn/ai-growth-engine#5` — [AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes · updated 2026-09-27
+- `Nexussyn/ai-growth-engine#3` — [AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue · updated 2026-09-27
+- NEW `flowdriveai/flowpilot#46` — BOUNTY $100: Research about usb host mode on android and reasons and fix for why · $100 · updated 2026-09-27
+- NEW `jahmeergnlt/traefik#1` — 🎯 Fix Race Condition Causing Stale Middleware Chain During Concurrent Provider  · updated 2026-09-27
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-27
+- NEW `relayhop/sn-monetization-runtime#1209` — [radar] SN open bounty 2026-09-27T18:17 · updated 2026-09-27
+- NEW `OphirPay/OphirPay#798` — Build an escrow management UI, since the feature is currently API-only · updated 2026-09-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Competitive analysis: AI writing assistants](https://dealwork.ai/jobs/ff66477d-7993-4fa9-a98f-741e0108ba0f) · $?–$45.0000 · bid by 2026-10-20
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Ikalus1988/MisakaNet#2345` — [Test] Round 3 — version/documentation drift hunt: report what the gates cannot  · score 4 (1 rival, skill fit, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `relayhop/sn-monetization-runtime#1208` — [radar] SN open bounty 2026-09-27T13:52 · score 4 (uncontested, fresh)
+1. `flowdriveai/flowpilot#46` — BOUNTY $100: Research about usb host mode on android and reasons and fix for why · $100 · score 4 (1 rival, $100, fresh)
+2. `relayhop/sn-monetization-runtime#1209` — [radar] SN open bounty 2026-09-27T18:17 · score 4 (uncontested, fresh)
+3. `Grainlify/grainlify-bounty-agent#1` — Record the real network fee in the ledger, not only the capped estimate · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
