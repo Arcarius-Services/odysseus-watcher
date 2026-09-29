@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-29T14:19:44.284Z (UTC), on GitHub Actions._
+_Last run: 2026-09-29T19:37:02.443Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-29
-- NEW `Scottcjn/rustchain-bounties#1577` — [EASY BOUNTY: 2 RTC] Add an Elyan Labs Link to Your Personal Site or Link-in-Bio · updated 2026-09-29
-- NEW `Scottcjn/rustchain-bounties#1109` — [EASY BOUNTY: 1 RTC] BoTTube First Impression — Tell Us What You Think · updated 2026-09-29
-- NEW `tenstorrent/tt-metal#49307` — [Bounty $2500] Command-R bringup using TTNN APIs · $2500 · updated 2026-09-29
-- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-29
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-29
-- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1258` — [BOUNTY] Suggestion #1232 · updated 2026-09-29
-- `Scottcjn/rustchain-bounties#16238` — [BOUNTY: 1 RTC] Star RustChain + 2 ecosystem repos · updated 2026-09-29
+- NEW `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-29
+- NEW `NSPG13/agent-bounties#590` — [META] Earn 1 USDC margin with an agent-discovery bounty · updated 2026-09-29
+- NEW `Nexussyn/ai-growth-engine#5` — [AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes · updated 2026-09-29
+- NEW `Nexussyn/ai-growth-engine#3` — [AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue · updated 2026-09-29
+- NEW `Nexussyn/ai-growth-engine#2` — [AGENT-TASK] Implement referral reward loop — +20% conversion · updated 2026-09-29
+- NEW `Nexussyn/ai-growth-engine#1` — [AGENT-TASK] Implement tiered pricing engine — +30% revenue expected · updated 2026-09-29
+- NEW `Nexussyn/ai-growth-engine#4` — [AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion · updated 2026-09-29
+- `OphirPay/OphirPay#727` — Add a devcontainer so Codespaces and local development match CI · updated 2026-09-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#1109` — [EASY BOUNTY: 1 RTC] BoTTube First Impression — Tell Us What You Think · score 4 (1 rival, skill fit, fresh)
-2. `tenstorrent/tt-metal#49307` — [Bounty $2500] Command-R bringup using TTNN APIs · $2500 · score 4 (2 rivals, $2500, fresh)
-3. `SPLURT-Station/S.P.L.U.R.T-tg#1258` — [BOUNTY] Suggestion #1232 · score 4 (uncontested, fresh)
+1. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+2. `OphirPay/OphirPay#727` — Add a devcontainer so Codespaces and local development match CI · score 2 (1 rival, fresh)
+3. `SPLURT-Station/S.P.L.U.R.T-tg#1261` — [BOUNTY] Suggestion #1247 · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
