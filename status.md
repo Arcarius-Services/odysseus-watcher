@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-28T21:21:56.907Z (UTC), on GitHub Actions._
+_Last run: 2026-09-29T01:14:27.491Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `stashapp/stash#3530` — Support multiple scenes in a single file · updated 2026-09-28
-- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-28
-- NEW `OphirPay/OphirPay#727` — Add a devcontainer so Codespaces and local development match CI · updated 2026-09-28
-- `OphirPay/OphirPay#822` — Publish a CLI or GitHub Action so CI pipelines can create payments · updated 2026-09-28
-- `OphirPay/OphirPay#821` — Add a SEP-24 style anchor deposit and withdrawal flow for fiat on-ramp · updated 2026-09-28
-- `OphirPay/OphirPay#824` — Look up asset metadata so custom assets display their ticker and issuer name · updated 2026-09-28
-- `OphirPay/OphirPay#825` — Recommend transaction fees from Horizon fee statistics instead of a static value · updated 2026-09-28
-- NEW `NSPG13/agent-bounties#1505` — [Bounty] Flower-shaped rainwater collector for a tinaco · updated 2026-09-28
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1697` — [Bounty] [Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP · $1.5 · updated 2026-09-29
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1698` — [Bounty] [Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole · $1.5 · updated 2026-09-29
+- NEW `UniversalAviator420/bounty-sandbox#5` — Bug: add() subtracts instead of adding · updated 2026-09-29
+- `Ikalus1988/MisakaNet#1753` — [Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（10 个助手 / 三个断言） · $0 · updated 2026-09-29
+- NEW `zhangjiayang6835-cyber/bounty-plaza#702` — [Bounty] [BOUNTY] [$25] Open a duplicate of this issue to test our external dupl · $25 · updated 2026-09-28
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-28
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-28
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `stashapp/stash#3530` — Support multiple scenes in a single file · score 4 (uncontested, fresh)
-2. `OphirPay/OphirPay#825` — Recommend transaction fees from Horizon fee statistics instead of a static value · score 4 (2 rivals, skill fit, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#702` — [Bounty] [BOUNTY] [$25] Open a duplicate of this issue to test our external dupl · $25 · score 6 (1 rival, $25, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1697` — [Bounty] [Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP · $1.5 · score 4 (1 rival, $1.5, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#1698` — [Bounty] [Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole · $1.5 · score 4 (1 rival, $1.5, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
