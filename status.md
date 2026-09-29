@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-29T01:14:27.491Z (UTC), on GitHub Actions._
+_Last run: 2026-09-29T07:29:00.609Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1697` — [Bounty] [Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP · $1.5 · updated 2026-09-29
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1698` — [Bounty] [Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole · $1.5 · updated 2026-09-29
-- NEW `UniversalAviator420/bounty-sandbox#5` — Bug: add() subtracts instead of adding · updated 2026-09-29
-- `Ikalus1988/MisakaNet#1753` — [Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（10 个助手 / 三个断言） · $0 · updated 2026-09-29
-- NEW `zhangjiayang6835-cyber/bounty-plaza#702` — [Bounty] [BOUNTY] [$25] Open a duplicate of this issue to test our external dupl · $25 · updated 2026-09-28
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-09-28
-- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-28
-- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-09-28
+- NEW `Scottcjn/rustchain-bounties#2259` — [BOUNTY: 10 RTC] Write about our CVPR 2026 acceptance on any platform · updated 2026-09-29
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-29
+- NEW `Scottcjn/rustchain-bounties#1575` — Register in Ecosystem Contributors — 3 RTC per registration · updated 2026-09-29
+- NEW `Scottcjn/rustchain-bounties#515` — [Bounty] Add RustChain to Your GitHub Profile README - 2 RTC · updated 2026-09-29
+- NEW `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-09-29
+- NEW `Scottcjn/rustchain-bounties#727` — [BOUNTY: 5 RTC] Write a Comparison Article — RustChain vs Other Chains · updated 2026-09-29
+- NEW `Nexussyn/ai-growth-platform#4` — 🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout · updated 2026-09-29
+- NEW `zhangjiayang6835-cyber/bounty-plaza#834` — [Bounty] [3 USDC][Open Competition V2] Map the shortest discovery path for eight · updated 2026-09-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#702` — [Bounty] [BOUNTY] [$25] Open a duplicate of this issue to test our external dupl · $25 · score 6 (1 rival, $25, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1697` — [Bounty] [Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP · $1.5 · score 4 (1 rival, $1.5, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1698` — [Bounty] [Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole · $1.5 · score 4 (1 rival, $1.5, fresh)
+1. `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · score 4 (1 rival, $900, fresh)
+2. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
+3. `OphirPay/OphirPay#727` — Add a devcontainer so Codespaces and local development match CI · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
