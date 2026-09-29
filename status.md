@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-29T07:29:00.609Z (UTC), on GitHub Actions._
+_Last run: 2026-09-29T14:19:44.284Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#2259` — [BOUNTY: 10 RTC] Write about our CVPR 2026 acceptance on any platform · updated 2026-09-29
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-29
-- NEW `Scottcjn/rustchain-bounties#1575` — Register in Ecosystem Contributors — 3 RTC per registration · updated 2026-09-29
-- NEW `Scottcjn/rustchain-bounties#515` — [Bounty] Add RustChain to Your GitHub Profile README - 2 RTC · updated 2026-09-29
-- NEW `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-09-29
-- NEW `Scottcjn/rustchain-bounties#727` — [BOUNTY: 5 RTC] Write a Comparison Article — RustChain vs Other Chains · updated 2026-09-29
-- NEW `Nexussyn/ai-growth-platform#4` — 🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout · updated 2026-09-29
-- NEW `zhangjiayang6835-cyber/bounty-plaza#834` — [Bounty] [3 USDC][Open Competition V2] Map the shortest discovery path for eight · updated 2026-09-29
+- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-09-29
+- NEW `Scottcjn/rustchain-bounties#1577` — [EASY BOUNTY: 2 RTC] Add an Elyan Labs Link to Your Personal Site or Link-in-Bio · updated 2026-09-29
+- NEW `Scottcjn/rustchain-bounties#1109` — [EASY BOUNTY: 1 RTC] BoTTube First Impression — Tell Us What You Think · updated 2026-09-29
+- NEW `tenstorrent/tt-metal#49307` — [Bounty $2500] Command-R bringup using TTNN APIs · $2500 · updated 2026-09-29
+- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-09-29
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-29
+- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1258` — [BOUNTY] Suggestion #1232 · updated 2026-09-29
+- `Scottcjn/rustchain-bounties#16238` — [BOUNTY: 1 RTC] Star RustChain + 2 ecosystem repos · updated 2026-09-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · score 4 (1 rival, $900, fresh)
-2. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
-3. `OphirPay/OphirPay#727` — Add a devcontainer so Codespaces and local development match CI · score 2 (1 rival, fresh)
+1. `Scottcjn/rustchain-bounties#1109` — [EASY BOUNTY: 1 RTC] BoTTube First Impression — Tell Us What You Think · score 4 (1 rival, skill fit, fresh)
+2. `tenstorrent/tt-metal#49307` — [Bounty $2500] Command-R bringup using TTNN APIs · $2500 · score 4 (2 rivals, $2500, fresh)
+3. `SPLURT-Station/S.P.L.U.R.T-tg#1258` — [BOUNTY] Suggestion #1232 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
