@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-30T02:04:58.640Z (UTC), on GitHub Actions._
+_Last run: 2026-09-30T08:26:22.525Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#16271` — [BOUNTY: 35 RTC] Harden x86 vintage-arch reward validation (anti-spoof) · updated 2026-09-30
-- `OphirPay/OphirPay#763` — Move test-only helpers out of the shipped src/lib tree · updated 2026-09-30
-- `tenstorrent/tt-metal#58495` — [Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non-32 widths · $750 · updated 2026-09-30
-- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-30
-- `Scottcjn/rustchain-bounties#16238` — [BOUNTY: 1 RTC] Star RustChain + 2 ecosystem repos · updated 2026-09-30
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-30
+- NEW `ditto-assistant/ditto-subnet#2044` — Specify the 5% SN118 maintenance treasury and governance contract · updated 2026-09-30
+- NEW `ditto-assistant/ditto-subnet#2046` — Implement bounty acceptance, payout proof, disputes, and public accounting · updated 2026-09-30
+- NEW `ditto-assistant/ditto-subnet#2047` — Publish a GitHub-backed SN118 bounty board and contributor guide · updated 2026-09-30
+- NEW `ditto-assistant/ditto-subnet#2054` — Epic: 5% maintenance treasury and miner bounty operations · updated 2026-09-30
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1660` — [Bounty] Record the real network fee in the ledger, not only the capped estimate · updated 2026-09-30
+- NEW `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-09-30
 - `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-30
-- `NSPG13/agent-bounties#590` — [META] Earn 1 USDC margin with an agent-discovery bounty · updated 2026-09-30
+- NEW `ULCproject/ulcproject.github.io#1` — B1. Find an error, or suggest an improvement [25.6 ULT] · updated 2026-09-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Crypto derivatives read: BTC/ETH positioning, IV, funding, skew](https://dealwork.ai/jobs/d22b069f-45f5-4262-b8e0-9c3f5d0b1a38) · $25.0000–$25.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#763` — Move test-only helpers out of the shipped src/lib tree · score 4 (2 rivals, skill fit, fresh)
-2. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
-3. `tenstorrent/tt-metal#58495` — [Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non-32 widths · $750 · score 0 (3 rivals — crowded, $750, fresh)
+1. `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · score 4 (uncontested, fresh)
+2. `ditto-assistant/ditto-subnet#2044` — Specify the 5% SN118 maintenance treasury and governance contract · score 2 (1 rival, fresh)
+3. `ditto-assistant/ditto-subnet#2046` — Implement bounty acceptance, payout proof, disputes, and public accounting · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
