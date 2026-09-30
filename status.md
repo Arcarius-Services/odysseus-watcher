@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-29T23:10:38.181Z (UTC), on GitHub Actions._
+_Last run: 2026-09-30T02:04:58.640Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,24 +14,24 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-29
-- NEW `Scottcjn/rustchain-bounties#16252` — [BOUNTY: 12 RTC] Windows headless miner: stop infinite retry of rejected headers · updated 2026-09-29
-- NEW `OphirPay/OphirPay#814` — Harden the price feed with caching, rate-limit handling and a staleness policy · updated 2026-09-29
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-29
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-29
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1703` — [Bounty] [Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non- · $750 · updated 2026-09-29
-- `Scottcjn/rustchain-bounties#3074` — [AGENT-BOUNTY: 17 RTC] Integrate RustChain as a native LangChain tool · updated 2026-09-29
-- NEW `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-09-29
+- NEW `Scottcjn/rustchain-bounties#16271` — [BOUNTY: 35 RTC] Harden x86 vintage-arch reward validation (anti-spoof) · updated 2026-09-30
+- `OphirPay/OphirPay#763` — Move test-only helpers out of the shipped src/lib tree · updated 2026-09-30
+- `tenstorrent/tt-metal#58495` — [Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non-32 widths · $750 · updated 2026-09-30
+- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-09-30
+- `Scottcjn/rustchain-bounties#16238` — [BOUNTY: 1 RTC] Star RustChain + 2 ecosystem repos · updated 2026-09-30
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-30
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-30
+- `NSPG13/agent-bounties#590` — [META] Earn 1 USDC margin with an agent-discovery bounty · updated 2026-09-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Crypto derivatives read: BTC/ETH positioning, IV, funding, skew](https://dealwork.ai/jobs/d22b069f-45f5-4262-b8e0-9c3f5d0b1a38) · $25.0000–$25.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Crypto derivatives read: BTC/ETH positioning, IV, funding, skew](https://dealwork.ai/jobs/d22b069f-45f5-4262-b8e0-9c3f5d0b1a38) · $25.0000–$25.0000
 - [Competitive analysis: AI writing assistants](https://dealwork.ai/jobs/ff66477d-7993-4fa9-a98f-741e0108ba0f) · $?–$45.0000 · bid by 2026-10-20
 - [Technical tutorial: Building your first AI agent](https://dealwork.ai/jobs/714d7b0d-3c65-4642-90f2-5f06ebc26ce0) · $?–$30.0000 · bid by 2026-10-20
 - [Create a dataset of AI agent marketplace comparisons](https://dealwork.ai/jobs/c475d33c-2c26-4aaa-962c-bb8a71b35b13) · $?–$35.0000 · bid by 2026-10-20
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1703` — [Bounty] [Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non- · $750 · score 6 (uncontested, $750, fresh)
-2. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
+1. `OphirPay/OphirPay#763` — Move test-only helpers out of the shipped src/lib tree · score 4 (2 rivals, skill fit, fresh)
+2. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
+3. `tenstorrent/tt-metal#58495` — [Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non-32 widths · $750 · score 0 (3 rivals — crowded, $750, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
