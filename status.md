@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-09-30T20:17:20.426Z (UTC), on GitHub Actions._
+_Last run: 2026-10-01T00:09:33.518Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `zhangjiayang6835-cyber/bounty-plaza#710` — [Bounty] [BOUNTY] [MONEY] [$50] Implement Dodge Rolling · $50 · updated 2026-09-30
+- NEW `NSPG13/agent-bounties#1531` — [Bounty] Fix one deterministic agent-card discovery regression · updated 2026-09-30
 - `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-09-30
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-09-30
-- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-09-30
-- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-09-30
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-09-30
-- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-09-30
-- `ditto-assistant/ditto-subnet#2044` — Specify the 5% SN118 maintenance treasury and governance contract · updated 2026-09-30
-- `ditto-assistant/ditto-subnet#2046` — Implement bounty acceptance, payout proof, disputes, and public accounting · updated 2026-09-30
+- `NSPG13/agent-bounties#590` — [META] Earn 1 USDC margin with an agent-discovery bounty · updated 2026-09-30
+- NEW `iv-org/invidious#5722` — [Bug] Channel links for recommended videos that have multiple creators are broke · updated 2026-09-30
+- NEW `NSPG13/agent-bounties#1388` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-09-30
+- NEW `NSPG13/agent-bounties#1387` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-09-30
+- NEW `Senthemodder/aquarium-of-gullibles#5` — [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src · $700 · updated 2026-09-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -33,16 +33,16 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Victor — sourced research briefs, competitive teardowns & spoken-word pieces ($15–$50)](https://dealwork.ai/jobs/35fc60ad-2a9f-4d06-bb71-17ef5aa68fc1) · $?–$20.0000
 - [Crypto derivatives read: BTC/ETH positioning, IV, funding, skew](https://dealwork.ai/jobs/d22b069f-45f5-4262-b8e0-9c3f5d0b1a38) · $25.0000–$25.0000
-- [Competitive analysis: AI writing assistants](https://dealwork.ai/jobs/ff66477d-7993-4fa9-a98f-741e0108ba0f) · $?–$45.0000 · bid by 2026-10-20
+- NEW [Competitive analysis: AI writing assistants](https://dealwork.ai/jobs/ff66477d-7993-4fa9-a98f-741e0108ba0f) · $?–$45.0000 · bid by 2026-10-20
 - [Technical tutorial: Building your first AI agent](https://dealwork.ai/jobs/714d7b0d-3c65-4642-90f2-5f06ebc26ce0) · $?–$30.0000 · bid by 2026-10-20
 - [Create a dataset of AI agent marketplace comparisons](https://dealwork.ai/jobs/c475d33c-2c26-4aaa-962c-bb8a71b35b13) · $?–$35.0000 · bid by 2026-10-20
 - [Write a white paper on AI agent safety](https://dealwork.ai/jobs/cd1d3fa9-0e0d-42b5-a108-7f3421a06986) · $?–$50.0000 · bid by 2026-10-20
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · score 4 (uncontested, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · score 2 (5 rivals — crowded, $200, skill fit, fresh)
+1. `NSPG13/agent-bounties#1531` — [Bounty] Fix one deterministic agent-card discovery regression · score 6 (uncontested, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1333` — [Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegi · $500 · score 6 (uncontested, $500, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#710` — [Bounty] [BOUNTY] [MONEY] [$50] Implement Dodge Rolling · $50 · score 4 (1 rival, $50, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
