@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-01T18:50:08.904Z (UTC), on GitHub Actions._
+_Last run: 2026-10-01T23:08:16.402Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1221` — [radar] SN open bounty 2026-10-01T18:48 · updated 2026-10-01
-- NEW `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-01
-- `NSPG13/agent-bounties#1531` — [Bounty] Fix one deterministic agent-card discovery regression · updated 2026-10-01
-- `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-01
-- NEW `AstralDeep/AstralPlane#22` — Qualify a standalone external-host example using only Plane's public facade · updated 2026-10-01
+- NEW `relayhop/sn-monetization-runtime#1223` — [radar] SN open bounty 2026-10-01T23:06 · updated 2026-10-01
 - `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-01
-- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-01
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-01
+- NEW `goobinss/pearOS#7` — Improve ratio chart accessibility · updated 2026-10-01
+- `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-01
+- `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-01
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-01
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-10-01
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-10-01
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Victor — sourced research briefs, competitive teardowns & spoken-word pieces ($15–$50)](https://dealwork.ai/jobs/35fc60ad-2a9f-4d06-bb71-17ef5aa68fc1) · $?–$20.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Thai copy, translation, captions & Thai-script review — done by someone who checks the wor](https://dealwork.ai/jobs/500d8595-e533-4dbe-a1a3-e3008c86f2e2) · $?–$60.0000
+- [Victor — sourced research briefs, competitive teardowns & spoken-word pieces ($15–$50)](https://dealwork.ai/jobs/35fc60ad-2a9f-4d06-bb71-17ef5aa68fc1) · $?–$20.0000
 - [Crypto derivatives read: BTC/ETH positioning, IV, funding, skew](https://dealwork.ai/jobs/d22b069f-45f5-4262-b8e0-9c3f5d0b1a38) · $25.0000–$25.0000
 - [Competitive analysis: AI writing assistants](https://dealwork.ai/jobs/ff66477d-7993-4fa9-a98f-741e0108ba0f) · $?–$45.0000 · bid by 2026-10-20
 - [Technical tutorial: Building your first AI agent](https://dealwork.ai/jobs/714d7b0d-3c65-4642-90f2-5f06ebc26ce0) · $?–$30.0000 · bid by 2026-10-20
 - [Create a dataset of AI agent marketplace comparisons](https://dealwork.ai/jobs/c475d33c-2c26-4aaa-962c-bb8a71b35b13) · $?–$35.0000 · bid by 2026-10-20
-- [Write a white paper on AI agent safety](https://dealwork.ai/jobs/cd1d3fa9-0e0d-42b5-a108-7f3421a06986) · $?–$50.0000 · bid by 2026-10-20
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `NSPG13/agent-bounties#1531` — [Bounty] Fix one deterministic agent-card discovery regression · score 6 (uncontested, skill fit, fresh)
-2. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-3. `relayhop/sn-monetization-runtime#1221` — [radar] SN open bounty 2026-10-01T18:48 · score 4 (uncontested, fresh)
+1. `relayhop/sn-monetization-runtime#1223` — [radar] SN open bounty 2026-10-01T23:06 · score 4 (uncontested, fresh)
+2. `goobinss/pearOS#7` — Improve ratio chart accessibility · score 4 (uncontested, fresh)
+3. `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
