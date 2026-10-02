@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-02T08:26:46.365Z (UTC), on GitHub Actions._
+_Last run: 2026-10-02T14:57:30.794Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `tenstorrent/tt-metal#58986` — [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow · $1,000 · updated 2026-10-02
+- `AstralDeep/AstralPlane#22` — Qualify a standalone external-host example using only Plane's public facade · updated 2026-10-02
 - `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-02
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-02
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-02
-- NEW `stride3d/stride#24` — Feature: Decals · updated 2026-10-02
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-02
-- `SPLURT-Station/S.P.L.U.R.T-tg#1271` — [BOUNTY] Suggestion #1248 · updated 2026-10-02
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-02
-- NEW `Scottcjn/rustchain-bounties#13226` — [BOUNTY: 7 RTC] Add an llms.txt + GEO entity profile to a RustChain ecosystem re · updated 2026-10-02
+- `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-02
+- NEW `relayhop/sn-monetization-runtime#1231` — [radar] SN open bounty 2026-10-02T12:23 · updated 2026-10-02
+- NEW `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-10-02
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-10-02
+- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-10-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · score 4 (uncontested, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
+1. `tenstorrent/tt-metal#58986` — [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow · $1,000 · score 6 (uncontested, $1,000, fresh)
+2. `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1231` — [radar] SN open bounty 2026-10-02T12:23 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
