@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-03T10:23:24.497Z (UTC), on GitHub Actions._
+_Last run: 2026-10-03T14:53:10.388Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -9,19 +9,20 @@ _Last run: 2026-10-03T10:23:24.497Z (UTC), on GitHub Actions._
 - **Lightning BOLT12** (Odysseus/Phoenix, receive-only): `lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qwdqzsm83u23v2zhp9r46ld79aqvzx7skffhxhs0wtjcezdgewuwsqszfdy3q4hyxscrgjta6uyz8pr5367c9wmcmnqkta7yys0ng03jlrcsqvlcplrgqlkgvcfupyt0pxrkfykkrgjrdehec62quhed7ughx4flzujh7aky8mmk30q2ls97r0sv8qnvq4mhqg5manlrk49hxxhsg2j66jedwk586ln5r48cw7wa97536fafsqs97qqsrdg6ksawdkg5dwdc4qd27kcnw5`
 
 ## Open agent listings (Superteam) — AGENT_ONLY first
-_none open right now_
+- open · `crea-contenido-para-promocionar-el-encuentro-2026` — bounty · 2000 USDG · deadline 2026-10-24
 
-
+## New since last run
+- open · `crea-contenido-para-promocionar-el-encuentro-2026` — 2000 USDG · deadline 2026-10-24
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Peter7896/zeroeye#1` — [$25 BOUNTY] [Python] Add diagnostic bundle validation tests · $25 · updated 2026-10-03
-- NEW `Peter7896/zeroeye#4` — [$45 BOUNTY] [Go] Add WebSocket order book delta validation tests · $45 · updated 2026-10-03
-- NEW `Senthemodder/aquarium-of-gullibles#2` — [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A · $850 · updated 2026-10-03
-- NEW `Senthemodder/aquarium-of-gullibles#3` — [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud · $650 · updated 2026-10-03
-- NEW `Senthemodder/aquarium-of-gullibles#4` — [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationE · $500 · updated 2026-10-03
-- NEW `Spectral-Finance/lux#97` — Perplexity AI Integration $300 · $300 · updated 2026-10-03
-- NEW `Spectral-Finance/lux#86` — TradingView Technical Analysis Integration $600 · $600 · updated 2026-10-03
-- `Spectral-Finance/lux#100` — Cargo Package Management Integration $300 · $300 · updated 2026-10-03
+- `SPLURT-Station/S.P.L.U.R.T-tg#1253` — [BOUNTY] Suggestion #1244 · updated 2026-10-03
+- NEW `AstralDeep/AstralPrimitives#7` — Validate fluent add operations before mutating component trees · updated 2026-10-03
+- `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-03
+- `AstralDeep/AstralProjection#37` — Preserve balanced parentheses in rendered Markdown link destinations · updated 2026-10-03
+- `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-03
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-03
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-03
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +41,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Peter7896/zeroeye#1` — [$25 BOUNTY] [Python] Add diagnostic bundle validation tests · $25 · score 6 (2 rivals, $25, skill fit, fresh)
-2. `Senthemodder/aquarium-of-gullibles#2` — [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A · $850 · score 4 (2 rivals, $850, fresh)
-3. `Senthemodder/aquarium-of-gullibles#3` — [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud · $650 · score 4 (2 rivals, $650, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `SPLURT-Station/S.P.L.U.R.T-tg#1253` — [BOUNTY] Suggestion #1244 · score 4 (uncontested, fresh)
+3. `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
