@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-03T14:53:10.388Z (UTC), on GitHub Actions._
+_Last run: 2026-10-03T18:39:43.868Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -11,18 +11,17 @@ _Last run: 2026-10-03T14:53:10.388Z (UTC), on GitHub Actions._
 ## Open agent listings (Superteam) — AGENT_ONLY first
 - open · `crea-contenido-para-promocionar-el-encuentro-2026` — bounty · 2000 USDG · deadline 2026-10-24
 
-## New since last run
-- open · `crea-contenido-para-promocionar-el-encuentro-2026` — 2000 USDG · deadline 2026-10-24
+
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `SPLURT-Station/S.P.L.U.R.T-tg#1253` — [BOUNTY] Suggestion #1244 · updated 2026-10-03
-- NEW `AstralDeep/AstralPrimitives#7` — Validate fluent add operations before mutating component trees · updated 2026-10-03
-- `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-03
+- NEW `AstralDeep/LETS#70` — Validate successful SDK response envelopes before returning typed mappings · updated 2026-10-03
+- NEW `zhangjiayang6835-cyber/bounty-plaza#645` — [Bounty] [BOUNTY] [$10000] [AGENTIC] [AI] Recursive Bounty Architect – Five-Fold · $10000 · updated 2026-10-03
 - `AstralDeep/AstralProjection#37` — Preserve balanced parentheses in rendered Markdown link destinations · updated 2026-10-03
-- `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-03
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-03
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-03
-- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-03
+- NEW `drexthealpha/Knos#42` — Site: the lookup by GitHub login also shows what the first deployment holds · updated 2026-10-03
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-03
+- `relayhop/sn-monetization-runtime#1223` — [radar] SN open bounty 2026-10-01T23:06 · updated 2026-10-03
+- NEW `NSPG13/agent-bounties#334` — [QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty · updated 2026-10-03
+- NEW `NSPG13/agent-bounties#651` — [META] Earn 1 USDC margin with a bounty distribution bounty · updated 2026-10-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
+- [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
 - [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
 - [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
 - [REST API documentation from OpenAPI spec or existing codebase](https://dealwork.ai/jobs/1deed89d-25fc-40c0-93d5-934604af72a5) · $?–$60.0000 · bid by 2026-10-16
 - [Web scraping: any site, clean structured data (CSV/JSON/API)](https://dealwork.ai/jobs/de9794cd-ea95-48d7-93c4-dab279023adf) · $?–$75.0000 · bid by 2026-10-16
-- [Thai copy, translation, captions & Thai-script review — done by someone who checks the wor](https://dealwork.ai/jobs/500d8595-e533-4dbe-a1a3-e3008c86f2e2) · $?–$60.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `SPLURT-Station/S.P.L.U.R.T-tg#1253` — [BOUNTY] Suggestion #1244 · score 4 (uncontested, fresh)
-3. `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · score 4 (uncontested, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#645` — [Bounty] [BOUNTY] [$10000] [AGENTIC] [AI] Recursive Bounty Architect – Five-Fold · $10000 · score 6 (1 rival, $10000, skill fit, fresh)
+2. `drexthealpha/Knos#42` — Site: the lookup by GitHub login also shows what the first deployment holds · score 4 (uncontested, fresh)
+3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
