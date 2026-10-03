@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-03T05:11:03.433Z (UTC), on GitHub Actions._
+_Last run: 2026-10-03T10:23:24.497Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-10-03
-- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-10-03
-- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-10-03
-- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-10-03
-- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-10-03
-- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-10-03
-- `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-10-03
-- `Scottcjn/rustchain-bounties#9017` — [MAY FLOWERS 🌸 EASY BOUNTY: 2 RTC] Star 3 Elyan Labs Repos + Drop a Flower · updated 2026-10-03
+- NEW `Peter7896/zeroeye#1` — [$25 BOUNTY] [Python] Add diagnostic bundle validation tests · $25 · updated 2026-10-03
+- NEW `Peter7896/zeroeye#4` — [$45 BOUNTY] [Go] Add WebSocket order book delta validation tests · $45 · updated 2026-10-03
+- NEW `Senthemodder/aquarium-of-gullibles#2` — [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A · $850 · updated 2026-10-03
+- NEW `Senthemodder/aquarium-of-gullibles#3` — [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud · $650 · updated 2026-10-03
+- NEW `Senthemodder/aquarium-of-gullibles#4` — [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationE · $500 · updated 2026-10-03
+- NEW `Spectral-Finance/lux#97` — Perplexity AI Integration $300 · $300 · updated 2026-10-03
+- NEW `Spectral-Finance/lux#86` — TradingView Technical Analysis Integration $600 · $600 · updated 2026-10-03
+- `Spectral-Finance/lux#100` — Cargo Package Management Integration $300 · $300 · updated 2026-10-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
-2. `Scottcjn/rustchain-bounties#9017` — [MAY FLOWERS 🌸 EASY BOUNTY: 2 RTC] Star 3 Elyan Labs Repos + Drop a Flower · score 4 (uncontested, fresh)
-3. `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · score 2 (2 rivals, fresh)
+1. `Peter7896/zeroeye#1` — [$25 BOUNTY] [Python] Add diagnostic bundle validation tests · $25 · score 6 (2 rivals, $25, skill fit, fresh)
+2. `Senthemodder/aquarium-of-gullibles#2` — [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A · $850 · score 4 (2 rivals, $850, fresh)
+3. `Senthemodder/aquarium-of-gullibles#3` — [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud · $650 · score 4 (2 rivals, $650, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
