@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-04T12:49:53.784Z (UTC), on GitHub Actions._
+_Last run: 2026-10-04T17:32:49.202Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,21 +14,21 @@ _Last run: 2026-10-04T12:49:53.784Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Ikalus1988/MisakaNet#2836` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-04
-- NEW `Ikalus1988/MisakaNet#2837` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-04
-- NEW `Ikalus1988/MisakaNet#2835` — [Bounty] Answer 5 linked question(s) as a lesson · updated 2026-10-04
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-04
-- NEW `SecureBananaLabs/bug-bounty#2835` — Reject inverted job budget ranges in job validation · updated 2026-10-04
-- NEW `SecureBananaLabs/bug-bounty#2845` — registerUser access token can reference a different user id · updated 2026-10-04
-- `zhangjiayang6835-cyber/bounty-plaza#1728` — [Bounty] [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow · $1,000 · updated 2026-10-04
-- `relayhop/sn-monetization-runtime#1238` — [radar] SN open bounty 2026-10-02T21:16 · updated 2026-10-04
+- `Ikalus1988/MisakaNet#2836` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-04
+- NEW `warpspeedopen-source/warpspeed-bounties#2` — [PAID BOUNTY - $330] Email Inbox Classic View Page UI · $330 · updated 2026-10-04
+- NEW `warpspeedopen-source/warpspeed-bounties#9` — [PAID BOUNTY - $750] Audio Note Recording · $750 · updated 2026-10-04
+- NEW `warpspeedopen-source/warpspeed-bounties#7` — [PAID BOUNTY - $660] Note Locking - Biometrics/PIN · $660 · updated 2026-10-04
+- NEW `warpspeedopen-source/warpspeed-bounties#6` — [PAID BOUNTY - $660] Enhanced Image Preview · $660 · updated 2026-10-04
+- NEW `warpspeedopen-source/warpspeed-bounties#5` — [PAID BOUNTY - $660] Inline Image Editing · $660 · updated 2026-10-04
+- NEW `warpspeedopen-source/warpspeed-bounties#3` — [PAID BOUNTY - $440] Messenger Group Chat Poll Creation & Voting UI · $440 · updated 2026-10-04
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-10-04
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Ikalus1988/MisakaNet#2836` — [Bounty] Answer 3 linked question(s) as a lesson · score 4 (uncontested, fresh)
-2. `Ikalus1988/MisakaNet#2837` — [Bounty] Answer 3 linked question(s) as a lesson · score 4 (uncontested, fresh)
-3. `Ikalus1988/MisakaNet#2835` — [Bounty] Answer 5 linked question(s) as a lesson · score 4 (uncontested, fresh)
+1. `warpspeedopen-source/warpspeed-bounties#9` — [PAID BOUNTY - $750] Audio Note Recording · $750 · score 4 (2 rivals, $750, fresh)
+2. `warpspeedopen-source/warpspeed-bounties#7` — [PAID BOUNTY - $660] Note Locking - Biometrics/PIN · $660 · score 4 (2 rivals, $660, fresh)
+3. `warpspeedopen-source/warpspeed-bounties#3` — [PAID BOUNTY - $440] Messenger Group Chat Poll Creation & Voting UI · $440 · score 4 (2 rivals, $440, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
