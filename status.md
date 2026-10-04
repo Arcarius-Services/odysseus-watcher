@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-03T21:44:20.411Z (UTC), on GitHub Actions._
+_Last run: 2026-10-04T00:33:18.246Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-03T21:44:20.411Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-03
-- NEW `tenstorrent/tt-metal#58495` — [Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non-32 widths · $750 · updated 2026-10-03
-- NEW `Scottcjn/rustchain-bounties#16248` — [BOUNTY: 5 RTC] Fix ALL broken README/doc links in Scottcjn/Rustchain + add link · updated 2026-10-03
-- NEW `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-10-03
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1634` — [Bounty] [Bounty] Fix one deterministic agent-card discovery regression · updated 2026-10-03
-- NEW `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · updated 2026-10-03
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1214` — [Bounty] [Bounty: $350] Migrate Ethereum Smart Contract from IPv4 to IPv6 · $350 · updated 2026-10-03
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1208` — [Bounty] [Bounty: $400] Script API Custom Slash Command Throws Unhandled Startup · $400 · updated 2026-10-03
+- NEW `priyanshudumps/fuel-agent-kit#1` — add a python version of the kit · updated 2026-10-04
+- NEW `coopfinance/coopfin-contracts#6` — [Contracts] Implement admin transfer (transfer_admin) in all 5 contracts · updated 2026-10-04
+- NEW `cocohub-mobileapp/cocohub-main#50` — Fix: SOS button not accessible on Android lock screen · updated 2026-10-04
+- `AstralDeep/AstralPrimitives#14` — Qualify source-distribution installs as independent consumer artifacts · updated 2026-10-04
+- NEW `zhangjiayang6835-cyber/bounty-plaza#807` — [Bounty] [FEAT] Add wallet integration support for Freighter and Stellar Kit · updated 2026-10-03
+- NEW `Nobayprotocol/Nobay-Protocol#3` — Add Hardhat test suite for ListingRegistry.sol · updated 2026-10-03
+- NEW `Bitcoindefi/OpenAO#6` — Etapa 1: registrar PNG subidos como graficos del motor y extender la paleta · updated 2026-10-03
+- NEW `Vikingr2023/awesome-agent-bounties#219` — [Scottcjn/rustchain-bounties] [ONBOARD: 3 RTC] Compare RustChain to Another Bloc · updated 2026-10-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · score 4 (uncontested, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1214` — [Bounty] [Bounty: $350] Migrate Ethereum Smart Contract from IPv4 to IPv6 · $350 · score 4 (1 rival, $350, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1208` — [Bounty] [Bounty: $400] Script API Custom Slash Command Throws Unhandled Startup · $400 · score 4 (1 rival, $400, fresh)
+1. `ANAVHEOBA/PrivacyLayer#309` — ZK-065: Run all ZK tests, rebuild checks, and artifact hash validation in CI · score 4 (1 rival, skill fit, fresh)
+2. `priyanshudumps/fuel-agent-kit#1` — add a python version of the kit · score 2 (2 rivals, fresh)
+3. `coopfinance/coopfin-contracts#6` — [Contracts] Implement admin transfer (transfer_admin) in all 5 contracts · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
