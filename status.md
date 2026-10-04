@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-04T00:33:18.246Z (UTC), on GitHub Actions._
+_Last run: 2026-10-04T06:18:03.752Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-04T00:33:18.246Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `priyanshudumps/fuel-agent-kit#1` — add a python version of the kit · updated 2026-10-04
-- NEW `coopfinance/coopfin-contracts#6` — [Contracts] Implement admin transfer (transfer_admin) in all 5 contracts · updated 2026-10-04
-- NEW `cocohub-mobileapp/cocohub-main#50` — Fix: SOS button not accessible on Android lock screen · updated 2026-10-04
-- `AstralDeep/AstralPrimitives#14` — Qualify source-distribution installs as independent consumer artifacts · updated 2026-10-04
-- NEW `zhangjiayang6835-cyber/bounty-plaza#807` — [Bounty] [FEAT] Add wallet integration support for Freighter and Stellar Kit · updated 2026-10-03
-- NEW `Nobayprotocol/Nobay-Protocol#3` — Add Hardhat test suite for ListingRegistry.sol · updated 2026-10-03
-- NEW `Bitcoindefi/OpenAO#6` — Etapa 1: registrar PNG subidos como graficos del motor y extender la paleta · updated 2026-10-03
-- NEW `Vikingr2023/awesome-agent-bounties#219` — [Scottcjn/rustchain-bounties] [ONBOARD: 3 RTC] Compare RustChain to Another Bloc · updated 2026-10-03
+- NEW `Scottcjn/rustchain-bounties#520` — [Achievement] Bug Hunter - Find a Real Bug - 2 RTC · updated 2026-10-04
+- NEW `Scottcjn/rustchain-bounties#1102` — [EASY BOUNTY: 2-3 RTC] Find and Report a BoTTube Bug · updated 2026-10-04
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-04
+- NEW `SecureBananaLabs/bug-bounty#2885` — Calculate the exact value of PI · updated 2026-10-04
+- NEW `AstralDeep/AstralPrimitives#13` — Make the exported ChartDataset helper directly usable by chart constructors · updated 2026-10-04
+- NEW `Bitcoindefi/OpenAO#25` — Etapa 5: flujo de propuesta y moderacion de mapas de usuario · updated 2026-10-04
+- NEW `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-10-04
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-10-04
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `ANAVHEOBA/PrivacyLayer#309` — ZK-065: Run all ZK tests, rebuild checks, and artifact hash validation in CI · score 4 (1 rival, skill fit, fresh)
-2. `priyanshudumps/fuel-agent-kit#1` — add a python version of the kit · score 2 (2 rivals, fresh)
-3. `coopfinance/coopfin-contracts#6` — [Contracts] Implement admin transfer (transfer_admin) in all 5 contracts · score 2 (1 rival, fresh)
+1. `Scottcjn/rustchain-bounties#1102` — [EASY BOUNTY: 2-3 RTC] Find and Report a BoTTube Bug · score 4 (1 rival, skill fit, fresh)
+2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
