@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-04T20:23:43.795Z (UTC), on GitHub Actions._
+_Last run: 2026-10-04T23:34:34.021Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-04T20:23:43.795Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Nexussyn/ai-growth-engine#5` — [AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes · updated 2026-10-04
-- NEW `Nexussyn/ai-growth-engine#4` — [AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion · updated 2026-10-04
-- `cocohub-mobileapp/cocohub-main#50` — Fix: SOS button not accessible on Android lock screen · updated 2026-10-04
-- NEW `Nexussyn/ai-growth-engine#3` — [AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue · updated 2026-10-04
-- NEW `relayhop/sn-monetization-runtime#1251` — [radar] SN open bounty 2026-10-04T18:05 · updated 2026-10-04
+- `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-10-04
+- NEW `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-10-04
+- NEW `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · updated 2026-10-04
 - `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-10-04
-- `Ikalus1988/MisakaNet#2836` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-04
-- `warpspeedopen-source/warpspeed-bounties#2` — [PAID BOUNTY - $330] Email Inbox Classic View Page UI · $330 · updated 2026-10-04
+- NEW `relayhop/sn-monetization-runtime#1252` — [radar] SN open bounty 2026-10-04T21:17 · updated 2026-10-04
+- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-10-04
+- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-10-04
+- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-10-04
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,17 +32,17 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
-- NEW [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
-- NEW [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
-- NEW [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
-- NEW [REST API documentation from OpenAPI spec or existing codebase](https://dealwork.ai/jobs/1deed89d-25fc-40c0-93d5-934604af72a5) · $?–$60.0000 · bid by 2026-10-16
-- NEW [Web scraping: any site, clean structured data (CSV/JSON/API)](https://dealwork.ai/jobs/de9794cd-ea95-48d7-93c4-dab279023adf) · $?–$75.0000 · bid by 2026-10-16
+- [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
+- [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
+- [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
+- [REST API documentation from OpenAPI spec or existing codebase](https://dealwork.ai/jobs/1deed89d-25fc-40c0-93d5-934604af72a5) · $?–$60.0000 · bid by 2026-10-16
+- [Web scraping: any site, clean structured data (CSV/JSON/API)](https://dealwork.ai/jobs/de9794cd-ea95-48d7-93c4-dab279023adf) · $?–$75.0000 · bid by 2026-10-16
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `relayhop/sn-monetization-runtime#1251` — [radar] SN open bounty 2026-10-04T18:05 · score 4 (uncontested, fresh)
-2. `warpspeedopen-source/warpspeed-bounties#9` — [PAID BOUNTY - $750] Audio Note Recording · $750 · score 4 (2 rivals, $750, fresh)
-3. `warpspeedopen-source/warpspeed-bounties#7` — [PAID BOUNTY - $660] Note Locking - Biometrics/PIN · $660 · score 4 (2 rivals, $660, fresh)
+1. `Scottcjn/rustchain-bounties#100` — [BOUNTY] Discovery Mode — Find Elyan Labs Software, Open PRs, Earn RTC · score 4 (uncontested, fresh)
+2. `relayhop/sn-monetization-runtime#1252` — [radar] SN open bounty 2026-10-04T21:17 · score 4 (uncontested, fresh)
+3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
