@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-04T06:18:03.752Z (UTC), on GitHub Actions._
+_Last run: 2026-10-04T12:49:53.784Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-04T06:18:03.752Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#520` — [Achievement] Bug Hunter - Find a Real Bug - 2 RTC · updated 2026-10-04
-- NEW `Scottcjn/rustchain-bounties#1102` — [EASY BOUNTY: 2-3 RTC] Find and Report a BoTTube Bug · updated 2026-10-04
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-04
-- NEW `SecureBananaLabs/bug-bounty#2885` — Calculate the exact value of PI · updated 2026-10-04
-- NEW `AstralDeep/AstralPrimitives#13` — Make the exported ChartDataset helper directly usable by chart constructors · updated 2026-10-04
-- NEW `Bitcoindefi/OpenAO#25` — Etapa 5: flujo de propuesta y moderacion de mapas de usuario · updated 2026-10-04
-- NEW `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-10-04
-- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-10-04
+- NEW `Ikalus1988/MisakaNet#2836` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-04
+- NEW `Ikalus1988/MisakaNet#2837` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-04
+- NEW `Ikalus1988/MisakaNet#2835` — [Bounty] Answer 5 linked question(s) as a lesson · updated 2026-10-04
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-04
+- NEW `SecureBananaLabs/bug-bounty#2835` — Reject inverted job budget ranges in job validation · updated 2026-10-04
+- NEW `SecureBananaLabs/bug-bounty#2845` — registerUser access token can reference a different user id · updated 2026-10-04
+- `zhangjiayang6835-cyber/bounty-plaza#1728` — [Bounty] [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow · $1,000 · updated 2026-10-04
+- `relayhop/sn-monetization-runtime#1238` — [radar] SN open bounty 2026-10-02T21:16 · updated 2026-10-04
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#1102` — [EASY BOUNTY: 2-3 RTC] Find and Report a BoTTube Bug · score 4 (1 rival, skill fit, fresh)
-2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
-3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+1. `Ikalus1988/MisakaNet#2836` — [Bounty] Answer 3 linked question(s) as a lesson · score 4 (uncontested, fresh)
+2. `Ikalus1988/MisakaNet#2837` — [Bounty] Answer 3 linked question(s) as a lesson · score 4 (uncontested, fresh)
+3. `Ikalus1988/MisakaNet#2835` — [Bounty] Answer 5 linked question(s) as a lesson · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
