@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-05T09:35:10.172Z (UTC), on GitHub Actions._
+_Last run: 2026-10-05T18:48:52.813Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-05T09:35:10.172Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Scottcjn/rustchain-bounties#520` — [Achievement] Bug Hunter - Find a Real Bug - 2 RTC · updated 2026-10-05
-- `SecureBananaLabs/bug-bounty#2850` — upload endpoint accepts empty file submissions as successful uploads · updated 2026-10-05
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-05
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-05
-- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-05
+- NEW `AstralDeep/AstralDeep#294` — Support interrupted installation, upgrade and safe removal · updated 2026-10-05
+- NEW `AstralDeep/AstralDeep#295` — Guide first client connection and configured-service verification · updated 2026-10-05
+- NEW `Ikalus1988/MisakaNet#2874` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-05
+- NEW `Ikalus1988/MisakaNet#2875` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-05
+- NEW `relayhop/sn-monetization-runtime#1256` — [radar] SN open bounty 2026-10-05T15:54 · updated 2026-10-05
 - `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-05
-- NEW `Henry00IS/ShapeEditor#17` — [50$ Bounty] PolyBool can cause an editor crash on T-Junctions · updated 2026-10-05
-- NEW `Scottcjn/rustchain-bounties#256` — [BOUNTY] Fork a Scottcjn Repo — 2 RTC (+1 RTC if you Pin it) · updated 2026-10-05
+- NEW `SecureBananaLabs/bug-bounty#1771` — Upload endpoint lacks authentication — unauthenticated file uploads allowed · updated 2026-10-05
+- NEW `SecureBananaLabs/bug-bounty#1770` — Admin routes lack role-based access control — any authenticated user can access  · updated 2026-10-05
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · score 2 (5 rivals — crowded, $100, skill fit, fresh)
+1. `AstralDeep/AstralDeep#294` — Support interrupted installation, upgrade and safe removal · score 4 (uncontested, fresh)
+2. `AstralDeep/AstralDeep#295` — Guide first client connection and configured-service verification · score 4 (1 rival, skill fit, fresh)
+3. `Ikalus1988/MisakaNet#2874` — [Bounty] Answer 3 linked question(s) as a lesson · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
