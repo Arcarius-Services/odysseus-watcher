@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-06T17:33:13.754Z (UTC), on GitHub Actions._
+_Last run: 2026-10-06T19:47:55.533Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-06T17:33:13.754Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-06
-- `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · updated 2026-10-06
+- NEW `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-10-06
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-06
 - `relayhop/sn-monetization-runtime#1259` — [radar] SN open bounty 2026-10-06T10:06 · updated 2026-10-06
 - `relayhop/sn-monetization-runtime#1260` — [radar] SN open bounty 2026-10-06T13:13 · updated 2026-10-06
-- `mazebench-temp/GreekIndexBounty#62` — [100,000 sats] Odyssey Book 11: complete translation, lexicon, and exhaustive re · updated 2026-10-06
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-06
-- `jakaramelod/go-git#1` — 🎯 Fix Case-Insensitive Path Comparison in `Worktree.Status()` on Case-Insensiti · updated 2026-10-06
-- `muckomdeead/argo-c#1` — 🎯 Differentiate GitHub API Failures from Missing Webhooks to Prevent Erroneous  · updated 2026-10-06
+- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-06
+- NEW `Scottcjn/rustchain-bounties#402` — [GRANTS] RustChain Micro-Grants — Build Your Own Thing (100-200 RTC) · updated 2026-10-06
+- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-10-06
+- `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · updated 2026-10-06
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
-2. `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · score 4 (2 rivals, skill fit, fresh)
-3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
+3. `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · score 4 (2 rivals, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
