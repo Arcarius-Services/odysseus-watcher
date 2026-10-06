@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-06T14:03:46.963Z (UTC), on GitHub Actions._
+_Last run: 2026-10-06T14:26:56.790Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-06T14:03:46.963Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-06
-- NEW `mazebench-temp/GreekIndexBounty#73` — [100,000 sats] Odyssey Book 22: complete translation, lexicon, and exhaustive re · updated 2026-10-06
-- NEW `mazebench-temp/GreekIndexBounty#74` — [100,000 sats] Odyssey Book 23: complete translation, lexicon, and exhaustive re · updated 2026-10-06
-- NEW `mazebench-temp/GreekIndexBounty#75` — [100,000 sats] Odyssey Book 24: complete translation, lexicon, and exhaustive re · updated 2026-10-06
-- `relayhop/sn-monetization-runtime#1260` — [radar] SN open bounty 2026-10-06T13:13 · updated 2026-10-06
-- `Ikalus1988/MisakaNet#2839` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-06
-- `Ikalus1988/MisakaNet#2875` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-06
-- `Ikalus1988/MisakaNet#2874` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-06
+- NEW `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · updated 2026-10-06
+- NEW `mazebench-temp/GreekIndexBounty#48` — [100,000 sats] Iliad Book 21: complete translation, lexicon, and exhaustive rese · updated 2026-10-06
+- NEW `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · updated 2026-10-06
+- `mazebench-temp/GreekIndexBounty#73` — [100,000 sats] Odyssey Book 22: complete translation, lexicon, and exhaustive re · updated 2026-10-06
+- NEW `auscaster/frantic-board#431` — Frantic bounty #134: Run an Ausca Browser Session end to end and report the proc · updated 2026-10-06
+- NEW `mazebench-temp/GreekIndexBounty#57` — [100,000 sats] Odyssey Book 6: complete translation, lexicon, and exhaustive res · updated 2026-10-06
+- NEW `mazebench-temp/GreekIndexBounty#49` — [100,000 sats] Iliad Book 22: complete translation, lexicon, and exhaustive rese · updated 2026-10-06
+- NEW `mazebench-temp/GreekIndexBounty#50` — [100,000 sats] Iliad Book 23: complete translation, lexicon, and exhaustive rese · updated 2026-10-06
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
-2. `mazebench-temp/GreekIndexBounty#74` — [100,000 sats] Odyssey Book 23: complete translation, lexicon, and exhaustive re · score 4 (uncontested, fresh)
-3. `relayhop/sn-monetization-runtime#1260` — [radar] SN open bounty 2026-10-06T13:13 · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · score 4 (2 rivals, skill fit, fresh)
+3. `mazebench-temp/GreekIndexBounty#48` — [100,000 sats] Iliad Book 21: complete translation, lexicon, and exhaustive rese · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
