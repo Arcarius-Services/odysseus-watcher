@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-06T13:03:43.054Z (UTC), on GitHub Actions._
+_Last run: 2026-10-06T13:33:47.020Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-06T13:03:43.054Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Ikalus1988/MisakaNet#2838` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-06
+- NEW `muckomdeead/argo-c#1` — 🎯 Differentiate GitHub API Failures from Missing Webhooks to Prevent Erroneous  · updated 2026-10-06
+- NEW `condoraltidoi32/cli#1` — 🎯 Fail with descriptive error instead of silently sending unauthenticated API r · updated 2026-10-06
+- NEW `sharmiaalono/go-github#5` — 🎯 Fix pagination inconsistency and parameter handling when `ListOptions.PerPage · updated 2026-10-06
+- NEW `relayhop/sn-monetization-runtime#1260` — [radar] SN open bounty 2026-10-06T13:13 · updated 2026-10-06
+- `Ikalus1988/MisakaNet#2838` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-06
 - `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-10-06
-- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-10-06
-- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-10-06
-- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-10-06
-- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-10-06
-- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-10-06
-- `Scottcjn/rustchain-bounties#165` — Star our ClawHub-published repos (3 RTC) · updated 2026-10-06
+- NEW `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-10-06
+- NEW `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-10-06
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
-2. `Scottcjn/rustchain-bounties#9017` — [MAY FLOWERS 🌸 EASY BOUNTY: 2 RTC] Star 3 Elyan Labs Repos + Drop a Flower · score 4 (uncontested, fresh)
-3. `Ikalus1988/MisakaNet#2838` — [Bounty] Answer 2 linked question(s) as a lesson · score 2 (2 rivals, fresh)
+1. `muckomdeead/argo-c#1` — 🎯 Differentiate GitHub API Failures from Missing Webhooks to Prevent Erroneous  · score 4 (1 rival, skill fit, fresh)
+2. `condoraltidoi32/cli#1` — 🎯 Fail with descriptive error instead of silently sending unauthenticated API r · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1260` — [radar] SN open bounty 2026-10-06T13:13 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
