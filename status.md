@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-05T18:48:52.813Z (UTC), on GitHub Actions._
+_Last run: 2026-10-06T00:45:55.258Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-05T18:48:52.813Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `AstralDeep/AstralDeep#294` — Support interrupted installation, upgrade and safe removal · updated 2026-10-05
-- NEW `AstralDeep/AstralDeep#295` — Guide first client connection and configured-service verification · updated 2026-10-05
-- NEW `Ikalus1988/MisakaNet#2874` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-05
-- NEW `Ikalus1988/MisakaNet#2875` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-05
-- NEW `relayhop/sn-monetization-runtime#1256` — [radar] SN open bounty 2026-10-05T15:54 · updated 2026-10-05
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-05
-- NEW `SecureBananaLabs/bug-bounty#1771` — Upload endpoint lacks authentication — unauthenticated file uploads allowed · updated 2026-10-05
-- NEW `SecureBananaLabs/bug-bounty#1770` — Admin routes lack role-based access control — any authenticated user can access  · updated 2026-10-05
+- `Ikalus1988/MisakaNet#2874` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-06
+- `Ikalus1988/MisakaNet#2875` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-06
+- `relayhop/sn-monetization-runtime#1256` — [radar] SN open bounty 2026-10-05T15:54 · updated 2026-10-06
+- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1282` — [BOUNTY] Suggestion #1264 · updated 2026-10-06
+- NEW `relayhop/sn-monetization-runtime#1257` — [radar] SN open bounty 2026-10-05T22:33 · updated 2026-10-06
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-06
+- `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-10-06
+- `AstralDeep/AstralDeep#295` — Guide first client connection and configured-service verification · updated 2026-10-06
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,7 +31,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 - [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
 - [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
 - [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `AstralDeep/AstralDeep#294` — Support interrupted installation, upgrade and safe removal · score 4 (uncontested, fresh)
-2. `AstralDeep/AstralDeep#295` — Guide first client connection and configured-service verification · score 4 (1 rival, skill fit, fresh)
-3. `Ikalus1988/MisakaNet#2874` — [Bounty] Answer 3 linked question(s) as a lesson · score 4 (uncontested, fresh)
+1. `Ikalus1988/MisakaNet#2874` — [Bounty] Answer 3 linked question(s) as a lesson · score 4 (uncontested, fresh)
+2. `relayhop/sn-monetization-runtime#1256` — [radar] SN open bounty 2026-10-05T15:54 · score 4 (uncontested, fresh)
+3. `SPLURT-Station/S.P.L.U.R.T-tg#1282` — [BOUNTY] Suggestion #1264 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
