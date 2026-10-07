@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-07T05:49:43.371Z (UTC), on GitHub Actions._
+_Last run: 2026-10-07T13:13:45.100Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-07T05:49:43.371Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `quantumchain-core/velodag-core#2` — 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev · $10 · updated 2026-10-07
-- NEW `JuliaGraphs/Graphs.jl#446` — A reliable idiomatic wrapper for the C library `igraphs` [$400] · $400 · updated 2026-10-07
-- `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-10-07
+- NEW `zhangjiayang6835-cyber/bounty-plaza#484` — [Bounty] [claude-builders-bounty/claude-builders-bounty] [BOUNTY $200] WORKFLOW: · $200 · updated 2026-10-07
+- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-07
 - `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-10-07
 - `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-10-07
-- NEW `Scottcjn/rustchain-bounties#12442` — [BOUNTY: 3 RTC] RustChain vs Helium / DePIN Networks Comparison · updated 2026-10-07
 - `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-10-07
 - `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-10-07
+- `Scottcjn/rustchain-bounties#378` — [MICRO-BOUNTY] Star BoTTube Repo - 1 RTC (Pool: 133 RTC) · updated 2026-10-07
+- `Scottcjn/rustchain-bounties#171` — [BOUNTY] Star an Elyan Labs Repo — 55 Repos, Pick Your Favorite (1 RTC) · updated 2026-10-07
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `quantumchain-core/velodag-core#2` — 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev · $10 · score 6 (uncontested, $10, fresh)
-2. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
-3. `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · score 2 (2 rivals, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#484` — [Bounty] [claude-builders-bounty/claude-builders-bounty] [BOUNTY $200] WORKFLOW: · $200 · score 6 (2 rivals, $200, skill fit, fresh)
+2. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
+3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
