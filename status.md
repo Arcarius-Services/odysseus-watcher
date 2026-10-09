@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-09T18:46:45.064Z (UTC), on GitHub Actions._
+_Last run: 2026-10-09T23:12:16.803Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-09T18:46:45.064Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `NSPG13/agent-bounties#590` — [META] Earn 1 USDC margin with an agent-discovery bounty · updated 2026-10-09
-- NEW `AstralDeep/AstralDeep#271` — Capture, pack and recall exact tool observations under feature 093 · updated 2026-10-09
-- NEW `AstralDeep/AstralDeep#346` — Preserve layout and source locations when parsing owned PDF/DOCX attachments · updated 2026-10-09
-- NEW `AstralDeep/AstralDeep#347` — Preserve Gemini tool-continuation metadata through streamed responses · updated 2026-10-09
-- NEW `AstralDeep/AstralDeep#349` — Add a bounded offline prompt-optimization pilot with held-out evaluation · updated 2026-10-09
-- NEW `AstralDeep/AstralDeep#311` — Show why a card button failed when the client is idle · updated 2026-10-09
-- NEW `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-09
-- NEW `tenstorrent/tt-metal#8621` — [Bounty $500] Host Tilizer Optimizations for BFP8/4/2 data-formats · $500 · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#289` — Enforce a persistent owner-scoped local emergency stop · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#337` — Qualify a fail-closed Linux subprocess profile using sandbox-runtime · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#292` — Add a read-only installation and readiness doctor · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#291` — Propagate emergency stop and fence mesh peers on reconnect · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#287` — Enforce owner-managed A2A publication and withdrawal · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#293` — Bootstrap a valid production deployment safely · updated 2026-10-09
+- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-09
+- NEW `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-10-09
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `AstralDeep/AstralDeep#311` — Show why a card button failed when the client is idle · score 6 (uncontested, skill fit, fresh)
-2. `AstralDeep/AstralDeep#271` — Capture, pack and recall exact tool observations under feature 093 · score 4 (uncontested, fresh)
-3. `AstralDeep/AstralDeep#346` — Preserve layout and source locations when parsing owned PDF/DOCX attachments · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+2. `AstralDeep/AstralDeep#289` — Enforce a persistent owner-scoped local emergency stop · score 4 (uncontested, fresh)
+3. `AstralDeep/AstralDeep#337` — Qualify a fail-closed Linux subprocess profile using sandbox-runtime · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
