@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-09T13:08:59.037Z (UTC), on GitHub Actions._
+_Last run: 2026-10-09T18:46:45.064Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-09T13:08:59.037Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-09
-- NEW `SecureBananaLabs/bug-bounty#30` — Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB · updated 2026-10-09
-- `zhangjiayang6835-cyber/bounty-plaza#1828` — [Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev · $10 · updated 2026-10-09
-- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-09
-- `Scottcjn/rustchain-bounties#282` — [BOUNTY] Write a Blog Post About Proof-of-Antiquity — 15 RTC · updated 2026-10-09
-- `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · updated 2026-10-09
-- `Scottcjn/rustchain-bounties#2155` — [EASY BOUNTY: 2 RTC] Leave an Honest Review of BoTTube on ToolPilot.ai · updated 2026-10-09
-- `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-10-09
+- NEW `NSPG13/agent-bounties#590` — [META] Earn 1 USDC margin with an agent-discovery bounty · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#271` — Capture, pack and recall exact tool observations under feature 093 · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#346` — Preserve layout and source locations when parsing owned PDF/DOCX attachments · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#347` — Preserve Gemini tool-continuation metadata through streamed responses · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#349` — Add a bounded offline prompt-optimization pilot with held-out evaluation · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#311` — Show why a card button failed when the client is idle · updated 2026-10-09
+- NEW `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-09
+- NEW `tenstorrent/tt-metal#8621` — [Bounty $500] Host Tilizer Optimizations for BFP8/4/2 data-formats · $500 · updated 2026-10-09
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1828` — [Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev · $10 · score 4 (1 rival, $10, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · score 4 (1 rival, $3,000, fresh)
-3. `Scottcjn/rustchain-bounties#2180` — [BOUNTY: 5 RTC] Create a YouTube or BoTTube video tutorial about any Elyan Labs  · score 4 (1 rival, skill fit, fresh)
+1. `AstralDeep/AstralDeep#311` — Show why a card button failed when the client is idle · score 6 (uncontested, skill fit, fresh)
+2. `AstralDeep/AstralDeep#271` — Capture, pack and recall exact tool observations under feature 093 · score 4 (uncontested, fresh)
+3. `AstralDeep/AstralDeep#346` — Preserve layout and source locations when parsing owned PDF/DOCX attachments · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
