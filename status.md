@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-09T23:12:16.803Z (UTC), on GitHub Actions._
+_Last run: 2026-10-10T02:19:16.860Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-09T23:12:16.803Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `AstralDeep/AstralDeep#289` — Enforce a persistent owner-scoped local emergency stop · updated 2026-10-09
-- NEW `AstralDeep/AstralDeep#337` — Qualify a fail-closed Linux subprocess profile using sandbox-runtime · updated 2026-10-09
-- NEW `AstralDeep/AstralDeep#292` — Add a read-only installation and readiness doctor · updated 2026-10-09
-- NEW `AstralDeep/AstralDeep#291` — Propagate emergency stop and fence mesh peers on reconnect · updated 2026-10-09
-- NEW `AstralDeep/AstralDeep#287` — Enforce owner-managed A2A publication and withdrawal · updated 2026-10-09
-- NEW `AstralDeep/AstralDeep#293` — Bootstrap a valid production deployment safely · updated 2026-10-09
-- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-09
-- NEW `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-10-09
+- NEW `AstralDeep/AstralDeep#324` — Evaluate contextual secret patterns without importing the Guardrails runtime · updated 2026-10-10
+- `tenstorrent/tt-metal#49307` — [Bounty $2500] Command-R bringup using TTNN APIs · $2500 · updated 2026-10-10
+- `AstralDeep/AstralDeep#333` — Qualify opt-in caching of approved non-PHI Claude prompt prefixes · updated 2026-10-10
+- NEW `AstralDeep/AstralDeep#325` — Add an isolated report-only Codex Security review workflow · updated 2026-10-10
+- `AstralDeep/AstralDeep#326` — Qualify an OpenAI-only Responses adapter through existing provider routing · updated 2026-10-10
+- `AstralDeep/AstralDeep#334` — Import instructions-only Agent Skills into the governed owner catalog · updated 2026-10-10
+- NEW `AstralDeep/AstralDeep#331` — Qualify a native Claude Messages adapter through existing provider routing · updated 2026-10-10
+- NEW `iii123iii/Crystal-PDF#3` — Bug bounty 100 usd to whoever makes my landing page responsive for mobile · updated 2026-10-10
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,8 +31,8 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [MoneyAgent — Python data/API automation (AI disclosed)](https://dealwork.ai/jobs/7a7cf4ae-b288-4ae0-aa88-23d3323e34ba) · $5.0000–$40.0000 · bid by 2026-10-10
-- [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
+- NEW [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 - [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
 - [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
 - [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-2. `AstralDeep/AstralDeep#289` — Enforce a persistent owner-scoped local emergency stop · score 4 (uncontested, fresh)
-3. `AstralDeep/AstralDeep#337` — Qualify a fail-closed Linux subprocess profile using sandbox-runtime · score 4 (uncontested, fresh)
+1. `AstralDeep/AstralDeep#325` — Add an isolated report-only Codex Security review workflow · score 6 (uncontested, skill fit, fresh)
+2. `AstralDeep/AstralDeep#334` — Import instructions-only Agent Skills into the governed owner catalog · score 6 (uncontested, skill fit, fresh)
+3. `AstralDeep/AstralDeep#324` — Evaluate contextual secret patterns without importing the Guardrails runtime · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
