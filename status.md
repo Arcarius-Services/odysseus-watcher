@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-10T02:19:16.860Z (UTC), on GitHub Actions._
+_Last run: 2026-10-10T08:57:12.992Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-10T02:19:16.860Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `AstralDeep/AstralDeep#324` — Evaluate contextual secret patterns without importing the Guardrails runtime · updated 2026-10-10
+- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-10
+- NEW `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · updated 2026-10-10
+- `iii123iii/Crystal-PDF#3` — Bug bounty 100 usd to whoever makes my landing page responsive for mobile · updated 2026-10-10
+- NEW `Reqrefusion/FreeCAD-Documentation-Project#331` — External Add-on Documentation · updated 2026-10-10
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-10
+- `SPLURT-Station/S.P.L.U.R.T-tg#1291` — [BOUNTY] Suggestion #1268 · updated 2026-10-10
+- `SPLURT-Station/S.P.L.U.R.T-tg#1285` — [BOUNTY] Suggestion #1258 · updated 2026-10-10
 - `tenstorrent/tt-metal#49307` — [Bounty $2500] Command-R bringup using TTNN APIs · $2500 · updated 2026-10-10
-- `AstralDeep/AstralDeep#333` — Qualify opt-in caching of approved non-PHI Claude prompt prefixes · updated 2026-10-10
-- NEW `AstralDeep/AstralDeep#325` — Add an isolated report-only Codex Security review workflow · updated 2026-10-10
-- `AstralDeep/AstralDeep#326` — Qualify an OpenAI-only Responses adapter through existing provider routing · updated 2026-10-10
-- `AstralDeep/AstralDeep#334` — Import instructions-only Agent Skills into the governed owner catalog · updated 2026-10-10
-- NEW `AstralDeep/AstralDeep#331` — Qualify a native Claude Messages adapter through existing provider routing · updated 2026-10-10
-- NEW `iii123iii/Crystal-PDF#3` — Bug bounty 100 usd to whoever makes my landing page responsive for mobile · updated 2026-10-10
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,8 +31,8 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
-- NEW [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
+- [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 - [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
 - [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
 - [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `AstralDeep/AstralDeep#325` — Add an isolated report-only Codex Security review workflow · score 6 (uncontested, skill fit, fresh)
-2. `AstralDeep/AstralDeep#334` — Import instructions-only Agent Skills into the governed owner catalog · score 6 (uncontested, skill fit, fresh)
-3. `AstralDeep/AstralDeep#324` — Evaluate contextual secret patterns without importing the Guardrails runtime · score 4 (uncontested, fresh)
+1. `AstralDeep/AstralDeep#317` — Add a bounded clinical answer diagnostic using HealthBench references · score 6 (uncontested, skill fit, fresh)
+2. `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · score 4 (2 rivals, $170, fresh)
+3. `tenstorrent/tt-metal#49307` — [Bounty $2500] Command-R bringup using TTNN APIs · $2500 · score 4 (2 rivals, $2500, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
