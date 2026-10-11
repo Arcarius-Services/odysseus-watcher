@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-10T22:54:45.610Z (UTC), on GitHub Actions._
+_Last run: 2026-10-11T01:49:14.169Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,35 +14,35 @@ _Last run: 2026-10-10T22:54:45.610Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1270` — [BOUNTY] Suggestion #1250 · updated 2026-10-10
+- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-11
+- `SPLURT-Station/S.P.L.U.R.T-tg#1270` — [BOUNTY] Suggestion #1250 · updated 2026-10-11
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-11
+- `Nexussyn/ai-growth-platform#4` — 🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout · updated 2026-10-11
 - `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · updated 2026-10-10
 - `tenstorrent/tt-metal#8621` — [Bounty $500] Host Tilizer Optimizations for BFP8/4/2 data-formats · $500 · updated 2026-10-10
-- NEW `quicksilverj2/openbuild-gallery#3` — [bounty] Shortlink clone · updated 2026-10-10
+- `quicksilverj2/openbuild-gallery#3` — [bounty] Shortlink clone · updated 2026-10-10
 - `tenstorrent/tt-metal#49307` — [Bounty $2500] Command-R bringup using TTNN APIs · $2500 · updated 2026-10-10
-- `tenstorrent/tt-metal#59732` — [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th · $3,000 · updated 2026-10-10
-- NEW `relayhop/sn-monetization-runtime#1250` — [radar] SN open bounty 2026-10-04T13:08 · updated 2026-10-10
-- NEW `shanalikhan/code-settings-sync#413` — Suggestion: Allow upload to repository · updated 2026-10-10
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
 - [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
-- [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
-- [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
-- [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
-- [REST API documentation from OpenAPI spec or existing codebase](https://dealwork.ai/jobs/1deed89d-25fc-40c0-93d5-934604af72a5) · $?–$60.0000 · bid by 2026-10-16
+- NEW [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
+- NEW [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
+- NEW [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
+- NEW [REST API documentation from OpenAPI spec or existing codebase](https://dealwork.ai/jobs/1deed89d-25fc-40c0-93d5-934604af72a5) · $?–$60.0000 · bid by 2026-10-16
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · score 4 (2 rivals, $170, fresh)
-3. `tenstorrent/tt-metal#8621` — [Bounty $500] Host Tilizer Optimizations for BFP8/4/2 data-formats · $500 · score 4 (1 rival, $500, fresh)
+2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+3. `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · score 4 (2 rivals, $170, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
