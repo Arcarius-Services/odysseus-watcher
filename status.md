@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-11T14:03:47.056Z (UTC), on GitHub Actions._
+_Last run: 2026-10-11T14:33:46.006Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-11T14:03:47.056Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `cocohub-mobileapp/cocohub-main#45` — Health metrics export to PDF - vet-ready report · updated 2026-10-11
-- NEW `Sifchain/sifnode#524` — [sifnode] $1000 bounty for implementing Google Cloud support for sifnode #503 · $1000 · updated 2026-10-11
-- NEW `hunki1488-a11y/AIgor#3` — AIBTC bounty: Refer 3 active agents for substantive PR review — 1000 sats · updated 2026-10-11
-- NEW `BernhardPierno25/kafka-go#2` — 🎯 Prevent `Writer.WriteMessages` from returning context timeout when messages h · updated 2026-10-11
-- NEW `EncarnacionP/cli#1` — 🎯 Fix premature termination in API pagination when page size is less than reque · updated 2026-10-11
-- NEW `CinnamonFaldet48/cli#3` — 🎯 Prevent silent fallback to unauthenticated API requests when keyring lookup f · updated 2026-10-11
-- NEW `Kristywvs22/chi#1` — 🎯 Bug: URL parameters leak between requests due to incomplete RouteContext rese · updated 2026-10-11
-- NEW `colmev080/pgx#3` — 🎯 Prevent Connection Storms and MaxConns Violations in pgxpool during DB Recove · updated 2026-10-11
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-11
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-11
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-11
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-11
+- `cocohub-mobileapp/cocohub-main#45` — Health metrics export to PDF - vet-ready report · updated 2026-10-11
+- `Sifchain/sifnode#524` — [sifnode] $1000 bounty for implementing Google Cloud support for sifnode #503 · $1000 · updated 2026-10-11
+- `hunki1488-a11y/AIgor#3` — AIBTC bounty: Refer 3 active agents for substantive PR review — 1000 sats · updated 2026-10-11
+- `BernhardPierno25/kafka-go#2` — 🎯 Prevent `Writer.WriteMessages` from returning context timeout when messages h · updated 2026-10-11
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Sifchain/sifnode#524` — [sifnode] $1000 bounty for implementing Google Cloud support for sifnode #503 · $1000 · score 6 (2 rivals, $1000, skill fit, fresh)
-2. `hunki1488-a11y/AIgor#3` — AIBTC bounty: Refer 3 active agents for substantive PR review — 1000 sats · score 4 (1 rival, skill fit, fresh)
-3. `BernhardPierno25/kafka-go#2` — 🎯 Prevent `Writer.WriteMessages` from returning context timeout when messages h · score 2 (2 rivals, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `Sifchain/sifnode#524` — [sifnode] $1000 bounty for implementing Google Cloud support for sifnode #503 · $1000 · score 6 (2 rivals, $1000, skill fit, fresh)
+3. `hunki1488-a11y/AIgor#3` — AIBTC bounty: Refer 3 active agents for substantive PR review — 1000 sats · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
