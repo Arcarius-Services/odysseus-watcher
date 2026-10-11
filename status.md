@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-11T17:03:14.191Z (UTC), on GitHub Actions._
+_Last run: 2026-10-11T19:41:54.463Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-11T17:03:14.191Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1306` — [BOUNTY] Suggestion #1277 · updated 2026-10-11
-- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1305` — [BOUNTY] Suggestion #1278 · updated 2026-10-11
-- NEW `weilixiong/TentOfTrials#5` — [$25 BOUNTY] [Python] Add independent log parser fixtures · $25 · updated 2026-10-11
-- NEW `Senthemodder/aquarium-of-gullibles#5` — [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src · $700 · updated 2026-10-11
-- NEW `Senthemodder/aquarium-of-gullibles#2` — [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A · $850 · updated 2026-10-11
-- NEW `NSPG13/agent-bounties#1219` — Generate qualifying GMV for Highest externally funded canonical GMV — daily Augu · updated 2026-10-11
-- NEW `NSPG13/agent-bounties#1220` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-11
-- NEW `NSPG13/agent-bounties#1349` — [Bounty] Seed a paid API child bounty · updated 2026-10-11
+- `Element-Ventures-Canada-Ltd/openchokepoint#3` — [Priority] Open call: digital-thread and critical-items register schema for rock · updated 2026-10-11
+- NEW `tari-project/wxtm-bridge-frontend#103` — Mitigate risks due to "next" known CVEs version and current versions range · updated 2026-10-11
+- NEW `tari-project/universe#3299` — CPU mining capped at 64 threads on Windows machines with 64+ logical cores · updated 2026-10-11
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-11
+- NEW `bwipp/postscriptbarcode#82` — Ultracode improvements · updated 2026-10-11
+- `SPLURT-Station/S.P.L.U.R.T-tg#1306` — [BOUNTY] Suggestion #1277 · updated 2026-10-11
+- `SPLURT-Station/S.P.L.U.R.T-tg#1305` — [BOUNTY] Suggestion #1278 · updated 2026-10-11
+- `weilixiong/TentOfTrials#5` — [$25 BOUNTY] [Python] Add independent log parser fixtures · $25 · updated 2026-10-11
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,8 +31,8 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
-- NEW [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
+- [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 - [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
 - [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
 - [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `SPLURT-Station/S.P.L.U.R.T-tg#1306` — [BOUNTY] Suggestion #1277 · score 4 (uncontested, fresh)
-2. `SPLURT-Station/S.P.L.U.R.T-tg#1305` — [BOUNTY] Suggestion #1278 · score 4 (uncontested, fresh)
-3. `Senthemodder/aquarium-of-gullibles#5` — [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src · $700 · score 4 (1 rival, $700, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `bwipp/postscriptbarcode#82` — Ultracode improvements · score 4 (uncontested, fresh)
+3. `SPLURT-Station/S.P.L.U.R.T-tg#1306` — [BOUNTY] Suggestion #1277 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
