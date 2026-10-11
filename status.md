@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-11T19:41:54.463Z (UTC), on GitHub Actions._
+_Last run: 2026-10-11T23:09:24.645Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-11T19:41:54.463Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Element-Ventures-Canada-Ltd/openchokepoint#3` — [Priority] Open call: digital-thread and critical-items register schema for rock · updated 2026-10-11
-- NEW `tari-project/wxtm-bridge-frontend#103` — Mitigate risks due to "next" known CVEs version and current versions range · updated 2026-10-11
-- NEW `tari-project/universe#3299` — CPU mining capped at 64 threads on Windows machines with 64+ logical cores · updated 2026-10-11
-- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-11
-- NEW `bwipp/postscriptbarcode#82` — Ultracode improvements · updated 2026-10-11
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-11
+- NEW `relayhop/sn-monetization-runtime#1277` — [radar] SN open bounty 2026-10-11T20:11 · updated 2026-10-11
+- `relayhop/sn-monetization-runtime#1275` — [radar] SN open bounty 2026-10-11T15:34 · updated 2026-10-11
 - `SPLURT-Station/S.P.L.U.R.T-tg#1306` — [BOUNTY] Suggestion #1277 · updated 2026-10-11
 - `SPLURT-Station/S.P.L.U.R.T-tg#1305` — [BOUNTY] Suggestion #1278 · updated 2026-10-11
-- `weilixiong/TentOfTrials#5` — [$25 BOUNTY] [Python] Add independent log parser fixtures · $25 · updated 2026-10-11
+- `Element-Ventures-Canada-Ltd/openchokepoint#3` — [Priority] Open call: digital-thread and critical-items register schema for rock · updated 2026-10-11
+- `tari-project/wxtm-bridge-frontend#103` — Mitigate risks due to "next" known CVEs version and current versions range · updated 2026-10-11
+- `tari-project/universe#3299` — CPU mining capped at 64 threads on Windows machines with 64+ logical cores · updated 2026-10-11
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `bwipp/postscriptbarcode#82` — Ultracode improvements · score 4 (uncontested, fresh)
-3. `SPLURT-Station/S.P.L.U.R.T-tg#1306` — [BOUNTY] Suggestion #1277 · score 4 (uncontested, fresh)
+2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1277` — [radar] SN open bounty 2026-10-11T20:11 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
