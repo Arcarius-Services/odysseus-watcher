@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-11T15:33:46.111Z (UTC), on GitHub Actions._
+_Last run: 2026-10-11T15:36:16.775Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-11T15:33:46.111Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#681` — [Bounty] [bounty] [100 ETH reward] [agentic ai] Create a Warrior Cats codebase · updated 2026-10-11
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1303` — [Bounty] [Bounty: $1,100] High: Slippage Rounding Error in Flash Loan Fee Calcul · $1,100 · updated 2026-10-11
-- NEW `tenstorrent/tt-metal#49307` — [Bounty $2500] Command-R bringup using TTNN APIs · $2500 · updated 2026-10-11
+- NEW `zhangjiayang6835-cyber/bounty-plaza#741` — [Bounty] [BOUNTY] 500 USD - Add Runescape inspired chat effects · updated 2026-10-11
+- NEW `relayhop/sn-monetization-runtime#1275` — [radar] SN open bounty 2026-10-11T15:34 · updated 2026-10-11
+- NEW `INDIGOAZUL/la-tanda-web#51` — 🚩 Content Report/Flag System — 250 LTD Bounty · updated 2026-10-11
+- `zhangjiayang6835-cyber/bounty-plaza#1303` — [Bounty] [Bounty: $1,100] High: Slippage Rounding Error in Flash Loan Fee Calcul · $1,100 · updated 2026-10-11
+- NEW `0xddneto/AI-Proof-of-Us#4` — [Bounty] 32x32 pixel-art work receipt icon - 100 AIPOU · updated 2026-10-11
+- `zhangjiayang6835-cyber/bounty-plaza#681` — [Bounty] [bounty] [100 ETH reward] [agentic ai] Create a Warrior Cats codebase · updated 2026-10-11
+- `tenstorrent/tt-metal#49307` — [Bounty $2500] Command-R bringup using TTNN APIs · $2500 · updated 2026-10-11
 - `AstralDeep/AstralDeep#320` — Add instruction, abstention and truthful-completion diagnostic fixtures · updated 2026-10-11
-- `AstralDeep/AstralDeep#321` — Qualify an isolated OpenAI Agents SDK consumer of Astral Work · updated 2026-10-11
-- `AstralDeep/AstralDeep#324` — Evaluate contextual secret patterns without importing the Guardrails runtime · updated 2026-10-11
-- NEW `AstralDeep/AstralDeep#326` — Qualify an OpenAI-only Responses adapter through existing provider routing · updated 2026-10-11
-- `AstralDeep/AstralDeep#331` — Qualify a native Claude Messages adapter through existing provider routing · updated 2026-10-11
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `AstralDeep/AstralDeep#321` — Qualify an isolated OpenAI Agents SDK consumer of Astral Work · score 6 (uncontested, skill fit, fresh)
-2. `AstralDeep/AstralDeep#336` — Pilot source-span validated extraction from clinical notes · score 6 (uncontested, skill fit, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#681` — [Bounty] [bounty] [100 ETH reward] [agentic ai] Create a Warrior Cats codebase · score 4 (1 rival, skill fit, fresh)
+2. `relayhop/sn-monetization-runtime#1275` — [radar] SN open bounty 2026-10-11T15:34 · score 4 (uncontested, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#1303` — [Bounty] [Bounty: $1,100] High: Slippage Rounding Error in Flash Loan Fee Calcul · $1,100 · score 4 (2 rivals, $1,100, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
