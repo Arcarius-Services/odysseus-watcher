@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-12T18:03:36.323Z (UTC), on GitHub Actions._
+_Last run: 2026-10-12T18:33:35.760Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-12T18:03:36.323Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `illbnm/homelab-stack#11` — [BOUNTY $130] Database Layer — PostgreSQL + Redis + MariaDB 共享实例 · $130 · updated 2026-10-12
-- NEW `Senthemodder/aquarium-of-gullibles#4` — [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationE · $500 · updated 2026-10-12
-- NEW `Senthemodder/aquarium-of-gullibles#3` — [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud · $650 · updated 2026-10-12
-- NEW `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · updated 2026-10-12
-- NEW `relayhop/sn-monetization-runtime#1284` — [radar] SN open bounty 2026-10-12T17:46 · updated 2026-10-12
-- NEW `illbnm/homelab-stack#8` — [BOUNTY $250] Robustness — 国内网络适配 + 环境鲁棒性 · $250 · updated 2026-10-12
-- NEW `Senthemodder/aquarium-of-gullibles#2` — [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A · $850 · updated 2026-10-12
-- NEW `Senthemodder/aquarium-of-gullibles#5` — [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src · $700 · updated 2026-10-12
+- NEW `capofficial/client#19` — Show available margin in Add/Remove margin modal · updated 2026-10-12
+- `FuRongJun-1999/dsh-bounty#67` — [悬赏] 横向测评：各家角色扮演 / 记忆系统 / 智能体工作流方案（≥3 家 · 可复跑） · updated 2026-10-12
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1884` — [Bounty] Bounty $50: recipe for Intel Arc B580 12 GB · $50 · updated 2026-10-12
+- NEW `capofficial/client#21` — Allow easy trade sharing · updated 2026-10-12
+- NEW `capofficial/client#13` — Welcome modal with integrated bridge and/or instructions · updated 2026-10-12
+- NEW `Vikingr2023/awesome-agent-bounties#296` — [claude-builders-bounty/claude-builders-bounty] [BOUNTY $50] SKILL: Generate a s · $50 · updated 2026-10-12
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1883` — [Bounty] Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-12
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1880` — [Bounty] Bounty $50: recipe for a 27B model on a 16 GB AMD card · $50 · updated 2026-10-12
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · score 6 (2 rivals, $130, skill fit, fresh)
-2. `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · score 4 (2 rivals, $170, fresh)
-3. `relayhop/sn-monetization-runtime#1284` — [radar] SN open bounty 2026-10-12T17:46 · score 4 (uncontested, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#1884` — [Bounty] Bounty $50: recipe for Intel Arc B580 12 GB · $50 · score 6 (uncontested, $50, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1883` — [Bounty] Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · score 6 (uncontested, $50, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#1880` — [Bounty] Bounty $50: recipe for a 27B model on a 16 GB AMD card · $50 · score 6 (uncontested, $50, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
