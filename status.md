@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-12T18:33:35.760Z (UTC), on GitHub Actions._
+_Last run: 2026-10-12T19:03:35.901Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-12T18:33:35.760Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `capofficial/client#19` — Show available margin in Add/Remove margin modal · updated 2026-10-12
+- `zhangjiayang6835-cyber/bounty-plaza#1879` — [Bounty] Bounty $50: recipe for RTX 4060 Ti 16 GB · $50 · updated 2026-10-12
+- `zhangjiayang6835-cyber/bounty-plaza#1882` — [Bounty] Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-12
+- `FuRongJun-1999/dsh-bounty#70` — [悬赏] 角色扮演游戏制作：可运行 + 可测（记忆/角色一致性为核） · updated 2026-10-12
+- `zhangjiayang6835-cyber/bounty-plaza#1881` — [Bounty] Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-12
+- `zhangjiayang6835-cyber/bounty-plaza#1880` — [Bounty] Bounty $50: recipe for a 27B model on a 16 GB AMD card · $50 · updated 2026-10-12
+- `zhangjiayang6835-cyber/bounty-plaza#1883` — [Bounty] Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-12
+- `capofficial/client#19` — Show available margin in Add/Remove margin modal · updated 2026-10-12
 - `FuRongJun-1999/dsh-bounty#67` — [悬赏] 横向测评：各家角色扮演 / 记忆系统 / 智能体工作流方案（≥3 家 · 可复跑） · updated 2026-10-12
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1884` — [Bounty] Bounty $50: recipe for Intel Arc B580 12 GB · $50 · updated 2026-10-12
-- NEW `capofficial/client#21` — Allow easy trade sharing · updated 2026-10-12
-- NEW `capofficial/client#13` — Welcome modal with integrated bridge and/or instructions · updated 2026-10-12
-- NEW `Vikingr2023/awesome-agent-bounties#296` — [claude-builders-bounty/claude-builders-bounty] [BOUNTY $50] SKILL: Generate a s · $50 · updated 2026-10-12
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1883` — [Bounty] Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-12
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1880` — [Bounty] Bounty $50: recipe for a 27B model on a 16 GB AMD card · $50 · updated 2026-10-12
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,8 +31,8 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
-- [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
+- NEW [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 - [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
 - [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
 - [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1884` — [Bounty] Bounty $50: recipe for Intel Arc B580 12 GB · $50 · score 6 (uncontested, $50, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1883` — [Bounty] Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · score 6 (uncontested, $50, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#1879` — [Bounty] Bounty $50: recipe for RTX 4060 Ti 16 GB · $50 · score 6 (uncontested, $50, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1881` — [Bounty] Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · score 6 (uncontested, $50, fresh)
 3. `zhangjiayang6835-cyber/bounty-plaza#1880` — [Bounty] Bounty $50: recipe for a 27B model on a 16 GB AMD card · $50 · score 6 (uncontested, $50, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
