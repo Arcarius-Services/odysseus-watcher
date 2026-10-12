@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-12T12:03:35.745Z (UTC), on GitHub Actions._
+_Last run: 2026-10-12T12:33:35.852Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,8 +14,8 @@ _Last run: 2026-10-12T12:03:35.745Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-12
-- NEW `SecureBananaLabs/bug-bounty#30` — Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB · updated 2026-10-12
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-12
+- `SecureBananaLabs/bug-bounty#30` — Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB · updated 2026-10-12
 - `SecureBananaLabs/bug-bounty#1` — Implement Secure Payment Gateway and Payment Service · updated 2026-10-12
 - `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-12
 - `mergeos-bounties/mergeos#64` — [300 MRG per PR] Test submitted PRs and verify bounty evidence · updated 2026-10-12
