@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-12T16:33:35.884Z (UTC), on GitHub Actions._
+_Last run: 2026-10-12T17:03:35.788Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-12T16:33:35.884Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-12
+- `FuRongJun-1999/dsh-bounty#70` — [悬赏] 角色扮演游戏制作：可运行 + 可测（记忆/角色一致性为核） · updated 2026-10-12
+- NEW `Nexussyn/ai-growth-platform#4` — 🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout · updated 2026-10-12
+- `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-12
+- `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-12
 - `sybil-solutions/local-ai-registry#216` — Bounty $50: recipe for Intel Arc B580 12 GB · $50 · updated 2026-10-12
 - `sybil-solutions/local-ai-registry#220` — Bounty $50: recipe for a 27B model on a 16 GB AMD card · $50 · updated 2026-10-12
 - `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-12
-- `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-12
-- `FuRongJun-1999/dsh-bounty#67` — [悬赏] 横向测评：各家角色扮演 / 记忆系统 / 智能体工作流方案（≥3 家 · 可复跑） · updated 2026-10-12
-- `FuRongJun-1999/dsh-bounty#71` — [悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」） · updated 2026-10-12
-- `FuRongJun-1999/dsh-bounty#70` — [悬赏] 角色扮演游戏制作：可运行 + 可测（记忆/角色一致性为核） · updated 2026-10-12
-- `FuRongJun-1999/dsh-bounty#68` — [悬赏] 灵枢大脑仓库迭代：缺陷修复 / 能力增强（PR 到 dsh-memory） · updated 2026-10-12
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
