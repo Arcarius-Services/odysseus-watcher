@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-12T15:03:35.807Z (UTC), on GitHub Actions._
+_Last run: 2026-10-12T15:33:35.839Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-12T15:03:35.807Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `FuRongJun-1999/dsh-bounty#71` — [悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」） · updated 2026-10-12
+- `FuRongJun-1999/dsh-bounty#68` — [悬赏] 灵枢大脑仓库迭代：缺陷修复 / 能力增强（PR 到 dsh-memory） · updated 2026-10-12
+- NEW `relayhop/sn-monetization-runtime#1283` — [radar] SN open bounty 2026-10-12T15:12 · updated 2026-10-12
+- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-12
 - `sybil-solutions/local-ai-registry#220` — Bounty $50: recipe for a 27B model on a 16 GB AMD card · $50 · updated 2026-10-12
-- NEW `FuRongJun-1999/dsh-bounty#70` — [悬赏] 角色扮演游戏制作：可运行 + 可测（记忆/角色一致性为核） · updated 2026-10-12
-- NEW `FuRongJun-1999/dsh-bounty#68` — [悬赏] 灵枢大脑仓库迭代：缺陷修复 / 能力增强（PR 到 dsh-memory） · updated 2026-10-12
-- NEW `FuRongJun-1999/dsh-bounty#67` — [悬赏] 横向测评：各家角色扮演 / 记忆系统 / 智能体工作流方案（≥3 家 · 可复跑） · updated 2026-10-12
-- NEW `FuRongJun-1999/dsh-bounty#66` — [悬赏] 悬赏与项目管理方案完善：三方对账校验件 + 方案 v0.2 · updated 2026-10-12
-- NEW `FuRongJun-1999/dsh-bounty#65` — [悬赏] 插件测评站：完整搭建（生成器 + 数据 schema + 站点四页） · updated 2026-10-12
 - `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-12
+- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-12
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-12
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-12
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · score 6 (uncontested, $50, fresh)
-2. `FuRongJun-1999/dsh-bounty#71` — [悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」） · score 4 (uncontested, fresh)
-3. `sybil-solutions/local-ai-registry#220` — Bounty $50: recipe for a 27B model on a 16 GB AMD card · $50 · score 4 (2 rivals, $50, fresh)
+2. `relayhop/sn-monetization-runtime#1283` — [radar] SN open bounty 2026-10-12T15:12 · score 4 (uncontested, fresh)
+3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
