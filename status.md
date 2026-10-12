@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-12T22:33:35.740Z (UTC), on GitHub Actions._
+_Last run: 2026-10-12T23:03:35.816Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,8 +14,8 @@ _Last run: 2026-10-12T22:33:35.740Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Mantitup-Org/vista#62` — Bug: vista deploy still breaks static hosts and platform adapters · updated 2026-10-12
-- NEW `NSPG13/agent-bounties#1632` — [Bounty] Bring a real backlog: get an established open-source project to fund it · updated 2026-10-12
+- `Mantitup-Org/vista#62` — Bug: vista deploy still breaks static hosts and platform adapters · updated 2026-10-12
+- `NSPG13/agent-bounties#1632` — [Bounty] Bring a real backlog: get an established open-source project to fund it · updated 2026-10-12
 - `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-12
 - `zhangjiayang6835-cyber/bounty-plaza#1878` — [Bounty] Bounty $50: recipe for RTX 5060 Ti 16 GB · $50 · updated 2026-10-12
 - `theselfish/SlopStation13#4` — [BOUNTY][$640][FIX] Fix the compatability issues with the TempleOS operating sys · $640 · updated 2026-10-12
@@ -33,10 +33,10 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
 - [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
-- NEW [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
-- NEW [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
-- NEW [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
-- NEW [REST API documentation from OpenAPI spec or existing codebase](https://dealwork.ai/jobs/1deed89d-25fc-40c0-93d5-934604af72a5) · $?–$60.0000 · bid by 2026-10-16
+- [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
+- [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
+- [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
+- [REST API documentation from OpenAPI spec or existing codebase](https://dealwork.ai/jobs/1deed89d-25fc-40c0-93d5-934604af72a5) · $?–$60.0000 · bid by 2026-10-16
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
