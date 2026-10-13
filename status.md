@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T19:03:35.804Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T19:33:35.764Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -17,9 +17,9 @@ _Last run: 2026-10-13T19:03:35.804Z (UTC), on GitHub Actions._
 - `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · updated 2026-10-13
 - `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · updated 2026-10-13
 - `tenstorrent/tt-metal#59732` — [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th · $3,000 · updated 2026-10-13
-- NEW `tenstorrent/tt-metal#8621` — [Bounty $500] Host Tilizer Optimizations for BFP8/4/2 data-formats · $500 · updated 2026-10-13
+- `tenstorrent/tt-metal#8621` — [Bounty $500] Host Tilizer Optimizations for BFP8/4/2 data-formats · $500 · updated 2026-10-13
 - `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-13
-- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-13
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-13
 - `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-13
 - `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
