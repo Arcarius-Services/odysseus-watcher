@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T00:03:36.240Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T00:33:36.320Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-13T00:03:36.240Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `relayhop/sn-monetization-runtime#1286` — [radar] SN open bounty 2026-10-13T00:32 · updated 2026-10-13
+- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-13
 - `Mantitup-Org/vista#62` — Bug: vista deploy still breaks static hosts and platform adapters · updated 2026-10-12
 - `NSPG13/agent-bounties#1632` — [Bounty] Bring a real backlog: get an established open-source project to fund it · updated 2026-10-12
 - `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-12
 - `zhangjiayang6835-cyber/bounty-plaza#1878` — [Bounty] Bounty $50: recipe for RTX 5060 Ti 16 GB · $50 · updated 2026-10-12
 - `theselfish/SlopStation13#4` — [BOUNTY][$640][FIX] Fix the compatability issues with the TempleOS operating sys · $640 · updated 2026-10-12
 - `theselfish/SlopStation13#3` — [BOUNTY][$67] Add the Tung Tung Tung Sahur antagonist. · $67 · updated 2026-10-12
-- `zhangjiayang6835-cyber/bounty-plaza#1877` — [Bounty] Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU) · $50 · updated 2026-10-12
-- `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-10-12
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `zhangjiayang6835-cyber/bounty-plaza#1878` — [Bounty] Bounty $50: recipe for RTX 5060 Ti 16 GB · $50 · score 6 (uncontested, $50, fresh)
 2. `zhangjiayang6835-cyber/bounty-plaza#1877` — [Bounty] Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU) · $50 · score 6 (uncontested, $50, fresh)
-3. `NSPG13/agent-bounties#1632` — [Bounty] Bring a real backlog: get an established open-source project to fund it · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1286` — [radar] SN open bounty 2026-10-13T00:32 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
