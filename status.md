@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T04:03:35.731Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T04:33:35.704Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -16,7 +16,7 @@ _Last run: 2026-10-13T04:03:35.731Z (UTC), on GitHub Actions._
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-13
 - `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-13
-- NEW `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-10-13
+- `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-10-13
 - `AstralDeep/AstralDeep#335` — Load full authorized skill revisions on demand without digest truncation · updated 2026-10-13
 - `relayhop/sn-monetization-runtime#1286` — [radar] SN open bounty 2026-10-13T00:32 · updated 2026-10-13
 - `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-13
