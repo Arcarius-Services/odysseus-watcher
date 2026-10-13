@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T17:07:12.222Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T18:33:36.043Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-13T17:07:12.222Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `mscrnt/lockpick#31` — [B110] Combine items · updated 2026-10-13
-- `mscrnt/lockpick#29` — [B108] Use each healing item (green, red+green, blue, mixed herbs, first aid spr · updated 2026-10-13
-- `mscrnt/lockpick#26` — [B105] Use the bazooka with each round type (explosive, acid, flame) · updated 2026-10-13
-- `mscrnt/lockpick#24` — [B103] Fire and reload the shotgun · updated 2026-10-13
-- NEW `sybil-solutions/local-ai-registry#220` — Bounty $50: recipe for a 27B model on a 16 GB AMD card · $50 · updated 2026-10-13
-- `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-13
-- `sybil-solutions/local-ai-registry#216` — Bounty $50: recipe for Intel Arc B580 12 GB · $50 · updated 2026-10-13
-- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-13
+- NEW `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · updated 2026-10-13
+- NEW `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · updated 2026-10-13
+- NEW `FuRongJun-1999/dsh-bounty#71` — [悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」） · updated 2026-10-13
+- `aLexzzz430/Cognitive-OS#5` — [ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture pr · $3 · updated 2026-10-13
+- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-13
+- `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · updated 2026-10-13
+- NEW `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-13
+- `illbnm/homelab-stack#6` — [BOUNTY $220] AI Stack — Ollama + Open WebUI + Stable Diffusion · $220 · updated 2026-10-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `RetroShare/RetroShare#1424` — Home V2 Display the latest Channel content · score 6 (uncontested, skill fit, fresh)
-2. `mscrnt/lockpick#31` — [B110] Combine items · score 4 (uncontested, fresh)
-3. `mscrnt/lockpick#29` — [B108] Use each healing item (green, red+green, blue, mixed herbs, first aid spr · score 4 (uncontested, fresh)
+1. `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · score 6 (uncontested, skill fit, fresh)
+2. `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · score 6 (uncontested, skill fit, fresh)
+3. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
