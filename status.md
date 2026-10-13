@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T06:03:35.811Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T06:33:06.530Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-13T06:03:35.811Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `sybil-solutions/local-ai-registry#221` — Bounty $50: recipe for RTX 4060 Ti 16 GB · $50 · updated 2026-10-13
-- NEW `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-13
-- NEW `auscaster/frantic-board#431` — Frantic bounty #134: Run an Ausca Browser Session end to end and report the proc · updated 2026-10-13
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1333` — [Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegi · $500 · updated 2026-10-13
-- `theselfish/SlopStation13#5` — [Bounty] [$600] Add Thursday's Boots · $600 · updated 2026-10-13
-- `tenstorrent/tt-metal#8621` — [Bounty $500] Host Tilizer Optimizations for BFP8/4/2 data-formats · $500 · updated 2026-10-13
-- `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-10-13
-- `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-13
+- NEW `warpspeedopen-source/warpspeed-bounties#4` — [PAID BOUNTY - $750] Email Threads API · $750 · updated 2026-10-13
+- NEW `promptpolish-ai/git-context#2` — Add --json output mode (Bounty: $2 crypto) · $2 · updated 2026-10-13
+- NEW `illbnm/homelab-stack#6` — [BOUNTY $220] AI Stack — Ollama + Open WebUI + Stable Diffusion · $220 · updated 2026-10-13
+- NEW `SolFoundry/solfoundry#845` — 🏭 Bounty T2: Build Claude Agent for Auto-Submitting to T1 Bounties · updated 2026-10-13
+- `sybil-solutions/local-ai-registry#221` — Bounty $50: recipe for RTX 4060 Ti 16 GB · $50 · updated 2026-10-13
+- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-13
+- `auscaster/frantic-board#431` — Frantic bounty #134: Run an Ausca Browser Session end to end and report the proc · updated 2026-10-13
+- `zhangjiayang6835-cyber/bounty-plaza#1333` — [Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegi · $500 · updated 2026-10-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `zhangjiayang6835-cyber/bounty-plaza#1333` — [Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegi · $500 · score 6 (uncontested, $500, fresh)
-2. `sybil-solutions/local-ai-registry#221` — Bounty $50: recipe for RTX 4060 Ti 16 GB · $50 · score 4 (2 rivals, $50, fresh)
-3. `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · score 4 (1 rival, $50, fresh)
+2. `warpspeedopen-source/warpspeed-bounties#4` — [PAID BOUNTY - $750] Email Threads API · $750 · score 4 (2 rivals, $750, fresh)
+3. `SolFoundry/solfoundry#845` — 🏭 Bounty T2: Build Claude Agent for Auto-Submitting to T1 Bounties · score 4 (2 rivals, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
