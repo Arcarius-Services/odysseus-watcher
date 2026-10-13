@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T08:03:35.825Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T08:33:35.876Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-13T08:03:35.825Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `mscrnt/lockpick#32` — [B111] Pick up each key item (keys, crests, MO disk, emblems...) · updated 2026-10-13
+- `shanalikhan/code-settings-sync#413` — Suggestion: Allow upload to repository · updated 2026-10-13
+- NEW `Vikingr2023/awesome-agent-bounties#296` — [claude-builders-bounty/claude-builders-bounty] [BOUNTY $50] SKILL: Generate a s · $50 · updated 2026-10-13
+- `mscrnt/lockpick#33` — [B112] Save at a typewriter with an ink ribbon · updated 2026-10-13
+- `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-13
 - `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · updated 2026-10-13
 - `mscrnt/lockpick#35` — [B114] Switch the equipped weapon between several weapons · updated 2026-10-13
-- NEW `relayhop/sn-monetization-runtime#1287` — [radar] SN open bounty 2026-10-13T07:38 · updated 2026-10-13
-- `mscrnt/lockpick#7` — Capture bounties: help Lockpick learn the game · updated 2026-10-13
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-13
-- `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-13
-- `illbnm/homelab-stack#6` — [BOUNTY $220] AI Stack — Ollama + Open WebUI + Stable Diffusion · $220 · updated 2026-10-13
-- `tenstorrent/tt-metal#8621` — [Bounty $500] Host Tilizer Optimizations for BFP8/4/2 data-formats · $500 · updated 2026-10-13
+- `relayhop/sn-monetization-runtime#1287` — [radar] SN open bounty 2026-10-13T07:38 · updated 2026-10-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · score 4 (uncontested, fresh)
-2. `mscrnt/lockpick#35` — [B114] Switch the equipped weapon between several weapons · score 4 (uncontested, fresh)
-3. `relayhop/sn-monetization-runtime#1287` — [radar] SN open bounty 2026-10-13T07:38 · score 4 (uncontested, fresh)
+1. `mscrnt/lockpick#32` — [B111] Pick up each key item (keys, crests, MO disk, emblems...) · score 4 (uncontested, fresh)
+2. `mscrnt/lockpick#33` — [B112] Save at a typewriter with an ink ribbon · score 4 (uncontested, fresh)
+3. `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
