@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T00:33:36.320Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T01:03:36.176Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,8 +14,8 @@ _Last run: 2026-10-13T00:33:36.320Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1286` — [radar] SN open bounty 2026-10-13T00:32 · updated 2026-10-13
-- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-13
+- `relayhop/sn-monetization-runtime#1286` — [radar] SN open bounty 2026-10-13T00:32 · updated 2026-10-13
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-13
 - `Mantitup-Org/vista#62` — Bug: vista deploy still breaks static hosts and platform adapters · updated 2026-10-12
 - `NSPG13/agent-bounties#1632` — [Bounty] Bring a real backlog: get an established open-source project to fund it · updated 2026-10-12
 - `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-12
