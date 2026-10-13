@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T08:33:35.876Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T09:03:35.884Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-13T08:33:35.876Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-13
+- `mscrnt/lockpick#30` — [B109] Get poisoned and cure it (blue herb or serum) · updated 2026-10-13
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-13
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-13
+- `mscrnt/lockpick#31` — [B110] Combine items · updated 2026-10-13
 - `mscrnt/lockpick#32` — [B111] Pick up each key item (keys, crests, MO disk, emblems...) · updated 2026-10-13
 - `shanalikhan/code-settings-sync#413` — Suggestion: Allow upload to repository · updated 2026-10-13
-- NEW `Vikingr2023/awesome-agent-bounties#296` — [claude-builders-bounty/claude-builders-bounty] [BOUNTY $50] SKILL: Generate a s · $50 · updated 2026-10-13
-- `mscrnt/lockpick#33` — [B112] Save at a typewriter with an ink ribbon · updated 2026-10-13
-- `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-13
-- `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · updated 2026-10-13
-- `mscrnt/lockpick#35` — [B114] Switch the equipped weapon between several weapons · updated 2026-10-13
-- `relayhop/sn-monetization-runtime#1287` — [radar] SN open bounty 2026-10-13T07:38 · updated 2026-10-13
+- `Vikingr2023/awesome-agent-bounties#296` — [claude-builders-bounty/claude-builders-bounty] [BOUNTY $50] SKILL: Generate a s · $50 · updated 2026-10-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,8 +31,8 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
-- [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
+- NEW [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 - [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
 - [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
 - [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `mscrnt/lockpick#32` — [B111] Pick up each key item (keys, crests, MO disk, emblems...) · score 4 (uncontested, fresh)
-2. `mscrnt/lockpick#33` — [B112] Save at a typewriter with an ink ribbon · score 4 (uncontested, fresh)
-3. `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · score 4 (uncontested, fresh)
+1. `mscrnt/lockpick#30` — [B109] Get poisoned and cure it (blue herb or serum) · score 4 (uncontested, fresh)
+2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+3. `mscrnt/lockpick#31` — [B110] Combine items · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
