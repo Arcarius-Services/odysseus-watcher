@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T21:33:35.762Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T21:48:48.534Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,6 +14,7 @@ _Last run: 2026-10-13T21:33:35.762Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `habibdxb01/bounty-watcher#5` — 📋 2 open bounties right now · updated 2026-10-13
 - `tenstorrent/tt-metal#59732` — [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th · $3,000 · updated 2026-10-13
 - `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-13
 - `tenstorrent/tt-metal#49307` — [Bounty $2500] Command-R bringup using TTNN APIs · $2500 · updated 2026-10-13
@@ -21,7 +22,6 @@ _Last run: 2026-10-13T21:33:35.762Z (UTC), on GitHub Actions._
 - `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · updated 2026-10-13
 - `causify-ai/helpers#673` — Linter check for the GitHub Action Workflows · updated 2026-10-13
 - `tenstorrent/tt-metal#8621` — [Bounty $500] Host Tilizer Optimizations for BFP8/4/2 data-formats · $500 · updated 2026-10-13
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · score 6 (uncontested, skill fit, fresh)
 2. `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · score 6 (uncontested, skill fit, fresh)
-3. `tenstorrent/tt-metal#59732` — [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th · $3,000 · score 4 (1 rival, $3,000, fresh)
+3. `habibdxb01/bounty-watcher#5` — 📋 2 open bounties right now · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
