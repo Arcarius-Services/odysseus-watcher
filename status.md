@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T07:03:02.482Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T07:33:35.757Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-13T07:03:02.482Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `shanalikhan/code-settings-sync#413` — Suggestion: Allow upload to repository · updated 2026-10-13
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-13
-- `warpspeedopen-source/warpspeed-bounties#4` — [PAID BOUNTY - $750] Email Threads API · $750 · updated 2026-10-13
-- `promptpolish-ai/git-context#2` — Add --json output mode (Bounty: $2 crypto) · $2 · updated 2026-10-13
+- NEW `mscrnt/lockpick#7` — Capture bounties: help Lockpick learn the game · updated 2026-10-13
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-13
+- `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-13
 - `illbnm/homelab-stack#6` — [BOUNTY $220] AI Stack — Ollama + Open WebUI + Stable Diffusion · $220 · updated 2026-10-13
-- `SolFoundry/solfoundry#845` — 🏭 Bounty T2: Build Claude Agent for Auto-Submitting to T1 Bounties · updated 2026-10-13
-- `sybil-solutions/local-ai-registry#221` — Bounty $50: recipe for RTX 4060 Ti 16 GB · $50 · updated 2026-10-13
-- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-13
+- `tenstorrent/tt-metal#8621` — [Bounty $500] Host Tilizer Optimizations for BFP8/4/2 data-formats · $500 · updated 2026-10-13
+- NEW `mscrnt/lockpick#35` — [B114] Switch the equipped weapon between several weapons · updated 2026-10-13
+- NEW `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · updated 2026-10-13
+- NEW `mscrnt/lockpick#33` — [B112] Save at a typewriter with an ink ribbon · updated 2026-10-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1333` — [Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegi · $500 · score 6 (uncontested, $500, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `warpspeedopen-source/warpspeed-bounties#4` — [PAID BOUNTY - $750] Email Threads API · $750 · score 4 (2 rivals, $750, fresh)
+1. `mscrnt/lockpick#7` — Capture bounties: help Lockpick learn the game · score 4 (uncontested, fresh)
+2. `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · score 4 (2 rivals, $50, fresh)
+3. `tenstorrent/tt-metal#8621` — [Bounty $500] Host Tilizer Optimizations for BFP8/4/2 data-formats · $500 · score 4 (2 rivals, $500, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
