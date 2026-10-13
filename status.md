@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T16:33:35.723Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T17:03:35.860Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-13T16:33:35.723Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `RetroShare/RetroShare#1424` — Home V2 Display the latest Channel content · updated 2026-10-13
+- NEW `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-13
+- NEW `sybil-solutions/local-ai-registry#216` — Bounty $50: recipe for Intel Arc B580 12 GB · $50 · updated 2026-10-13
+- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-13
+- `RetroShare/RetroShare#1424` — Home V2 Display the latest Channel content · updated 2026-10-13
 - `mscrnt/lockpick#33` — [B112] Save at a typewriter (a few times, different slots) · updated 2026-10-13
 - `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · updated 2026-10-13
 - `mscrnt/lockpick#29` — [B108] Use each healing item (green, red+green, blue, mixed herbs, first aid spr · updated 2026-10-13
 - `mscrnt/lockpick#24` — [B103] Fire and reload the shotgun · updated 2026-10-13
-- `SPLURT-Station/S.P.L.U.R.T-tg#1313` — [BOUNTY] Suggestion #1286 · updated 2026-10-13
-- `NSPG13/agent-bounties#1632` — [Bounty] Bring a real backlog: get an established open-source project to fund it · updated 2026-10-13
-- `aLexzzz430/Cognitive-OS#5` — [ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture pr · $3 · updated 2026-10-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `RetroShare/RetroShare#1424` — Home V2 Display the latest Channel content · score 6 (uncontested, skill fit, fresh)
-2. `mscrnt/lockpick#33` — [B112] Save at a typewriter (a few times, different slots) · score 4 (uncontested, fresh)
-3. `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · score 4 (uncontested, fresh)
+2. `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · score 4 (2 rivals, $50, fresh)
+3. `mscrnt/lockpick#33` — [B112] Save at a typewriter (a few times, different slots) · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
