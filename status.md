@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-13T15:33:36.887Z (UTC), on GitHub Actions._
+_Last run: 2026-10-13T16:03:35.850Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-13T15:33:36.887Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `NSPG13/agent-bounties#1632` — [Bounty] Bring a real backlog: get an established open-source project to fund it · updated 2026-10-13
+- `SPLURT-Station/S.P.L.U.R.T-tg#1313` — [BOUNTY] Suggestion #1286 · updated 2026-10-13
+- `NSPG13/agent-bounties#1632` — [Bounty] Bring a real backlog: get an established open-source project to fund it · updated 2026-10-13
 - `aLexzzz430/Cognitive-OS#5` — [ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture pr · $3 · updated 2026-10-13
 - `mscrnt/lockpick#7` — Capture bounties: help Lockpick learn the game · updated 2026-10-13
 - `mscrnt/lockpick#22` — [B007] Play the Rebecca section (Chris scenario) · updated 2026-10-13
 - `mscrnt/lockpick#23` — [B102] Put items into and take them out of the item box · updated 2026-10-13
 - `mscrnt/lockpick#24` — [B103] Fire and reload the shotgun · updated 2026-10-13
 - `mscrnt/lockpick#25` — [B104] Fire and reload the Colt Python / magnum · updated 2026-10-13
-- `mscrnt/lockpick#26` — [B105] Use the bazooka with each round type (explosive, acid, flame) · updated 2026-10-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
