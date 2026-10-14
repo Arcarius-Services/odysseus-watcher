@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-14T20:33:35.774Z (UTC), on GitHub Actions._
+_Last run: 2026-10-14T20:39:00.826Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,11 +15,11 @@ _Last run: 2026-10-14T20:33:35.774Z (UTC), on GitHub Actions._
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-10-14
-- NEW `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-14
+- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-14
 - `Henry00IS/ShapeEditor#17` — [50$ Bounty] PolyBool can cause an editor crash on T-Junctions · updated 2026-10-14
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-14
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-14
 - `iii123iii/Crystal-PDF#3` — Bug bounty 100 usd to whoever makes my landing page responsive for mobile · updated 2026-10-14
-- NEW `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-14
+- `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-14
 - `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · updated 2026-10-14
 - `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
@@ -36,7 +36,7 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 - [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
 - [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
-- NEW [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
+- [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
