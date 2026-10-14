@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-14T15:33:35.867Z (UTC), on GitHub Actions._
+_Last run: 2026-10-14T16:03:35.861Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-14T15:33:35.867Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · updated 2026-10-14
-- `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-14
-- NEW `relayhop/sn-monetization-runtime#1287` — [radar] SN open bounty 2026-10-13T07:38 · updated 2026-10-14
-- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1312` — [BOUNTY] Suggestion #1285 · updated 2026-10-14
+- `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-14
+- `SPLURT-Station/S.P.L.U.R.T-tg#1312` — [BOUNTY] Suggestion #1285 · updated 2026-10-14
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-14
 - `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-14
+- `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · updated 2026-10-14
+- `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-14
+- `relayhop/sn-monetization-runtime#1287` — [radar] SN open bounty 2026-10-13T07:38 · updated 2026-10-14
 - `SPLURT-Station/S.P.L.U.R.T-tg#1313` — [BOUNTY] Suggestion #1286 · updated 2026-10-14
-- `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · updated 2026-10-14
-- `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · updated 2026-10-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · score 6 (uncontested, skill fit, fresh)
 2. `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · score 6 (uncontested, skill fit, fresh)
-3. `mscrnt/lockpick#34` — [B113] Try to pick something up with a full inventory · score 4 (uncontested, fresh)
+3. `SPLURT-Station/S.P.L.U.R.T-tg#1312` — [BOUNTY] Suggestion #1285 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
