@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-14T01:10:29.489Z (UTC), on GitHub Actions._
+_Last run: 2026-10-14T02:33:36.104Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-14T01:10:29.489Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Nexussyn/ai-growth-engine#3` — [AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue · updated 2026-10-14
+- `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-14
+- NEW `promptpolish-ai/git-context#2` — Add --json output mode (Bounty: $2 crypto) · $2 · updated 2026-10-14
+- `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-14
+- NEW `FuRongJun-1999/dsh-bounty#67` — [悬赏] 横向测评：各家角色扮演 / 记忆系统 / 智能体工作流方案（≥3 家 · 可复跑） · updated 2026-10-14
+- `Nexussyn/ai-growth-engine#3` — [AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue · updated 2026-10-14
 - `mscrnt/lockpick#32` — [B111] Pick up each key item (keys, crests, MO disk, emblems...) · updated 2026-10-14
 - `mscrnt/lockpick#31` — [B110] Combine items · updated 2026-10-14
 - `mscrnt/lockpick#30` — [B109] Get poisoned and cure it (blue herb or serum) · updated 2026-10-14
-- `mscrnt/lockpick#26` — [B105] Use the bazooka with each round type (explosive, acid, flame) · updated 2026-10-14
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-14
-- `zhangjiayang6835-cyber/bounty-plaza#1891` — [Bounty] 📋 2 open bounties right now · updated 2026-10-14
-- `ditto-assistant/ditto-subnet#2054` — Epic: 5% maintenance treasury and miner bounty operations · updated 2026-10-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · score 6 (uncontested, skill fit, fresh)
-2. `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · score 6 (uncontested, skill fit, fresh)
-3. `mscrnt/lockpick#32` — [B111] Pick up each key item (keys, crests, MO disk, emblems...) · score 4 (uncontested, fresh)
+1. `mscrnt/lockpick#32` — [B111] Pick up each key item (keys, crests, MO disk, emblems...) · score 4 (uncontested, fresh)
+2. `mscrnt/lockpick#31` — [B110] Combine items · score 4 (uncontested, fresh)
+3. `mscrnt/lockpick#30` — [B109] Get poisoned and cure it (blue herb or serum) · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
