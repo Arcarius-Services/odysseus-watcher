@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-14T04:03:35.828Z (UTC), on GitHub Actions._
+_Last run: 2026-10-14T04:33:35.771Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,17 +14,17 @@ _Last run: 2026-10-14T04:03:35.828Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `SPLURT-Station/S.P.L.U.R.T-tg#30` — [BOUNTY] Lewd and custom mobs $25+ · $25 · updated 2026-10-14
+- NEW `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-14
 - `weilixiong/TentOfTrials#5` — [$25 BOUNTY] [Python] Add independent log parser fixtures · $25 · updated 2026-10-14
 - `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-14
 - `SecureBananaLabs/bug-bounty#2782` — CORS configured without origin allowlist in app.js (reissue via #743) · updated 2026-10-14
 - `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-14
 - `promptpolish-ai/git-context#2` — Add --json output mode (Bounty: $2 crypto) · $2 · updated 2026-10-14
 - `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-14
-- `FuRongJun-1999/dsh-bounty#67` — [悬赏] 横向测评：各家角色扮演 / 记忆系统 / 智能体工作流方案（≥3 家 · 可复跑） · updated 2026-10-14
-- `Nexussyn/ai-growth-engine#3` — [AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue · updated 2026-10-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `mscrnt/lockpick#32` — [B111] Pick up each key item (keys, crests, MO disk, emblems...) · score 4 (uncontested, fresh)
-2. `mscrnt/lockpick#31` — [B110] Combine items · score 4 (uncontested, fresh)
+1. `SPLURT-Station/S.P.L.U.R.T-tg#30` — [BOUNTY] Lewd and custom mobs $25+ · $25 · score 4 (1 rival, $25, fresh)
+2. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
 3. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
