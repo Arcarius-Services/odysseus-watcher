@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-14T23:03:35.855Z (UTC), on GitHub Actions._
+_Last run: 2026-10-14T23:33:36.502Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-14T23:03:35.855Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-14
+- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-14
 - `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-14
-- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-14
-- NEW `tenstorrent/tt-metal#58986` — [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow · $1,000 · updated 2026-10-14
-- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-14
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-14
+- `tenstorrent/tt-metal#58986` — [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow · $1,000 · updated 2026-10-14
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-14
 - `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-14
 - `NSPG13/agent-bounties#1376` — Generate qualifying GMV for Highest externally funded canonical GMV — August 24  · updated 2026-10-14
-- `sybil-solutions/local-ai-registry#223` — Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU) · $50 · updated 2026-10-14
-- `sybil-solutions/local-ai-registry#222` — Bounty $50: recipe for RTX 5060 Ti 16 GB · $50 · updated 2026-10-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
