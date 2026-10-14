@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-14T04:33:35.771Z (UTC), on GitHub Actions._
+_Last run: 2026-10-14T05:03:35.789Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,21 +14,21 @@ _Last run: 2026-10-14T04:33:35.771Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `SPLURT-Station/S.P.L.U.R.T-tg#30` — [BOUNTY] Lewd and custom mobs $25+ · $25 · updated 2026-10-14
-- NEW `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-14
+- NEW `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-14
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-14
+- `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-14
 - `weilixiong/TentOfTrials#5` — [$25 BOUNTY] [Python] Add independent log parser fixtures · $25 · updated 2026-10-14
 - `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-14
 - `SecureBananaLabs/bug-bounty#2782` — CORS configured without origin allowlist in app.js (reissue via #743) · updated 2026-10-14
 - `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-14
 - `promptpolish-ai/git-context#2` — Add --json output mode (Bounty: $2 crypto) · $2 · updated 2026-10-14
-- `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `SPLURT-Station/S.P.L.U.R.T-tg#30` — [BOUNTY] Lewd and custom mobs $25+ · $25 · score 4 (1 rival, $25, fresh)
-2. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
+1. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
+2. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
+3. `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · score 0 (16 rivals — crowded, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
