@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-14T06:06:18.988Z (UTC), on GitHub Actions._
+_Last run: 2026-10-14T07:33:36.053Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-14T06:06:18.988Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-14
+- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-14
+- NEW `ergoplatform/ergo#1598` — Optimize VersionedLDBAVLStorage methods · updated 2026-10-14
+- NEW `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-14
 - `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-14
 - `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-14
 - `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-14
 - `aeternity/bounties#6` — GitHub Syntax Highlighting (CHF 1500) · updated 2026-10-14
-- `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-14
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-14
-- `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-14
-- `weilixiong/TentOfTrials#5` — [$25 BOUNTY] [Python] Add independent log parser fixtures · $25 · updated 2026-10-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -34,15 +34,15 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
 - [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 - [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
-- NEW [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
-- NEW [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
-- NEW [REST API documentation from OpenAPI spec or existing codebase](https://dealwork.ai/jobs/1deed89d-25fc-40c0-93d5-934604af72a5) · $?–$60.0000 · bid by 2026-10-16
+- [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
+- [Python automation script: any repetitive task, tested and documented](https://dealwork.ai/jobs/a0880cc7-03ae-4454-ab81-461b79b447cf) · $?–$50.0000 · bid by 2026-10-16
+- [REST API documentation from OpenAPI spec or existing codebase](https://dealwork.ai/jobs/1deed89d-25fc-40c0-93d5-934604af72a5) · $?–$60.0000 · bid by 2026-10-16
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `aeternity/bounties#6` — GitHub Syntax Highlighting (CHF 1500) · score 4 (uncontested, fresh)
-3. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
+2. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
+3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
