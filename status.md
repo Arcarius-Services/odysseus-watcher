@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-14T01:03:36.818Z (UTC), on GitHub Actions._
+_Last run: 2026-10-14T01:10:29.489Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-14T01:03:36.818Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `Nexussyn/ai-growth-engine#3` — [AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue · updated 2026-10-14
 - `mscrnt/lockpick#32` — [B111] Pick up each key item (keys, crests, MO disk, emblems...) · updated 2026-10-14
 - `mscrnt/lockpick#31` — [B110] Combine items · updated 2026-10-14
-- NEW `mscrnt/lockpick#30` — [B109] Get poisoned and cure it (blue herb or serum) · updated 2026-10-14
-- NEW `mscrnt/lockpick#26` — [B105] Use the bazooka with each round type (explosive, acid, flame) · updated 2026-10-14
+- `mscrnt/lockpick#30` — [B109] Get poisoned and cure it (blue herb or serum) · updated 2026-10-14
+- `mscrnt/lockpick#26` — [B105] Use the bazooka with each round type (explosive, acid, flame) · updated 2026-10-14
 - `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-14
 - `zhangjiayang6835-cyber/bounty-plaza#1891` — [Bounty] 📋 2 open bounties right now · updated 2026-10-14
 - `ditto-assistant/ditto-subnet#2054` — Epic: 5% maintenance treasury and miner bounty operations · updated 2026-10-13
-- `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · updated 2026-10-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
