@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-14T14:03:35.828Z (UTC), on GitHub Actions._
+_Last run: 2026-10-14T14:33:35.769Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-14T14:03:35.828Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `tenstorrent/tt-metal#59732` — [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th · $3,000 · updated 2026-10-14
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-14
 - `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-14
-- NEW `Vikingr2023/awesome-agent-bounties#161` — [mergeos-bounties/PoseGuide] [25 MRG] Pose schema validation with pydantic · updated 2026-10-14
+- `Vikingr2023/awesome-agent-bounties#161` — [mergeos-bounties/PoseGuide] [25 MRG] Pose schema validation with pydantic · updated 2026-10-14
 - `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-14
-- NEW `Vikingr2023/awesome-agent-bounties#219` — [Scottcjn/rustchain-bounties] [ONBOARD: 3 RTC] Compare RustChain to Another Bloc · updated 2026-10-14
-- NEW `Vikingr2023/awesome-agent-bounties#37` — [mergeos-bounties/PoseGuide] [25 MRG] Pose schema validation with pydantic · updated 2026-10-14
-- NEW `Vikingr2023/awesome-agent-bounties#222` — [mergeos-bounties/BloggerEasy] [25 MRG] Theme pack sample: `corporate_blue` — HT · updated 2026-10-14
-- NEW `Vikingr2023/awesome-agent-bounties#317` — [Scottcjn/rustchain-bounties] [ONBOARD: 2 RTC] Review an Open PR · updated 2026-10-14
-- NEW `Vikingr2023/awesome-agent-bounties#220` — [mergeos-bounties/BloggerEasy] [25 MRG] Theme pack sample: `minimal_white` — HTM · updated 2026-10-14
+- `Vikingr2023/awesome-agent-bounties#219` — [Scottcjn/rustchain-bounties] [ONBOARD: 3 RTC] Compare RustChain to Another Bloc · updated 2026-10-14
+- `Vikingr2023/awesome-agent-bounties#37` — [mergeos-bounties/PoseGuide] [25 MRG] Pose schema validation with pydantic · updated 2026-10-14
+- `Vikingr2023/awesome-agent-bounties#222` — [mergeos-bounties/BloggerEasy] [25 MRG] Theme pack sample: `corporate_blue` — HT · updated 2026-10-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · score 4 (uncontested, fresh)
-2. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · score 2 (5 rivals — crowded, $100, skill fit, fresh)
+1. `tenstorrent/tt-metal#59732` — [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th · $3,000 · score 4 (2 rivals, $3,000, fresh)
+2. `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · score 4 (uncontested, fresh)
+3. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
