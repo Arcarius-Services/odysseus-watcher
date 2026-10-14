@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-14T11:33:35.780Z (UTC), on GitHub Actions._
+_Last run: 2026-10-14T11:44:20.670Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -17,7 +17,7 @@ _Last run: 2026-10-14T11:33:35.780Z (UTC), on GitHub Actions._
 - `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-14
 - `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-14
 - `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-14
-- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-14
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-14
 - `sybil-solutions/local-ai-registry#221` — Bounty $50: recipe for RTX 4060 Ti 16 GB · $50 · updated 2026-10-14
 - `SPLURT-Station/S.P.L.U.R.T-tg#1313` — [BOUNTY] Suggestion #1286 · updated 2026-10-14
 - `Mantitup-Org/vista#62` — Bug: vista deploy still breaks static hosts and platform adapters · updated 2026-10-14
