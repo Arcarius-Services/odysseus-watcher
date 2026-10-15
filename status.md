@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T20:03:35.888Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T20:33:35.715Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-15T20:03:35.888Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `ditto-assistant/ditto-subnet#2054` — Epic: SN118 scoped build bounties: paid slots, human review, and alpha awards · updated 2026-10-15
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-15
-- `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · updated 2026-10-15
-- `ditto-assistant/ditto-subnet#2047` — Publish the DittoBench build-bounty board and GitHub contributor guide · updated 2026-10-15
-- `ditto-assistant/ditto-subnet#2942` — Implement the scoped build-bounty system on top of miner identity and CLA · updated 2026-10-15
-- `ditto-assistant/ditto-subnet#2046` — Implement bounty acceptance, alpha awards, fee refunds and accounting · updated 2026-10-15
-- `uvsmtid/protoprimer#143` — Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set · updated 2026-10-15
-- NEW `Element-Ventures-Canada-Ltd/openchokepoint#20` — [Slice E] Comparative real-world traces: retired engines under one method · updated 2026-10-15
+- `Parabola-org/parabola#19` — [Bounty: $45] Validate input to bytes32ToStellarAddress · $45 · updated 2026-10-15
+- `Parabola-org/parabola#9` — [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage · $90 · updated 2026-10-15
+- NEW `Parabola-org/parabola#8` — [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea · $90 · updated 2026-10-15
+- `Parabola-org/parabola#20` — [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests · $45 · updated 2026-10-15
+- `Parabola-org/parabola#16` — [Bounty: $75] Website: accessibility and motion-preference fixes for the landing · $75 · updated 2026-10-15
+- NEW `Parabola-org/parabola#1` — [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transi · $105 · updated 2026-10-15
+- NEW `Parabola-org/parabola#2` — [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no · $105 · updated 2026-10-15
+- `verdikta/verdikta-applications#76` — [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid · $30 · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · score 4 (uncontested, fresh)
-2. `ditto-assistant/ditto-subnet#2942` — Implement the scoped build-bounty system on top of miner identity and CLA · score 4 (uncontested, fresh)
-3. `Element-Ventures-Canada-Ltd/openchokepoint#20` — [Slice E] Comparative real-world traces: retired engines under one method · score 4 (uncontested, fresh)
+1. `Parabola-org/parabola#8` — [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea · $90 · score 8 (uncontested, $90, skill fit, fresh)
+2. `Parabola-org/parabola#20` — [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests · $45 · score 8 (uncontested, $45, skill fit, fresh)
+3. `Parabola-org/parabola#9` — [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage · $90 · score 6 (uncontested, $90, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
