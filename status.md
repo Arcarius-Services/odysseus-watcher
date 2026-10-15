@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T03:03:36.100Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T03:33:35.738Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-15T03:03:36.100Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `OphirPay/OphirPay#1373` — Add live network transaction fee estimator widget to payment submission form · updated 2026-10-15
+- `OphirPay/OphirPay#1375` — Add QR code payment request generator with configurable amounts and assets · updated 2026-10-15
+- `OphirPay/OphirPay#1361` — Add cursor-based pagination and sorting to /api/audit-log route · updated 2026-10-15
+- `OphirPay/OphirPay#1364` — Add RFC 7807 problem details error formatting across all /api/payments routes · updated 2026-10-15
 - `OphirPay/OphirPay#1377` — Add interactive vesting timeline and claim simulator for payment streams UI · updated 2026-10-15
 - `OphirPay/OphirPay#1389` — Add session re-authentication check on critical administrative actions · updated 2026-10-15
 - `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-15
 - `OphirPay/OphirPay#1386` — Implement timing-safe HMAC signature verification in webhook handler · updated 2026-10-15
-- `OphirPay/OphirPay#1378` — Add drag-and-drop CSV batch upload zone with visual upload progress feedback · updated 2026-10-15
-- `OphirPay/OphirPay#1384` — Add custom asset trustline creation quick-action modal in wallet selector · updated 2026-10-15
-- `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · updated 2026-10-15
-- `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#1389` — Add session re-authentication check on critical administrative actions · score 6 (uncontested, skill fit, fresh)
-2. `OphirPay/OphirPay#1384` — Add custom asset trustline creation quick-action modal in wallet selector · score 6 (uncontested, skill fit, fresh)
-3. `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · score 6 (uncontested, skill fit, fresh)
+1. `OphirPay/OphirPay#1373` — Add live network transaction fee estimator widget to payment submission form · score 6 (uncontested, skill fit, fresh)
+2. `OphirPay/OphirPay#1389` — Add session re-authentication check on critical administrative actions · score 6 (uncontested, skill fit, fresh)
+3. `OphirPay/OphirPay#1384` — Add custom asset trustline creation quick-action modal in wallet selector · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
