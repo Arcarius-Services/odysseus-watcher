@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T17:03:35.892Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T17:33:35.736Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,21 +14,21 @@ _Last run: 2026-10-15T17:03:35.892Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-15
-- NEW `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · updated 2026-10-15
-- NEW `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · updated 2026-10-15
-- NEW `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-10-15
-- NEW `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · updated 2026-10-15
-- NEW `ditto-assistant/ditto-subnet#2942` — Implement paid bounty slots, alpha fee confirmation, and submission deadlines · updated 2026-10-15
-- NEW `ditto-assistant/ditto-subnet#2047` — Publish the DittoBench build-bounty board and GitHub contributor guide · updated 2026-10-15
-- NEW `ditto-assistant/ditto-subnet#2046` — Implement bounty acceptance, alpha awards, fee refunds and accounting · updated 2026-10-15
+- NEW `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-15
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-15
+- `uvsmtid/protoprimer#143` — Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set · updated 2026-10-15
+- `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · updated 2026-10-15
+- `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · updated 2026-10-15
+- `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-10-15
+- `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · updated 2026-10-15
+- `ditto-assistant/ditto-subnet#2942` — Implement paid bounty slots, alpha fee confirmation, and submission deadlines · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
