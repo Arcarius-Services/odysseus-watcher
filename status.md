@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T19:33:35.740Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T20:03:35.888Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-15T19:33:35.740Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-15
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-15
-- NEW `Element-Ventures-Canada-Ltd/openchokepoint#18` — [Slice C] Red-team the hard boundaries: try to get technical data past the valid · updated 2026-10-15
-- NEW `Element-Ventures-Canada-Ltd/openchokepoint#17` — [Slice B] Verifiable evidence pointers: prove a record exists without disclosing · updated 2026-10-15
-- NEW `Element-Ventures-Canada-Ltd/openchokepoint#16` — [Slice A] Public-evidence coverage score and gap atlas · updated 2026-10-15
-- NEW `Element-Ventures-Canada-Ltd/openchokepoint#3` — [Priority] Open call: digital-thread and critical-items register schema for rock · updated 2026-10-15
-- `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-10-15
+- `ditto-assistant/ditto-subnet#2054` — Epic: SN118 scoped build bounties: paid slots, human review, and alpha awards · updated 2026-10-15
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-15
+- `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · updated 2026-10-15
+- `ditto-assistant/ditto-subnet#2047` — Publish the DittoBench build-bounty board and GitHub contributor guide · updated 2026-10-15
+- `ditto-assistant/ditto-subnet#2942` — Implement the scoped build-bounty system on top of miner identity and CLA · updated 2026-10-15
+- `ditto-assistant/ditto-subnet#2046` — Implement bounty acceptance, alpha awards, fee refunds and accounting · updated 2026-10-15
 - `uvsmtid/protoprimer#143` — Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set · updated 2026-10-15
+- NEW `Element-Ventures-Canada-Ltd/openchokepoint#20` — [Slice E] Comparative real-world traces: retired engines under one method · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · score 4 (uncontested, fresh)
-2. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
-3. `Element-Ventures-Canada-Ltd/openchokepoint#18` — [Slice C] Red-team the hard boundaries: try to get technical data past the valid · score 4 (uncontested, fresh)
+1. `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · score 4 (uncontested, fresh)
+2. `ditto-assistant/ditto-subnet#2942` — Implement the scoped build-bounty system on top of miner identity and CLA · score 4 (uncontested, fresh)
+3. `Element-Ventures-Canada-Ltd/openchokepoint#20` — [Slice E] Comparative real-world traces: retired engines under one method · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
