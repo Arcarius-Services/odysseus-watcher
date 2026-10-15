@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T17:44:44.074Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T19:03:36.105Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-15T17:44:44.074Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-15
 - `uvsmtid/protoprimer#143` — Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set · updated 2026-10-15
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-15
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1895` — [Bounty] Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set · updated 2026-10-15
+- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-15
+- NEW `OphirPay/OphirPay#1353` — Validate dispute timeout window in resolve_dispute to prevent premature resoluti · updated 2026-10-15
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-15
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-15
 - `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · updated 2026-10-15
 - `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · updated 2026-10-15
-- `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-10-15
-- `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · updated 2026-10-15
-- `ditto-assistant/ditto-subnet#2942` — Implement paid bounty slots, alpha fee confirmation, and submission deadlines · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,17 +32,17 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
-- NEW [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
+- [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
 - [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
 - [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
-- NEW [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
-- NEW [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
+- [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
+- [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · score 6 (uncontested, skill fit, fresh)
-2. `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · score 6 (uncontested, skill fit, fresh)
-3. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `ditto-assistant/ditto-subnet#2872` — Miner CLI: sign the contributor licence agreement (CLA) with the miner hotkey · score 6 (uncontested, skill fit, fresh)
+3. `ditto-assistant/ditto-subnet#2871` — Miner CLI: attest a GitHub account and link it to the miner hotkey · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
