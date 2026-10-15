@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T01:48:00.108Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T03:03:36.100Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-15T01:48:00.108Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `FuRongJun-1999/dsh-bounty#71` — [悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」） · updated 2026-10-15
-- NEW `OphirPay/OphirPay#1416` — Add interactive OpenAPI Swagger / Scalar documentation route at /docs/api · updated 2026-10-15
-- `OphirPay/OphirPay#1386` — Implement timing-safe HMAC signature verification in webhook handler · updated 2026-10-15
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-15
-- NEW `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · updated 2026-10-15
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-15
-- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-15
+- `OphirPay/OphirPay#1377` — Add interactive vesting timeline and claim simulator for payment streams UI · updated 2026-10-15
 - `OphirPay/OphirPay#1389` — Add session re-authentication check on critical administrative actions · updated 2026-10-15
+- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-15
+- `OphirPay/OphirPay#1386` — Implement timing-safe HMAC signature verification in webhook handler · updated 2026-10-15
+- `OphirPay/OphirPay#1378` — Add drag-and-drop CSV batch upload zone with visual upload progress feedback · updated 2026-10-15
+- `OphirPay/OphirPay#1384` — Add custom asset trustline creation quick-action modal in wallet selector · updated 2026-10-15
+- `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · updated 2026-10-15
+- `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#1416` — Add interactive OpenAPI Swagger / Scalar documentation route at /docs/api · score 6 (uncontested, skill fit, fresh)
-2. `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · score 6 (uncontested, skill fit, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+1. `OphirPay/OphirPay#1389` — Add session re-authentication check on critical administrative actions · score 6 (uncontested, skill fit, fresh)
+2. `OphirPay/OphirPay#1384` — Add custom asset trustline creation quick-action modal in wallet selector · score 6 (uncontested, skill fit, fresh)
+3. `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
