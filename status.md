@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T22:33:36.020Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T23:03:35.768Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-15T22:33:36.020Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `SecureBananaLabs/bug-bounty#2850` — upload endpoint accepts empty file submissions as successful uploads · updated 2026-10-15
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-15
+- `Parabola-org/parabola#16` — [Bounty: $75] Website: accessibility and motion-preference fixes for the landing · $75 · updated 2026-10-15
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-15
+- NEW `SecureBananaLabs/bug-bounty#30` — Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB · updated 2026-10-15
 - `Parabola-org/parabola#2` — [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no · $105 · updated 2026-10-15
 - `Parabola-org/parabola#3` — [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur · $105 · updated 2026-10-15
 - `Parabola-org/parabola#4` — [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing · $105 · updated 2026-10-15
-- `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-10-15
-- `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · updated 2026-10-15
-- `Parabola-org/parabola#5` — [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest · $125 · updated 2026-10-15
-- `Parabola-org/parabola#17` — [Bounty: $60] Docs: add a "Failure modes and recovery" guide · $60 · updated 2026-10-15
-- `Parabola-org/parabola#1` — [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transi · $105 · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Parabola-org/parabola#3` — [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur · $105 · score 6 (1 rival, $105, skill fit, fresh)
-2. `Parabola-org/parabola#5` — [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest · $125 · score 6 (1 rival, $125, skill fit, fresh)
-3. `Parabola-org/parabola#17` — [Bounty: $60] Docs: add a "Failure modes and recovery" guide · $60 · score 6 (2 rivals, $60, skill fit, fresh)
+1. `Parabola-org/parabola#16` — [Bounty: $75] Website: accessibility and motion-preference fixes for the landing · $75 · score 6 (uncontested, $75, fresh)
+2. `Parabola-org/parabola#3` — [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur · $105 · score 6 (1 rival, $105, skill fit, fresh)
+3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
