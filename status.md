@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T15:33:35.842Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T16:03:35.818Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,18 +14,18 @@ _Last run: 2026-10-15T15:33:35.842Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `RetroShare/RetroShare#1424` — Home V2 Display the latest Channel content · updated 2026-10-15
 - `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-15
+- `OphirPay/OphirPay#1347` — Add validation for token decimal precision mismatch in record_payment · updated 2026-10-15
 - `uvsmtid/protoprimer#143` — Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set · updated 2026-10-15
 - `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-15
-- NEW `OphirPay/OphirPay#1384` — Add custom asset trustline creation quick-action modal in wallet selector · updated 2026-10-15
+- `RetroShare/RetroShare#1424` — Home V2 Display the latest Channel content · updated 2026-10-15
+- `OphirPay/OphirPay#1384` — Add custom asset trustline creation quick-action modal in wallet selector · updated 2026-10-15
 - `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · updated 2026-10-15
 - `OphirPay/OphirPay#1416` — Add interactive OpenAPI Swagger / Scalar documentation route at /docs/api · updated 2026-10-15
-- `Spectral-Finance/lux#68` — YouTube Core Integration and Live Streaming ($3,000) · $3,000 · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
