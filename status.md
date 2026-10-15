@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T10:03:35.821Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T10:33:35.782Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-15T10:03:35.821Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-15
-- `theselfish/SlopStation13#5` — [Bounty] [$600] Add Thursday's Boots · $600 · updated 2026-10-15
-- `OphirPay/OphirPay#1361` — Add cursor-based pagination and sorting to /api/audit-log route · updated 2026-10-15
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-15
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-15
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-15
-- NEW `sybil-solutions/local-ai-registry#222` — Bounty $50: recipe for RTX 5060 Ti 16 GB · $50 · updated 2026-10-15
-- `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-15
+- NEW `tenstorrent/tt-metal#58986` — [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow · $1,000 · updated 2026-10-15
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-15
+- NEW `Spectral-Finance/lux#76` — Gas Optimization and Transaction Management $1,250 · $1,250 · updated 2026-10-15
+- NEW `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-15
+- NEW `Spectral-Finance/lux#74` — Multi-Chain Data Aggregation Engine $1,750 · $1,750 · updated 2026-10-15
+- NEW `aeternity/bounties#6` — GitHub Syntax Highlighting (CHF 1500) · updated 2026-10-15
+- `warpspeedopen-source/warpspeed-bounties#3` — [PAID BOUNTY - $440] Messenger Group Chat Poll Creation & Voting UI · $440 · updated 2026-10-15
+- NEW `Spectral-Finance/lux#73` — Web3 Wallet Management and Transaction Infrastructure $2,000 · $2,000 · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
-2. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
-3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+1. `Spectral-Finance/lux#73` — Web3 Wallet Management and Transaction Infrastructure $2,000 · $2,000 · score 6 (1 rival, $2,000, skill fit, fresh)
+2. `tenstorrent/tt-metal#58986` — [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow · $1,000 · score 4 (1 rival, $1,000, fresh)
+3. `aeternity/bounties#6` — GitHub Syntax Highlighting (CHF 1500) · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
