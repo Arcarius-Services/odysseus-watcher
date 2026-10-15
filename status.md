@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T20:33:35.715Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T21:03:35.893Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-15T20:33:35.715Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Parabola-org/parabola#19` — [Bounty: $45] Validate input to bytes32ToStellarAddress · $45 · updated 2026-10-15
-- `Parabola-org/parabola#9` — [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage · $90 · updated 2026-10-15
-- NEW `Parabola-org/parabola#8` — [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea · $90 · updated 2026-10-15
-- `Parabola-org/parabola#20` — [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests · $45 · updated 2026-10-15
-- `Parabola-org/parabola#16` — [Bounty: $75] Website: accessibility and motion-preference fixes for the landing · $75 · updated 2026-10-15
-- NEW `Parabola-org/parabola#1` — [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transi · $105 · updated 2026-10-15
-- NEW `Parabola-org/parabola#2` — [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no · $105 · updated 2026-10-15
+- `Parabola-org/parabola#14` — [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError · $75 · updated 2026-10-15
+- `OphirPay/OphirPay#1384` — Add custom asset trustline creation quick-action modal in wallet selector · updated 2026-10-15
 - `verdikta/verdikta-applications#76` — [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid · $30 · updated 2026-10-15
+- NEW `Parabola-org/parabola#7` — [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallb · $90 · updated 2026-10-15
+- `Parabola-org/parabola#10` — [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD · $90 · updated 2026-10-15
+- `Parabola-org/parabola#18` — [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a s · $60 · updated 2026-10-15
+- `Parabola-org/parabola#17` — [Bounty: $60] Docs: add a "Failure modes and recovery" guide · $60 · updated 2026-10-15
+- `Parabola-org/parabola#16` — [Bounty: $75] Website: accessibility and motion-preference fixes for the landing · $75 · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Parabola-org/parabola#8` — [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea · $90 · score 8 (uncontested, $90, skill fit, fresh)
-2. `Parabola-org/parabola#20` — [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests · $45 · score 8 (uncontested, $45, skill fit, fresh)
-3. `Parabola-org/parabola#9` — [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage · $90 · score 6 (uncontested, $90, fresh)
+1. `Parabola-org/parabola#18` — [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a s · $60 · score 8 (uncontested, $60, skill fit, fresh)
+2. `Parabola-org/parabola#14` — [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError · $75 · score 6 (uncontested, $75, fresh)
+3. `OphirPay/OphirPay#1384` — Add custom asset trustline creation quick-action modal in wallet selector · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
