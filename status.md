@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T12:33:35.738Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T12:50:39.349Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,13 +15,13 @@ _Last run: 2026-10-15T12:33:35.738Z (UTC), on GitHub Actions._
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-15
-- NEW `OphirPay/OphirPay#1416` — Add interactive OpenAPI Swagger / Scalar documentation route at /docs/api · updated 2026-10-15
+- `verdikta/verdikta-applications#76` — [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid · $30 · updated 2026-10-15
+- `OphirPay/OphirPay#1416` — Add interactive OpenAPI Swagger / Scalar documentation route at /docs/api · updated 2026-10-15
 - `zhangjiayang6835-cyber/bounty-plaza#1892` — [Bounty] [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write · $30 · updated 2026-10-15
 - `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-15
 - `OphirPay/OphirPay#1350` — Enforce minimum and maximum duration bounds on payment streams in create_stream · updated 2026-10-15
 - `OphirPay/OphirPay#1361` — Add cursor-based pagination and sorting to /api/audit-log route · updated 2026-10-15
 - `sybil-solutions/local-ai-registry#221` — Bounty $50: recipe for RTX 4060 Ti 16 GB · $50 · updated 2026-10-15
-- `verdikta/verdikta-applications#76` — [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid · $30 · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
