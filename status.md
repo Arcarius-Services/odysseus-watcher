@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T11:33:35.741Z (UTC), on GitHub Actions._
+_Last run: 2026-10-15T12:03:36.175Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-15T11:33:35.741Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-15
+- NEW `OphirPay/OphirPay#1350` — Enforce minimum and maximum duration bounds on payment streams in create_stream · updated 2026-10-15
+- `OphirPay/OphirPay#1361` — Add cursor-based pagination and sorting to /api/audit-log route · updated 2026-10-15
 - `sybil-solutions/local-ai-registry#221` — Bounty $50: recipe for RTX 4060 Ti 16 GB · $50 · updated 2026-10-15
-- NEW `verdikta/verdikta-applications#76` — [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid · $30 · updated 2026-10-15
-- NEW `OphirPay/OphirPay#1378` — Add drag-and-drop CSV batch upload zone with visual upload progress feedback · updated 2026-10-15
-- `OphirPay/OphirPay#1368` — Validate Stellar transaction memo encoding and character set on payment routes · updated 2026-10-15
-- NEW `OphirPay/OphirPay#1386` — Implement timing-safe HMAC signature verification in webhook handler · updated 2026-10-15
-- `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · updated 2026-10-15
-- `weilixiong/TentOfTrials#5` — [$25 BOUNTY] [Python] Add independent log parser fixtures · $25 · updated 2026-10-15
-- `tenstorrent/tt-metal#58986` — [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow · $1,000 · updated 2026-10-15
+- `verdikta/verdikta-applications#76` — [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid · $30 · updated 2026-10-15
+- `OphirPay/OphirPay#1378` — Add drag-and-drop CSV batch upload zone with visual upload progress feedback · updated 2026-10-15
+- NEW `OphirPay/OphirPay#1368` — Validate Stellar transaction memo encoding and character set on payment routes · updated 2026-10-15
+- `OphirPay/OphirPay#1386` — Implement timing-safe HMAC signature verification in webhook handler · updated 2026-10-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `OphirPay/OphirPay#1368` — Validate Stellar transaction memo encoding and character set on payment routes · score 6 (uncontested, skill fit, fresh)
 2. `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · score 6 (uncontested, $1,000, fresh)
-3. `verdikta/verdikta-applications#76` — [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid · $30 · score 4 (1 rival, $30, fresh)
+3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
