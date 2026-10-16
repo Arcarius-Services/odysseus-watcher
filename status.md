@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-16T15:33:36.100Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T16:03:35.915Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `NSPG13/agent-bounties#1632` — [Bounty] Bring a real backlog: get an established open-source project to fund it · updated 2026-10-16
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1911` — [Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, a · $125 · updated 2026-10-16
+- `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-16
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-16
+- `NSPG13/agent-bounties#1632` — [Bounty] Bring a real backlog: get an established open-source project to fund it · updated 2026-10-16
+- `zhangjiayang6835-cyber/bounty-plaza#1911` — [Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, a · $125 · updated 2026-10-16
 - `Ikalus1988/MisakaNet#3332` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-16
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · updated 2026-10-16
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1913` — [Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and r · $105 · updated 2026-10-16
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1914` — [Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris r · $105 · updated 2026-10-16
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1915` — [Bounty] [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hi · $105 · updated 2026-10-16
-- `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-16
+- `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · updated 2026-10-16
+- `zhangjiayang6835-cyber/bounty-plaza#1913` — [Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and r · $105 · updated 2026-10-16
+- `zhangjiayang6835-cyber/bounty-plaza#1914` — [Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris r · $105 · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `zhangjiayang6835-cyber/bounty-plaza#1913` — [Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and r · $105 · score 6 (1 rival, $105, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1911` — [Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, a · $125 · score 4 (1 rival, $125, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · score 4 (1 rival, $105, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · score 4 (1 rival, $75, fresh)
+3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
