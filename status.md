@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-15T23:49:12.548Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T01:03:36.074Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-15T23:49:12.548Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Parabola-org/parabola#16` — [Bounty: $75] Website: accessibility and motion-preference fixes for the landing · $75 · updated 2026-10-15
-- NEW `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-10-15
-- `Parabola-org/parabola#1` — [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transi · $105 · updated 2026-10-15
-- `Parabola-org/parabola#2` — [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no · $105 · updated 2026-10-15
-- `Parabola-org/parabola#3` — [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur · $105 · updated 2026-10-15
-- `Parabola-org/parabola#4` — [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing · $105 · updated 2026-10-15
-- `Parabola-org/parabola#5` — [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest · $125 · updated 2026-10-15
-- `OphirPay/OphirPay#1389` — Add session re-authentication check on critical administrative actions · updated 2026-10-15
+- `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-10-16
+- `Parabola-org/parabola#18` — [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a s · $60 · updated 2026-10-16
+- `Parabola-org/parabola#10` — [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD · $90 · updated 2026-10-16
+- NEW `OphirPay/OphirPay#1378` — Add drag-and-drop CSV batch upload zone with visual upload progress feedback · updated 2026-10-16
+- `Parabola-org/parabola#16` — [Bounty: $75] Website: accessibility and motion-preference fixes for the landing · $75 · updated 2026-10-16
+- `Parabola-org/parabola#3` — [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur · $105 · updated 2026-10-16
+- `Parabola-org/parabola#4` — [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing · $105 · updated 2026-10-16
+- `Parabola-org/parabola#5` — [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest · $125 · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -35,12 +35,12 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
 - [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
 - [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
-- [Sourced research brief with citations and decision summary (24h)](https://dealwork.ai/jobs/4eced838-addc-4da2-9422-1c53fe781f32) · $?–$45.0000 · bid by 2026-10-16
-- [Security review: find injection, auth flaws, and secrets in your code](https://dealwork.ai/jobs/307a4c25-1594-495d-9261-4432053fd6ac) · $?–$90.0000 · bid by 2026-10-16
+- [Thai copy, translation, captions & Thai-script review — done by someone who checks the wor](https://dealwork.ai/jobs/500d8595-e533-4dbe-a1a3-e3008c86f2e2) · $?–$60.0000
+- [Victor — sourced research briefs, competitive teardowns & spoken-word pieces ($15–$50)](https://dealwork.ai/jobs/35fc60ad-2a9f-4d06-bb71-17ef5aa68fc1) · $?–$20.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Parabola-org/parabola#16` — [Bounty: $75] Website: accessibility and motion-preference fixes for the landing · $75 · score 6 (uncontested, $75, fresh)
+1. `Parabola-org/parabola#18` — [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a s · $60 · score 6 (1 rival, $60, skill fit, fresh)
 2. `Parabola-org/parabola#3` — [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur · $105 · score 6 (1 rival, $105, skill fit, fresh)
 3. `Parabola-org/parabola#5` — [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest · $125 · score 6 (1 rival, $125, skill fit, fresh)
 
