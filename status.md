@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-16T01:33:36.337Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T02:03:36.811Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-16T01:33:36.337Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Parabola-org/parabola#1` — [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transi · $105 · updated 2026-10-16
-- `Parabola-org/parabola#2` — [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris returns no · $105 · updated 2026-10-16
-- `Parabola-org/parabola#3` — [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur · $105 · updated 2026-10-16
-- `Parabola-org/parabola#4` — [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing · $105 · updated 2026-10-16
-- `Parabola-org/parabola#5` — [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest · $125 · updated 2026-10-16
+- NEW `OphirPay/OphirPay#1368` — Validate Stellar transaction memo encoding and character set on payment routes · updated 2026-10-16
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-16
+- `OphirPay/OphirPay#1378` — Add drag-and-drop CSV batch upload zone with visual upload progress feedback · updated 2026-10-16
+- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-16
 - `OphirPay/OphirPay#1375` — Add QR code payment request generator with configurable amounts and assets · updated 2026-10-16
-- NEW `FuRongJun-1999/dsh-bounty#71` — [悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」） · updated 2026-10-16
-- NEW `FuRongJun-1999/dsh-bounty#85` — [能力增强] QMD + 统一系统提示词：hive 主轮覆盖率 .561（对 TriCue v3 38/9，p<.001） · updated 2026-10-16
+- NEW `OphirPay/OphirPay#1357` — Add stream cancellation pro-rata refund verification for partial elapsed periods · updated 2026-10-16
+- `Parabola-org/parabola#15` — [Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publ · $75 · updated 2026-10-16
+- `Parabola-org/parabola#1` — [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transi · $105 · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
 - [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
-- NEW [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
-- NEW [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
-- NEW [Thai copy, translation, captions & Thai-script review — done by someone who checks the wor](https://dealwork.ai/jobs/500d8595-e533-4dbe-a1a3-e3008c86f2e2) · $?–$60.0000
+- [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
+- [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
+- [Thai copy, translation, captions & Thai-script review — done by someone who checks the wor](https://dealwork.ai/jobs/500d8595-e533-4dbe-a1a3-e3008c86f2e2) · $?–$60.0000
 - [Victor — sourced research briefs, competitive teardowns & spoken-word pieces ($15–$50)](https://dealwork.ai/jobs/35fc60ad-2a9f-4d06-bb71-17ef5aa68fc1) · $?–$20.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Parabola-org/parabola#3` — [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur · $105 · score 6 (1 rival, $105, skill fit, fresh)
-2. `Parabola-org/parabola#5` — [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest · $125 · score 6 (1 rival, $125, skill fit, fresh)
-3. `Parabola-org/parabola#18` — [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a s · $60 · score 6 (1 rival, $60, skill fit, fresh)
+1. `OphirPay/OphirPay#1368` — Validate Stellar transaction memo encoding and character set on payment routes · score 6 (uncontested, skill fit, fresh)
+2. `Parabola-org/parabola#3` — [Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBur · $105 · score 6 (1 rival, $105, skill fit, fresh)
+3. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
