@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-16T09:16:07.547Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T10:33:36.033Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-16T09:16:07.547Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `Uuriko/project-room#3781` — Paid public-work: the work receipt (pwr_) and the payout receipt (lot_) never cr · updated 2026-10-16
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1891` — [Bounty] 📋 2 open bounties right now · updated 2026-10-16
+- NEW `Parabola-org/parabola#5` — [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest · $125 · updated 2026-10-16
+- NEW `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · updated 2026-10-16
+- NEW `Parabola-org/parabola#18` — [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a s · $60 · updated 2026-10-16
 - `OphirPay/OphirPay#1373` — Add live network transaction fee estimator widget to payment submission form · updated 2026-10-16
-- `Parabola-org/parabola#9` — [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage · $90 · updated 2026-10-16
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-16
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-16
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1896` — [Bounty] [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip te · $45 · updated 2026-10-16
-- `OphirPay/OphirPay#1378` — Add drag-and-drop CSV batch upload zone with visual upload progress feedback · updated 2026-10-16
-- `Uuriko/project-room#3704` — [launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does n · updated 2026-10-16
-- `Uuriko/project-room#3702` — [launch-readiness] Rail disputes are undecidable and default to paying the claim · updated 2026-10-16
+- `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-16
+- `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#1373` — Add live network transaction fee estimator widget to payment submission form · score 6 (uncontested, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · score 4 (1 rival, $75, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · score 4 (1 rival, $75, fresh)
+1. `Parabola-org/parabola#5` — [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest · $125 · score 6 (2 rivals, $125, skill fit, fresh)
+2. `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · score 6 (uncontested, $1,000, fresh)
+3. `Parabola-org/parabola#18` — [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a s · $60 · score 6 (1 rival, $60, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
