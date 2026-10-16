@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-16T07:03:36.236Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T07:33:35.717Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-16T07:03:36.236Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-16
 - `OphirPay/OphirPay#1389` — Add session re-authentication check on critical administrative actions · updated 2026-10-16
 - `OphirPay/OphirPay#1386` — Implement timing-safe HMAC signature verification in webhook handler · updated 2026-10-16
-- `Parabola-org/parabola#20` — [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests · $45 · updated 2026-10-16
-- `Parabola-org/parabola#19` — [Bounty: $45] Validate input to bytes32ToStellarAddress · $45 · updated 2026-10-16
-- NEW `Spectral-Finance/lux#103` — Rust Component Definition Support $500 · $500 · updated 2026-10-16
-- NEW `Spectral-Finance/lux#102` — Rust Testing Framework Integration $350 · $350 · updated 2026-10-16
-- NEW `Spectral-Finance/lux#101` — Rust Type System and Serialization $450 · $450 · updated 2026-10-16
-- `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-10-16
+- NEW `Parabola-org/parabola#20` — [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests · $45 · updated 2026-10-16
+- NEW `Parabola-org/parabola#19` — [Bounty: $45] Validate input to bytes32ToStellarAddress · $45 · updated 2026-10-16
+- `Spectral-Finance/lux#103` — Rust Component Definition Support $500 · $500 · updated 2026-10-16
+- `Spectral-Finance/lux#102` — Rust Testing Framework Integration $350 · $350 · updated 2026-10-16
+- `Spectral-Finance/lux#101` — Rust Type System and Serialization $450 · $450 · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `OphirPay/OphirPay#1389` — Add session re-authentication check on critical administrative actions · score 4 (2 rivals, skill fit, fresh)
 2. `OphirPay/OphirPay#1386` — Implement timing-safe HMAC signature verification in webhook handler · score 4 (2 rivals, skill fit, fresh)
-3. `Parabola-org/parabola#20` — [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests · $45 · score 2 (3 rivals — crowded, $45, skill fit, fresh)
+3. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
