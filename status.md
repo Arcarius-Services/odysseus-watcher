@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-16T21:00:59.103Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T22:33:36.340Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-16
 - `SecureBananaLabs/bug-bounty#2768` — Registration token subject should match returned user id · updated 2026-10-16
 - `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-16
-- `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-16
-- `zhangjiayang6835-cyber/bounty-plaza#1891` — [Bounty] 📋 2 open bounties right now · updated 2026-10-16
-- `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · updated 2026-10-16
-- `kryptokrona/hugin-bridge#2` — Make readme sexy · updated 2026-10-16
-- `kryptokrona/hugin-native#13` — Help us translate Hugin Messenger! · updated 2026-10-16
+- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-16
+- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-16
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-16
+- `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-16
+- NEW `OphirPay/OphirPay#1361` — Add cursor-based pagination and sorting to /api/audit-log route · updated 2026-10-16
+- NEW `OphirPay/OphirPay#1357` — Add stream cancellation pro-rata refund verification for partial elapsed periods · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
 2. `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · score 4 (1 rival, $75, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · score 4 (1 rival, $105, fresh)
+3. `OphirPay/OphirPay#1357` — Add stream cancellation pro-rata refund verification for partial elapsed periods · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
