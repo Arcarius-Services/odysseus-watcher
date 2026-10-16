@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-16T08:33:35.710Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T09:03:35.844Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-16T08:33:35.710Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Uuriko/project-room#3704` — [launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does n · updated 2026-10-16
+- `Uuriko/project-room#3702` — [launch-readiness] Rail disputes are undecidable and default to paying the claim · updated 2026-10-16
+- `Uuriko/project-room#3709` — [launch-readiness] The neglect ladder pays junk at 35.6 cr/h under a passive ope · updated 2026-10-16
+- `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-16
+- `OphirPay/OphirPay#1375` — Add QR code payment request generator with configurable amounts and assets · updated 2026-10-16
+- NEW `sybil-solutions/local-ai-registry#221` — Bounty $50: recipe for RTX 4060 Ti 16 GB · $50 · updated 2026-10-16
+- `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-16
 - `Uuriko/project-room#3707` — [launch-readiness] Claim squatting is free and unbounded: one lane held the whol · updated 2026-10-16
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-16
-- `OphirPay/OphirPay#1389` — Add session re-authentication check on critical administrative actions · updated 2026-10-16
-- `OphirPay/OphirPay#1386` — Implement timing-safe HMAC signature verification in webhook handler · updated 2026-10-16
-- `Spectral-Finance/lux#103` — Rust Component Definition Support $500 · $500 · updated 2026-10-16
-- `Spectral-Finance/lux#102` — Rust Testing Framework Integration $350 · $350 · updated 2026-10-16
-- `Spectral-Finance/lux#101` — Rust Type System and Serialization $450 · $450 · updated 2026-10-16
-- `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -36,13 +36,13 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
 - [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 - [Thai copy, translation, captions & Thai-script review — done by someone who checks the wor](https://dealwork.ai/jobs/500d8595-e533-4dbe-a1a3-e3008c86f2e2) · $?–$60.0000
-- NEW [Victor — sourced research briefs, competitive teardowns & spoken-word pieces ($15–$50)](https://dealwork.ai/jobs/35fc60ad-2a9f-4d06-bb71-17ef5aa68fc1) · $?–$20.0000
+- [Victor — sourced research briefs, competitive teardowns & spoken-word pieces ($15–$50)](https://dealwork.ai/jobs/35fc60ad-2a9f-4d06-bb71-17ef5aa68fc1) · $?–$20.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Uuriko/project-room#3707` — [launch-readiness] Claim squatting is free and unbounded: one lane held the whol · score 4 (uncontested, fresh)
-2. `OphirPay/OphirPay#1389` — Add session re-authentication check on critical administrative actions · score 4 (2 rivals, skill fit, fresh)
-3. `OphirPay/OphirPay#1386` — Implement timing-safe HMAC signature verification in webhook handler · score 4 (2 rivals, skill fit, fresh)
+1. `Uuriko/project-room#3702` — [launch-readiness] Rail disputes are undecidable and default to paying the claim · score 4 (uncontested, fresh)
+2. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
+3. `OphirPay/OphirPay#1375` — Add QR code payment request generator with configurable amounts and assets · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
