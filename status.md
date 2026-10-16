@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-16T17:33:35.805Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T18:02:25.516Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -15,19 +15,19 @@ _none open right now_
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-16
+- `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-16
 - `OphirPay/OphirPay#1368` — Validate Stellar transaction memo encoding and character set on payment routes · updated 2026-10-16
-- NEW `Element-Ventures-Canada-Ltd/openchokepoint#17` — [Slice B] Verifiable evidence pointers: prove a record exists without disclosing · updated 2026-10-16
+- `Element-Ventures-Canada-Ltd/openchokepoint#17` — [Slice B] Verifiable evidence pointers: prove a record exists without disclosing · updated 2026-10-16
 - `verdikta/verdikta-applications#76` — [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid · $30 · updated 2026-10-16
 - `OphirPay/OphirPay#1350` — Enforce minimum and maximum duration bounds on payment streams in create_stream · updated 2026-10-16
 - `SecureBananaLabs/bug-bounty#30` — Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB · updated 2026-10-16
 - `zhangjiayang6835-cyber/bounty-plaza#1911` — [Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, a · $125 · updated 2026-10-16
-- `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
