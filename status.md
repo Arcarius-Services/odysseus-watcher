@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-16T06:03:36.140Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T06:33:36.110Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _Last run: 2026-10-16T06:03:36.140Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-16
+- `sybil-solutions/local-ai-registry#223` — Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU) · $50 · updated 2026-10-16
+- `sybil-solutions/local-ai-registry#216` — Bounty $50: recipe for Intel Arc B580 12 GB · $50 · updated 2026-10-16
 - `Parabola-org/parabola#1` — [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transi · $105 · updated 2026-10-16
-- NEW `causify-ai/helpers#673` — Linter check for the GitHub Action Workflows · updated 2026-10-16
+- `causify-ai/helpers#673` — Linter check for the GitHub Action Workflows · updated 2026-10-16
 - `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-16
 - `Parabola-org/parabola#20` — [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests · $45 · updated 2026-10-16
 - `OphirPay/OphirPay#1389` — Add session re-authentication check on critical administrative actions · updated 2026-10-16
-- `Parabola-org/parabola#19` — [Bounty: $45] Validate input to bytes32ToStellarAddress · $45 · updated 2026-10-16
-- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-16
-- `Uuriko/project-room#3707` — [launch-readiness] Claim squatting is free and unbounded: one lane held the whol · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,7 +32,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
-- NEW [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
+- [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
 - [Script: Descrição da Tarefa — Python Script (Automação de Dados) O q…](https://dealwork.ai/jobs/22eea68b-5e8c-49ee-9ace-109b0039a75f) · $15.0000–$15.0000 · bid by 2026-10-17
 - [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 - [Thai copy, translation, captions & Thai-script review — done by someone who checks the wor](https://dealwork.ai/jobs/500d8595-e533-4dbe-a1a3-e3008c86f2e2) · $?–$60.0000
