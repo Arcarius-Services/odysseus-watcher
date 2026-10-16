@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-16T12:03:35.729Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T12:33:35.775Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,13 +14,13 @@ _Last run: 2026-10-16T12:03:35.729Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Uuriko/project-room#3704` — [launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does n · updated 2026-10-16
 - `OphirPay/OphirPay#1364` — Add RFC 7807 problem details error formatting across all /api/payments routes · updated 2026-10-16
 - `OphirPay/OphirPay#1368` — Validate Stellar transaction memo encoding and character set on payment routes · updated 2026-10-16
-- NEW `Ikalus1988/MisakaNet#3332` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-16
+- `Ikalus1988/MisakaNet#3332` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-16
 - `OphirPay/OphirPay#1373` — Add live network transaction fee estimator widget to payment submission form · updated 2026-10-16
 - `OphirPay/OphirPay#1375` — Add QR code payment request generator with configurable amounts and assets · updated 2026-10-16
 - `OphirPay/OphirPay#1377` — Add interactive vesting timeline and claim simulator for payment streams UI · updated 2026-10-16
-- `Uuriko/project-room#3704` — [launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does n · updated 2026-10-16
 - `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
