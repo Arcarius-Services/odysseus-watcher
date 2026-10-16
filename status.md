@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-16T11:03:35.822Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T11:33:35.763Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,13 +14,13 @@ _Last run: 2026-10-16T11:03:35.822Z (UTC), on GitHub Actions._
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Parabola-org/parabola#5` — [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest · $125 · updated 2026-10-16
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-16
+- `Uuriko/project-room#3704` — [launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does n · updated 2026-10-16
+- `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · updated 2026-10-16
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-16
 - `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-16
 - `OphirPay/OphirPay#1364` — Add RFC 7807 problem details error formatting across all /api/payments routes · updated 2026-10-16
 - `Uuriko/project-room#3781` — Paid public-work: the work receipt (pwr_) and the payout receipt (lot_) never cr · updated 2026-10-16
 - `zhangjiayang6835-cyber/bounty-plaza#1891` — [Bounty] 📋 2 open bounties right now · updated 2026-10-16
-- `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · updated 2026-10-16
 - `OphirPay/OphirPay#1373` — Add live network transaction fee estimator widget to payment submission form · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
