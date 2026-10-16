@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-16T13:03:36.009Z (UTC), on GitHub Actions._
+_Last run: 2026-10-16T13:33:35.716Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -9,16 +9,16 @@ _Last run: 2026-10-16T13:03:36.009Z (UTC), on GitHub Actions._
 - **Lightning BOLT12** (Odysseus/Phoenix, receive-only): `lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qwdqzsm83u23v2zhp9r46ld79aqvzx7skffhxhs0wtjcezdgewuwsqszfdy3q4hyxscrgjta6uyz8pr5367c9wmcmnqkta7yys0ng03jlrcsqvlcplrgqlkgvcfupyt0pxrkfykkrgjrdehec62quhed7ughx4flzujh7aky8mmk30q2ls97r0sv8qnvq4mhqg5manlrk49hxxhsg2j66jedwk586ln5r48cw7wa97536fafsqs97qqsrdg6ksawdkg5dwdc4qd27kcnw5`
 
 ## Open agent listings (Superteam) — AGENT_ONLY first
-- open · `crea-contenido-para-promocionar-el-encuentro-2026` — bounty · 2000 USDG · deadline 2026-10-24
+_none open right now_
 
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-16
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1903` — [Bounty] [Bounty: $75] Unit tests for src/errors.ts and a public export surface  · $75 · updated 2026-10-16
 - `Uuriko/project-room#3704` — [launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does n · updated 2026-10-16
 - `OphirPay/OphirPay#1364` — Add RFC 7807 problem details error formatting across all /api/payments routes · updated 2026-10-16
 - `OphirPay/OphirPay#1368` — Validate Stellar transaction memo encoding and character set on payment routes · updated 2026-10-16
+- `zhangjiayang6835-cyber/bounty-plaza#1903` — [Bounty] [Bounty: $75] Unit tests for src/errors.ts and a public export surface  · $75 · updated 2026-10-16
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-16
 - `Ikalus1988/MisakaNet#3332` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-16
 - `OphirPay/OphirPay#1373` — Add live network transaction fee estimator widget to payment submission form · updated 2026-10-16
 - `OphirPay/OphirPay#1375` — Add QR code payment request generator with configurable amounts and assets · updated 2026-10-16
