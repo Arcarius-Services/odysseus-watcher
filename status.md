@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-17T04:33:35.672Z (UTC), on GitHub Actions._
+_Last run: 2026-10-17T05:03:36.385Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1908` — [Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowa · $90 · updated 2026-10-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1909` — [Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxW · $90 · updated 2026-10-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1907` — [Bounty] [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMes · $90 · updated 2026-10-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1906` — [Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination ch · $90 · updated 2026-10-17
+- NEW `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-10-17
 - `SecureBananaLabs/bug-bounty#2768` — Registration token subject should match returned user id · updated 2026-10-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1897` — [Bounty] [Bounty: $45] Validate input to bytes32ToStellarAddress · $45 · updated 2026-10-17
-- `OphirPay/OphirPay#1361` — Add cursor-based pagination and sorting to /api/audit-log route · updated 2026-10-17
+- `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-17
+- `zhangjiayang6835-cyber/bounty-plaza#1908` — [Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowa · $90 · updated 2026-10-17
+- `zhangjiayang6835-cyber/bounty-plaza#1909` — [Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxW · $90 · updated 2026-10-17
+- `zhangjiayang6835-cyber/bounty-plaza#1907` — [Bounty] [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMes · $90 · updated 2026-10-17
+- `zhangjiayang6835-cyber/bounty-plaza#1906` — [Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination ch · $90 · updated 2026-10-17
+- `zhangjiayang6835-cyber/bounty-plaza#1897` — [Bounty] [Bounty: $45] Validate input to bytes32ToStellarAddress · $45 · updated 2026-10-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
