@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-17T05:03:36.385Z (UTC), on GitHub Actions._
+_Last run: 2026-10-17T05:33:36.359Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-10-17
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-17
+- NEW `Element-Ventures-Canada-Ltd/openchokepoint#20` — [Slice E] Comparative real-world traces: retired engines under one method · updated 2026-10-17
+- NEW `Element-Ventures-Canada-Ltd/openchokepoint#3` — [Priority] Open call: digital-thread and critical-items register schema for rock · updated 2026-10-17
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-17
+- `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-10-17
 - `SecureBananaLabs/bug-bounty#2768` — Registration token subject should match returned user id · updated 2026-10-17
 - `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-17
 - `zhangjiayang6835-cyber/bounty-plaza#1908` — [Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowa · $90 · updated 2026-10-17
-- `zhangjiayang6835-cyber/bounty-plaza#1909` — [Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxW · $90 · updated 2026-10-17
-- `zhangjiayang6835-cyber/bounty-plaza#1907` — [Bounty] [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMes · $90 · updated 2026-10-17
-- `zhangjiayang6835-cyber/bounty-plaza#1906` — [Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination ch · $90 · updated 2026-10-17
-- `zhangjiayang6835-cyber/bounty-plaza#1897` — [Bounty] [Bounty: $45] Validate input to bytes32ToStellarAddress · $45 · updated 2026-10-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1908` — [Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowa · $90 · score 6 (1 rival, $90, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · score 4 (1 rival, $75, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1909` — [Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxW · $90 · score 4 (1 rival, $90, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1908` — [Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowa · $90 · score 6 (1 rival, $90, skill fit, fresh)
+3. `Element-Ventures-Canada-Ltd/openchokepoint#20` — [Slice E] Comparative real-world traces: retired engines under one method · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
