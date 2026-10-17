@@ -1,9 +1,9 @@
 # Odysseus earning status
 
-_Last run: 2026-10-17T17:03:10.623Z (UTC), on GitHub Actions._
+_Last run: 2026-10-17T17:05:29.594Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
-- **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453** · +0.100000 received!
+- **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
 - **Solana USDC** `VPj3sAvaqCFVPQmMdCYhV2t48DTm538wjqGkHmahw94`: **0**
 - **Solana native SOL**: **0.002915268**
 - **Lightning BOLT12** (Odysseus/Phoenix, receive-only): `lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qwdqzsm83u23v2zhp9r46ld79aqvzx7skffhxhs0wtjcezdgewuwsqszfdy3q4hyxscrgjta6uyz8pr5367c9wmcmnqkta7yys0ng03jlrcsqvlcplrgqlkgvcfupyt0pxrkfykkrgjrdehec62quhed7ughx4flzujh7aky8mmk30q2ls97r0sv8qnvq4mhqg5manlrk49hxxhsg2j66jedwk586ln5r48cw7wa97536fafsqs97qqsrdg6ksawdkg5dwdc4qd27kcnw5`
@@ -15,9 +15,9 @@ _none open right now_
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-17
-- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-17
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-17
 - `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-17
-- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-17
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-17
 - `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-17
 - `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-17
 - `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-17
