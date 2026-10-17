@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-17T12:33:35.734Z (UTC), on GitHub Actions._
+_Last run: 2026-10-17T13:03:35.822Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,18 +14,18 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `odiseo159-beep/mergit#2` — Attack the reentrancy guard, do not just trust it · updated 2026-10-17
-- `Ikalus1988/MisakaNet#3430` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-17
-- `relayhop/sn-monetization-runtime#1300` — [radar] SN open bounty 2026-10-17T10:32 · updated 2026-10-17
+- `zhangjiayang6835-cyber/bounty-plaza#1915` — [Bounty] [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hi · $105 · updated 2026-10-17
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-17
 - `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-17
 - `SecureBananaLabs/bug-bounty#2768` — Registration token subject should match returned user id · updated 2026-10-17
+- `relayhop/sn-monetization-runtime#1300` — [radar] SN open bounty 2026-10-17T10:32 · updated 2026-10-17
+- `odiseo159-beep/mergit#2` — Attack the reentrancy guard, do not just trust it · updated 2026-10-17
+- `Ikalus1988/MisakaNet#3430` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-17
 - `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-17
-- `Ikalus1988/MisakaNet#3431` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-17
-- `Ikalus1988/MisakaNet#3332` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 6 (uncontested, skill fit, fresh)
-2. `odiseo159-beep/mergit#2` — Attack the reentrancy guard, do not just trust it · score 4 (uncontested, fresh)
-3. `Ikalus1988/MisakaNet#3430` — [Bounty] Answer 3 linked question(s) as a lesson · score 4 (uncontested, fresh)
+1. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · score 4 (1 rival, $75, fresh)
+3. `relayhop/sn-monetization-runtime#1300` — [radar] SN open bounty 2026-10-17T10:32 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
