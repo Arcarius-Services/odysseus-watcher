@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-17T23:03:02.493Z (UTC), on GitHub Actions._
+_Last run: 2026-10-17T23:26:06.101Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,11 +14,11 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-17
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-17
-- NEW `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-17
-- NEW `SecureBananaLabs/bug-bounty#1771` — Upload endpoint lacks authentication — unauthenticated file uploads allowed · updated 2026-10-17
-- NEW `SecureBananaLabs/bug-bounty#1770` — Admin routes lack role-based access control — any authenticated user can access  · updated 2026-10-17
-- NEW `SecureBananaLabs/bug-bounty#1772` — Payment endpoint lacks authentication — unauthenticated payment creation · updated 2026-10-17
+- `SecureBananaLabs/bug-bounty#1771` — Upload endpoint lacks authentication — unauthenticated file uploads allowed · updated 2026-10-17
+- `SecureBananaLabs/bug-bounty#1770` — Admin routes lack role-based access control — any authenticated user can access  · updated 2026-10-17
+- `SecureBananaLabs/bug-bounty#1772` — Payment endpoint lacks authentication — unauthenticated payment creation · updated 2026-10-17
 - `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-17
 - `NSPG13/agent-bounties#927` — Capture a macOS Safari compatibility evidence bundle · updated 2026-10-17
 - `relayhop/sn-monetization-runtime#1300` — [radar] SN open bounty 2026-10-17T10:32 · updated 2026-10-17
