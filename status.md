@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-17T21:42:57.836Z (UTC), on GitHub Actions._
+_Last run: 2026-10-17T23:03:02.493Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · updated 2026-10-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1914` — [Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris r · $105 · updated 2026-10-17
-- `OphirPay/OphirPay#1378` — Add drag-and-drop CSV batch upload zone with visual upload progress feedback · updated 2026-10-17
-- `zhangjiayang6835-cyber/bounty-plaza#1911` — [Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, a · $125 · updated 2026-10-17
+- `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-17
+- NEW `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-17
+- NEW `SecureBananaLabs/bug-bounty#1771` — Upload endpoint lacks authentication — unauthenticated file uploads allowed · updated 2026-10-17
+- NEW `SecureBananaLabs/bug-bounty#1770` — Admin routes lack role-based access control — any authenticated user can access  · updated 2026-10-17
+- NEW `SecureBananaLabs/bug-bounty#1772` — Payment endpoint lacks authentication — unauthenticated payment creation · updated 2026-10-17
 - `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-17
 - `NSPG13/agent-bounties#927` — Capture a macOS Safari compatibility evidence bundle · updated 2026-10-17
-- `Uuriko/project-room#3704` — [launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does n · updated 2026-10-17
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-17
+- `relayhop/sn-monetization-runtime#1300` — [radar] SN open bounty 2026-10-17T10:32 · updated 2026-10-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · score 4 (2 rivals, $105, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1914` — [Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris r · $105 · score 4 (2 rivals, $105, fresh)
+1. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
+2. `relayhop/sn-monetization-runtime#1300` — [radar] SN open bounty 2026-10-17T10:32 · score 4 (uncontested, fresh)
+3. `dwebagents/AgentPipe#1663` — [bounty: 74000 ETH] start building company town for contributing agents · score 4 (2 rivals, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
