@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-17T12:03:36.009Z (UTC), on GitHub Actions._
+_Last run: 2026-10-17T12:33:35.734Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,13 +14,13 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Ikalus1988/MisakaNet#3430` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-17
-- `Uuriko/project-room#3781` — Paid public-work: the work receipt (pwr_) and the payout receipt (lot_) never cr · updated 2026-10-17
+- `odiseo159-beep/mergit#2` — Attack the reentrancy guard, do not just trust it · updated 2026-10-17
+- `Ikalus1988/MisakaNet#3430` — [Bounty] Answer 3 linked question(s) as a lesson · updated 2026-10-17
 - `relayhop/sn-monetization-runtime#1300` — [radar] SN open bounty 2026-10-17T10:32 · updated 2026-10-17
 - `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-17
 - `SecureBananaLabs/bug-bounty#2768` — Registration token subject should match returned user id · updated 2026-10-17
-- NEW `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-17
-- NEW `Ikalus1988/MisakaNet#3431` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-17
+- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-17
+- `Ikalus1988/MisakaNet#3431` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-17
 - `Ikalus1988/MisakaNet#3332` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 6 (uncontested, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#3430` — [Bounty] Answer 3 linked question(s) as a lesson · score 4 (uncontested, fresh)
-3. `Uuriko/project-room#3781` — Paid public-work: the work receipt (pwr_) and the payout receipt (lot_) never cr · score 4 (uncontested, fresh)
+2. `odiseo159-beep/mergit#2` — Attack the reentrancy guard, do not just trust it · score 4 (uncontested, fresh)
+3. `Ikalus1988/MisakaNet#3430` — [Bounty] Answer 3 linked question(s) as a lesson · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
