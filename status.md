@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-17T01:30:43.401Z (UTC), on GitHub Actions._
+_Last run: 2026-10-17T03:03:35.980Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `SecureBananaLabs/bug-bounty#2768` — Registration token subject should match returned user id · updated 2026-10-17
+- `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-17
+- `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-17
+- `sybil-solutions/local-ai-registry#218` — Bounty $50: recipe for GTX 1080 Ti 11 GB · $50 · updated 2026-10-17
 - `NSPG13/agent-bounties#1632` — [Bounty] Bring a real backlog: get an established open-source project to fund it · updated 2026-10-17
 - `Spectral-Finance/lux#103` — Rust Component Definition Support $500 · $500 · updated 2026-10-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-17
-- `SecureBananaLabs/bug-bounty#2768` — Registration token subject should match returned user id · updated 2026-10-17
 - `Spectral-Finance/lux#102` — Rust Testing Framework Integration $350 · $350 · updated 2026-10-17
 - `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-16
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-16
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · score 4 (1 rival, $75, fresh)
-3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · score 4 (1 rival, $75, fresh)
+2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+3. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
