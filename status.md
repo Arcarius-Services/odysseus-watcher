@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-17T09:33:35.704Z (UTC), on GitHub Actions._
+_Last run: 2026-10-17T10:03:36.156Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **0**
@@ -14,11 +14,11 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-17
+- `SecureBananaLabs/bug-bounty#2768` — Registration token subject should match returned user id · updated 2026-10-17
 - `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-17
 - `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-17
 - `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-17
-- `SecureBananaLabs/bug-bounty#2768` — Registration token subject should match returned user id · updated 2026-10-17
-- `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-17
 - `zhangjiayang6835-cyber/bounty-plaza#1915` — [Bounty] [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hi · $105 · updated 2026-10-17
 - `zhangjiayang6835-cyber/bounty-plaza#1910` — [Bounty] [Bounty: $125] Add structured progress callbacks to transfer() · $125 · updated 2026-10-17
 - `zhangjiayang6835-cyber/bounty-plaza#1911` — [Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, a · $125 · updated 2026-10-17
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · score 4 (1 rival, $75, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · score 4 (1 rival, $75, fresh)
+2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 3. `zhangjiayang6835-cyber/bounty-plaza#1915` — [Bounty] [Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hi · $105 · score 4 (2 rivals, $105, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
