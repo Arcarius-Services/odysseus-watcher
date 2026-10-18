@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T04:33:02.042Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T05:03:02.375Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `odiseo159-beep/mergit#1` — Prove the race between challenging and refunding · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
 - `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-18
-- `dwebagents/AgentPipe#131` — [Bounty: 3 ETH] implement Goose class in SuperCollider · updated 2026-10-18
-- `dwebagents/AgentPipe#1663` — [bounty: 74000 ETH] start building company town for contributing agents · updated 2026-10-18
-- `Nobayprotocol/Nobay-Protocol#1` — Implement DAO-compatible Slashing Module · updated 2026-10-18
-- `Nobayprotocol/Nobay-Protocol#3` — Add Hardhat test suite for ListingRegistry.sol · updated 2026-10-18
-- `Nobayprotocol/Nobay-Protocol#2` — Build Listing Discovery Engine (PWA or React UI) · updated 2026-10-18
-- `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-10-18
+- NEW `OphirPay/OphirPay#1373` — Add live network transaction fee estimator widget to payment submission form · updated 2026-10-18
+- `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-18
+- NEW `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · updated 2026-10-18
+- NEW `code-charity/youtube#1461` — Disabled autoplay pauses a second into video instead of immediately preventing p · updated 2026-10-18
+- `odiseo159-beep/mergit#2` — Attack the reentrancy guard, do not just trust it · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
-2. `dwebagents/AgentPipe#1663` — [bounty: 74000 ETH] start building company town for contributing agents · score 4 (2 rivals, skill fit, fresh)
-3. `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · score 2 (1 rival, fresh)
+1. `OphirPay/OphirPay#1373` — Add live network transaction fee estimator widget to payment submission form · score 6 (uncontested, skill fit, fresh)
+2. `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · score 6 (uncontested, skill fit, fresh)
+3. `odiseo159-beep/mergit#1` — Prove the race between challenging and refunding · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
