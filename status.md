@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-17T23:26:06.101Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T01:03:02.454Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-17
-- `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-17
+- `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
+- `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-18
+- NEW `OphirPay/OphirPay#1368` — Validate Stellar transaction memo encoding and character set on payment routes · updated 2026-10-18
+- `Ikalus1988/MisakaNet#3430` — [Bounty] Answer the 3 linked question(s) · updated 2026-10-18
+- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-18
+- NEW `odiseo159-beep/mergit#1` — Prove the race between challenging and refunding · updated 2026-10-17
+- NEW `odiseo159-beep/mergit#2` — Attack the reentrancy guard, do not just trust it · updated 2026-10-17
 - `SecureBananaLabs/bug-bounty#1771` — Upload endpoint lacks authentication — unauthenticated file uploads allowed · updated 2026-10-17
-- `SecureBananaLabs/bug-bounty#1770` — Admin routes lack role-based access control — any authenticated user can access  · updated 2026-10-17
-- `SecureBananaLabs/bug-bounty#1772` — Payment endpoint lacks authentication — unauthenticated payment creation · updated 2026-10-17
-- `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-17
-- `NSPG13/agent-bounties#927` — Capture a macOS Safari compatibility evidence bundle · updated 2026-10-17
-- `relayhop/sn-monetization-runtime#1300` — [radar] SN open bounty 2026-10-17T10:32 · updated 2026-10-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
-2. `relayhop/sn-monetization-runtime#1300` — [radar] SN open bounty 2026-10-17T10:32 · score 4 (uncontested, fresh)
-3. `dwebagents/AgentPipe#1663` — [bounty: 74000 ETH] start building company town for contributing agents · score 4 (2 rivals, skill fit, fresh)
+1. `OphirPay/OphirPay#1368` — Validate Stellar transaction memo encoding and character set on payment routes · score 6 (uncontested, skill fit, fresh)
+2. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
+3. `Ikalus1988/MisakaNet#3430` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
