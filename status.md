@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T16:33:35.673Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T17:03:35.738Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-18
+- NEW `MicahHeneveld/bros-analysis#6` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6] · updated 2026-10-18
+- NEW `MicahHeneveld/bros-analysis#5` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6] · updated 2026-10-18
+- NEW `MicahHeneveld/bros-analysis#4` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6] · updated 2026-10-18
+- NEW `MicahHeneveld/bros-analysis#3` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [3/6] · updated 2026-10-18
+- NEW `MicahHeneveld/bros-analysis#2` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [2/6] · updated 2026-10-18
+- NEW `MicahHeneveld/bros-analysis#1` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [1/6] · updated 2026-10-18
 - `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
-- `Neziahtech/streampay#255` — [Security]: freeze-logic trigger · updated 2026-10-18
-- `relayhop/sn-monetization-runtime#1301` — [radar] SN open bounty 2026-10-18T14:30 · updated 2026-10-18
-- `NSPG13/agent-bounties#1222` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-18
-- `NSPG13/agent-bounties#1221` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-18
-- `NSPG13/agent-bounties#1220` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · score 4 (uncontested, fresh)
-2. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
-3. `Neziahtech/streampay#255` — [Security]: freeze-logic trigger · score 4 (uncontested, fresh)
+1. `MicahHeneveld/bros-analysis#6` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6] · score 4 (uncontested, fresh)
+2. `MicahHeneveld/bros-analysis#5` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6] · score 4 (uncontested, fresh)
+3. `MicahHeneveld/bros-analysis#4` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6] · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
