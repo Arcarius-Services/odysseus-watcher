@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T13:33:35.690Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T14:03:35.867Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `FuRongJun-1999/dsh-bounty#71` — [悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」） · updated 2026-10-18
-- `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-18
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-18
+- `LORDSINE/bounty-bot-e2e#1` — Fix calc.py: average() wrong for normal lists and clamp() returns low for out-of · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
-- `mozzimorzam-sudo/project100-mcp#7` — Add rate limiting to /api/v1/artifacts endpoint · updated 2026-10-18
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-18
-- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-18
-- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-18
+- `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-18
+- `verdikta/verdikta-applications#76` — [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid · $30 · updated 2026-10-18
+- `Ikalus1988/MisakaNet#3431` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-18
+- `Ikalus1988/MisakaNet#3332` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-18
+- `FuRongJun-1999/dsh-bounty#71` — [悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」） · updated 2026-10-18
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+1. `LORDSINE/bounty-bot-e2e#1` — Fix calc.py: average() wrong for normal lists and clamp() returns low for out-of · score 4 (uncontested, fresh)
 2. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
-3. `mozzimorzam-sudo/project100-mcp#7` — Add rate limiting to /api/v1/artifacts endpoint · score 4 (uncontested, fresh)
+3. `verdikta/verdikta-applications#76` — [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid · $30 · score 4 (2 rivals, $30, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
