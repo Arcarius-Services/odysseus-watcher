@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T20:33:35.797Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T20:35:22.456Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,7 +14,7 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · updated 2026-10-18
+- `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · updated 2026-10-18
 - `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-18
 - `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
@@ -28,7 +28,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
