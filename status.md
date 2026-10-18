@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T01:30:11.794Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T03:03:36.021Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `MicahHeneveld/bros-analysis#2` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [2/6] · updated 2026-10-18
-- NEW `MicahHeneveld/bros-analysis#3` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [3/6] · updated 2026-10-18
-- NEW `MicahHeneveld/bros-analysis#4` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6] · updated 2026-10-18
-- NEW `MicahHeneveld/bros-analysis#5` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6] · updated 2026-10-18
-- NEW `MicahHeneveld/bros-analysis#6` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6] · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
 - `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-18
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-18
+- `Ikalus1988/MisakaNet#3430` — [Bounty] Answer the 3 linked question(s) · updated 2026-10-18
+- `Ikalus1988/MisakaNet#3431` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-18
+- `Uuriko/project-room#3709` — [launch-readiness] The neglect ladder pays junk at 35.6 cr/h under a passive ope · updated 2026-10-18
+- `Uuriko/project-room#3704` — [launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does n · updated 2026-10-18
+- NEW `OphirPay/OphirPay#1364` — Add RFC 7807 problem details error formatting across all /api/payments routes · updated 2026-10-18
+- NEW `OphirPay/OphirPay#1361` — Add cursor-based pagination and sorting to /api/audit-log route · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#1368` — Validate Stellar transaction memo encoding and character set on payment routes · score 6 (uncontested, skill fit, fresh)
-2. `MicahHeneveld/bros-analysis#2` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [2/6] · score 4 (uncontested, fresh)
-3. `MicahHeneveld/bros-analysis#3` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [3/6] · score 4 (uncontested, fresh)
+1. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
+2. `Ikalus1988/MisakaNet#3430` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
+3. `Ikalus1988/MisakaNet#3431` — [Bounty] Answer the 2 linked question(s) · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
