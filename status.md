@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T14:48:05.058Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T16:03:36.460Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `relayhop/sn-monetization-runtime#1301` — [radar] SN open bounty 2026-10-18T14:30 · updated 2026-10-18
-- `zhangjiayang6835-cyber/bounty-plaza#1910` — [Bounty] [Bounty: $125] Add structured progress callbacks to transfer() · $125 · updated 2026-10-18
-- `mozzimorzam-sudo/project100-mcp#7` — Add rate limiting to /api/v1/artifacts endpoint · updated 2026-10-18
-- `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-18
+- `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
-- `verdikta/verdikta-applications#76` — [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid · $30 · updated 2026-10-18
-- `Ikalus1988/MisakaNet#3431` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-18
-- `Ikalus1988/MisakaNet#3332` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-18
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-18
+- `relayhop/sn-monetization-runtime#1301` — [radar] SN open bounty 2026-10-18T14:30 · updated 2026-10-18
+- NEW `Neziahtech/streampay#255` — [Security]: freeze-logic trigger · updated 2026-10-18
+- NEW `NSPG13/agent-bounties#1222` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-18
+- NEW `NSPG13/agent-bounties#1221` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-18
+- NEW `NSPG13/agent-bounties#1220` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `relayhop/sn-monetization-runtime#1301` — [radar] SN open bounty 2026-10-18T14:30 · score 4 (uncontested, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1910` — [Bounty] [Bounty: $125] Add structured progress callbacks to transfer() · $125 · score 4 (2 rivals, $125, fresh)
-3. `mozzimorzam-sudo/project100-mcp#7` — Add rate limiting to /api/v1/artifacts endpoint · score 4 (uncontested, fresh)
+1. `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · score 4 (uncontested, fresh)
+2. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1301` — [radar] SN open bounty 2026-10-18T14:30 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
