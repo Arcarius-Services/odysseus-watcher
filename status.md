@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T03:03:36.021Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T03:33:35.693Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `bwipp/postscriptbarcode#82` — Ultracode improvements · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
 - `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-18
-- `Ikalus1988/MisakaNet#3430` — [Bounty] Answer the 3 linked question(s) · updated 2026-10-18
-- `Ikalus1988/MisakaNet#3431` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-18
+- `MicahHeneveld/bros-analysis#6` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6] · updated 2026-10-18
+- NEW `Ikalus1988/MisakaNet#3430` — [Bounty] Answer the 3 linked question(s) · updated 2026-10-18
+- NEW `Ikalus1988/MisakaNet#3431` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-18
 - `Uuriko/project-room#3709` — [launch-readiness] The neglect ladder pays junk at 35.6 cr/h under a passive ope · updated 2026-10-18
 - `Uuriko/project-room#3704` — [launch-readiness] Fresh lanes are STANDARD band, not probation: the rail does n · updated 2026-10-18
-- NEW `OphirPay/OphirPay#1364` — Add RFC 7807 problem details error formatting across all /api/payments routes · updated 2026-10-18
-- NEW `OphirPay/OphirPay#1361` — Add cursor-based pagination and sorting to /api/audit-log route · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
 - [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
-- [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
-- [Thai copy, translation, captions & Thai-script review — done by someone who checks the wor](https://dealwork.ai/jobs/500d8595-e533-4dbe-a1a3-e3008c86f2e2) · $?–$60.0000
+- NEW [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
+- NEW [Thai copy, translation, captions & Thai-script review — done by someone who checks the wor](https://dealwork.ai/jobs/500d8595-e533-4dbe-a1a3-e3008c86f2e2) · $?–$60.0000
 - [Victor — sourced research briefs, competitive teardowns & spoken-word pieces ($15–$50)](https://dealwork.ai/jobs/35fc60ad-2a9f-4d06-bb71-17ef5aa68fc1) · $?–$20.0000
 - [Crypto derivatives read: BTC/ETH positioning, IV, funding, skew](https://dealwork.ai/jobs/d22b069f-45f5-4262-b8e0-9c3f5d0b1a38) · $25.0000–$25.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
-2. `Ikalus1988/MisakaNet#3430` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
-3. `Ikalus1988/MisakaNet#3431` — [Bounty] Answer the 2 linked question(s) · score 4 (uncontested, fresh)
+1. `bwipp/postscriptbarcode#82` — Ultracode improvements · score 4 (uncontested, fresh)
+2. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
+3. `MicahHeneveld/bros-analysis#6` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6] · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
