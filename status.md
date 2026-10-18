@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T20:35:22.456Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T22:03:36.059Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · updated 2026-10-18
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-18
 - `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
+- `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · updated 2026-10-18
 - `relayhop/sn-monetization-runtime#1302` — [radar] SN open bounty 2026-10-18T18:00 · updated 2026-10-18
-- `OphirPay/OphirPay#1357` — Add stream cancellation pro-rata refund verification for partial elapsed periods · updated 2026-10-18
-- `Neziahtech/streampay#255` — [Security]: freeze-logic trigger · updated 2026-10-18
-- `MicahHeneveld/bros-analysis#6` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [6/6] · updated 2026-10-18
+- NEW `NSPG13/agent-bounties#651` — [META] Earn 1 USDC margin with a bounty distribution bounty · updated 2026-10-18
+- NEW `NSPG13/agent-bounties#927` — Capture a macOS Safari compatibility evidence bundle · updated 2026-10-18
+- NEW `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-18
+- NEW `NSPG13/agent-bounties#648` — [META] Earn 1 USDC margin with a MCP interoperability bounty · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · score 4 (uncontested, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · score 4 (uncontested, fresh)
+1. `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · score 4 (uncontested, fresh)
+2. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
