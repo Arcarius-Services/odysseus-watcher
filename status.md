@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T11:39:57.764Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T13:03:38.218Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Ikalus1988/MisakaNet#3431` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-18
-- `Ikalus1988/MisakaNet#3430` — [Bounty] Answer the 3 linked question(s) · updated 2026-10-18
-- `relayhop/sn-monetization-runtime#1300` — [radar] SN open bounty 2026-10-17T10:32 · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
-- NEW `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-18
-- `OphirPay/OphirPay#1416` — Add interactive OpenAPI Swagger / Scalar documentation route at /docs/api · updated 2026-10-18
+- `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-18
+- `mozzimorzam-sudo/project100-mcp#7` — Add rate limiting to /api/v1/artifacts endpoint · updated 2026-10-18
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-18
 - `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-18
-- `LORDSINE/bounty-bot-e2e#1` — Fix calc.py: average() wrong for normal lists and clamp() returns low for out-of · updated 2026-10-18
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-18
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-18
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `relayhop/sn-monetization-runtime#1300` — [radar] SN open bounty 2026-10-17T10:32 · score 4 (uncontested, fresh)
-3. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
+2. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
+3. `mozzimorzam-sudo/project100-mcp#7` — Add rate limiting to /api/v1/artifacts endpoint · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
