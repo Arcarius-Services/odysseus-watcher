@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T05:03:02.375Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T05:33:02.558Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -15,20 +15,20 @@ _none open right now_
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `odiseo159-beep/mergit#1` — Prove the race between challenging and refunding · updated 2026-10-18
+- `odiseo159-beep/mergit#2` — Attack the reentrancy guard, do not just trust it · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
 - `dwebagents/AgentPipe#95` — [13.12 BTC BOUNTY] implement zero-latency continuous time banana puddingital sig · updated 2026-10-18
-- NEW `OphirPay/OphirPay#1373` — Add live network transaction fee estimator widget to payment submission form · updated 2026-10-18
+- `OphirPay/OphirPay#1373` — Add live network transaction fee estimator widget to payment submission form · updated 2026-10-18
 - `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-18
-- NEW `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · updated 2026-10-18
-- NEW `code-charity/youtube#1461` — Disabled autoplay pauses a second into video instead of immediately preventing p · updated 2026-10-18
-- `odiseo159-beep/mergit#2` — Attack the reentrancy guard, do not just trust it · updated 2026-10-18
+- `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · updated 2026-10-18
+- `code-charity/youtube#1461` — Disabled autoplay pauses a second into video instead of immediately preventing p · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
