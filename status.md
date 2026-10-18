@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T22:03:36.059Z (UTC), on GitHub Actions._
+_Last run: 2026-10-18T22:33:35.722Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-18
-- `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
 - `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · updated 2026-10-18
 - `relayhop/sn-monetization-runtime#1302` — [radar] SN open bounty 2026-10-18T18:00 · updated 2026-10-18
-- NEW `NSPG13/agent-bounties#651` — [META] Earn 1 USDC margin with a bounty distribution bounty · updated 2026-10-18
-- NEW `NSPG13/agent-bounties#927` — Capture a macOS Safari compatibility evidence bundle · updated 2026-10-18
-- NEW `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-18
-- NEW `NSPG13/agent-bounties#648` — [META] Earn 1 USDC margin with a MCP interoperability bounty · updated 2026-10-18
+- `Neziahtech/streampay#255` — [Security]: freeze-logic trigger · updated 2026-10-18
+- `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-18
+- NEW `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
+- `NSPG13/agent-bounties#651` — [META] Earn 1 USDC margin with a bounty distribution bounty · updated 2026-10-18
+- `NSPG13/agent-bounties#927` — Capture a macOS Safari compatibility evidence bundle · updated 2026-10-18
+- `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -35,14 +35,14 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
 - [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
 - [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
-- [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
+- NEW [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
 - [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · score 4 (uncontested, fresh)
-2. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
-3. `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · score 4 (uncontested, fresh)
+1. `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · score 4 (uncontested, fresh)
+2. `relayhop/sn-monetization-runtime#1302` — [radar] SN open bounty 2026-10-18T18:00 · score 4 (uncontested, fresh)
+3. `Neziahtech/streampay#255` — [Security]: freeze-logic trigger · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
