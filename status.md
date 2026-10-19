@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T00:03:36.023Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T00:27:39.619Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#645` — [Bounty] [BOUNTY] [$10000] [AGENTIC] [AI] Recursive Bounty Architect – Five-Fold · $10000 · updated 2026-10-18
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-19
+- `zhangjiayang6835-cyber/bounty-plaza#645` — [Bounty] [BOUNTY] [$10000] [AGENTIC] [AI] Recursive Bounty Architect – Five-Fold · $10000 · updated 2026-10-18
 - `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
-- NEW `relayhop/sn-monetization-runtime#1308` — [radar] SN open bounty 2026-10-18T23:01 · updated 2026-10-18
+- `relayhop/sn-monetization-runtime#1308` — [radar] SN open bounty 2026-10-18T23:01 · updated 2026-10-18
 - `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · updated 2026-10-18
 - `relayhop/sn-monetization-runtime#1302` — [radar] SN open bounty 2026-10-18T18:00 · updated 2026-10-18
-- `OphirPay/OphirPay#1347` — Add validation for token decimal precision mismatch in record_payment · updated 2026-10-18
-- `OphirPay/OphirPay#1350` — Enforce minimum and maximum duration bounds on payment streams in create_stream · updated 2026-10-18
+- NEW `OphirPay/OphirPay#1347` — Add validation for token decimal precision mismatch in record_payment · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
