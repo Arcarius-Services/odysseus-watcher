@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T21:33:35.817Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T22:03:35.761Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#1313` — [radar] SN open bounty 2026-10-19T20:31 · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#201` — [radar] SN open bounty 2026-07-22T09:33 · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#1312` — [radar] SN open bounty 2026-10-19T14:36 · updated 2026-10-19
-- NEW `relayhop/sn-monetization-runtime#1311` — [radar] SN open bounty 2026-10-19T12:57 · updated 2026-10-19
-- NEW `NSPG13/agent-bounties#651` — [META] Earn 1 USDC margin with a bounty distribution bounty · updated 2026-10-19
+- `relayhop/sn-monetization-runtime#1311` — [radar] SN open bounty 2026-10-19T12:57 · updated 2026-10-19
+- `NSPG13/agent-bounties#651` — [META] Earn 1 USDC margin with a bounty distribution bounty · updated 2026-10-19
 - `libretro/mame2003-plus-libretro#434` — Run Ahead not working properly · updated 2026-10-19
 - `patrickkellyyoung-ai/swarm-agora-mcp#3` — [BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers · updated 2026-10-19
-- `patrickkellyyoung-ai/swarm-agora-mcp#4` — [BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark · updated 2026-10-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
