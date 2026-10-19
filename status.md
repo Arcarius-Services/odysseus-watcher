@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T05:03:36.140Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T05:16:22.606Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,11 +14,11 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Neziahtech/streampay#300` — [Security]: PasskeySigner unscoped UsedChallenge nonce griefing, top-level JSON  · updated 2026-10-19
+- `relayhop/sn-monetization-runtime#1309` — [radar] SN open bounty 2026-10-19T01:06 · updated 2026-10-19
+- `Neziahtech/streampay#295` — [Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::t · updated 2026-10-19
+- `Neziahtech/streampay#300` — [Security]: PasskeySigner unscoped UsedChallenge nonce griefing, top-level JSON  · updated 2026-10-19
 - `Neziahtech/streampay#292` — [Security]: relayer routines ignore circuit-breaker pause guards and drop settle · updated 2026-10-19
 - `Neziahtech/streampay#291` — [Security]: create_streams_batch and create_single_batch_entry lack PolicyDataKe · updated 2026-10-19
-- `Neziahtech/streampay#295` — [Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::t · updated 2026-10-19
-- `relayhop/sn-monetization-runtime#1309` — [radar] SN open bounty 2026-10-19T01:06 · updated 2026-10-19
 - `commaai/openpilot#30950` — Match stock Hyundai button logic · updated 2026-10-19
 - `patrickkellyyoung-ai/swarm-agora-mcp#3` — [BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers · updated 2026-10-19
 - `patrickkellyyoung-ai/swarm-agora-mcp#4` — [BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark · updated 2026-10-19
@@ -34,14 +34,14 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
 - [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
 - [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
-- [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
+- NEW [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
 - [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
-- [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
+- NEW [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Neziahtech/streampay#295` — [Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::t · score 4 (uncontested, fresh)
-2. `relayhop/sn-monetization-runtime#1309` — [radar] SN open bounty 2026-10-19T01:06 · score 4 (uncontested, fresh)
+1. `relayhop/sn-monetization-runtime#1309` — [radar] SN open bounty 2026-10-19T01:06 · score 4 (uncontested, fresh)
+2. `Neziahtech/streampay#295` — [Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::t · score 4 (uncontested, fresh)
 3. `patrickkellyyoung-ai/swarm-agora-mcp#4` — [BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
