@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T11:03:35.767Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T11:13:27.411Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-19
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-19
 - `Neziahtech/streampay#302` — [Security]: RpcManager fails to record network errors (breaking failover & 3 uni · updated 2026-10-19
-- `Neziahtech/streampay#300` — [Security]: PasskeySigner unscoped UsedChallenge nonce griefing, top-level JSON  · updated 2026-10-19
-- NEW `Neziahtech/streampay#291` — [Security]: create_streams_batch and create_single_batch_entry lack PolicyDataKe · updated 2026-10-19
+- NEW `Neziahtech/streampay#300` — [Security]: PasskeySigner unscoped UsedChallenge nonce griefing, top-level JSON  · updated 2026-10-19
+- `Neziahtech/streampay#291` — [Security]: create_streams_batch and create_single_batch_entry lack PolicyDataKe · updated 2026-10-19
 - `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-19
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1899` — [Bounty] [Bounty: $60] Docs: add a "Failure modes and recovery" guide · $60 · updated 2026-10-19
-- NEW `ak10082247-max/canaryguard-402#2` — [BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewal · $5.00 · updated 2026-10-19
-- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-19
-- NEW `tenstorrent/tt-metal#58986` — [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow · $1,000 · updated 2026-10-19
+- `zhangjiayang6835-cyber/bounty-plaza#1899` — [Bounty] [Bounty: $60] Docs: add a "Failure modes and recovery" guide · $60 · updated 2026-10-19
+- `ak10082247-max/canaryguard-402#2` — [BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewal · $5.00 · updated 2026-10-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
