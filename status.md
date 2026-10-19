@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T04:33:35.790Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T05:03:36.140Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Neziahtech/streampay#295` — [Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::t · updated 2026-10-19
-- `Neziahtech/streampay#291` — [Security]: create_streams_batch and create_single_batch_entry lack PolicyDataKe · updated 2026-10-19
+- NEW `Neziahtech/streampay#300` — [Security]: PasskeySigner unscoped UsedChallenge nonce griefing, top-level JSON  · updated 2026-10-19
 - `Neziahtech/streampay#292` — [Security]: relayer routines ignore circuit-breaker pause guards and drop settle · updated 2026-10-19
+- `Neziahtech/streampay#291` — [Security]: create_streams_batch and create_single_batch_entry lack PolicyDataKe · updated 2026-10-19
+- `Neziahtech/streampay#295` — [Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::t · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#1309` — [radar] SN open bounty 2026-10-19T01:06 · updated 2026-10-19
-- NEW `commaai/openpilot#30950` — Match stock Hyundai button logic · updated 2026-10-19
-- NEW `patrickkellyyoung-ai/swarm-agora-mcp#3` — [BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers · updated 2026-10-19
-- NEW `patrickkellyyoung-ai/swarm-agora-mcp#4` — [BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark · updated 2026-10-19
-- `Neziahtech/streampay#294` — [Security]: Signed i128 underflow in cancel_amounts_at and unguarded past timest · updated 2026-10-19
+- `commaai/openpilot#30950` — Match stock Hyundai button logic · updated 2026-10-19
+- `patrickkellyyoung-ai/swarm-agora-mcp#3` — [BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers · updated 2026-10-19
+- `patrickkellyyoung-ai/swarm-agora-mcp#4` — [BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark · updated 2026-10-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
