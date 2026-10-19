@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T00:27:39.619Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T02:03:36.597Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-19
+- NEW `relayhop/sn-monetization-runtime#1309` — [radar] SN open bounty 2026-10-19T01:06 · updated 2026-10-19
+- NEW `Neziahtech/streampay#249` — [Security]: Policy/allowlist bypass via scheduled lane: schedule_stream / execut · updated 2026-10-19
 - `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-19
 - `zhangjiayang6835-cyber/bounty-plaza#645` — [Bounty] [BOUNTY] [$10000] [AGENTIC] [AI] Recursive Bounty Architect – Five-Fold · $10000 · updated 2026-10-18
 - `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-18
 - `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
 - `relayhop/sn-monetization-runtime#1308` — [radar] SN open bounty 2026-10-18T23:01 · updated 2026-10-18
-- `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · updated 2026-10-18
-- `relayhop/sn-monetization-runtime#1302` — [radar] SN open bounty 2026-10-18T18:00 · updated 2026-10-18
-- NEW `OphirPay/OphirPay#1347` — Add validation for token decimal precision mismatch in record_payment · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `zhangjiayang6835-cyber/bounty-plaza#645` — [Bounty] [BOUNTY] [$10000] [AGENTIC] [AI] Recursive Bounty Architect – Five-Fold · $10000 · score 6 (2 rivals, $10000, skill fit, fresh)
-2. `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · score 4 (uncontested, fresh)
-3. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
+2. `relayhop/sn-monetization-runtime#1309` — [radar] SN open bounty 2026-10-19T01:06 · score 4 (uncontested, fresh)
+3. `Neziahtech/streampay#249` — [Security]: Policy/allowlist bypass via scheduled lane: schedule_stream / execut · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
