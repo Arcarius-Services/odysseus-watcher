@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T16:03:35.891Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T16:33:35.745Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-19
-- NEW `Ikalus1988/MisakaNet#2875` — [Bounty] Answer 2 linked question(s) as a lesson · updated 2026-10-19
-- `relayhop/sn-monetization-runtime#1312` — [radar] SN open bounty 2026-10-19T14:36 · updated 2026-10-19
-- `relayhop/sn-monetization-runtime#1311` — [radar] SN open bounty 2026-10-19T12:57 · updated 2026-10-19
-- `patrickkellyyoung-ai/swarm-agora-mcp#4` — [BOUNTY #3] High-Throughput MoE KV-Cache Compression Benchmark · updated 2026-10-19
-- `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · updated 2026-10-19
-- `FreezingMoon/AncientBeast#308` — new screen that showcases hotkeys [bounty: 66 XTR] · updated 2026-10-19
-- `tenstorrent/tt-metal#58986` — [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow · $1,000 · updated 2026-10-19
+- NEW `lizTheDeveloper/privacy-the-game#44` — [opt-out check] Adttribution Inc: confirm the opt-out route works · updated 2026-10-19
+- NEW `lizTheDeveloper/privacy-the-game#43` — [opt-out check] A Direct Marketing Inc: confirm the opt-out route works · updated 2026-10-19
+- NEW `lizTheDeveloper/privacy-the-game#42` — [opt-out check] 6sense Insights, Inc.: confirm the opt-out route works · updated 2026-10-19
+- NEW `lizTheDeveloper/privacy-the-game#41` — [registry] Vermont data broker registry: download the bulk file · updated 2026-10-19
+- NEW `lizTheDeveloper/privacy-the-game#40` — [new research] FTC case: BetterHelp · updated 2026-10-19
+- NEW `lizTheDeveloper/privacy-the-game#39` — [stronger source] FIS owns ChexSystems (tier B) · updated 2026-10-19
+- NEW `lizTheDeveloper/privacy-the-game#38` — [duplicate record] West Publishing Corp vs WEST PUBLISING CORPORATION · updated 2026-10-19
+- NEW `lizTheDeveloper/privacy-the-game#37` — [ownership source] TransUnion (holdco) owns Trans Union LLC · updated 2026-10-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 6 (uncontested, skill fit, fresh)
-2. `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · score 6 (uncontested, $5, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+1. `lizTheDeveloper/privacy-the-game#44` — [opt-out check] Adttribution Inc: confirm the opt-out route works · score 4 (uncontested, fresh)
+2. `lizTheDeveloper/privacy-the-game#43` — [opt-out check] A Direct Marketing Inc: confirm the opt-out route works · score 4 (uncontested, fresh)
+3. `lizTheDeveloper/privacy-the-game#42` — [opt-out check] 6sense Insights, Inc.: confirm the opt-out route works · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
