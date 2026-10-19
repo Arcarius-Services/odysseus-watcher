@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T19:33:35.748Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T20:03:35.827Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,6 +14,7 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `aLexzzz430/Cognitive-OS#5` — [ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture pr · $3 · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#1312` — [radar] SN open bounty 2026-10-19T14:36 · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#1311` — [radar] SN open bounty 2026-10-19T12:57 · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#201` — [radar] SN open bounty 2026-07-22T09:33 · updated 2026-10-19
@@ -21,7 +22,6 @@ _none open right now_
 - `lizTheDeveloper/privacy-the-game#419` — [opt-out check] RocketReach: find a no-account opt-out route · updated 2026-10-19
 - `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · updated 2026-10-19
 - `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · updated 2026-10-19
-- `lizTheDeveloper/privacy-the-game#416` — [opt-out check] FastPeopleSearch: test the removal flow end to end · updated 2026-10-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
