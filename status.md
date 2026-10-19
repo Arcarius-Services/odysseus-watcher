@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T09:03:35.735Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T09:33:35.774Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-19
+- `Neziahtech/streampay#295` — [Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::t · updated 2026-10-19
+- `relayhop/sn-monetization-runtime#1310` — [radar] SN open bounty 2026-10-19T06:08 · updated 2026-10-19
+- `relayhop/sn-monetization-runtime#1309` — [radar] SN open bounty 2026-10-19T01:06 · updated 2026-10-19
 - `commaai/openpilot#30950` — Match stock Hyundai button logic · updated 2026-10-19
 - `Neziahtech/streampay#317` — [Security] oracle::resolve_stream_time upper-median index (n / 2) lets 1 rogue p · updated 2026-10-19
-- NEW `mohitagarwal24/WatchShop#1` — Robust Product Search and Filtering System · updated 2026-10-19
-- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-19
-- `relayhop/sn-monetization-runtime#1309` — [radar] SN open bounty 2026-10-19T01:06 · updated 2026-10-19
-- `Neziahtech/streampay#295` — [Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::t · updated 2026-10-19
-- `OphirPay/OphirPay#1361` — Add cursor-based pagination and sorting to /api/audit-log route · updated 2026-10-19
-- `relayhop/sn-monetization-runtime#1310` — [radar] SN open bounty 2026-10-19T06:08 · updated 2026-10-19
+- `mohitagarwal24/WatchShop#1` — Robust Product Search and Filtering System · updated 2026-10-19
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `Neziahtech/streampay#317` — [Security] oracle::resolve_stream_time upper-median index (n / 2) lets 1 rogue p · score 4 (uncontested, fresh)
-3. `mohitagarwal24/WatchShop#1` — Robust Product Search and Filtering System · score 4 (uncontested, fresh)
+2. `Neziahtech/streampay#295` — [Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::t · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1310` — [radar] SN open bounty 2026-10-19T06:08 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
