@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T07:33:35.796Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T08:03:36.272Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-19
+- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-19
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-19
+- `Neziahtech/streampay#318` — [Security] contracts/streampay: missing admin/recipient/registrant authorization · updated 2026-10-19
 - `OphirPay/OphirPay#1378` — Add drag-and-drop CSV batch upload zone with visual upload progress feedback · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#1310` — [radar] SN open bounty 2026-10-19T06:08 · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#1309` — [radar] SN open bounty 2026-10-19T01:06 · updated 2026-10-19
 - `Neziahtech/streampay#295` — [Security]: Unscoped NftDataKey::Allowance(spender) persists across StreamNft::t · updated 2026-10-19
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-19
-- NEW `SecureBananaLabs/bug-bounty#30` — Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB · updated 2026-10-19
-- NEW `zhangjiayang6835-cyber/bounty-plaza#477` — [Bounty] [aLexzzz430/Cognitive-OS] [ Bounty $3k ] [ Research ] Collect and compa · $3 · updated 2026-10-19
-- NEW `zhangjiayang6835-cyber/bounty-plaza#478` — [Bounty] [Vikingr2023/awesome-agent-bounties] [aLexzzz430/Cognitive-OS] [ Bounty · $3 · updated 2026-10-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -35,12 +35,12 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
 - [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
 - [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
-- NEW [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
+- [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
 - [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#1405` — Add end-to-end test suite for escrow dispute and resolution flow · score 6 (uncontested, skill fit, fresh)
+1. `Neziahtech/streampay#318` — [Security] contracts/streampay: missing admin/recipient/registrant authorization · score 4 (uncontested, fresh)
 2. `relayhop/sn-monetization-runtime#1310` — [radar] SN open bounty 2026-10-19T06:08 · score 4 (uncontested, fresh)
 3. `relayhop/sn-monetization-runtime#1309` — [radar] SN open bounty 2026-10-19T01:06 · score 4 (uncontested, fresh)
 
