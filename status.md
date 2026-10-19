@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T19:03:36.477Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T19:33:35.748Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,9 +14,9 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#201` — [radar] SN open bounty 2026-07-22T09:33 · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#1312` — [radar] SN open bounty 2026-10-19T14:36 · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#1311` — [radar] SN open bounty 2026-10-19T12:57 · updated 2026-10-19
+- `relayhop/sn-monetization-runtime#201` — [radar] SN open bounty 2026-07-22T09:33 · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#1310` — [radar] SN open bounty 2026-10-19T06:08 · updated 2026-10-19
 - `lizTheDeveloper/privacy-the-game#419` — [opt-out check] RocketReach: find a no-account opt-out route · updated 2026-10-19
 - `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · updated 2026-10-19
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `lizTheDeveloper/privacy-the-game#416` — [opt-out check] FastPeopleSearch: test the removal flow end to end · score 6 (uncontested, skill fit, fresh)
 2. `lizTheDeveloper/privacy-the-game#415` — [opt-out check] TruePeopleSearch: test the removal flow end to end · score 6 (uncontested, skill fit, fresh)
-3. `relayhop/sn-monetization-runtime#201` — [radar] SN open bounty 2026-07-22T09:33 · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1312` — [radar] SN open bounty 2026-10-19T14:36 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
