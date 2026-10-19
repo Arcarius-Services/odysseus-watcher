@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-18T22:34:46.966Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T00:03:36.023Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `zhangjiayang6835-cyber/bounty-plaza#645` — [Bounty] [BOUNTY] [$10000] [AGENTIC] [AI] Recursive Bounty Architect – Five-Fold · $10000 · updated 2026-10-18
+- `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-18
+- `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
+- NEW `relayhop/sn-monetization-runtime#1308` — [radar] SN open bounty 2026-10-18T23:01 · updated 2026-10-18
 - `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · updated 2026-10-18
 - `relayhop/sn-monetization-runtime#1302` — [radar] SN open bounty 2026-10-18T18:00 · updated 2026-10-18
-- `Neziahtech/streampay#255` — [Security]: freeze-logic trigger · updated 2026-10-18
-- NEW `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-18
-- `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · updated 2026-10-18
-- `NSPG13/agent-bounties#651` — [META] Earn 1 USDC margin with a bounty distribution bounty · updated 2026-10-18
-- `NSPG13/agent-bounties#927` — Capture a macOS Safari compatibility evidence bundle · updated 2026-10-18
-- `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-18
+- `OphirPay/OphirPay#1347` — Add validation for token decimal precision mismatch in record_payment · updated 2026-10-18
+- `OphirPay/OphirPay#1350` — Enforce minimum and maximum duration bounds on payment streams in create_stream · updated 2026-10-18
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `relayhop/sn-monetization-runtime#1306` — [radar] SN open bounty 2026-10-18T20:33 · score 4 (uncontested, fresh)
-2. `relayhop/sn-monetization-runtime#1302` — [radar] SN open bounty 2026-10-18T18:00 · score 4 (uncontested, fresh)
-3. `Neziahtech/streampay#255` — [Security]: freeze-logic trigger · score 4 (uncontested, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#645` — [Bounty] [BOUNTY] [$10000] [AGENTIC] [AI] Recursive Bounty Architect – Five-Fold · $10000 · score 6 (2 rivals, $10000, skill fit, fresh)
+2. `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · score 4 (uncontested, fresh)
+3. `Uuriko/project-room#3708` — [launch-readiness] Rotation caps exist nowhere in code, and even perfectly enfor · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
