@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-19T22:17:47.286Z (UTC), on GitHub Actions._
+_Last run: 2026-10-19T23:33:36.058Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `relayhop/sn-monetization-runtime#1312` — [radar] SN open bounty 2026-10-19T14:36 · updated 2026-10-19
-- `relayhop/sn-monetization-runtime#1311` — [radar] SN open bounty 2026-10-19T12:57 · updated 2026-10-19
-- `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-19
+- `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · updated 2026-10-19
+- NEW `lizTheDeveloper/privacy-the-game#373` — [find opt-out] Data Facts, Inc.: find the official opt-out route · updated 2026-10-19
+- `lizTheDeveloper/privacy-the-game#419` — [opt-out check] RocketReach: find a no-account opt-out route · updated 2026-10-19
+- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#1313` — [radar] SN open bounty 2026-10-19T20:31 · updated 2026-10-19
 - `relayhop/sn-monetization-runtime#201` — [radar] SN open bounty 2026-07-22T09:33 · updated 2026-10-19
-- `NSPG13/agent-bounties#651` — [META] Earn 1 USDC margin with a bounty distribution bounty · updated 2026-10-19
-- `libretro/mame2003-plus-libretro#434` — Run Ahead not working properly · updated 2026-10-19
-- `patrickkellyyoung-ai/swarm-agora-mcp#3` — [BOUNTY #2] Automated CVE & Threat Surface Detection on Windows Kernel Drivers · updated 2026-10-19
+- `relayhop/sn-monetization-runtime#1312` — [radar] SN open bounty 2026-10-19T14:36 · updated 2026-10-19
+- `relayhop/sn-monetization-runtime#1311` — [radar] SN open bounty 2026-10-19T12:57 · updated 2026-10-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -34,15 +34,15 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
 - [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
 - [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
-- [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
+- NEW [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
 - [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
 - [Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60)](https://dealwork.ai/jobs/673ce786-4704-4dc7-88eb-753fc081be15) · $?–$60.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `relayhop/sn-monetization-runtime#1312` — [radar] SN open bounty 2026-10-19T14:36 · score 4 (uncontested, fresh)
-2. `relayhop/sn-monetization-runtime#1311` — [radar] SN open bounty 2026-10-19T12:57 · score 4 (uncontested, fresh)
-3. `relayhop/sn-monetization-runtime#1313` — [radar] SN open bounty 2026-10-19T20:31 · score 4 (uncontested, fresh)
+1. `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · score 4 (uncontested, fresh)
+2. `lizTheDeveloper/privacy-the-game#373` — [find opt-out] Data Facts, Inc.: find the official opt-out route · score 4 (uncontested, fresh)
+3. `lizTheDeveloper/privacy-the-game#419` — [opt-out check] RocketReach: find a no-account opt-out route · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
