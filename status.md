@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-20T12:03:03.121Z (UTC), on GitHub Actions._
+_Last run: 2026-10-20T12:06:19.554Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,11 +14,11 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-20
-- NEW `Element-Ventures-Canada-Ltd/openchokepoint#17` — [Slice B] Verifiable evidence pointers: prove a record exists without disclosing · updated 2026-10-20
 - `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-20
+- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-20
+- `Element-Ventures-Canada-Ltd/openchokepoint#17` — [Slice B] Verifiable evidence pointers: prove a record exists without disclosing · updated 2026-10-20
 - `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-10-20
-- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1327` — [BOUNTY] Suggestion #1291 · updated 2026-10-20
+- `SPLURT-Station/S.P.L.U.R.T-tg#1327` — [BOUNTY] Suggestion #1291 · updated 2026-10-20
 - `lizTheDeveloper/privacy-the-game#333` — [stronger source] Zumigo supplies Microbilt (tier C) · updated 2026-10-20
 - `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-20
 - `relayhop/sn-monetization-runtime#1316` — [radar] SN open bounty 2026-10-20T11:24 · updated 2026-10-20
