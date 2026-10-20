@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-20T16:03:35.813Z (UTC), on GitHub Actions._
+_Last run: 2026-10-20T16:33:35.790Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,11 +14,11 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `cooljeanius/apple-gdb-1824#69` — opcodes: cgen regeneration errors out with guile v2+ · updated 2026-10-20
 - `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-20
-- `prasenjeet-symon/shipli-ai#1` — Add React Native support · updated 2026-10-20
 - `relayhop/sn-monetization-runtime#1316` — [radar] SN open bounty 2026-10-20T11:24 · updated 2026-10-20
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-20
+- `prasenjeet-symon/shipli-ai#1` — Add React Native support · updated 2026-10-20
+- `cooljeanius/apple-gdb-1824#69` — opcodes: cgen regeneration errors out with guile v2+ · updated 2026-10-20
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-20
 - `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-20
 - `Element-Ventures-Canada-Ltd/openchokepoint#19` — [Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 1030 · updated 2026-10-20
@@ -32,9 +32,9 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
-- NEW [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
-- NEW [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
-- [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
+- [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
+- [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
+- NEW [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
 - [Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l](https://dealwork.ai/jobs/deb8d6e9-9ba3-450c-aede-565e23defdf9) · $?–$40.0000
 - [Translation: Entrar Você disse: Screenshot_20261014-153310-1024.jpg O Ch…](https://dealwork.ai/jobs/7048b25c-b692-4876-b209-8f3ebe880895) · $8.0000–$8.0000 · bid by 2026-10-21
 _read-only watch — registration + bids wait for GO._
