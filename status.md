@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-20T14:03:35.917Z (UTC), on GitHub Actions._
+_Last run: 2026-10-20T14:33:35.933Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `prasenjeet-symon/shipli-ai#1` — Add React Native support · updated 2026-10-20
 - `relayhop/sn-monetization-runtime#1316` — [radar] SN open bounty 2026-10-20T11:24 · updated 2026-10-20
-- `sybil-solutions/local-ai-registry#223` — Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU) · $50 · updated 2026-10-20
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-20
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-20
+- NEW `Element-Ventures-Canada-Ltd/openchokepoint#3` — [Priority] Open call: digital-thread and critical-items register schema for rock · updated 2026-10-20
 - `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-10-20
-- `lizTheDeveloper/privacy-the-game#416` — [opt-out check] FastPeopleSearch: test the removal flow end to end · updated 2026-10-20
-- `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-20
-- `Element-Ventures-Canada-Ltd/openchokepoint#17` — [Slice B] Verifiable evidence pointers: prove a record exists without disclosing · updated 2026-10-20
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-20
-- `mergeos-bounties/mt5-mcp#24` — [200 MRG] Live MetaTrader5 Python package bridge stub · updated 2026-10-20
+- `SPLURT-Station/S.P.L.U.R.T-tg#1327` — [BOUNTY] Suggestion #1291 · updated 2026-10-20
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `lizTheDeveloper/privacy-the-game#416` — [opt-out check] FastPeopleSearch: test the removal flow end to end · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
+1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
+2. `lizTheDeveloper/privacy-the-game#416` — [opt-out check] FastPeopleSearch: test the removal flow end to end · score 6 (uncontested, skill fit, fresh)
 3. `relayhop/sn-monetization-runtime#1316` — [radar] SN open bounty 2026-10-20T11:24 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
