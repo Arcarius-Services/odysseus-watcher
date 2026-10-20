@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-20T06:03:36.511Z (UTC), on GitHub Actions._
+_Last run: 2026-10-20T06:33:41.080Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-20
-- NEW `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-20
-- NEW `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-20
-- `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-10-20
-- NEW `relayhop/sn-monetization-runtime#1315` — [radar] SN open bounty 2026-10-20T05:55 · updated 2026-10-20
-- `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · updated 2026-10-20
-- NEW `lizTheDeveloper/privacy-the-game#370` — [find opt-out] CoreLogic Portfolio Solutions, LLC: find the official opt-out rou · updated 2026-10-20
+- `relayhop/sn-monetization-runtime#1315` — [radar] SN open bounty 2026-10-20T05:55 · updated 2026-10-20
+- `relayhop/sn-monetization-runtime#1314` — [radar] SN open bounty 2026-10-20T00:14 · updated 2026-10-20
+- NEW `daydreamsai/agent-bounties#5` — Approval Risk Auditor · updated 2026-10-20
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-20
+- `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-20
+- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-20
+- `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-10-20
+- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-20
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
