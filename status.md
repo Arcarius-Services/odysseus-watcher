@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-20T09:03:35.754Z (UTC), on GitHub Actions._
+_Last run: 2026-10-20T09:33:35.737Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-10-20
-- NEW `Sifchain/sifnode#503` — [sifnode] $1000 bounty for implementing Azure AKS support for sifnode · $1000 · updated 2026-10-20
-- NEW `Spectral-Finance/lux#72` — YouTube Analytics and Growth Engine $2,000 · $2,000 · updated 2026-10-20
-- NEW `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · updated 2026-10-20
+- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-20
+- `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-20
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-20
+- `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-10-20
+- `daydreamsai/agent-bounties#5` — Approval Risk Auditor · updated 2026-10-20
 - `relayhop/sn-monetization-runtime#1315` — [radar] SN open bounty 2026-10-20T05:55 · updated 2026-10-20
 - `relayhop/sn-monetization-runtime#1314` — [radar] SN open bounty 2026-10-20T00:14 · updated 2026-10-20
-- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-20
+- `Sifchain/sifnode#503` — [sifnode] $1000 bounty for implementing Azure AKS support for sifnode · $1000 · updated 2026-10-20
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Sifchain/sifnode#503` — [sifnode] $1000 bounty for implementing Azure AKS support for sifnode · $1000 · score 6 (1 rival, $1000, skill fit, fresh)
+1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
 2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-3. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
+3. `Sifchain/sifnode#503` — [sifnode] $1000 bounty for implementing Azure AKS support for sifnode · $1000 · score 6 (1 rival, $1000, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
