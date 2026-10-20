@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-20T04:03:35.791Z (UTC), on GitHub Actions._
+_Last run: 2026-10-20T04:33:35.708Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `lizTheDeveloper/privacy-the-game#371` — [find opt-out] Dan Barnett: find the official opt-out route · updated 2026-10-20
+- NEW `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-20
+- NEW `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-20
+- NEW `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-20
+- NEW `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-10-20
 - `relayhop/sn-monetization-runtime#1314` — [radar] SN open bounty 2026-10-20T00:14 · updated 2026-10-20
-- NEW `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-20
-- NEW `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-20
-- NEW `auscaster/frantic-board#431` — Frantic bounty #134: Run an Ausca Browser Session end to end and report the proc · updated 2026-10-20
-- NEW `auscaster/frantic-board#194` — Frantic bounty #79: runx skill: CRM cleanup · updated 2026-10-20
-- NEW `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · updated 2026-10-20
-- NEW `auscaster/frantic-board#198` — Frantic bounty #83: runx skill: postmortem maker · updated 2026-10-20
+- `lizTheDeveloper/privacy-the-game#371` — [find opt-out] Dan Barnett: find the official opt-out route · updated 2026-10-20
+- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-20
+- `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-20
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#432` — Frantic bounty #135: Run an Ausca Agent Inbox end to end and report the process · score 6 (uncontested, skill fit, fresh)
-2. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 6 (uncontested, skill fit, fresh)
-3. `lizTheDeveloper/privacy-the-game#371` — [find opt-out] Dan Barnett: find the official opt-out route · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
+3. `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
