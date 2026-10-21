@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-21T00:33:36.791Z (UTC), on GitHub Actions._
+_Last run: 2026-10-21T01:03:35.766Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-10-21
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-21
-- NEW `qbittorrent/qBittorrent#4163` — WebTorrent support · updated 2026-10-21
-- `zhangjiayang6835-cyber/bounty-plaza#4061` — [Bounty] [TEST BOUNTY] Fix typo in README · updated 2026-10-20
-- `Element-Ventures-Canada-Ltd/openchokepoint#3` — [Priority] Open call: digital-thread and critical-items register schema for rock · updated 2026-10-20
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-20
-- `elsa-workflows/elsa-core#5187` — Inconsistent Workflow Cancellation Status Display · updated 2026-10-20
-- `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-10-20
-- `lizTheDeveloper/privacy-the-game#414` — [find opt-out] Xactus, LLC: find the official opt-out route · updated 2026-10-20
+- NEW `gkjohnson/three-gpu-pathtracer#85` — Add denoiser · updated 2026-10-21
+- NEW `gkjohnson/three-gpu-pathtracer#60` — Investigate TRAA for retaining samples on change · updated 2026-10-21
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-21
+- NEW `ak10082247-max/canaryguard-402#2` — [BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewal · $5.00 · updated 2026-10-21
+- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-21
+- `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-21
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
-2. `jomaaabbe78-spec/bookningsapp#1` — [TEST BOUNTY] Fix typo in README · score 6 (uncontested, skill fit, fresh)
-3. `qbittorrent/qBittorrent#4163` — WebTorrent support · score 4 (uncontested, fresh)
+2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
+3. `ak10082247-max/canaryguard-402#2` — [BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewal · $5.00 · score 4 (2 rivals, $5.00, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
