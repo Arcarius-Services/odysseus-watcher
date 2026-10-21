@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-21T13:03:36.075Z (UTC), on GitHub Actions._
+_Last run: 2026-10-21T13:11:51.881Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -15,10 +15,10 @@ _none open right now_
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-21
-- `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · updated 2026-10-21
 - `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-10-21
-- `Ikalus1988/MisakaNet#3622` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-21
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-21
+- `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · updated 2026-10-21
+- `Ikalus1988/MisakaNet#3622` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-21
 - `Ikalus1988/MisakaNet#3624` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-21
 - `Ikalus1988/MisakaNet#3623` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-21
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-21
