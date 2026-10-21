@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-21T19:33:36.156Z (UTC), on GitHub Actions._
+_Last run: 2026-10-21T20:03:35.668Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,13 +14,13 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-21
 - `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-21
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-21
+- `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-21
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-21
 - `tenstorrent/tt-metal#51655` — [Bounty $1,000] ttnn.typecast to uint16 rounds while every other integer destina · $1,000 · updated 2026-10-21
-- NEW `Element-Ventures-Canada-Ltd/openchokepoint#20` — [Slice E] Comparative real-world traces: current programmes under one method · updated 2026-10-21
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-21
+- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-21
+- `Element-Ventures-Canada-Ltd/openchokepoint#20` — [Slice E] Comparative real-world traces: current programmes under one method · updated 2026-10-21
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-21
 - `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-21
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
+1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
 3. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
