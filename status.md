@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-21T23:03:36.571Z (UTC), on GitHub Actions._
+_Last run: 2026-10-21T23:33:36.449Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -16,9 +16,9 @@ _none open right now_
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-21
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-21
-- NEW `prasenjeet-symon/shipli-ai#1` — Add React Native support · updated 2026-10-21
+- `prasenjeet-symon/shipli-ai#1` — Add React Native support · updated 2026-10-21
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-21
-- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1327` — [BOUNTY] Suggestion #1291 · updated 2026-10-21
+- `SPLURT-Station/S.P.L.U.R.T-tg#1327` — [BOUNTY] Suggestion #1291 · updated 2026-10-21
 - `amiller/bounty-arcade#3` — [board] Work-in-progress limit on Doing · updated 2026-10-21
 - `SPLURT-Station/S.P.L.U.R.T-tg#1305` — [BOUNTY] Suggestion #1278 · updated 2026-10-21
 - `SPLURT-Station/S.P.L.U.R.T-tg#1306` — [BOUNTY] Suggestion #1277 · updated 2026-10-21
