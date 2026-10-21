@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-21T01:33:35.730Z (UTC), on GitHub Actions._
+_Last run: 2026-10-21T01:58:55.743Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `MicahHeneveld/bros-analysis#3` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [3/6] · updated 2026-10-21
-- NEW `relayhop/sn-monetization-runtime#1313` — [radar] SN open bounty 2026-10-19T20:31 · updated 2026-10-21
 - `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-21
-- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-21
-- `gkjohnson/three-gpu-pathtracer#60` — Investigate TRAA for retaining samples on change · updated 2026-10-21
-- `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-10-21
-- `gkjohnson/three-gpu-pathtracer#85` — Add denoiser · updated 2026-10-21
+- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-21
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-21
 - `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-21
+- `ak10082247-max/canaryguard-402#2` — [BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewal · $5.00 · updated 2026-10-21
+- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-21
+- `MicahHeneveld/bros-analysis#3` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [3/6] · updated 2026-10-21
+- `relayhop/sn-monetization-runtime#1313` — [radar] SN open bounty 2026-10-19T20:31 · updated 2026-10-21
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,7 +31,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
 - [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
 - [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-3. `MicahHeneveld/bros-analysis#3` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [3/6] · score 4 (uncontested, fresh)
+2. `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · score 4 (uncontested, fresh)
+3. `ak10082247-max/canaryguard-402#2` — [BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewal · $5.00 · score 4 (2 rivals, $5.00, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
