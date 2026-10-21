@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-21T15:33:35.879Z (UTC), on GitHub Actions._
+_Last run: 2026-10-21T16:03:35.816Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -15,13 +15,13 @@ _none open right now_
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-21
-- NEW `lizTheDeveloper/privacy-the-game#131` — [opt-out check] Task Genie, Inc.: confirm the opt-out route works · updated 2026-10-21
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-21
-- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-21
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-21
-- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-21
-- `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-21
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-21
+- NEW `amiller/bounty-arcade#12` — [routes] Time, moving time and speed · updated 2026-10-21
+- NEW `amiller/bounty-arcade#11` — [routes] Gain/loss threshold · updated 2026-10-21
+- NEW `amiller/bounty-arcade#10` — [routes] Segments and gaps · updated 2026-10-21
+- NEW `amiller/bounty-arcade#9` — [puzzle] Shareable replay links · updated 2026-10-21
+- NEW `amiller/bounty-arcade#8` — [puzzle] Persist progress and best scores per level · updated 2026-10-21
+- NEW `amiller/bounty-arcade#7` — [puzzle] Deadlock detection for boxes stuck in corners · updated 2026-10-21
+- NEW `amiller/bounty-arcade#6` — [flight] Seeded wind · updated 2026-10-21
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+1. `amiller/bounty-arcade#12` — [routes] Time, moving time and speed · score 4 (uncontested, fresh)
+2. `amiller/bounty-arcade#11` — [routes] Gain/loss threshold · score 4 (uncontested, fresh)
+3. `amiller/bounty-arcade#10` — [routes] Segments and gaps · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
