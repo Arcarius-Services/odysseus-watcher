@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-22T11:03:36.184Z (UTC), on GitHub Actions._
+_Last run: 2026-10-22T11:33:35.823Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,17 +14,17 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `amiller/bounty-arcade#12` — [routes] Time, moving time and speed · updated 2026-10-22
-- `jomaaabbe78-spec/bookningsapp#1` — [TEST BOUNTY] Fix typo in README · updated 2026-10-22
+- `mergeos-bounties/PoseGuide#52` — [25 MRG] Pose pack: desk_standup_stretch (office ergonomics) · updated 2026-10-22
 - `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-22
-- NEW `Ikalus1988/MisakaNet#3624` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-22
+- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-10-22
+- `zhangjiayang6835-cyber/bounty-plaza#1910` — [Bounty] [Bounty: $125] Add structured progress callbacks to transfer() · $125 · updated 2026-10-22
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-22
-- `auscaster/frantic-board#431` — Frantic bounty #134: Run an Ausca Browser Session end to end and report the proc · updated 2026-10-22
-- NEW `mergeos-bounties/mergeos#1` — Claim MRG Tokens for Bug Bounty Reports - Comment New Bugs Here Before Opening a · updated 2026-10-22
-- NEW `mergeos-bounties/PoseGuide#52` — [25 MRG] Pose pack: desk_standup_stretch (office ergonomics) · updated 2026-10-22
+- `zhangjiayang6835-cyber/bounty-plaza#4061` — [Bounty] [TEST BOUNTY] Fix typo in README · updated 2026-10-22
+- `amiller/bounty-arcade#12` — [routes] Time, moving time and speed · updated 2026-10-22
+- `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · updated 2026-10-22
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -36,13 +36,13 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
 - [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
 - [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
-- NEW [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
+- [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-3. `amiller/bounty-arcade#12` — [routes] Time, moving time and speed · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
+3. `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
