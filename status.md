@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-22T14:33:35.939Z (UTC), on GitHub Actions._
+_Last run: 2026-10-22T14:38:20.821Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,6 +14,7 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `amiller/bounty-arcade#10` — [routes] Segments and gaps · updated 2026-10-22
 - `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-10-22
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-22
 - `amiller/bounty-arcade#11` — [routes] Gain/loss threshold · updated 2026-10-22
@@ -21,7 +22,6 @@ _none open right now_
 - `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-22
 - `doomsday-network/bounty-guard#1` — [BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run · updated 2026-10-22
 - `amiller/bounty-arcade#12` — [routes] Time, moving time and speed · updated 2026-10-22
-- `amiller/bounty-arcade#10` — [routes] Segments and gaps · updated 2026-10-22
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
