@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-22T04:03:35.883Z (UTC), on GitHub Actions._
+_Last run: 2026-10-22T04:33:35.732Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-22
-- NEW `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-22
+- NEW `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-22
+- NEW `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · updated 2026-10-22
 - `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-22
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-22
-- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-10-22
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · updated 2026-10-22
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-22
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1910` — [Bounty] [Bounty: $125] Add structured progress callbacks to transfer() · $125 · updated 2026-10-22
+- `zhangjiayang6835-cyber/bounty-plaza#1910` — [Bounty] [Bounty: $125] Add structured progress callbacks to transfer() · $125 · updated 2026-10-22
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-22
+- `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · updated 2026-10-22
+- `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-22
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1913` — [Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and r · $105 · score 6 (1 rival, $105, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1913` — [Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and r · $105 · score 6 (1 rival, $105, skill fit, fresh)
+3. `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · score 4 (1 rival, $5, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
