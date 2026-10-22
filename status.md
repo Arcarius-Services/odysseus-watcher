@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-22T00:10:28.880Z (UTC), on GitHub Actions._
+_Last run: 2026-10-22T01:33:02.485Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -15,13 +15,13 @@ _none open right now_
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-22
-- `zhangjiayang6835-cyber/bounty-plaza#1911` — [Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, a · $125 · updated 2026-10-22
-- `zhangjiayang6835-cyber/bounty-plaza#1914` — [Bounty] [Bounty: $105] Stop silently pricing Fast Transfers at zero when Iris r · $105 · updated 2026-10-22
+- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-22
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-22
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-21
-- `prasenjeet-symon/shipli-ai#1` — Add React Native support · updated 2026-10-21
-- `SPLURT-Station/S.P.L.U.R.T-tg#1327` — [BOUNTY] Suggestion #1291 · updated 2026-10-21
-- `amiller/bounty-arcade#3` — [board] Work-in-progress limit on Doing · updated 2026-10-21
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4061` — [Bounty] [TEST BOUNTY] Fix typo in README · updated 2026-10-22
+- `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-22
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1908` — [Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowa · $90 · updated 2026-10-22
+- NEW `auscaster/frantic-board#106` — Frantic bounty #49: Give runx some love · updated 2026-10-22
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1909` — [Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxW · $90 · updated 2026-10-22
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1911` — [Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, a · $125 · score 4 (2 rivals, $125, fresh)
+1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#1908` — [Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowa · $90 · score 6 (2 rivals, $90, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
