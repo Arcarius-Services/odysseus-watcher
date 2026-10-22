@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-22T02:33:35.800Z (UTC), on GitHub Actions._
+_Last run: 2026-10-22T03:03:35.730Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-10-22
 - `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-22
-- `lizTheDeveloper/privacy-the-game#132` — [opt-out check] TechTarget, Inc: confirm the opt-out route works · updated 2026-10-22
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-22
-- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-22
-- `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-22
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-22
-- `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-22
-- `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-22
+- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-10-22
+- NEW `Senthemodder/aquarium-of-gullibles#5` — [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src · $700 · updated 2026-10-22
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1558` — [Bounty] Reverse bounty · updated 2026-10-22
+- `zhangjiayang6835-cyber/bounty-plaza#1905` — [Bounty] [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI · $90 · updated 2026-10-22
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1907` — [Bounty] [Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMes · $90 · updated 2026-10-22
+- `lizTheDeveloper/privacy-the-game#135` — [opt-out check] TransUnion Digital LLC: confirm the opt-out route works · updated 2026-10-22
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-3. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 6 (uncontested, skill fit, fresh)
+1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1905` — [Bounty] [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI · $90 · score 6 (1 rival, $90, skill fit, fresh)
+3. `Senthemodder/aquarium-of-gullibles#5` — [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src · $700 · score 4 (2 rivals, $700, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
