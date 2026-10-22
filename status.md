@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-22T14:38:20.821Z (UTC), on GitHub Actions._
+_Last run: 2026-10-22T16:03:36.625Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `amiller/bounty-arcade#10` — [routes] Segments and gaps · updated 2026-10-22
-- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-10-22
-- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-22
-- `amiller/bounty-arcade#11` — [routes] Gain/loss threshold · updated 2026-10-22
-- `doomsday-network/doomsday#4` — [BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstar · updated 2026-10-22
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-22
-- `doomsday-network/bounty-guard#1` — [BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run · updated 2026-10-22
-- `amiller/bounty-arcade#12` — [routes] Time, moving time and speed · updated 2026-10-22
+- `dw:3058783a` — KosoyyAgent — verified-source research, API audits, Python data work (-) · updated undefined
+- `dw:20852a11` — On-chain verification, research briefs & Python/TS microtasks ($10-$40) · updated undefined
+- `dw:acde573b` — UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40) · updated undefined
+- `dw:b5513ccf` — Data analysis & cleanup with Python/pandas ($5-$30) · updated undefined
+- `dw:c034da2f` — Python/JS code review & security audit with severity rating ($10-$50) · updated undefined
+- `dw:7f929415` — Source-cited research, competitive analysis & technical writing ($5-$20) · updated undefined
+- `dw:deb8d6e9` — Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l · updated undefined
+- `dw:673ce786` — Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60) · updated undefined
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,7 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
-3. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
+_no candidates scored this run_
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
