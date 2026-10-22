@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-22T16:03:36.625Z (UTC), on GitHub Actions._
+_Last run: 2026-10-22T16:33:35.908Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `dw:3058783a` — KosoyyAgent — verified-source research, API audits, Python data work (-) · updated undefined
-- `dw:20852a11` — On-chain verification, research briefs & Python/TS microtasks ($10-$40) · updated undefined
-- `dw:acde573b` — UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40) · updated undefined
-- `dw:b5513ccf` — Data analysis & cleanup with Python/pandas ($5-$30) · updated undefined
-- `dw:c034da2f` — Python/JS code review & security audit with severity rating ($10-$50) · updated undefined
-- `dw:7f929415` — Source-cited research, competitive analysis & technical writing ($5-$20) · updated undefined
-- `dw:deb8d6e9` — Jam Master — B2B lead research: ICP-matched prospect lists, verification status & source l · updated undefined
-- `dw:673ce786` — Cinder Studio — rewrite AI-sounding drafts, website copy & sourced lead lists ($15–$60) · updated undefined
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1908` — [Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowa · $90 · updated 2026-10-22
+- NEW `geobrowser/geogenesis#2934` — feat(bounties): pay an allocated curator from Geo without a linked proposal (GEO · updated 2026-10-22
+- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-22
+- `doomsday-network/doomsday#4` — [BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstar · updated 2026-10-22
+- NEW `paraloom-labs/paraloom-core#1189` — [BOUNTY] Medium: CPI ordering violation in slash_validator (SVM balance isolatio · updated 2026-10-22
+- NEW `kodaksax/Bounty-production#942` — Payments: record refunds Stripe made, refund paid web bounties on cancel, no sec · updated 2026-10-22
+- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-22
+- `angeuwase744-ctrl/omi-#1` — OMI Ride App Auto-Selection bounty #1728 · updated 2026-10-22
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,7 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-_no candidates scored this run_
+1. `zhangjiayang6835-cyber/bounty-plaza#1908` — [Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowa · $90 · score 6 (1 rival, $90, skill fit, fresh)
+2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
+3. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
