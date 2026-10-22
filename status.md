@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-22T09:03:35.750Z (UTC), on GitHub Actions._
+_Last run: 2026-10-22T09:33:35.869Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,11 +14,11 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-22
-- `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-22
 - `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-22
-- NEW `relayhop/sn-monetization-runtime#1316` — [radar] SN open bounty 2026-10-20T11:24 · updated 2026-10-22
+- `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-22
+- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-22
 - `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-22
+- `relayhop/sn-monetization-runtime#1316` — [radar] SN open bounty 2026-10-20T11:24 · updated 2026-10-22
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-22
 - `auscaster/frantic-board#106` — Frantic bounty #49: Give runx some love · updated 2026-10-22
 - `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-22
