@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-23T13:03:36.117Z (UTC), on GitHub Actions._
+_Last run: 2026-10-23T13:33:35.876Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Ikalus1988/MisakaNet#3729` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-23
+- `amiller/bounty-arcade#8` — [puzzle] Persist progress and best scores per level · updated 2026-10-23
+- NEW `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-23
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-23
+- `relayhop/sn-monetization-runtime#1326` — [radar] SN open bounty 2026-10-22T19:11 · updated 2026-10-23
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-23
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-23
 - `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-23
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-23
-- NEW `lizTheDeveloper/privacy-the-game#125` — [opt-out check] RELX Inc.: confirm the opt-out route works · updated 2026-10-23
-- NEW `lizTheDeveloper/privacy-the-game#123` — [opt-out check] REAL INTENT INC: confirm the opt-out route works · updated 2026-10-23
-- NEW `lizTheDeveloper/privacy-the-game#121` — [opt-out check] Quad Graphics, Inc.: confirm the opt-out route works · updated 2026-10-23
-- `doomsday-network/doomsday#4` — [BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstar · updated 2026-10-23
-- `Ikalus1988/MisakaNet#3730` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-23
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,7 +32,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
-- [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
+- NEW [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
 - [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
 - [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · score 4 (uncontested, fresh)
-3. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
+2. `relayhop/sn-monetization-runtime#1326` — [radar] SN open bounty 2026-10-22T19:11 · score 4 (uncontested, fresh)
+3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
