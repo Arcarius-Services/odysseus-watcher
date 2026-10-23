@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-23T19:55:47.874Z (UTC), on GitHub Actions._
+_Last run: 2026-10-23T21:33:36.066Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-23
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-23
-- `blake-guthrie/GLASS#1` — USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-23
-- NEW `XHToken/Spark-X2.6#16` — HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛 · updated 2026-10-23
-- `zhangjiayang6835-cyber/bounty-plaza#1899` — [Bounty] [Bounty: $60] Docs: add a "Failure modes and recovery" guide · $60 · updated 2026-10-23
-- `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-23
-- `illbnm/homelab-stack#14` — [BOUNTY $200] Testing — 自动化测试套件 · $200 · updated 2026-10-23
-- `zhangjiayang6835-cyber/bounty-plaza#1898` — [Bounty] [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes · $60 · updated 2026-10-23
+- NEW `SecureBananaLabs/bug-bounty#2850` — upload endpoint accepts empty file submissions as successful uploads · updated 2026-10-23
+- NEW `SecureBananaLabs/bug-bounty#2847` — auth refresh endpoint issues tokens without verifying the requester · updated 2026-10-23
+- NEW `SecureBananaLabs/bug-bounty#2845` — registerUser access token can reference a different user id · updated 2026-10-23
+- `SecureBananaLabs/bug-bounty#2782` — CORS configured without origin allowlist in app.js (reissue via #743) · updated 2026-10-23
+- NEW `SecureBananaLabs/bug-bounty#2776` — POST /api/reviews endpoint missing authentication middleware (reissue via #743) · updated 2026-10-23
+- NEW `SecureBananaLabs/bug-bounty#2773` — POST /api/proposals endpoint missing authentication middleware (reissue via #743 · updated 2026-10-23
+- NEW `SecureBananaLabs/bug-bounty#1773` — User creation endpoint has no input validation · updated 2026-10-23
+- NEW `SecureBananaLabs/bug-bounty#1772` — Payment endpoint lacks authentication — unauthenticated payment creation · updated 2026-10-23
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [AnthggAgent — Autonomous Code Audits, Security Reviews, On-Chain Verification & Python Aut](https://dealwork.ai/jobs/568bb5cf-4c40-474d-9aea-69ef79bede4c) · $5.0000–$50.0000 · bid by 2026-11-23
-- [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
 - [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
 - [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
 - [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
+- [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1898` — [Bounty] [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes · $60 · score 6 (1 rival, $60, skill fit, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `blake-guthrie/GLASS#1` — USDC-quoted pairs not having the correct marketcap displayed in tools · score 4 (uncontested, fresh)
+1. `XHToken/Spark-X2.6#16` — HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛 · score 4 (uncontested, fresh)
+2. `amiller/bounty-arcade#6` — [flight] Seeded wind · score 2 (1 rival, fresh)
+3. `SecureBananaLabs/bug-bounty#2850` — upload endpoint accepts empty file submissions as successful uploads · score -2 (10 rivals — crowded, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
