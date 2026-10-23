@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-23T18:03:35.763Z (UTC), on GitHub Actions._
+_Last run: 2026-10-23T18:33:35.913Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,17 +14,17 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1899` — [Bounty] [Bounty: $60] Docs: add a "Failure modes and recovery" guide · $60 · updated 2026-10-23
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1903` — [Bounty] [Bounty: $75] Unit tests for src/errors.ts and a public export surface  · $75 · updated 2026-10-23
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1901` — [Bounty] [Bounty: $75] Package hygiene: sideEffects flag, export-map validation, · $75 · updated 2026-10-23
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1905` — [Bounty] [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI · $90 · updated 2026-10-23
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-23
-- `zhangjiayang6835-cyber/bounty-plaza#1912` — [Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages a · $105 · updated 2026-10-23
-- `zhangjiayang6835-cyber/bounty-plaza#4081` — [Bounty] Задача: Дописать тесты · updated 2026-10-23
-- `doomsday-network/bounty-guard#1` — [BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run · updated 2026-10-23
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1895` — [Bounty] Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set · updated 2026-10-23
+- NEW `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-23
+- `zhangjiayang6835-cyber/bounty-plaza#4061` — [Bounty] [TEST BOUNTY] Fix typo in README · updated 2026-10-23
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1902` — [Bounty] [Bounty: $75] Demo app: recovery flow for post-burn failures using Tran · $75 · updated 2026-10-23
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4081` — [Bounty] Задача: Дописать тесты · updated 2026-10-23
+- `doomsday-network/doomsday#4` — [BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstar · updated 2026-10-23
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1900` — [Bounty] [Bounty: $75] Website: accessibility and motion-preference fixes for th · $75 · updated 2026-10-23
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1898` — [Bounty] [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes · $60 · updated 2026-10-23
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -35,14 +35,14 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
 - [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
-- NEW [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
-- NEW [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
+- [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
+- [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1903` — [Bounty] [Bounty: $75] Unit tests for src/errors.ts and a public export surface  · $75 · score 6 (2 rivals, $75, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1905` — [Bounty] [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI · $90 · score 6 (1 rival, $90, skill fit, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1901` — [Bounty] [Bounty: $75] Package hygiene: sideEffects flag, export-map validation, · $75 · score 4 (2 rivals, $75, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#1898` — [Bounty] [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes · $60 · score 6 (1 rival, $60, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1903` — [Bounty] [Bounty: $75] Unit tests for src/errors.ts and a public export surface  · $75 · score 6 (2 rivals, $75, skill fit, fresh)
+3. `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
