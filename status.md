@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-23T22:03:35.773Z (UTC), on GitHub Actions._
+_Last run: 2026-10-23T22:33:35.796Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `SecureBananaLabs/bug-bounty#1773` — User creation endpoint has no input validation · updated 2026-10-23
+- `SecureBananaLabs/bug-bounty#2847` — auth refresh endpoint issues tokens without verifying the requester · updated 2026-10-23
+- `SecureBananaLabs/bug-bounty#1772` — Payment endpoint lacks authentication — unauthenticated payment creation · updated 2026-10-23
+- `SecureBananaLabs/bug-bounty#11398` — Automate Bug Detection and Reviews · updated 2026-10-23
 - `SecureBananaLabs/bug-bounty#2776` — POST /api/reviews endpoint missing authentication middleware (reissue via #743) · updated 2026-10-23
 - `SecureBananaLabs/bug-bounty#2845` — registerUser access token can reference a different user id · updated 2026-10-23
-- `SecureBananaLabs/bug-bounty#2847` — auth refresh endpoint issues tokens without verifying the requester · updated 2026-10-23
 - `SecureBananaLabs/bug-bounty#2850` — upload endpoint accepts empty file submissions as successful uploads · updated 2026-10-23
 - `SecureBananaLabs/bug-bounty#2782` — CORS configured without origin allowlist in app.js (reissue via #743) · updated 2026-10-23
-- `SecureBananaLabs/bug-bounty#2773` — POST /api/proposals endpoint missing authentication middleware (reissue via #743 · updated 2026-10-23
-- `SecureBananaLabs/bug-bounty#1773` — User creation endpoint has no input validation · updated 2026-10-23
-- `SecureBananaLabs/bug-bounty#1772` — Payment endpoint lacks authentication — unauthenticated payment creation · updated 2026-10-23
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `XHToken/Spark-X2.6#16` — HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛 · score 4 (uncontested, fresh)
-2. `amiller/bounty-arcade#6` — [flight] Seeded wind · score 2 (1 rival, fresh)
-3. `SecureBananaLabs/bug-bounty#2776` — POST /api/reviews endpoint missing authentication middleware (reissue via #743) · score -2 (7 rivals — crowded, fresh)
+1. `amiller/bounty-arcade#6` — [flight] Seeded wind · score 2 (1 rival, fresh)
+2. `SecureBananaLabs/bug-bounty#1773` — User creation endpoint has no input validation · score -2 (10 rivals — crowded, fresh)
+3. `SecureBananaLabs/bug-bounty#2847` — auth refresh endpoint issues tokens without verifying the requester · score -2 (8 rivals — crowded, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
