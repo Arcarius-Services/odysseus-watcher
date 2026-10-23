@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-22T23:33:36.115Z (UTC), on GitHub Actions._
+_Last run: 2026-10-23T00:03:35.712Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4081` — [Bounty] Задача: Дописать тесты · updated 2026-10-22
+- `doomsday-network/bounty-guard#1` — [BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run · updated 2026-10-23
+- `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-23
+- NEW `auscaster/frantic-board#106` — Frantic bounty #49: Give runx some love · updated 2026-10-22
+- `amiller/bounty-arcade#9` — [puzzle] Shareable replay links · updated 2026-10-22
+- `zhangjiayang6835-cyber/bounty-plaza#4081` — [Bounty] Задача: Дописать тесты · updated 2026-10-22
+- NEW `Thecesar85/TentOfTrials-bounty-67#1` — [$45 BOUNTY] [Python] Add config generator validation coverage · $45 · updated 2026-10-22
+- `Ikalus1988/MisakaNet#3729` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-22
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-22
-- NEW `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · updated 2026-10-22
-- `vlad441/ncpp#1` — Задача: Дописать тесты · updated 2026-10-22
-- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-22
-- NEW `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-22
-- NEW `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-10-22
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-10-22
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
-3. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · score 4 (uncontested, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#4081` — [Bounty] Задача: Дописать тесты · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
