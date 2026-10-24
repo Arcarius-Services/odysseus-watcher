@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-24T20:33:36.185Z (UTC), on GitHub Actions._
+_Last run: 2026-10-24T20:42:10.377Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-24
-- NEW `Nexussyn/ai-growth-platform#4` — 🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout · updated 2026-10-24
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-24
+- `Nexussyn/ai-growth-platform#4` — 🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout · updated 2026-10-24
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-24
+- `doomsday-network/doom-pay#1` — [ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Sess · updated 2026-10-24
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-24
 - `doomsday-network/bounty-guard#1` — [BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run · updated 2026-10-24
 - `doomsday-network/doomsday#30` — [ESCROW BOUNTY] ⭐ 750 DOOM ($wDOOM on Base) — Star All 4 Doomsday Network Repos  · updated 2026-10-24
 - `doomsday-network/github-bounty-scanner#1` — [ESCROW BOUNTY] 🛡️ 1,000 DOOM ($wDOOM on Base) — Star All 4 Doomsday Repos, Run · updated 2026-10-24
-- `doomsday-network/bounty-guard#7` — [ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — Integrate BountyGuard Into Your · updated 2026-10-24
-- NEW `doomsday-network/doom-pay#1` — [ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Sess · updated 2026-10-24
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
