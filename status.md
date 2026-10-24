@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-24T05:03:35.710Z (UTC), on GitHub Actions._
+_Last run: 2026-10-24T05:33:35.861Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `bchabot/wp-paradb#59` — Github Actions Fails · updated 2026-10-24
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-24
+- `bchabot/wp-paradb#59` — Github Actions Fails · updated 2026-10-24
 - `blake-guthrie/GLASS#1` — USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-24
 - `mergeos-bounties/mergeos#64` — [300 MRG per PR] Test submitted PRs and verify bounty evidence · updated 2026-10-24
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-24
 - `doomsday-network/bounty-guard#1` — [BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run · updated 2026-10-24
 - `Ikalus1988/MisakaNet#3727` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-24
 - `trypear/pearai-app#44` — [Hard] Package Releases Automation · updated 2026-10-24
-- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-24
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
