@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-24T09:33:35.733Z (UTC), on GitHub Actions._
+_Last run: 2026-10-24T10:03:35.698Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `zhangjiayang6835-cyber/bounty-plaza#4081` — [Bounty] Задача: Дописать тесты · updated 2026-10-24
+- `zhangjiayang6835-cyber/bounty-plaza#4080` — [Bounty] 📋 2 open bounties right now · updated 2026-10-24
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-24
+- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-24
 - `doomsday-network/bounty-guard#1` — [BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run · updated 2026-10-24
-- `doomsday-network/doomsday#4` — [BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstar · updated 2026-10-24
-- NEW `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-24
-- NEW `amiller/bounty-arcade#12` — [routes] Time, moving time and speed · updated 2026-10-24
 - `aLexzzz430/Cognitive-OS#5` — [ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture pr · $3 · updated 2026-10-24
-- NEW `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-24
-- NEW `amiller/bounty-arcade#11` — [routes] Gain/loss threshold · updated 2026-10-24
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4080` — [Bounty] 📋 2 open bounties right now · updated 2026-10-24
+- `doomsday-network/doomsday#4` — [BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstar · updated 2026-10-24
+- NEW `illbnm/homelab-stack#504` — [BOUNTY $300] SSO Stack — 统一身份认证 · $300 · updated 2026-10-24
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
@@ -36,13 +36,13 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
 - [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
 - [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
-- NEW [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
+- [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
 2. `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · score 4 (uncontested, fresh)
-3. `doomsday-network/bounty-guard#1` — [BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run · score 2 (1 rival, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#4081` — [Bounty] Задача: Дописать тесты · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
