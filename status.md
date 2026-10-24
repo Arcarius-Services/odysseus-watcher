@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-24T13:33:35.703Z (UTC), on GitHub Actions._
+_Last run: 2026-10-24T14:03:35.805Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `blake-guthrie/GLASS#1` — USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-24
-- NEW `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · updated 2026-10-24
+- NEW `NSPG13/agent-bounties#686` — [DIRECT] Add a concise direct-bounty evidence checklist · updated 2026-10-24
+- NEW `NSPG13/agent-bounties#871` — [DIRECT] Expose bounded-wallet liquidity and authority separately · updated 2026-10-24
+- NEW `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · updated 2026-10-24
+- NEW `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-24
+- `blake-guthrie/GLASS#1` — USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-24
+- `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · updated 2026-10-24
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-24
 - `XHToken/Spark-X2.6#16` — HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛 · updated 2026-10-24
-- `lizTheDeveloper/privacy-the-game#311` — [duplicate record] Melissa Data Corporation vs MELISSA DATA CORPORATOIN · updated 2026-10-24
-- `doomsday-network/bounty-guard#1` — [BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run · updated 2026-10-24
-- `relayhop/sn-monetization-runtime#1327` — [radar] SN open bounty 2026-10-24T10:49 · updated 2026-10-24
-- `zhangjiayang6835-cyber/bounty-plaza#4081` — [Bounty] Задача: Дописать тесты · updated 2026-10-24
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · score 6 (uncontested, $100, fresh)
-2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-3. `blake-guthrie/GLASS#1` — USDC-quoted pairs not having the correct marketcap displayed in tools · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
+2. `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · score 6 (uncontested, $100, fresh)
+3. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
