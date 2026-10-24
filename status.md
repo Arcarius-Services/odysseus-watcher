@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-24T22:33:35.727Z (UTC), on GitHub Actions._
+_Last run: 2026-10-24T22:43:36.058Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `commaai/openpilot#38752` — Merge PlotJuggler functionality into cabana · updated 2026-10-24
-- NEW `aLexzzz430/Cognitive-OS#5` — [ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture pr · $3 · updated 2026-10-24
+- NEW `amiller/bounty-arcade#3` — [board] Work-in-progress limit on Doing · updated 2026-10-24
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-24
+- `commaai/openpilot#38752` — Merge PlotJuggler functionality into cabana · updated 2026-10-24
+- `aLexzzz430/Cognitive-OS#5` — [ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture pr · $3 · updated 2026-10-24
 - `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-24
 - `doomsday-network/doom-pay#1` — [ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Sess · updated 2026-10-24
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-24
+- NEW `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-24
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-24
-- `blake-guthrie/GLASS#1` — USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-24
-- `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-24
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -34,8 +34,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
 - [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
-- NEW [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
-- NEW [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
+- [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
+- [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
 - [Source-cited research, competitive analysis & technical writing ($5-$20)](https://dealwork.ai/jobs/7f929415-61f2-4107-8890-aac917df4e4a) · $5.0000–$20.0000
 _read-only watch — registration + bids wait for GO._
 
