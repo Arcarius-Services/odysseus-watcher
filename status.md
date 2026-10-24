@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-24T14:51:13.692Z (UTC), on GitHub Actions._
+_Last run: 2026-10-24T16:03:35.987Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-24
-- `doomsday-network/bounty-guard#1` — [BOUNTY] 🛡️ 500 DOOM ($wDOOM on Base) — Report a Fake GitHub Bounty Repo or Run · updated 2026-10-24
-- `NSPG13/agent-bounties#686` — [DIRECT] Add a concise direct-bounty evidence checklist · updated 2026-10-24
-- `NSPG13/agent-bounties#871` — [DIRECT] Expose bounded-wallet liquidity and authority separately · updated 2026-10-24
-- `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · updated 2026-10-24
-- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-24
-- `blake-guthrie/GLASS#1` — USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-24
+- NEW `doomsday-network/github-bounty-scanner#1` — [ESCROW BOUNTY] 🛡️ 1,000 DOOM ($wDOOM on Base) — Star All 4 Doomsday Repos, Run · updated 2026-10-24
+- NEW `doomsday-network/bounty-guard#7` — [ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — Integrate BountyGuard Into Your · updated 2026-10-24
+- `doomsday-network/doomsday#4` — [BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstar · updated 2026-10-24
+- NEW `stride3d/stride#339` — Morph Target Animation (blend shapes, shape keys) · updated 2026-10-24
+- `zhangjiayang6835-cyber/bounty-plaza#4080` — [Bounty] 📋 2 open bounties right now · updated 2026-10-24
 - `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · updated 2026-10-24
+- `amiller/bounty-arcade#4` — [flight] Fuel · updated 2026-10-24
+- `amiller/bounty-arcade#5` — [flight] Run recording and replay · updated 2026-10-24
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
-3. `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · score 6 (uncontested, $100, fresh)
+1. `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · score 6 (uncontested, $100, fresh)
+2. `doomsday-network/github-bounty-scanner#1` — [ESCROW BOUNTY] 🛡️ 1,000 DOOM ($wDOOM on Base) — Star All 4 Doomsday Repos, Run · score 4 (uncontested, fresh)
+3. `doomsday-network/bounty-guard#7` — [ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — Integrate BountyGuard Into Your · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
