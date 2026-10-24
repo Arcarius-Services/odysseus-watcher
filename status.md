@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-24T17:03:36.403Z (UTC), on GitHub Actions._
+_Last run: 2026-10-24T17:33:35.799Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `doomsday-network/doomsday#30` — [ESCROW BOUNTY] ⭐ 750 DOOM ($wDOOM on Base) — Star All 4 Doomsday Network Repos  · updated 2026-10-24
-- NEW `doomsday-network/web3-agent-skills#1` — [ESCROW BOUNTY] ⚡ 1,000 DOOM ($wDOOM on Base) — Star All 5 Doomsday Repos, Test  · updated 2026-10-24
-- `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · updated 2026-10-24
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-24
-- `doomsday-network/cuda-gpu-miner#1` — [BOUNTY] ⚡ 1,000–2,500 DOOM ($wDOOM on Base) — Connect Your GPU or CPU Worker to · updated 2026-10-24
-- `doomsday-network/bounty-guard#7` — [ESCROW BOUNTY] 🔌 2,000 DOOM ($wDOOM on Base) — Integrate BountyGuard Into Your · updated 2026-10-24
+- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-24
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4110` — [Bounty] 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty  · $100 · updated 2026-10-24
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-24
+- `blake-guthrie/GLASS#1` — USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-24
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-24
-- `doomsday-network/doomsday#4` — [BOUNTY] ⚡ 500–1,000 DOOM ($wDOOM on Base) — Run the 3-Second Terminal Quickstar · updated 2026-10-24
+- `XHToken/Spark-X2.6#16` — HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛 · updated 2026-10-24
+- `zhangjiayang6835-cyber/bounty-plaza#4081` — [Bounty] Задача: Дописать тесты · updated 2026-10-24
+- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-24
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,7 +32,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
-- [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
+- NEW [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
 - [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
 - [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `doomsday-network/web3-agent-skills#1` — [ESCROW BOUNTY] ⚡ 1,000 DOOM ($wDOOM on Base) — Star All 5 Doomsday Repos, Test  · score 6 (uncontested, skill fit, fresh)
+1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
 2. `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · score 6 (uncontested, $100, fresh)
-3. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#4110` — [Bounty] 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty  · $100 · score 4 (2 rivals, $100, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
