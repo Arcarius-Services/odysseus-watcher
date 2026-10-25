@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-25T17:33:35.735Z (UTC), on GitHub Actions._
+_Last run: 2026-10-25T18:03:35.797Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `doomsday-network/github-bounty-scanner#1` — [ESCROW BOUNTY] 🛡️ 1,000 DOOM ($wDOOM on Base) — Star All 4 Doomsday Repos, Run · updated 2026-10-25
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1905` — [Bounty] [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI · $90 · updated 2026-10-25
-- NEW `iii123iii/Crystal-PDF#3` — Bug bounty 100 usd to whoever makes my landing page responsive for mobile · updated 2026-10-25
-- NEW `AstralDeep/AstralDeep#309` — Keep a NUL character in feedback text from failing knowledge proposal generation · updated 2026-10-25
-- NEW `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-25
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1913` — [Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and r · $105 · updated 2026-10-25
-- `ak10082247-max/canaryguard-402#2` — [BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewal · $5.00 · updated 2026-10-25
-- `zeloras/through-metal-link#5` — $250 for the first independent build · $250 · updated 2026-10-25
+- `doomsday-network/doom-pay#1` — [ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Sess · updated 2026-10-25
+- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-25
+- `relayhop/sn-monetization-runtime#1329` — [radar] SN open bounty 2026-10-25T16:02 · updated 2026-10-25
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1584` — [Bounty] [BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS · $1,500 · updated 2026-10-25
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-25
+- NEW `aashu91/robinhood-evm-mcp#3` — 🏆 [Bounty: 50,000 $ROBIN_MCP] Create a Telegram Mini-App for Launching Meme Coi · updated 2026-10-25
+- NEW `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-25
+- `alfrexo95/bounty-bot#42` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-25
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1905` — [Bounty] [Bounty: $90] Add ESLint with typescript-eslint and wire it into CI · $90 · score 6 (1 rival, $90, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1913` — [Bounty] [Bounty: $105] Tolerate transient Iris failures in getAttestation and r · $105 · score 6 (2 rivals, $105, skill fit, fresh)
-3. `doomsday-network/github-bounty-scanner#1` — [ESCROW BOUNTY] 🛡️ 1,000 DOOM ($wDOOM on Base) — Star All 4 Doomsday Repos, Run · score 4 (uncontested, fresh)
+1. `doomsday-network/doom-pay#1` — [ESCROW BOUNTY] ⚡ 1,000 wDOOM (Base Mainnet) — Test DoomPay 3-Line Checkout Sess · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
+3. `relayhop/sn-monetization-runtime#1329` — [radar] SN open bounty 2026-10-25T16:02 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
