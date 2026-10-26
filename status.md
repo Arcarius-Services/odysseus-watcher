@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-25T23:15:13.152Z (UTC), on GitHub Actions._
+_Last run: 2026-10-26T00:33:35.996Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `alfrexo95/bounty-bot#44` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-25
+- NEW `relayhop/sn-monetization-runtime#1335` — [radar] SN open bounty 2026-10-26T00:09 · updated 2026-10-26
+- NEW `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · updated 2026-10-26
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4110` — [Bounty] 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty  · $100 · updated 2026-10-26
+- NEW `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-25
+- `alfrexo95/bounty-bot#44` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-25
 - `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-25
-- `doomsday-network/web3-agent-skills#1` — [ESCROW BOUNTY] ⚡ 1,000 DOOM ($wDOOM on Base) — Star All 5 Doomsday Repos, Test  · updated 2026-10-25
 - `zhangjiayang6835-cyber/bounty-plaza#4113` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · updated 2026-10-25
 - `zhangjiayang6835-cyber/bounty-plaza#4114` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · updated 2026-10-25
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-25
-- `doomsday-network/doomsday#39` — [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Car · $10 · updated 2026-10-25
-- `doomsday-network/doomsday#48` — [ESCROW BOUNTY] 🌐 1,000 DOOM ($wDOOM on Base) — Run a Stealth P2P Validator Pee · updated 2026-10-25
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
+- [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 - [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
 - [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
-- [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
-- [Python/JS code review & security audit with severity rating ($10-$50)](https://dealwork.ai/jobs/c034da2f-aab4-443b-a23c-d4c2ab6177a9) · $10.0000–$50.0000
+- NEW [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `doomsday-network/web3-agent-skills#1` — [ESCROW BOUNTY] ⚡ 1,000 DOOM ($wDOOM on Base) — Star All 5 Doomsday Repos, Test  · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-3. `doomsday-network/doomsday#39` — [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Car · $10 · score 6 (uncontested, $10, fresh)
+1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
+2. `relayhop/sn-monetization-runtime#1335` — [radar] SN open bounty 2026-10-26T00:09 · score 4 (uncontested, fresh)
+3. `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · score 4 (2 rivals, $100, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
