@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-26T22:33:35.743Z (UTC), on GitHub Actions._
+_Last run: 2026-10-26T23:03:35.702Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · updated 2026-10-26
+- `lizTheDeveloper/privacy-the-game#407` — [find opt-out] S&P GLOBAL MARKET INTELLIGENCE: find the official opt-out route · updated 2026-10-26
+- `lizTheDeveloper/privacy-the-game#419` — [opt-out check] RocketReach: find a no-account opt-out route · updated 2026-10-26
 - `lizTheDeveloper/privacy-the-game#408` — [find opt-out] Safety Holdings Inc.: find the official opt-out route · updated 2026-10-26
-- NEW `lizTheDeveloper/privacy-the-game#419` — [opt-out check] RocketReach: find a no-account opt-out route · updated 2026-10-26
 - `lizTheDeveloper/privacy-the-game#404` — [find opt-out] Riv Data Corp: find the official opt-out route · updated 2026-10-26
 - `lizTheDeveloper/privacy-the-game#403` — [find opt-out] Quality Planning Corporation: find the official opt-out route · updated 2026-10-26
-- NEW `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · updated 2026-10-26
 - `lizTheDeveloper/privacy-the-game#413` — [find opt-out] Vintel AI: find the official opt-out route · updated 2026-10-26
 - `lizTheDeveloper/privacy-the-game#412` — [find opt-out] United One Resources, Inc.: find the official opt-out route · updated 2026-10-26
-- `lizTheDeveloper/privacy-the-game#405` — [find opt-out] Roq.ad GmbH: find the official opt-out route · updated 2026-10-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `lizTheDeveloper/privacy-the-game#408` — [find opt-out] Safety Holdings Inc.: find the official opt-out route · score 4 (uncontested, fresh)
-3. `lizTheDeveloper/privacy-the-game#404` — [find opt-out] Riv Data Corp: find the official opt-out route · score 4 (uncontested, fresh)
+2. `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · score 4 (uncontested, fresh)
+3. `lizTheDeveloper/privacy-the-game#407` — [find opt-out] S&P GLOBAL MARKET INTELLIGENCE: find the official opt-out route · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
