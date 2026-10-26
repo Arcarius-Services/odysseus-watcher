@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-26T01:03:35.691Z (UTC), on GitHub Actions._
+_Last run: 2026-10-26T01:33:36.515Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,17 +14,17 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-26
+- `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-26
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-26
+- `zhangjiayang6835-cyber/bounty-plaza#4114` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · updated 2026-10-26
 - `weilixiong/TentOfTrials#5` — [$25 BOUNTY] [Python] Add independent log parser fixtures · $25 · updated 2026-10-26
 - `shaiananvari8/zeroeye#1` — [$35 BOUNTY] [TypeScript] Add single-flight token refresh handling · $35 · updated 2026-10-26
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-26
 - `zhangjiayang6835-cyber/bounty-plaza#4113` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · updated 2026-10-26
-- `relayhop/sn-monetization-runtime#1335` — [radar] SN open bounty 2026-10-26T00:09 · updated 2026-10-26
-- `alfrexo95/bounty-bot#28` — 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro  · $100 · updated 2026-10-26
-- `zhangjiayang6835-cyber/bounty-plaza#4110` — [Bounty] 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty  · $100 · updated 2026-10-26
-- `alfrexo95/bounty-bot#44` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-25
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4113` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · score 4 (2 rivals, $10, fresh)
-3. `relayhop/sn-monetization-runtime#1335` — [radar] SN open bounty 2026-10-26T00:09 · score 4 (uncontested, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#4114` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · score 4 (2 rivals, $10, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#4113` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · score 4 (2 rivals, $10, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
