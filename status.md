@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-26T21:33:36.351Z (UTC), on GitHub Actions._
+_Last run: 2026-10-26T22:03:35.735Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-26
-- NEW `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · updated 2026-10-26
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-26
-- NEW `tenstorrent/tt-metal#62571` — Bounty $[750] Improve Qwen3-TTS Code Predictor Accuracy · updated 2026-10-26
-- NEW `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-26
-- NEW `alfrexo95/bounty-bot#48` — 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] feat(mobile): add offline storage and q · updated 2026-10-26
-- NEW `lizTheDeveloper/privacy-the-game#409` — [find opt-out] SageStream LLC: find the official opt-out route · updated 2026-10-26
-- `relayhop/sn-monetization-runtime#1340` — [radar] SN open bounty 2026-10-26T19:11 · updated 2026-10-26
+- NEW `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · updated 2026-10-26
+- `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · updated 2026-10-26
+- `lizTheDeveloper/privacy-the-game#409` — [find opt-out] SageStream LLC: find the official opt-out route · updated 2026-10-26
+- NEW `lizTheDeveloper/privacy-the-game#408` — [find opt-out] Safety Holdings Inc.: find the official opt-out route · updated 2026-10-26
+- NEW `lizTheDeveloper/privacy-the-game#407` — [find opt-out] S&P GLOBAL MARKET INTELLIGENCE: find the official opt-out route · updated 2026-10-26
+- NEW `lizTheDeveloper/privacy-the-game#406` — [find opt-out] RP On-Site LLC: find the official opt-out route · updated 2026-10-26
+- NEW `lizTheDeveloper/privacy-the-game#405` — [find opt-out] Roq.ad GmbH: find the official opt-out route · updated 2026-10-26
+- NEW `lizTheDeveloper/privacy-the-game#404` — [find opt-out] Riv Data Corp: find the official opt-out route · updated 2026-10-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
+1. `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · score 4 (uncontested, fresh)
 2. `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · score 4 (uncontested, fresh)
-3. `tenstorrent/tt-metal#62571` — Bounty $[750] Improve Qwen3-TTS Code Predictor Accuracy · score 4 (uncontested, fresh)
+3. `lizTheDeveloper/privacy-the-game#409` — [find opt-out] SageStream LLC: find the official opt-out route · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
