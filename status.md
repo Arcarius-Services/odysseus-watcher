@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-26T16:33:36.501Z (UTC), on GitHub Actions._
+_Last run: 2026-10-26T17:03:39.053Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-26
+- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-26
 - `riteshbonthalakoti/HELPDESK.AI#4092` — feat(mobile): add offline storage and queue sync for ticket drafts using AsyncSt · updated 2026-10-26
 - `NSPG13/agent-bounties#871` — [DIRECT] Expose bounded-wallet liquidity and authority separately · updated 2026-10-26
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-26
 - `alfrexo95/bounty-bot#47` — 🪙 [Web3] feat(mobile): add offline storage and queue sync f · updated 2026-10-26
 - `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · updated 2026-10-26
 - `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-26
 - `Ikalus1988/MisakaNet#3901` — [Good first issue · Oct 26 – Nov 26] Bring one real failure — we'll help turn it · updated 2026-10-26
-- `Ikalus1988/MisakaNet#1258` — Start here: give your coding agent a failure memory (MCP, 60 seconds) · updated 2026-10-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
