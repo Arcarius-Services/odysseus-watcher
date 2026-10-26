@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-26T12:33:35.926Z (UTC), on GitHub Actions._
+_Last run: 2026-10-26T13:03:35.928Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `QubesOS/qubes-issues#1861` — qubes-windows-tools: Support for Windows 10/11 · updated 2026-10-26
+- NEW `relayhop/sn-monetization-runtime#1339` — [radar] SN open bounty 2026-10-26T12:48 · updated 2026-10-26
+- NEW `relayhop/sn-monetization-runtime#1338` — [radar] SN open bounty 2026-10-26T12:48 · updated 2026-10-26
+- NEW `alfrexo95/bounty-bot#46` — 💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync  · updated 2026-10-26
 - `riteshbonthalakoti/HELPDESK.AI#4092` — feat(mobile): add offline storage and queue sync for ticket drafts using AsyncSt · updated 2026-10-26
 - `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-26
 - `riteshbonthalakoti/HELPDESK.AI#4077` — [BOUNTY] [level:intermediate] Backend: Implement Real-Time SLA Breach Auto-Escal · updated 2026-10-26
 - `zhangjiayang6835-cyber/bounty-plaza#4113` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · updated 2026-10-26
-- `zhangjiayang6835-cyber/bounty-plaza#4114` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · updated 2026-10-26
-- `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-10-26
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-26
-- `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · updated 2026-10-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `riteshbonthalakoti/HELPDESK.AI#4092` — feat(mobile): add offline storage and queue sync for ticket drafts using AsyncSt · score 4 (uncontested, fresh)
-3. `riteshbonthalakoti/HELPDESK.AI#4077` — [BOUNTY] [level:intermediate] Backend: Implement Real-Time SLA Breach Auto-Escal · score 4 (uncontested, fresh)
+1. `relayhop/sn-monetization-runtime#1339` — [radar] SN open bounty 2026-10-26T12:48 · score 4 (uncontested, fresh)
+2. `relayhop/sn-monetization-runtime#1338` — [radar] SN open bounty 2026-10-26T12:48 · score 4 (uncontested, fresh)
+3. `alfrexo95/bounty-bot#46` — 💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync  · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
