@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-26T23:33:35.736Z (UTC), on GitHub Actions._
+_Last run: 2026-10-26T23:48:45.765Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `hanzoai/ui#258` — Make @hanzo/react VERSION follow package.json (1.0.1 vs 1.0.3) · updated 2026-10-26
-- NEW `hanzo-js/sdk#1` — Add the LICENSE file the README links to · updated 2026-10-26
-- NEW `hanzo-go/lz4#1` — Point the README install steps and badges at hanzo.ai/lz4/v4 · updated 2026-10-26
-- NEW `hanzoai/ui#257` — List only the hooks @hanzo/react exports; delete 9 empty hook files · updated 2026-10-26
-- NEW `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · updated 2026-10-26
-- NEW `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-10-26
-- NEW `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-10-26
-- NEW `hanzoai/agents#7` — Fix 9 broken relative links in the examples and Go SDK READMEs · updated 2026-10-26
+- NEW `relayhop/sn-monetization-runtime#1341` — [radar] SN open bounty 2026-10-26T23:46 · updated 2026-10-26
+- `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-10-26
+- `hanzo-go/lz4#1` — Point the README install steps and badges at hanzo.ai/lz4/v4 · updated 2026-10-26
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-26
+- `hanzoai/ui#258` — Make @hanzo/react VERSION follow package.json (1.0.1 vs 1.0.3) · updated 2026-10-26
+- `hanzo-js/sdk#1` — Add the LICENSE file the README links to · updated 2026-10-26
+- `hanzoai/ui#257` — List only the hooks @hanzo/react exports; delete 9 empty hook files · updated 2026-10-26
+- `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · updated 2026-10-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -34,9 +34,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
 - [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
-- [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
+- NEW [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 - [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
-- [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
+- NEW [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
