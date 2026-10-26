@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-26T23:03:35.702Z (UTC), on GitHub Actions._
+_Last run: 2026-10-26T23:33:35.736Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · updated 2026-10-26
-- `lizTheDeveloper/privacy-the-game#407` — [find opt-out] S&P GLOBAL MARKET INTELLIGENCE: find the official opt-out route · updated 2026-10-26
-- `lizTheDeveloper/privacy-the-game#419` — [opt-out check] RocketReach: find a no-account opt-out route · updated 2026-10-26
-- `lizTheDeveloper/privacy-the-game#408` — [find opt-out] Safety Holdings Inc.: find the official opt-out route · updated 2026-10-26
-- `lizTheDeveloper/privacy-the-game#404` — [find opt-out] Riv Data Corp: find the official opt-out route · updated 2026-10-26
-- `lizTheDeveloper/privacy-the-game#403` — [find opt-out] Quality Planning Corporation: find the official opt-out route · updated 2026-10-26
-- `lizTheDeveloper/privacy-the-game#413` — [find opt-out] Vintel AI: find the official opt-out route · updated 2026-10-26
-- `lizTheDeveloper/privacy-the-game#412` — [find opt-out] United One Resources, Inc.: find the official opt-out route · updated 2026-10-26
+- NEW `hanzoai/ui#258` — Make @hanzo/react VERSION follow package.json (1.0.1 vs 1.0.3) · updated 2026-10-26
+- NEW `hanzo-js/sdk#1` — Add the LICENSE file the README links to · updated 2026-10-26
+- NEW `hanzo-go/lz4#1` — Point the README install steps and badges at hanzo.ai/lz4/v4 · updated 2026-10-26
+- NEW `hanzoai/ui#257` — List only the hooks @hanzo/react exports; delete 9 empty hook files · updated 2026-10-26
+- NEW `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · updated 2026-10-26
+- NEW `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-10-26
+- NEW `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-10-26
+- NEW `hanzoai/agents#7` — Fix 9 broken relative links in the examples and Go SDK READMEs · updated 2026-10-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · score 4 (uncontested, fresh)
-3. `lizTheDeveloper/privacy-the-game#407` — [find opt-out] S&P GLOBAL MARKET INTELLIGENCE: find the official opt-out route · score 4 (uncontested, fresh)
+1. `hanzoai/ui#257` — List only the hooks @hanzo/react exports; delete 9 empty hook files · score 6 (uncontested, skill fit, fresh)
+2. `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · score 6 (uncontested, skill fit, fresh)
+3. `hanzoai/agents#8` — Make the agent counts in README.md match the files · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
