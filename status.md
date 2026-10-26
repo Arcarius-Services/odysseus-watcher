@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-26T09:33:35.941Z (UTC), on GitHub Actions._
+_Last run: 2026-10-26T10:03:35.807Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,7 +14,7 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-26
+- `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-26
 - `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-26
 - `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-26
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-26
@@ -32,9 +32,9 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
-- [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
+- NEW [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 - [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
-- [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
+- NEW [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
 - [Data analysis & cleanup with Python/pandas ($5-$30)](https://dealwork.ai/jobs/b5513ccf-a311-4a6e-900e-89e68c548241) · $5.0000–$30.0000
 _read-only watch — registration + bids wait for GO._
