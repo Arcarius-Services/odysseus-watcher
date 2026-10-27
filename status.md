@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T09:33:35.990Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T10:03:35.774Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `trypear/pearai-app#44` — [Hard] Package Releases Automation · updated 2026-10-27
-- NEW `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · updated 2026-10-27
+- `QubesOS/qubes-issues#4318` — Port Qubes to ppc64 [3 bitcoin bounty] · updated 2026-10-27
+- NEW `NSPG13/agent-bounties#686` — [DIRECT] Add a concise direct-bounty evidence checklist · updated 2026-10-27
+- `lizTheDeveloper/privacy-the-game#413` — [find opt-out] Vintel AI: find the official opt-out route · updated 2026-10-27
+- NEW `lizTheDeveloper/privacy-the-game#412` — [find opt-out] United One Resources, Inc.: find the official opt-out route · updated 2026-10-27
+- NEW `NSPG13/agent-bounties#871` — [DIRECT] Expose bounded-wallet liquidity and authority separately · updated 2026-10-27
+- `trypear/pearai-app#44` — [Hard] Package Releases Automation · updated 2026-10-27
+- `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · updated 2026-10-27
 - `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-27
-- `lizTheDeveloper/privacy-the-game#409` — [find opt-out] SageStream LLC: find the official opt-out route · updated 2026-10-27
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-27
-- `lizTheDeveloper/privacy-the-game#411` — [find opt-out] Statara Solutuions LLC: find the official opt-out route · updated 2026-10-27
-- `alfrexo95/bounty-bot#50` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-27
-- `ak10082247-max/canaryguard-402#2` — [BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewal · $5.00 · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `trypear/pearai-app#44` — [Hard] Package Releases Automation · score 6 (uncontested, skill fit, fresh)
 2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-3. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 4 (1 rival, skill fit, fresh)
+3. `lizTheDeveloper/privacy-the-game#413` — [find opt-out] Vintel AI: find the official opt-out route · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
