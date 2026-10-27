@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T03:33:35.866Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T04:03:35.676Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-27
+- NEW `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-27
+- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-27
+- NEW `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-27
 - `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-27
-- NEW `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · updated 2026-10-27
+- `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · updated 2026-10-27
 - `Ikalus1988/MisakaNet#1258` — Start here: give your coding agent a failure memory (MCP, 60 seconds) · updated 2026-10-27
 - `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-10-27
 - `linuxboot/heads#2003` — Experiences with NovaCustom dGPU variants · updated 2026-10-27
-- `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-27
-- `Ikalus1988/MisakaNet#3901` — [Good first issue · Oct 26 – Nov 26] Bring one real failure — we'll help turn it · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
