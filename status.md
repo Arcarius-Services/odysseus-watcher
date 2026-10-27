@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T07:33:36.424Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T08:03:35.757Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · updated 2026-10-27
+- NEW `cxlinux-ai/cx-core#425` — [ARCHITECTURE] Replace Ollama with llama.cpp native C++ integration · updated 2026-10-27
+- `lizTheDeveloper/privacy-the-game#408` — [find opt-out] Safety Holdings Inc.: find the official opt-out route · updated 2026-10-27
+- `lizTheDeveloper/privacy-the-game#401` — [find opt-out] Nielsen Marketing Cloud: find the official opt-out route · updated 2026-10-27
+- `riteshbonthalakoti/HELPDESK.AI#4092` — feat(mobile): add offline storage and queue sync for ticket drafts using AsyncSt · updated 2026-10-27
 - `relayhop/sn-monetization-runtime#1342` — [radar] SN open bounty 2026-10-27T04:52 · updated 2026-10-27
 - `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · updated 2026-10-27
 - `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-27
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-27
-- `lizTheDeveloper/privacy-the-game#400` — [find opt-out] NATIONAL STUDENT CLEARINGHOUSE: find the official opt-out route · updated 2026-10-27
-- `lizTheDeveloper/privacy-the-game#401` — [find opt-out] Nielsen Marketing Cloud: find the official opt-out route · updated 2026-10-27
-- `riteshbonthalakoti/HELPDESK.AI#4092` — feat(mobile): add offline storage and queue sync for ticket drafts using AsyncSt · updated 2026-10-27
-- `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · score 6 (2 rivals, $130, skill fit, fresh)
 2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+3. `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
