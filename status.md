@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T04:33:35.719Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T04:55:56.614Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `relayhop/sn-monetization-runtime#1342` — [radar] SN open bounty 2026-10-27T04:52 · updated 2026-10-27
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-27
 - `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-27
 - `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-27
 - `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-27
 - `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · updated 2026-10-27
-- `Ikalus1988/MisakaNet#1258` — Start here: give your coding agent a failure memory (MCP, 60 seconds) · updated 2026-10-27
+- NEW `Ikalus1988/MisakaNet#1258` — Start here: give your coding agent a failure memory (MCP, 60 seconds) · updated 2026-10-27
 - `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-10-27
-- `linuxboot/heads#2003` — Experiences with NovaCustom dGPU variants · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
