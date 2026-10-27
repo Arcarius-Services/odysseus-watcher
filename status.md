@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T15:59:49.109Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T17:33:36.223Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `INDIGOAZUL/la-tanda-web#426` — Validator guide: !verify needs a memo transaction; 4 GB / 50 GB is too small for · updated 2026-10-27
+- NEW `INDIGOAZUL/la-tanda-web#425` — node-setup.sh is out of date with the validator guide (Go version, RPC exposure, · updated 2026-10-27
 - `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-27
-- `fyne-io/fyne#142` — Add drag and drop support · updated 2026-10-27
-- `relayhop/sn-monetization-runtime#1343` — [radar] SN open bounty 2026-10-27T10:25 · updated 2026-10-27
-- `relayhop/sn-monetization-runtime#1344` — [radar] SN open bounty 2026-10-27T12:01 · updated 2026-10-27
-- `alfrexo95/bounty-bot#51` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-27
+- `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-27
+- `SecureBananaLabs/bug-bounty#30` — Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB · updated 2026-10-27
+- `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-27
+- NEW `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-27
 - `relayhop/sn-monetization-runtime#1340` — [radar] SN open bounty 2026-10-26T19:11 · updated 2026-10-27
-- `relayhop/sn-monetization-runtime#1341` — [radar] SN open bounty 2026-10-26T23:46 · updated 2026-10-27
-- `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,8 +31,8 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
-- NEW [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
+- [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
 - [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 - [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 - [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `relayhop/sn-monetization-runtime#1343` — [radar] SN open bounty 2026-10-27T10:25 · score 4 (uncontested, fresh)
-3. `relayhop/sn-monetization-runtime#1344` — [radar] SN open bounty 2026-10-27T12:01 · score 4 (uncontested, fresh)
+1. `INDIGOAZUL/la-tanda-web#426` — Validator guide: !verify needs a memo transaction; 4 GB / 50 GB is too small for · score 6 (uncontested, skill fit, fresh)
+2. `INDIGOAZUL/la-tanda-web#425` — node-setup.sh is out of date with the validator guide (Go version, RPC exposure, · score 6 (uncontested, skill fit, fresh)
+3. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
