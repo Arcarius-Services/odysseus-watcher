@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T19:33:35.786Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T20:03:36.383Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `hanzoai/sqlite#3` — Fix README: it documents sqlite APIs that do not exist · updated 2026-10-27
-- NEW `Spectral-Finance/lux#100` — Cargo Package Management Integration $300 · $300 · updated 2026-10-27
-- `WholeTroutMedia/oss-verification-sandbox#1` — Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_ · updated 2026-10-27
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1891` — [Bounty] 📋 2 open bounties right now · updated 2026-10-27
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4080` — [Bounty] 📋 2 open bounties right now · updated 2026-10-27
-- `WholeTroutMedia/oss-verification-sandbox#2` — Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts  · updated 2026-10-27
+- NEW `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-27
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-27
 - `zhangjiayang6835-cyber/bounty-plaza#4113` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · updated 2026-10-27
 - `zhangjiayang6835-cyber/bounty-plaza#4114` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · updated 2026-10-27
+- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-27
+- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-27
+- `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-27
+- `Spectral-Finance/lux#100` — Cargo Package Management Integration $300 · $300 · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#4080` — [Bounty] 📋 2 open bounties right now · score 4 (uncontested, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4113` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · score 4 (1 rival, $10, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#4114` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · score 4 (1 rival, $10, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#4113` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · score 4 (1 rival, $10, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#4114` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · score 4 (1 rival, $10, fresh)
+3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
