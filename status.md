@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T03:03:35.768Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T03:33:35.866Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-27
-- `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-10-27
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-27
+- `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-27
+- NEW `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · updated 2026-10-27
+- `Ikalus1988/MisakaNet#1258` — Start here: give your coding agent a failure memory (MCP, 60 seconds) · updated 2026-10-27
+- `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-10-27
 - `linuxboot/heads#2003` — Experiences with NovaCustom dGPU variants · updated 2026-10-27
 - `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-27
 - `Ikalus1988/MisakaNet#3901` — [Good first issue · Oct 26 – Nov 26] Bring one real failure — we'll help turn it · updated 2026-10-27
-- `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · updated 2026-10-27
-- `relayhop/sn-monetization-runtime#1341` — [radar] SN open bounty 2026-10-26T23:46 · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-3. `auscaster/frantic-board#539` — Frantic bounty #140: Send an email with a 30-line Nitrosend SDK script and repor · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
+2. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 6 (uncontested, skill fit, fresh)
+3. `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · score 6 (2 rivals, $130, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
