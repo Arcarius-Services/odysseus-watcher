@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T13:03:36.443Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T13:33:35.846Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `hanzoai/cli#11` — Fix README commands that match no hanzo subcommand · updated 2026-10-27
+- `capofficial/client#19` — Show available margin in Add/Remove margin modal · updated 2026-10-27
 - `hanzoai/orm#8` — Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString · updated 2026-10-27
+- `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · updated 2026-10-27
 - `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · updated 2026-10-27
 - `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-10-27
 - `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-27
-- `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · updated 2026-10-27
 - `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-10-27
-- `Clawland-AI/clawland-skills#1` — feat: create temperature-alert skill template · updated 2026-10-27
-- `Clawland-AI/clawland-kits#1` — docs: create BOM and wiring guide for data center monitoring kit · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
