@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T13:33:35.846Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T14:03:35.773Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `relayhop/sn-monetization-runtime#1344` — [radar] SN open bounty 2026-10-27T12:01 · updated 2026-10-27
+- NEW `fyne-io/fyne#142` — Add drag and drop support · updated 2026-10-27
+- NEW `fyne-io/fyne#1062` — Android apps are lagging when enter text and scrolling · updated 2026-10-27
 - `hanzoai/cli#11` — Fix README commands that match no hanzo subcommand · updated 2026-10-27
 - `capofficial/client#19` — Show available margin in Add/Remove margin modal · updated 2026-10-27
 - `hanzoai/orm#8` — Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString · updated 2026-10-27
 - `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · updated 2026-10-27
-- `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · updated 2026-10-27
-- `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-10-27
-- `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-27
-- `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-10-27
+- NEW `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · score 6 (uncontested, $5, fresh)
-2. `hanzoai/orm#8` — Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString · score 4 (2 rivals, skill fit, fresh)
-3. `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · score 4 (1 rival, skill fit, fresh)
+2. `relayhop/sn-monetization-runtime#1344` — [radar] SN open bounty 2026-10-27T12:01 · score 4 (uncontested, fresh)
+3. `fyne-io/fyne#1062` — Android apps are lagging when enter text and scrolling · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
