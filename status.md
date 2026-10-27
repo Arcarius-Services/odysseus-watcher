@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T20:39:02.917Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T22:03:36.459Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-27
-- `WholeTroutMedia/oss-verification-sandbox#1` — Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_ · updated 2026-10-27
-- `hanzoai/ui#257` — List only the hooks @hanzo/react exports; delete 9 empty hook files · updated 2026-10-27
-- `hanzo-js/sdk#1` — Add the LICENSE file the README links to · updated 2026-10-27
 - `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-27
-- `zhangjiayang6835-cyber/bounty-plaza#4113` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · updated 2026-10-27
-- `zhangjiayang6835-cyber/bounty-plaza#4114` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · updated 2026-10-27
-- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-27
+- NEW `alfrexo95/bounty-bot#52` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-27
+- NEW `lizTheDeveloper/privacy-the-game#419` — [opt-out check] RocketReach: find a no-account opt-out route · updated 2026-10-27
+- NEW `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · updated 2026-10-27
+- NEW `lizTheDeveloper/privacy-the-game#413` — [find opt-out] Vintel AI: find the official opt-out route · updated 2026-10-27
+- NEW `lizTheDeveloper/privacy-the-game#412` — [find opt-out] United One Resources, Inc.: find the official opt-out route · updated 2026-10-27
+- NEW `lizTheDeveloper/privacy-the-game#409` — [find opt-out] SageStream LLC: find the official opt-out route · updated 2026-10-27
+- NEW `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `hanzoai/ui#257` — List only the hooks @hanzo/react exports; delete 9 empty hook files · score 4 (2 rivals, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4113` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · score 4 (1 rival, $10, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#4114` — [Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital · $10 · score 4 (1 rival, $10, fresh)
+1. `alfrexo95/bounty-bot#52` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · score 4 (uncontested, fresh)
+2. `lizTheDeveloper/privacy-the-game#419` — [opt-out check] RocketReach: find a no-account opt-out route · score 4 (uncontested, fresh)
+3. `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
