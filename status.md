@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T08:33:35.952Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T09:03:35.724Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,17 +14,17 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `alfrexo95/bounty-bot#50` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-27
+- `ak10082247-max/canaryguard-402#2` — [BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewal · $5.00 · updated 2026-10-27
+- `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · updated 2026-10-27
+- NEW `lizTheDeveloper/privacy-the-game#411` — [find opt-out] Statara Solutuions LLC: find the official opt-out route · updated 2026-10-27
+- `lizTheDeveloper/privacy-the-game#409` — [find opt-out] SageStream LLC: find the official opt-out route · updated 2026-10-27
 - `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · updated 2026-10-27
 - `cxlinux-ai/cx-core#425` — [ARCHITECTURE] Replace Ollama with llama.cpp native C++ integration · updated 2026-10-27
 - `lizTheDeveloper/privacy-the-game#408` — [find opt-out] Safety Holdings Inc.: find the official opt-out route · updated 2026-10-27
-- `lizTheDeveloper/privacy-the-game#401` — [find opt-out] Nielsen Marketing Cloud: find the official opt-out route · updated 2026-10-27
-- `riteshbonthalakoti/HELPDESK.AI#4092` — feat(mobile): add offline storage and queue sync for ticket drafts using AsyncSt · updated 2026-10-27
-- `relayhop/sn-monetization-runtime#1342` — [radar] SN open bounty 2026-10-27T04:52 · updated 2026-10-27
-- `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · updated 2026-10-27
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -33,16 +33,16 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
-- NEW [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
+- [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 - [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 - [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
 - [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · score 6 (2 rivals, $130, skill fit, fresh)
-2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-3. `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · score 4 (uncontested, fresh)
+1. `alfrexo95/bounty-bot#50` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · score 4 (uncontested, fresh)
+2. `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · score 4 (uncontested, fresh)
+3. `lizTheDeveloper/privacy-the-game#409` — [find opt-out] SageStream LLC: find the official opt-out route · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
