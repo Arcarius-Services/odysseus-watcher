@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T12:33:35.898Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T13:03:36.443Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-27
-- NEW `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · updated 2026-10-27
-- `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-10-27
-- NEW `Clawland-AI/clawland-skills#1` — feat: create temperature-alert skill template · updated 2026-10-27
-- `Clawland-AI/clawland-kits#1` — docs: create BOM and wiring guide for data center monitoring kit · updated 2026-10-27
-- `hanzoai/agents#7` — Fix 9 broken relative links in the examples and Go SDK READMEs · updated 2026-10-27
-- `hanzoai/agents#6` — Fix 103 broken relative links in the README · updated 2026-10-27
+- `hanzoai/orm#8` — Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString · updated 2026-10-27
 - `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · updated 2026-10-27
+- `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-10-27
+- `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-27
+- `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · updated 2026-10-27
+- `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-10-27
+- `Clawland-AI/clawland-skills#1` — feat: create temperature-alert skill template · updated 2026-10-27
+- `Clawland-AI/clawland-kits#1` — docs: create BOM and wiring guide for data center monitoring kit · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `tenstorrent/tt-metal#53787` — [Bounty $5k] ttnn.log_sigmoid: 0.91% peak fp32 error and a missing x <= -4 branc · $5 · score 6 (uncontested, $5, fresh)
-2. `hanzoai/agents#8` — Make the agent counts in README.md match the files · score 4 (1 rival, skill fit, fresh)
-3. `Clawland-AI/clawland-skills#1` — feat: create temperature-alert skill template · score 4 (1 rival, skill fit, fresh)
+2. `hanzoai/orm#8` — Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString · score 4 (2 rivals, skill fit, fresh)
+3. `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
