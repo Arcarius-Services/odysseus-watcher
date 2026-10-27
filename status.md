@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T10:28:35.548Z (UTC), on GitHub Actions._
+_Last run: 2026-10-27T12:03:36.131Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-27
-- NEW `CurtFigone19/pgx#18` — 🎯 Respect Context Deadline during pgxpool Health Check Connection Establishment · updated 2026-10-27
-- NEW `relayhop/sn-monetization-runtime#1343` — [radar] SN open bounty 2026-10-27T10:25 · updated 2026-10-27
-- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-27
-- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-27
-- NEW `capofficial/client#19` — Show available margin in Add/Remove margin modal · updated 2026-10-27
+- NEW `relayhop/sn-monetization-runtime#1344` — [radar] SN open bounty 2026-10-27T12:01 · updated 2026-10-27
 - `ak10082247-max/canaryguard-402#2` — [BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewal · $5.00 · updated 2026-10-27
-- `QubesOS/qubes-issues#4318` — Port Qubes to ppc64 [3 bitcoin bounty] · updated 2026-10-27
+- NEW `Bitcoindefi/OpenAO#23` — Etapa 2: importar y exportar mapas del editor oficial de escritorio · updated 2026-10-27
+- NEW `Clawland-AI/clawland-kits#1` — docs: create BOM and wiring guide for data center monitoring kit · updated 2026-10-27
+- `relayhop/sn-monetization-runtime#1343` — [radar] SN open bounty 2026-10-27T10:25 · updated 2026-10-27
+- `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-27
+- NEW `NSPG13/agent-bounties#590` — [META] Earn 1 USDC margin with an agent-discovery bounty · updated 2026-10-27
+- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `relayhop/sn-monetization-runtime#1343` — [radar] SN open bounty 2026-10-27T10:25 · score 4 (uncontested, fresh)
-3. `lizTheDeveloper/privacy-the-game#413` — [find opt-out] Vintel AI: find the official opt-out route · score 4 (uncontested, fresh)
+2. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+3. `relayhop/sn-monetization-runtime#1344` — [radar] SN open bounty 2026-10-27T12:01 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
