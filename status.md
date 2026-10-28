@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-28T07:03:36.663Z (UTC), on GitHub Actions._
+_Last run: 2026-10-28T07:33:35.839Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-28
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-10-28
 - `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-28
-- NEW `hanzoai/cli#12` — Rewrite CONTRIBUTING.md for the Rust CLI; it describes a Python app · updated 2026-10-28
-- NEW `hanzoai/agents#6` — Fix 103 broken relative links in the README · updated 2026-10-28
-- NEW `hanzoai/mcp#14` — Make skipFor ci/headless work and count skipped tests in test-suite · updated 2026-10-28
-- `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-28
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-28
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1910` — [Bounty] [Bounty: $125] Add structured progress callbacks to transfer() · $125 · updated 2026-10-28
+- NEW `hanzoai/ci#13` — Add bin/ignoretracked_test.sh and register it in hanzo.yml · updated 2026-10-28
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-28
+- `hanzoai/cli#12` — Rewrite CONTRIBUTING.md for the Rust CLI; it describes a Python app · updated 2026-10-28
+- `hanzoai/agents#6` — Fix 103 broken relative links in the README · updated 2026-10-28
+- `hanzoai/mcp#14` — Make skipFor ci/headless work and count skipped tests in test-suite · updated 2026-10-28
+- NEW `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `hanzoai/mcp#14` — Make skipFor ci/headless work and count skipped tests in test-suite · score 6 (uncontested, skill fit, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `hanzoai/cli#12` — Rewrite CONTRIBUTING.md for the Rust CLI; it describes a Python app · score 4 (1 rival, skill fit, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · score 6 (uncontested, $250, fresh)
+2. `hanzoai/mcp#14` — Make skipFor ci/headless work and count skipped tests in test-suite · score 6 (uncontested, skill fit, fresh)
+3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
