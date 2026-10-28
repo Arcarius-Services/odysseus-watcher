@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-27T23:58:40.158Z (UTC), on GitHub Actions._
+_Last run: 2026-10-28T01:33:36.476Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `WholeTroutMedia/oss-verification-sandbox#2` — Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts  · updated 2026-10-27
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-27
-- `zhangjiayang6835-cyber/bounty-plaza#4143` — [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Reque · updated 2026-10-27
-- `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-27
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-27
-- `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · updated 2026-10-27
-- `WholeTroutMedia/oss-verification-sandbox#1` — Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_ · updated 2026-10-27
-- `zhangjiayang6835-cyber/bounty-plaza#4142` — [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer  · updated 2026-10-27
+- `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-28
+- `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-10-28
+- NEW `Dasharo/dasharo-issues#1182` — Separate builds for 7010 and 9010, SFF, MT/DT · updated 2026-10-28
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-28
+- NEW `NSPG13/agent-bounties#590` — [META] Earn 1 USDC margin with an agent-discovery bounty · updated 2026-10-28
+- NEW `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · updated 2026-10-28
+- NEW `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-10-28
+- NEW `atharvnaik1/ipaship-audit#97` — Beyond compare like Binary Compare module and cli agent. · updated 2026-10-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#4143` — [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Reque · score 4 (uncontested, fresh)
-2. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
-3. `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · score 4 (uncontested, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · score 4 (2 rivals, $1,500, fresh)
+2. `atharvnaik1/ipaship-audit#97` — Beyond compare like Binary Compare module and cli agent. · score 4 (2 rivals, skill fit, fresh)
+3. `Dasharo/dasharo-issues#1182` — Separate builds for 7010 and 9010, SFF, MT/DT · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
