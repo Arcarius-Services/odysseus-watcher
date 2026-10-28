@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-28T11:33:36.066Z (UTC), on GitHub Actions._
+_Last run: 2026-10-28T11:36:07.667Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `habibdxb01/bounty-watcher#8` — 📋 2 open bounties right now · updated 2026-10-28
+- `habibdxb01/bounty-watcher#8` — 📋 2 open bounties right now · updated 2026-10-28
 - `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-28
 - `illbnm/homelab-stack#4` — [BOUNTY $140] Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager · $140 · updated 2026-10-28
-- NEW `illbnm/homelab-stack#1` — [BOUNTY $180] Base Infrastructure — Traefik + Portainer + Watchtower · $180 · updated 2026-10-28
+- `illbnm/homelab-stack#1` — [BOUNTY $180] Base Infrastructure — Traefik + Portainer + Watchtower · $180 · updated 2026-10-28
 - `illbnm/homelab-stack#2` — [BOUNTY $160] Media Stack — Jellyfin + Sonarr + Radarr + qBittorrent · $160 · updated 2026-10-28
 - `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · updated 2026-10-28
 - `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · updated 2026-10-28
-- NEW `illbnm/homelab-stack#6` — [BOUNTY $220] AI Stack — Ollama + Open WebUI + Stable Diffusion · $220 · updated 2026-10-28
+- `illbnm/homelab-stack#6` — [BOUNTY $220] AI Stack — Ollama + Open WebUI + Stable Diffusion · $220 · updated 2026-10-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
