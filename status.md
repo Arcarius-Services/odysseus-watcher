@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-28T15:03:35.855Z (UTC), on GitHub Actions._
+_Last run: 2026-10-28T15:33:35.879Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `Spectral-Finance/lux#81` — Curve Finance Integration and Stablecoin Management $900 · $900 · updated 2026-10-28
+- NEW `NSPG13/agent-bounties#334` — [QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty · updated 2026-10-28
+- NEW `Spectral-Finance/lux#82` — Hyperliquid Integration and Perpetual Trading $900 · $900 · updated 2026-10-28
+- NEW `Spectral-Finance/lux#87` — NFT Marketplace Data Aggregation $750 · $750 · updated 2026-10-28
+- NEW `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · updated 2026-10-28
+- NEW `tablelandnetwork/funding#1` — Integration Guide: Lit Protocol · updated 2026-10-28
+- NEW `tablelandnetwork/funding#2` — Integration Guide: The Graph · updated 2026-10-28
 - `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-10-28
-- `riteshbonthalakoti/HELPDESK.AI#4092` — feat(mobile): add offline storage and queue sync for ticket drafts using AsyncSt · updated 2026-10-28
-- `FreezingMoon/AncientBeast#1772` — showcase ability targeting area better [bounty: 16 XTR] · updated 2026-10-28
-- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-28
-- `alfrexo95/bounty-bot#54` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv · $250 · updated 2026-10-28
-- `riteshbonthalakoti/HELPDESK.AI#4077` — [BOUNTY] [level:intermediate] Backend: Implement Real-Time SLA Breach Auto-Escal · updated 2026-10-28
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-28
-- `zhangjiayang6835-cyber/bounty-plaza#4081` — [Bounty] Задача: Дописать тесты · updated 2026-10-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `alfrexo95/bounty-bot#54` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv · $250 · score 6 (uncontested, $250, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · score 4 (1 rival, $250, fresh)
-3. `riteshbonthalakoti/HELPDESK.AI#4092` — feat(mobile): add offline storage and queue sync for ticket drafts using AsyncSt · score 4 (uncontested, fresh)
+1. `tablelandnetwork/funding#1` — Integration Guide: Lit Protocol · score 4 (uncontested, fresh)
+2. `tablelandnetwork/funding#2` — Integration Guide: The Graph · score 4 (uncontested, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · score 4 (1 rival, $250, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
