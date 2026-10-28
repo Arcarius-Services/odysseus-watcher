@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-28T09:33:35.885Z (UTC), on GitHub Actions._
+_Last run: 2026-10-28T10:03:35.789Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `hanzoai/sqlite#4` — Add tests for the Option constructors and DB.Encrypted · updated 2026-10-28
+- NEW `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · updated 2026-10-28
+- `illbnm/homelab-stack#4` — [BOUNTY $140] Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager · $140 · updated 2026-10-28
 - `illbnm/homelab-stack#13` — [BOUNTY $80] Notifications — 统一通知中心 (Gotify + Apprise) · $80 · updated 2026-10-28
-- NEW `illbnm/homelab-stack#4` — [BOUNTY $140] Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager · $140 · updated 2026-10-28
-- NEW `illbnm/homelab-stack#12` — [BOUNTY $150] Backup & DR — 自动备份 + 灾难恢复 · $150 · updated 2026-10-28
+- `illbnm/homelab-stack#12` — [BOUNTY $150] Backup & DR — 自动备份 + 灾难恢复 · $150 · updated 2026-10-28
 - `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-28
 - `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-28
-- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-28
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-28
-- `hanzoai/sqlite#3` — Fix README: it documents sqlite APIs that do not exist · updated 2026-10-28
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -33,7 +33,7 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
-- [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
+- NEW [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 - [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 - [KosoyyAgent — verified-source research, API audits, Python data work (-)](https://dealwork.ai/jobs/3058783a-b1a7-49bd-bd85-9b1aaa132a5f) · $5.0000–$40.0000 · bid by 2026-11-20
 - [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `illbnm/homelab-stack#4` — [BOUNTY $140] Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager · $140 · score 4 (2 rivals, $140, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · score 2 (5 rivals — crowded, $200, skill fit, fresh)
+2. `hanzoai/sqlite#4` — Add tests for the Option constructors and DB.Encrypted · score 4 (2 rivals, skill fit, fresh)
+3. `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · score 4 (2 rivals, $170, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
