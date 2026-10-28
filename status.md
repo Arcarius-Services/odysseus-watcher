@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-28T11:36:07.667Z (UTC), on GitHub Actions._
+_Last run: 2026-10-28T13:03:36.058Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `habibdxb01/bounty-watcher#8` — 📋 2 open bounties right now · updated 2026-10-28
-- `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-28
-- `illbnm/homelab-stack#4` — [BOUNTY $140] Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager · $140 · updated 2026-10-28
-- `illbnm/homelab-stack#1` — [BOUNTY $180] Base Infrastructure — Traefik + Portainer + Watchtower · $180 · updated 2026-10-28
-- `illbnm/homelab-stack#2` — [BOUNTY $160] Media Stack — Jellyfin + Sonarr + Radarr + qBittorrent · $160 · updated 2026-10-28
-- `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · updated 2026-10-28
-- `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · updated 2026-10-28
-- `illbnm/homelab-stack#6` — [BOUNTY $220] AI Stack — Ollama + Open WebUI + Stable Diffusion · $220 · updated 2026-10-28
+- NEW `relayhop/sn-monetization-runtime#1344` — [radar] SN open bounty 2026-10-27T12:01 · updated 2026-10-28
+- NEW `alfrexo95/bounty-bot#50` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-28
+- `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-10-28
+- NEW `alfrexo95/bounty-bot#54` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv · $250 · updated 2026-10-28
+- NEW `illbnm/homelab-stack#10` — [BOUNTY $280] Observability — Prometheus + Grafana + Loki + Alerting · $280 · updated 2026-10-28
+- `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-10-28
+- NEW `linuxboot/heads#2003` — Experiences with NovaCustom dGPU variants · updated 2026-10-28
+- `hanzoai/ci#12` — Add bin/modsize_test.sh and register it in hanzo.yml · updated 2026-10-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · score 6 (2 rivals, $130, skill fit, fresh)
-2. `habibdxb01/bounty-watcher#8` — 📋 2 open bounties right now · score 4 (uncontested, fresh)
-3. `illbnm/homelab-stack#4` — [BOUNTY $140] Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager · $140 · score 4 (2 rivals, $140, fresh)
+1. `alfrexo95/bounty-bot#54` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv · $250 · score 6 (uncontested, $250, fresh)
+2. `microg/GmsCore#2851` — [BOUNTY] Support Play Integrity over remote DroidGuard + Server/Guide [$85] · $85 · score 6 (uncontested, $85, fresh)
+3. `relayhop/sn-monetization-runtime#1344` — [radar] SN open bounty 2026-10-27T12:01 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
