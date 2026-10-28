@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-28T09:03:35.793Z (UTC), on GitHub Actions._
+_Last run: 2026-10-28T09:33:35.885Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-28
+- `illbnm/homelab-stack#13` — [BOUNTY $80] Notifications — 统一通知中心 (Gotify + Apprise) · $80 · updated 2026-10-28
+- NEW `illbnm/homelab-stack#4` — [BOUNTY $140] Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager · $140 · updated 2026-10-28
+- NEW `illbnm/homelab-stack#12` — [BOUNTY $150] Backup & DR — 自动备份 + 灾难恢复 · $150 · updated 2026-10-28
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-28
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-28
+- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-28
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-10-28
 - `hanzoai/sqlite#3` — Fix README: it documents sqlite APIs that do not exist · updated 2026-10-28
-- NEW `illbnm/homelab-stack#13` — [BOUNTY $80] Notifications — 统一通知中心 (Gotify + Apprise) · $80 · updated 2026-10-28
-- NEW `illbnm/homelab-stack#11` — [BOUNTY $130] Database Layer — PostgreSQL + Redis + MariaDB 共享实例 · $130 · updated 2026-10-28
-- `FreezingMoon/AncientBeast#1772` — showcase ability targeting area better [bounty: 16 XTR] · updated 2026-10-28
-- `hanzoai/sqlite#4` — Add tests for the Option constructors and DB.Encrypted · updated 2026-10-28
-- `hanzoai/orm#8` — Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString · updated 2026-10-28
-- `hanzoai/ci#12` — Add bin/modsize_test.sh and register it in hanzo.yml · updated 2026-10-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `hanzoai/sqlite#4` — Add tests for the Option constructors and DB.Encrypted · score 4 (2 rivals, skill fit, fresh)
-2. `hanzoai/ci#12` — Add bin/modsize_test.sh and register it in hanzo.yml · score 4 (2 rivals, skill fit, fresh)
-3. `hanzoai/ci#13` — Add bin/ignoretracked_test.sh and register it in hanzo.yml · score 4 (2 rivals, skill fit, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `illbnm/homelab-stack#4` — [BOUNTY $140] Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager · $140 · score 4 (2 rivals, $140, fresh)
+3. `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · score 2 (5 rivals — crowded, $200, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
