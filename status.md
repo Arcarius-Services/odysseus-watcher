@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-28T03:03:35.884Z (UTC), on GitHub Actions._
+_Last run: 2026-10-28T03:33:35.735Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-28
-- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-28
-- NEW `Spectral-Finance/lux#86` — TradingView Technical Analysis Integration $600 · $600 · updated 2026-10-28
+- NEW `jakaramelod/go-git#1` — 🎯 Fix Case-Insensitive Path Comparison in `Worktree.Status()` on Case-Insensiti · updated 2026-10-28
+- NEW `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · updated 2026-10-28
+- `hanzo-js/sdk#1` — Add the LICENSE file the README links to · updated 2026-10-28
+- `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-10-28
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-10-28
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-28
+- `Spectral-Finance/lux#86` — TradingView Technical Analysis Integration $600 · $600 · updated 2026-10-28
 - `FreezingMoon/AncientBeast#2161` — instantly replay match log [bounty: 20 XTR] · updated 2026-10-28
-- `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-28
-- `NSPG13/agent-bounties#773` — [DIRECT] Add an OpenHands earning-loop integration · updated 2026-10-28
-- `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-10-28
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · score 4 (2 rivals, $1,500, fresh)
+1. `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · score 6 (2 rivals, $130, skill fit, fresh)
+2. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+3. `hanzo-js/sdk#1` — Add the LICENSE file the README links to · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
