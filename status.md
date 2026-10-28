@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-28T10:33:35.793Z (UTC), on GitHub Actions._
+_Last run: 2026-10-28T11:03:35.774Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,17 +14,17 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `illbnm/homelab-stack#2` — [BOUNTY $160] Media Stack — Jellyfin + Sonarr + Radarr + qBittorrent · $160 · updated 2026-10-28
+- `illbnm/homelab-stack#3` — [BOUNTY $150] Storage Stack — Nextcloud + MinIO + FileBrowser · $150 · updated 2026-10-28
 - `illbnm/homelab-stack#12` — [BOUNTY $150] Backup & DR — 自动备份 + 灾难恢复 · $150 · updated 2026-10-28
-- NEW `illbnm/homelab-stack#3` — [BOUNTY $150] Storage Stack — Nextcloud + MinIO + FileBrowser · $150 · updated 2026-10-28
+- NEW `commaai/openpilot#38752` — Merge PlotJuggler functionality into cabana · updated 2026-10-28
+- NEW `AstralDeep/AstralProjection#50` — Implement the complete Android notification adapter · updated 2026-10-28
 - `zhangjiayang6835-cyber/bounty-plaza#4143` — [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Reque · updated 2026-10-28
 - `zhangjiayang6835-cyber/bounty-plaza#4142` — [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer  · updated 2026-10-28
 - `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-10-28
-- `alfrexo95/bounty-bot#53` — 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author · $250 · updated 2026-10-28
-- `hanzoai/sqlite#4` — Add tests for the Option constructors and DB.Encrypted · updated 2026-10-28
-- `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · updated 2026-10-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
