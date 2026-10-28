@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-28T11:03:35.774Z (UTC), on GitHub Actions._
+_Last run: 2026-10-28T11:33:36.066Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,20 +14,20 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `illbnm/homelab-stack#2` — [BOUNTY $160] Media Stack — Jellyfin + Sonarr + Radarr + qBittorrent · $160 · updated 2026-10-28
-- `illbnm/homelab-stack#3` — [BOUNTY $150] Storage Stack — Nextcloud + MinIO + FileBrowser · $150 · updated 2026-10-28
-- `illbnm/homelab-stack#12` — [BOUNTY $150] Backup & DR — 自动备份 + 灾难恢复 · $150 · updated 2026-10-28
-- NEW `commaai/openpilot#38752` — Merge PlotJuggler functionality into cabana · updated 2026-10-28
-- NEW `AstralDeep/AstralProjection#50` — Implement the complete Android notification adapter · updated 2026-10-28
-- `zhangjiayang6835-cyber/bounty-plaza#4143` — [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Reque · updated 2026-10-28
-- `zhangjiayang6835-cyber/bounty-plaza#4142` — [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer  · updated 2026-10-28
-- `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-10-28
+- NEW `habibdxb01/bounty-watcher#8` — 📋 2 open bounties right now · updated 2026-10-28
+- `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-10-28
+- `illbnm/homelab-stack#4` — [BOUNTY $140] Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager · $140 · updated 2026-10-28
+- NEW `illbnm/homelab-stack#1` — [BOUNTY $180] Base Infrastructure — Traefik + Portainer + Watchtower · $180 · updated 2026-10-28
+- `illbnm/homelab-stack#2` — [BOUNTY $160] Media Stack — Jellyfin + Sonarr + Radarr + qBittorrent · $160 · updated 2026-10-28
+- `illbnm/homelab-stack#5` — [BOUNTY $170] Productivity Stack — Gitea + Vaultwarden + Outline + BookStack · $170 · updated 2026-10-28
+- `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · updated 2026-10-28
+- NEW `illbnm/homelab-stack#6` — [BOUNTY $220] AI Stack — Ollama + Open WebUI + Stable Diffusion · $220 · updated 2026-10-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `alfrexo95/bounty-bot#53` — 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author · $250 · score 6 (uncontested, $250, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · score 4 (1 rival, $250, fresh)
-3. `hanzoai/sqlite#4` — Add tests for the Option constructors and DB.Encrypted · score 4 (2 rivals, skill fit, fresh)
+1. `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · score 6 (2 rivals, $130, skill fit, fresh)
+2. `habibdxb01/bounty-watcher#8` — 📋 2 open bounties right now · score 4 (uncontested, fresh)
+3. `illbnm/homelab-stack#4` — [BOUNTY $140] Network Stack — AdGuard Home + WireGuard + Nginx Proxy Manager · $140 · score 4 (2 rivals, $140, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
