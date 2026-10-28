@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-28T21:03:35.758Z (UTC), on GitHub Actions._
+_Last run: 2026-10-28T21:33:36.160Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `NSPG13/agent-bounties#1632` — Create the first funded bounty for an established open-source project · updated 2026-10-28
 - `Spectral-Finance/lux#81` — Curve Finance Integration and Stablecoin Management $900 · $900 · updated 2026-10-28
 - `Spectral-Finance/lux#82` — Hyperliquid Integration and Perpetual Trading $900 · $900 · updated 2026-10-28
 - `Spectral-Finance/lux#87` — NFT Marketplace Data Aggregation $750 · $750 · updated 2026-10-28
 - `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · updated 2026-10-28
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-10-28
-- `INDIGOAZUL/la-tanda-web#267` — [BOUNTY] Prometheus + Grafana monitoring stack for La Tanda Chain validators (1, · updated 2026-10-28
-- `alfrexo95/bounty-bot#56` — 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro  · $250 · updated 2026-10-28
-- `zhangjiayang6835-cyber/bounty-plaza#1896` — [Bounty] [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip te · $45 · updated 2026-10-28
+- NEW `azerothcore/azerothcore-wotlk#20250` — [Class - Warrior] Sword Specialization doesn't proc with some melee abilities. · updated 2026-10-28
+- `NSPG13/agent-bounties#334` — [QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty · updated 2026-10-28
+- `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-10-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -33,7 +33,7 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
-- [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
+- NEW [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 - [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 - [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `alfrexo95/bounty-bot#56` — 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro  · $250 · score 6 (uncontested, $250, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · score 4 (2 rivals, $1,500, fresh)
-3. `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · score 2 (5 rivals — crowded, $600, skill fit, fresh)
+2. `azerothcore/azerothcore-wotlk#20250` — [Class - Warrior] Sword Specialization doesn't proc with some melee abilities. · score 4 (uncontested, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · score 4 (2 rivals, $1,500, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
