@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T03:03:35.953Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T03:33:35.800Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Spectral-Finance/lux#80` — SushiSwap Integration and Cross-Chain Bridge Support $750 · $750 · updated 2026-10-29
 - `Spectral-Finance/lux#81` — Curve Finance Integration and Stablecoin Management $900 · $900 · updated 2026-10-29
 - `Spectral-Finance/lux#82` — Hyperliquid Integration and Perpetual Trading $900 · $900 · updated 2026-10-29
 - `Spectral-Finance/lux#87` — NFT Marketplace Data Aggregation $750 · $750 · updated 2026-10-29
 - `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · updated 2026-10-29
-- `Spectral-Finance/lux#80` — SushiSwap Integration and Cross-Chain Bridge Support $750 · $750 · updated 2026-10-29
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-10-29
+- `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-10-29
+- `hanzoai/ui#257` — List only the hooks @hanzo/react exports; delete 9 empty hook files · updated 2026-10-29
 - `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-10-29
-- `Spectral-Finance/lux#79` — PancakeSwap Integration and Yield Farming $750 · $750 · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -45,11 +45,11 @@ _read-only watch — registration + bids wait for GO._
 3. `Spectral-Finance/lux#79` — PancakeSwap Integration and Yield Farming $750 · $750 · score 4 (2 rivals, $750, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
-- [LayerZero](https://immunefi.com/bounty/layerzero) — max $15,000,000  · KYC · since 2023-05-17
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
+- [LayerZero](https://immunefi.com/bounty/layerzero) — max $3,500,000  · KYC · since 2023-05-17
+- NEW [Stargate](https://immunefi.com/bounty/stargate) — max $3,500,000  · KYC · since 2024-09-24
 - [Olympus](https://immunefi.com/bounty/olympus) — max $3,333,333  · since 2022-01-06
 - [Chainlink](https://immunefi.com/bounty/chainlink) — max $3,000,000  · KYC · since 2021-05-11
-- [Hyperlane](https://immunefi.com/bounty/hyperlane) — max $2,500,000  · KYC · since 2023-01-10
 _big-game water: real pools, expert hunters, payout KYC. Watch free, enter deliberately._
 
 ---
