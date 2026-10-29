@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T11:03:35.771Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T11:33:35.933Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Arrow-air/website#215` — Put live Discord events on the community calls page · updated 2026-10-29
-- NEW `Arrow-air/website#217` — Design the purchase flow on top of the store prototype · updated 2026-10-29
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-29
-- `alfrexo95/bounty-bot#60` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount · $250 · updated 2026-10-29
+- NEW `mergeos-bounties/mergeos#64` — [300 MRG per PR] Test submitted PRs and verify bounty evidence · updated 2026-10-29
+- NEW `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · updated 2026-10-29
+- `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-10-29
+- NEW `Ikalus1988/MisakaNet#1258` — Start here: give your coding agent a failure memory (MCP, 60 seconds) · updated 2026-10-29
+- NEW `aadarwal/swarmstatus-bounties#54` — Independently date 13 K4be bodies with December 2025–March 2026 creation asserti · updated 2026-10-29
+- NEW `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · updated 2026-10-29
 - `stride3d/stride#24` — Feature: Decals · updated 2026-10-29
-- `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-29
-- `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-10-29
-- `Spectral-Finance/lux#76` — Gas Optimization and Transaction Management $1,250 · $1,250 · updated 2026-10-29
+- NEW `Clawland-AI/clawland-skills#1` — feat: create temperature-alert skill template · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `alfrexo95/bounty-bot#60` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount · $250 · score 6 (uncontested, $250, fresh)
-2. `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · score 6 (uncontested, $1,000, fresh)
-3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+1. `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · score 4 (uncontested, fresh)
+2. `Clawland-AI/clawland-skills#1` — feat: create temperature-alert skill template · score 4 (2 rivals, skill fit, fresh)
+3. `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
