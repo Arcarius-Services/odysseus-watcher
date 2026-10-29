@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T19:03:35.799Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T19:33:35.758Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `stride3d/stride#24` — Feature: Decals · updated 2026-10-29
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-29
-- NEW `INDIGOAZUL/la-tanda-web#85` — ♿ Accessibility Audit + Fixes — 200 LTD Bounty · updated 2026-10-29
-- NEW `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-10-29
-- NEW `SimsChad12/go-redis#1` — 🎯 Fix State Inconsistency in `Pipeline.Exec()` Upon Context Cancellation · updated 2026-10-29
-- NEW `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · updated 2026-10-29
-- NEW `INDIGOAZUL/la-tanda-web#84` — 🌓 Dark/Light Theme Toggle — 200 LTD Bounty · updated 2026-10-29
-- NEW `INDIGOAZUL/la-tanda-web#86` — ⚡ Performance Audit + Lighthouse Optimization — 150 LTD Bounty · updated 2026-10-29
+- NEW `Scottcjn/rustchain-bounties#8` — [BOUNTY] Write comprehensive RustChain protocol documentation · updated 2026-10-29
+- NEW `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · updated 2026-10-29
+- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-29
+- `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-29
+- NEW `aLexzzz430/Cognitive-OS#5` — [ Bounty $3k ] [ Research ] Collect and compare AI-generated AGI architecture pr · $3 · updated 2026-10-29
+- NEW `Scottcjn/rustchain-bounties#71` — [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC (133 RTC Pool) · updated 2026-10-29
+- NEW `Scottcjn/rustchain-bounties#16252` — [BOUNTY: 12 RTC] Windows headless miner: stop infinite retry of rejected headers · updated 2026-10-29
+- NEW `Scottcjn/rustchain-bounties#17` — [BOUNTY] Server-Side Architecture Cross-Validation · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
-- [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
+- NEW [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
 - [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 - [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 - [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
-- [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
+- NEW [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `alfrexo95/bounty-bot#64` — 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-H · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
-3. `stride3d/stride#24` — Feature: Decals · score 2 (2 rivals, fresh)
+1. `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · score 4 (1 rival, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · score 2 (1 rival, fresh)
+3. `Scottcjn/rustchain-bounties#71` — [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC (133 RTC Pool) · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
