@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T08:23:28.615Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T10:03:36.070Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Spectral-Finance/lux#81` — Curve Finance Integration and Stablecoin Management $900 · $900 · updated 2026-10-29
-- `Spectral-Finance/lux#82` — Hyperliquid Integration and Perpetual Trading $900 · $900 · updated 2026-10-29
-- `Spectral-Finance/lux#87` — NFT Marketplace Data Aggregation $750 · $750 · updated 2026-10-29
-- `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · updated 2026-10-29
-- `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · updated 2026-10-29
-- `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-10-29
-- `Scottcjn/rustchain-bounties#247` — Red Team: BoTTube Vote Manipulation & CSRF (50 RTC) · updated 2026-10-29
-- `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-10-29
+- `stride3d/stride#24` — Feature: Decals · updated 2026-10-29
+- NEW `alfrexo95/bounty-bot#60` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount · $250 · updated 2026-10-29
+- NEW `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-29
+- NEW `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-10-29
+- NEW `Spectral-Finance/lux#76` — Gas Optimization and Transaction Management $1,250 · $1,250 · updated 2026-10-29
+- NEW `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · updated 2026-10-29
+- NEW `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-10-29
+- NEW `Spectral-Finance/lux#79` — PancakeSwap Integration and Yield Farming $750 · $750 · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · score 2 (1 rival, fresh)
-2. `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · score 2 (2 rivals, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#4143` — [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Reque · score 2 (1 rival, fresh)
+1. `alfrexo95/bounty-bot#60` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount · $250 · score 6 (uncontested, $250, fresh)
+2. `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · score 6 (uncontested, $1,000, fresh)
+3. `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · score 4 (1 rival, $900, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
