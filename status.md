@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T17:33:35.969Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T18:03:35.755Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `alfrexo95/bounty-bot#63` — 🪙 [Web3] bounty: [level:critical] Agentic Self-Healing Acti · updated 2026-10-29
+- NEW `alfrexo95/bounty-bot#62` — 🪙 [Web3] bounty: [level:critical] Predictive SLA Breach For · updated 2026-10-29
+- NEW `zhangjiayang6835-cyber/bounty-plaza#828` — [Bounty] Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 · $25,000 · updated 2026-10-29
+- `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-10-29
 - `NSPG13/agent-bounties#1632` — Create the first funded bounty for an established open-source project · updated 2026-10-29
-- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-29
-- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-29
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-29
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-29
 - `microg/GmsCore#2851` — [BOUNTY] Support Play Integrity over remote DroidGuard + Server/Guide [$85] · $85 · updated 2026-10-29
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4061` — [Bounty] [TEST BOUNTY] Fix typo in README · updated 2026-10-29
-- `zhangjiayang6835-cyber/bounty-plaza#827` — [Bounty] Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC] · $20,000 · updated 2026-10-29
-- `INDIGOAZUL/la-tanda-web#267` — [BOUNTY] Prometheus + Grafana monitoring stack for La Tanda Chain validators (1, · updated 2026-10-29
-- `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `microg/GmsCore#2851` — [BOUNTY] Support Play Integrity over remote DroidGuard + Server/Guide [$85] · $85 · score 6 (uncontested, $85, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4061` — [Bounty] [TEST BOUNTY] Fix typo in README · score 4 (2 rivals, skill fit, fresh)
-3. `NSPG13/agent-bounties#1632` — Create the first funded bounty for an established open-source project · score 2 (1 rival, fresh)
+1. `alfrexo95/bounty-bot#63` — 🪙 [Web3] bounty: [level:critical] Agentic Self-Healing Acti · score 6 (uncontested, skill fit, fresh)
+2. `microg/GmsCore#2851` — [BOUNTY] Support Play Integrity over remote DroidGuard + Server/Guide [$85] · $85 · score 6 (uncontested, $85, fresh)
+3. `alfrexo95/bounty-bot#62` — 🪙 [Web3] bounty: [level:critical] Predictive SLA Breach For · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
