@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T11:33:35.933Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T12:03:35.742Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `mergeos-bounties/mergeos#64` — [300 MRG per PR] Test submitted PRs and verify bounty evidence · updated 2026-10-29
-- NEW `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · updated 2026-10-29
-- `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-10-29
-- NEW `Ikalus1988/MisakaNet#1258` — Start here: give your coding agent a failure memory (MCP, 60 seconds) · updated 2026-10-29
-- NEW `aadarwal/swarmstatus-bounties#54` — Independently date 13 K4be bodies with December 2025–March 2026 creation asserti · updated 2026-10-29
-- NEW `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · updated 2026-10-29
-- `stride3d/stride#24` — Feature: Decals · updated 2026-10-29
-- NEW `Clawland-AI/clawland-skills#1` — feat: create temperature-alert skill template · updated 2026-10-29
+- NEW `aashu91/robinhood-evm-mcp#2` — 🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yie · updated 2026-10-29
+- NEW `aashu91/robinhood-evm-mcp#1` — 🏆 [Bounty: 50,000 $ROBIN_MCP] Integrate Pyth / Chainlink Oracles for Real-Time  · updated 2026-10-29
+- NEW `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · updated 2026-10-29
+- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-10-29
+- `WholeTroutMedia/oss-verification-sandbox#2` — Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts  · updated 2026-10-29
+- NEW `riteshbonthalakoti/HELPDESK.AI#4092` — feat(mobile): add offline storage and queue sync for ticket drafts using AsyncSt · updated 2026-10-29
+- `mergeos-bounties/mergeos#64` — [300 MRG per PR] Test submitted PRs and verify bounty evidence · updated 2026-10-29
+- `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -33,16 +33,16 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
-- [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
+- NEW [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 - [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 - [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · score 4 (uncontested, fresh)
-2. `Clawland-AI/clawland-skills#1` — feat: create temperature-alert skill template · score 4 (2 rivals, skill fit, fresh)
-3. `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · score 2 (1 rival, fresh)
+1. `lizTheDeveloper/privacy-the-game#418` — [opt-out check] PrivateEye: which brokers are behind its search results? · score 4 (uncontested, fresh)
+2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+3. `riteshbonthalakoti/HELPDESK.AI#4092` — feat(mobile): add offline storage and queue sync for ticket drafts using AsyncSt · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
