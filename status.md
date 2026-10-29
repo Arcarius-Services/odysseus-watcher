@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T06:33:35.770Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T07:03:35.772Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · updated 2026-10-29
+- NEW `stride3d/stride#24` — Feature: Decals · updated 2026-10-29
 - `Spectral-Finance/lux#81` — Curve Finance Integration and Stablecoin Management $900 · $900 · updated 2026-10-29
 - `Spectral-Finance/lux#82` — Hyperliquid Integration and Perpetual Trading $900 · $900 · updated 2026-10-29
-- NEW `NSPG13/agent-bounties#336` — [META] Earn 1 USDC margin with a wallet UX bounty · updated 2026-10-29
 - `Spectral-Finance/lux#87` — NFT Marketplace Data Aggregation $750 · $750 · updated 2026-10-29
-- `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · updated 2026-10-29
-- NEW `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-10-29
+- `NSPG13/agent-bounties#336` — [META] Earn 1 USDC margin with a wallet UX bounty · updated 2026-10-29
+- `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-10-29
 - `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-29
-- `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -34,15 +34,15 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
 - [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
-- NEW [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
-- NEW [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
+- [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
+- [On-chain verification, research briefs & Python/TS microtasks ($10-$40)](https://dealwork.ai/jobs/20852a11-6395-4fd0-a665-8212e4337289) · $10.0000–$40.0000 · bid by 2026-11-19
 - [UCUP — Crypto/NFT Research, On-Chain Verification & Python Automation ($10-$40)](https://dealwork.ai/jobs/acde573b-e0ce-48d6-9490-1195b65b0b92) · $10.0000–$40.0000 · bid by 2026-11-19
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · score 2 (2 rivals, fresh)
-3. `Spectral-Finance/lux#81` — Curve Finance Integration and Stablecoin Management $900 · $900 · score 0 (6 rivals — crowded, $900, fresh)
+2. `stride3d/stride#24` — Feature: Decals · score 2 (1 rival, fresh)
+3. `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
