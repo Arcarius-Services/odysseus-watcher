@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T13:03:35.827Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T13:33:35.820Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `mergeos-bounties/PoseGuide#52` — [25 MRG] Pose pack: desk_standup_stretch (office ergonomics) · updated 2026-10-29
+- `NSPG13/agent-bounties#334` — [QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty · updated 2026-10-29
+- NEW `illbnm/homelab-stack#3` — [BOUNTY $150] Storage Stack — Nextcloud + MinIO + FileBrowser · $150 · updated 2026-10-29
+- `illbnm/homelab-stack#10` — [BOUNTY $280] Observability — Prometheus + Grafana + Loki + Alerting · $280 · updated 2026-10-29
 - `stride3d/stride#24` — Feature: Decals · updated 2026-10-29
-- NEW `illbnm/homelab-stack#10` — [BOUNTY $280] Observability — Prometheus + Grafana + Loki + Alerting · $280 · updated 2026-10-29
-- NEW `mergeos-bounties/PoseGuide#52` — [25 MRG] Pose pack: desk_standup_stretch (office ergonomics) · updated 2026-10-29
-- NEW `NSPG13/agent-bounties#334` — [QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty · updated 2026-10-29
 - `riteshbonthalakoti/HELPDESK.AI#4116` — bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Ba · updated 2026-10-29
-- `hanzoai/sqlite#4` — Add tests for the Option constructors and DB.Encrypted · updated 2026-10-29
-- `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-10-29
-- NEW `illbnm/homelab-stack#8` — [BOUNTY $250] Robustness — 国内网络适配 + 环境鲁棒性 · $250 · updated 2026-10-29
+- NEW `hanzoai/sqlite#4` — Add tests for the Option constructors and DB.Encrypted · updated 2026-10-29
+- NEW `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `riteshbonthalakoti/HELPDESK.AI#4116` — bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Ba · score 4 (uncontested, fresh)
 2. `hanzoai/sqlite#4` — Add tests for the Option constructors and DB.Encrypted · score 4 (2 rivals, skill fit, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · score 4 (1 rival, $250, fresh)
+3. `stride3d/stride#24` — Feature: Decals · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
