@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T15:03:35.791Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T15:31:16.177Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `INDIGOAZUL/la-tanda-web#267` — [BOUNTY] Prometheus + Grafana monitoring stack for La Tanda Chain validators (1, · updated 2026-10-29
+- `aashu91/robinhood-evm-mcp#2` — 🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yie · updated 2026-10-29
+- NEW `NSPG13/agent-bounties#1632` — Create the first funded bounty for an established open-source project · updated 2026-10-29
+- `riteshbonthalakoti/HELPDESK.AI#4116` — bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Ba · updated 2026-10-29
+- `lizTheDeveloper/privacy-the-game#397` — [find opt-out] lempire: find the official opt-out route · updated 2026-10-29
 - `illbnm/homelab-stack#10` — [BOUNTY $280] Observability — Prometheus + Grafana + Loki + Alerting · $280 · updated 2026-10-29
 - `mergeos-bounties/PoseGuide#52` — [25 MRG] Pose pack: desk_standup_stretch (office ergonomics) · updated 2026-10-29
-- NEW `lizTheDeveloper/privacy-the-game#397` — [find opt-out] lempire: find the official opt-out route · updated 2026-10-29
 - `NSPG13/agent-bounties#334` — [QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty · updated 2026-10-29
-- `NSPG13/agent-bounties#647` — [META] Earn 1 USDC margin with a API reliability bounty · updated 2026-10-29
-- `Nexussyn/ai-growth-engine#4` — [AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion · updated 2026-10-29
-- `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · updated 2026-10-29
-- `Spectral-Finance/lux#82` — Hyperliquid Integration and Perpetual Trading $900 · $900 · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,14 +40,14 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
+1. `riteshbonthalakoti/HELPDESK.AI#4116` — bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Ba · score 4 (uncontested, fresh)
+2. `NSPG13/agent-bounties#1632` — Create the first funded bounty for an established open-source project · score 2 (1 rival, fresh)
 3. `lizTheDeveloper/privacy-the-game#397` — [find opt-out] lempire: find the official opt-out route · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
-- [LayerZero](https://immunefi.com/bounty/layerzero) — max $3,500,000  · KYC · since 2023-05-17
 - [Stargate](https://immunefi.com/bounty/stargate) — max $3,500,000  · KYC · since 2024-09-24
+- [LayerZero](https://immunefi.com/bounty/layerzero) — max $3,500,000  · KYC · since 2023-05-17
 - [Olympus](https://immunefi.com/bounty/olympus) — max $3,333,333  · since 2022-01-06
 - [Chainlink](https://immunefi.com/bounty/chainlink) — max $3,000,000  · KYC · since 2021-05-11
 _big-game water: real pools, expert hunters, payout KYC. Watch free, enter deliberately._
