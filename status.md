@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T15:31:16.177Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T17:03:36.237Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `INDIGOAZUL/la-tanda-web#267` — [BOUNTY] Prometheus + Grafana monitoring stack for La Tanda Chain validators (1, · updated 2026-10-29
-- `aashu91/robinhood-evm-mcp#2` — 🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yie · updated 2026-10-29
-- NEW `NSPG13/agent-bounties#1632` — Create the first funded bounty for an established open-source project · updated 2026-10-29
-- `riteshbonthalakoti/HELPDESK.AI#4116` — bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Ba · updated 2026-10-29
-- `lizTheDeveloper/privacy-the-game#397` — [find opt-out] lempire: find the official opt-out route · updated 2026-10-29
-- `illbnm/homelab-stack#10` — [BOUNTY $280] Observability — Prometheus + Grafana + Loki + Alerting · $280 · updated 2026-10-29
-- `mergeos-bounties/PoseGuide#52` — [25 MRG] Pose pack: desk_standup_stretch (office ergonomics) · updated 2026-10-29
-- `NSPG13/agent-bounties#334` — [QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty · updated 2026-10-29
+- NEW `ciceroyang/deskshell#4` — driver(linux): AT-SPI2 control-tree backend above the existing window-level driv · updated 2026-10-29
+- NEW `ciceroyang/deskshell#5` — recorder: capture right/middle click, wheel and drag — then infer `window.rect`  · updated 2026-10-29
+- NEW `ciceroyang/deskshell#6` — kernel: per-action dry-run diffs (`run --diff`) · updated 2026-10-29
+- NEW `ciceroyang/deskshell#3` — Contributor board: 12 scoped tasks, each with a fixture and a failing test · updated 2026-10-29
+- NEW `ciceroyang/deskshell#8` — ecosystem: MCP adapter — expose preview / apply / undo as three MCP tools · updated 2026-10-29
+- NEW `zhangjiayang6835-cyber/bounty-plaza#827` — [Bounty] Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC] · $20,000 · updated 2026-10-29
+- `INDIGOAZUL/la-tanda-web#267` — [BOUNTY] Prometheus + Grafana monitoring stack for La Tanda Chain validators (1, · updated 2026-10-29
+- `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `riteshbonthalakoti/HELPDESK.AI#4116` — bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Ba · score 4 (uncontested, fresh)
-2. `NSPG13/agent-bounties#1632` — Create the first funded bounty for an established open-source project · score 2 (1 rival, fresh)
-3. `lizTheDeveloper/privacy-the-game#397` — [find opt-out] lempire: find the official opt-out route · score 2 (1 rival, fresh)
+1. `ciceroyang/deskshell#5` — recorder: capture right/middle click, wheel and drag — then infer `window.rect`  · score 6 (uncontested, skill fit, fresh)
+2. `ciceroyang/deskshell#6` — kernel: per-action dry-run diffs (`run --diff`) · score 6 (uncontested, skill fit, fresh)
+3. `ciceroyang/deskshell#3` — Contributor board: 12 scoped tasks, each with a fixture and a failing test · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
