@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T10:03:36.070Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T10:33:35.833Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `alfrexo95/bounty-bot#60` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount · $250 · updated 2026-10-29
 - `stride3d/stride#24` — Feature: Decals · updated 2026-10-29
-- NEW `alfrexo95/bounty-bot#60` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount · $250 · updated 2026-10-29
-- NEW `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-29
-- NEW `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-10-29
-- NEW `Spectral-Finance/lux#76` — Gas Optimization and Transaction Management $1,250 · $1,250 · updated 2026-10-29
-- NEW `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · updated 2026-10-29
-- NEW `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-10-29
-- NEW `Spectral-Finance/lux#79` — PancakeSwap Integration and Yield Farming $750 · $750 · updated 2026-10-29
+- `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-29
+- `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-10-29
+- `Spectral-Finance/lux#76` — Gas Optimization and Transaction Management $1,250 · $1,250 · updated 2026-10-29
+- `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · updated 2026-10-29
+- `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-10-29
+- `Spectral-Finance/lux#79` — PancakeSwap Integration and Yield Farming $750 · $750 · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
