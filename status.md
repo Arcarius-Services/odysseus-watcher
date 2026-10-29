@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T14:33:35.910Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T15:03:35.791Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-29
-- `capofficial/client#19` — Show available margin in Add/Remove margin modal · updated 2026-10-29
-- `riteshbonthalakoti/HELPDESK.AI#4115` — bounty: [level:critical] Agentic Self-Healing Actions Engine: Sandboxed Playbook · updated 2026-10-29
 - `illbnm/homelab-stack#10` — [BOUNTY $280] Observability — Prometheus + Grafana + Loki + Alerting · $280 · updated 2026-10-29
 - `mergeos-bounties/PoseGuide#52` — [25 MRG] Pose pack: desk_standup_stretch (office ergonomics) · updated 2026-10-29
+- NEW `lizTheDeveloper/privacy-the-game#397` — [find opt-out] lempire: find the official opt-out route · updated 2026-10-29
 - `NSPG13/agent-bounties#334` — [QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty · updated 2026-10-29
-- `aashu91/robinhood-evm-mcp#2` — 🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yie · updated 2026-10-29
-- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-29
+- `NSPG13/agent-bounties#647` — [META] Earn 1 USDC margin with a API reliability bounty · updated 2026-10-29
+- `Nexussyn/ai-growth-engine#4` — [AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion · updated 2026-10-29
+- `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · updated 2026-10-29
+- `Spectral-Finance/lux#82` — Hyperliquid Integration and Perpetual Trading $900 · $900 · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `riteshbonthalakoti/HELPDESK.AI#4115` — bounty: [level:critical] Agentic Self-Healing Actions Engine: Sandboxed Playbook · score 4 (1 rival, skill fit, fresh)
-3. `aashu91/robinhood-evm-mcp#2` — 🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yie · score 2 (2 rivals, fresh)
+2. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
+3. `lizTheDeveloper/privacy-the-game#397` — [find opt-out] lempire: find the official opt-out route · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
