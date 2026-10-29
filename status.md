@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T05:33:35.833Z (UTC), on GitHub Actions._
+_Last run: 2026-10-29T06:03:35.736Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -17,11 +17,11 @@ _none open right now_
 - `Spectral-Finance/lux#81` — Curve Finance Integration and Stablecoin Management $900 · $900 · updated 2026-10-29
 - `Spectral-Finance/lux#82` — Hyperliquid Integration and Perpetual Trading $900 · $900 · updated 2026-10-29
 - `Spectral-Finance/lux#87` — NFT Marketplace Data Aggregation $750 · $750 · updated 2026-10-29
-- `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-10-29
 - `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · updated 2026-10-29
-- NEW `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-29
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-29
-- NEW `alfrexo95/bounty-bot#54` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv · $250 · updated 2026-10-29
+- NEW `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-29
+- NEW `NSPG13/agent-bounties#861` — [Bounty] Earn 1 USDC profit by creating a paid MCP child bounty · updated 2026-10-29
+- `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-10-29
+- `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
 2. `alfrexo95/bounty-bot#54` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv · $250 · score 6 (uncontested, $250, fresh)
-3. `alfrexo95/bounty-bot#58` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro  · $250 · score 6 (uncontested, $250, fresh)
+3. `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
