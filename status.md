@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T16:03:35.798Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T16:33:35.784Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -16,12 +16,12 @@ _none open right now_
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `lizTheDeveloper/privacy-the-game#404` — [find opt-out] Riv Data Corp: find the official opt-out route · updated 2026-10-30
 - `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-30
-- NEW `lizTheDeveloper/privacy-the-game#397` — [find opt-out] lempire: find the official opt-out route · updated 2026-10-30
+- NEW `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-30
+- `lizTheDeveloper/privacy-the-game#397` — [find opt-out] lempire: find the official opt-out route · updated 2026-10-30
 - `tenstorrent/tt-metal#62571` — [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-10-30
 - `NSPG13/agent-bounties#1222` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
 - `NSPG13/agent-bounties#1221` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
 - `NSPG13/agent-bounties#1220` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
-- `NSPG13/agent-bounties#1219` — Generate qualifying GMV for Highest externally funded canonical GMV — daily Augu · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
 2. `tenstorrent/tt-metal#62571` — [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · score 6 (uncontested, $750, fresh)
-3. `lizTheDeveloper/privacy-the-game#404` — [find opt-out] Riv Data Corp: find the official opt-out route · score 2 (1 rival, fresh)
+3. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
