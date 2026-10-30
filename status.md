@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T09:03:35.717Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T09:33:35.777Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `Scottcjn/rustchain-bounties#504` — [BOUNTY] Prometheus Metrics Exporter + Grafana Dashboard (27 RTC) · updated 2026-10-30
+- `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-30
+- NEW `Scottcjn/rustchain-bounties#67` — [BOUNTY] 🔴 Red Team: Payment Widget XSS & Injection (75 RTC) · updated 2026-10-30
+- NEW `SecureBananaLabs/bug-bounty#30` — Benchmark APIs with p50, p95, p99 latency, RPS, error rate and TTFB · updated 2026-10-30
+- NEW `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-10-30
+- `Scottcjn/rustchain-bounties#2797` — [BOTTUBE: 3 RTC] Make a Video Response to an Existing Video · updated 2026-10-30
+- NEW `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-30
 - `Scottcjn/rustchain-bounties#2890` — [BOUNTY: 67 RTC] AgentFolio ↔ Beacon Integration Spec + Reference Implementation · updated 2026-10-30
-- NEW `stride3d/stride#24` — Feature: Decals · updated 2026-10-30
-- NEW `Scottcjn/rustchain-bounties#2797` — [BOTTUBE: 3 RTC] Make a Video Response to an Existing Video · updated 2026-10-30
-- `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-30
-- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-30
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-30
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-30
-- `iv-org/invidious#5740` — [Bug] Videos with multiple authors (collaboration) do not show published date an · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · score 4 (1 rival, $3,000, fresh)
-2. `iv-org/invidious#5740` — [Bug] Videos with multiple authors (collaboration) do not show published date an · score 4 (uncontested, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · score 4 (2 rivals, $1,500, fresh)
+1. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
+2. `stride3d/stride#24` — Feature: Decals · score 2 (2 rivals, fresh)
+3. `Scottcjn/rustchain-bounties#2797` — [BOTTUBE: 3 RTC] Make a Video Response to an Existing Video · score 0 (6 rivals — crowded, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
