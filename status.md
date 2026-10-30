@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T15:03:36.298Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T15:33:36.178Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `XHToken/Spark-X2.6#16` — HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛 · updated 2026-10-30
-- NEW `Scottcjn/rustchain-bounties#1115` — [BOUNTY: 3 RTC] Starstruck 128 Stars Celebration Graphic · updated 2026-10-30
-- NEW `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-10-30
-- NEW `hanzoai/ui#257` — List only the hooks @hanzo/react exports; delete 9 empty hook files · updated 2026-10-30
-- NEW `hanzo-js/sdk#1` — Add the LICENSE file the README links to · updated 2026-10-30
-- NEW `relayhop/sn-monetization-runtime#1333` — [radar] SN open bounty 2026-10-25T21:40 · updated 2026-10-30
-- `lizTheDeveloper/privacy-the-game#413` — [find opt-out] Vintel AI: find the official opt-out route · updated 2026-10-30
-- NEW `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-30
+- `lizTheDeveloper/privacy-the-game#404` — [find opt-out] Riv Data Corp: find the official opt-out route · updated 2026-10-30
+- NEW `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-30
+- `tenstorrent/tt-metal#62571` — [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-10-30
+- NEW `NSPG13/agent-bounties#1222` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
+- NEW `NSPG13/agent-bounties#1221` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
+- NEW `NSPG13/agent-bounties#1220` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
+- NEW `NSPG13/agent-bounties#1219` — Generate qualifying GMV for Highest externally funded canonical GMV — daily Augu · updated 2026-10-30
+- NEW `NSPG13/agent-bounties#1218` — Generate qualifying GMV for Highest externally funded canonical GMV — August 24  · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `relayhop/sn-monetization-runtime#1333` — [radar] SN open bounty 2026-10-25T21:40 · score 4 (uncontested, fresh)
-2. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 4 (1 rival, skill fit, fresh)
-3. `Scottcjn/rustchain-bounties#12` — [BOUNTY] Run a Full Attestation Node · score 4 (2 rivals, skill fit, fresh)
+1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
+2. `tenstorrent/tt-metal#62571` — [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · score 6 (uncontested, $750, fresh)
+3. `lizTheDeveloper/privacy-the-game#404` — [find opt-out] Riv Data Corp: find the official opt-out route · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
