@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-29T23:33:35.888Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T00:03:35.706Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1285` — [BOUNTY] Suggestion #1258 · updated 2026-10-29
+- `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-10-29
+- NEW `MicahHeneveld/bros-analysis#5` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6] · updated 2026-10-29
+- `INDIGOAZUL/la-tanda-web#86` — ⚡ Performance Audit + Lighthouse Optimization — 150 LTD Bounty · updated 2026-10-29
+- NEW `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-29
+- NEW `Dasharo/dasharo-issues#1182` — Separate builds for 7010 and 9010, SFF, MT/DT · updated 2026-10-29
+- `iv-org/invidious#5740` — [Bug] Videos with multiple authors (collaboration) do not show published date an · updated 2026-10-29
 - `hanzoai/mcp#14` — Make skipFor ci/headless work and count skipped tests in test-suite · updated 2026-10-29
-- NEW `iv-org/invidious#5740` — [Bug] Videos with multiple authors (collaboration) do not show published date an · updated 2026-10-29
-- NEW `MicahHeneveld/bros-analysis#4` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6] · updated 2026-10-29
-- `Scottcjn/rustchain-bounties#23` — [BOUNTY] Port RustChain Miner to 68K Macintosh · updated 2026-10-29
-- `Ikalus1988/MisakaNet#1258` — Start here: give your coding agent a failure memory (MCP, 60 seconds) · updated 2026-10-29
-- `Scottcjn/rustchain-bounties#422` — [BOUNTY] Register Your Agent on Beacon Atlas - 3 RTC · updated 2026-10-29
-- `zhangjiayang6835-cyber/bounty-plaza#4143` — [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Reque · updated 2026-10-29
-- `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `hanzoai/mcp#14` — Make skipFor ci/headless work and count skipped tests in test-suite · score 4 (2 rivals, skill fit, fresh)
+1. `MicahHeneveld/bros-analysis#5` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6] · score 4 (uncontested, fresh)
 2. `iv-org/invidious#5740` — [Bug] Videos with multiple authors (collaboration) do not show published date an · score 4 (uncontested, fresh)
-3. `MicahHeneveld/bros-analysis#4` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [4/6] · score 4 (uncontested, fresh)
+3. `hanzoai/mcp#14` — Make skipFor ci/headless work and count skipped tests in test-suite · score 4 (2 rivals, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
