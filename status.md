@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T00:18:01.089Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T01:33:35.952Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `SPLURT-Station/S.P.L.U.R.T-tg#1285` — [BOUNTY] Suggestion #1258 · updated 2026-10-30
-- `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-10-30
-- `MicahHeneveld/bros-analysis#5` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6] · updated 2026-10-29
-- `INDIGOAZUL/la-tanda-web#86` — ⚡ Performance Audit + Lighthouse Optimization — 150 LTD Bounty · updated 2026-10-29
-- `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-29
-- `Dasharo/dasharo-issues#1182` — Separate builds for 7010 and 9010, SFF, MT/DT · updated 2026-10-29
-- `iv-org/invidious#5740` — [Bug] Videos with multiple authors (collaboration) do not show published date an · updated 2026-10-29
-- `hanzoai/mcp#14` — Make skipFor ci/headless work and count skipped tests in test-suite · updated 2026-10-29
+- NEW `Reqrefusion/FreeCAD-Documentation-Project#30` — Adding missing information to Release_notes_26.3 page. · updated 2026-10-30
+- NEW `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-30
+- `INDIGOAZUL/la-tanda-web#89` — 🔭 Chain Explorer Enhancements — 200 LTD Bounty · updated 2026-10-30
+- NEW `aadarwal/swarmstatus-bounties#54` — Independently date 13 K4be bodies with December 2025–March 2026 creation asserti · updated 2026-10-30
+- NEW `Reqrefusion/FreeCAD-Documentation-Project#331` — External Add-on Documentation · updated 2026-10-30
+- `Scottcjn/rustchain-bounties#2156` — [BOUNTY: 10 RTC] BoTTube — Video Page Customization · updated 2026-10-30
+- NEW `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · updated 2026-10-30
+- NEW `mergeos-bounties/PoseGuide#52` — [25 MRG] Pose pack: desk_standup_stretch (office ergonomics) · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `MicahHeneveld/bros-analysis#5` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6] · score 4 (uncontested, fresh)
-2. `iv-org/invidious#5740` — [Bug] Videos with multiple authors (collaboration) do not show published date an · score 4 (uncontested, fresh)
-3. `hanzoai/mcp#14` — Make skipFor ci/headless work and count skipped tests in test-suite · score 4 (2 rivals, skill fit, fresh)
+1. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
+2. `tenstorrent/tt-metal#59732` — [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th · $3,000 · score 4 (2 rivals, $3,000, fresh)
+3. `Reqrefusion/FreeCAD-Documentation-Project#30` — Adding missing information to Release_notes_26.3 page. · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
