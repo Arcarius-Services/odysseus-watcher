@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T04:33:35.768Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T05:03:35.707Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-30
+- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-10-30
+- `Scottcjn/rustchain-bounties#36` — [BOUNTY] RustChain Python SDK - pip-installable API Client · updated 2026-10-30
 - `daydreamsai/agent-bounties#8` — Perps Funding Pulse · updated 2026-10-30
 - `riteshbonthalakoti/HELPDESK.AI#4116` — bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Ba · updated 2026-10-30
-- `Scottcjn/rustchain-bounties#36` — [BOUNTY] RustChain Python SDK - pip-installable API Client · updated 2026-10-30
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-30
+- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-30
 - `Scottcjn/rustchain-bounties#12444` — [BOUNTY: 3 RTC] Proof of Antiquity vs Proof of Storage (Filecoin/Chia/Arweave) · updated 2026-10-30
 - `Spectral-Finance/lux#80` — SushiSwap Integration and Cross-Chain Bridge Support $750 · $750 · updated 2026-10-30
-- `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-10-30
-- `Element-Ventures-Canada-Ltd/openchokepoint#18` — [Slice C] Red-team the hard boundaries: try to get technical data past the valid · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
