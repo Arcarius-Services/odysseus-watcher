@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T15:33:36.178Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T16:03:35.798Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -15,13 +15,13 @@ _none open right now_
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `lizTheDeveloper/privacy-the-game#404` — [find opt-out] Riv Data Corp: find the official opt-out route · updated 2026-10-30
-- NEW `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-30
+- `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-10-30
+- NEW `lizTheDeveloper/privacy-the-game#397` — [find opt-out] lempire: find the official opt-out route · updated 2026-10-30
 - `tenstorrent/tt-metal#62571` — [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-10-30
-- NEW `NSPG13/agent-bounties#1222` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
-- NEW `NSPG13/agent-bounties#1221` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
-- NEW `NSPG13/agent-bounties#1220` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
-- NEW `NSPG13/agent-bounties#1219` — Generate qualifying GMV for Highest externally funded canonical GMV — daily Augu · updated 2026-10-30
-- NEW `NSPG13/agent-bounties#1218` — Generate qualifying GMV for Highest externally funded canonical GMV — August 24  · updated 2026-10-30
+- `NSPG13/agent-bounties#1222` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
+- `NSPG13/agent-bounties#1221` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
+- `NSPG13/agent-bounties#1220` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-30
+- `NSPG13/agent-bounties#1219` — Generate qualifying GMV for Highest externally funded canonical GMV — daily Augu · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
