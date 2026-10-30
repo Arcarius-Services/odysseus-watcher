@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T02:03:35.798Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T02:33:35.753Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Spectral-Finance/lux#100` — Cargo Package Management Integration $300 · $300 · updated 2026-10-30
+- `Spectral-Finance/lux#100` — Cargo Package Management Integration $300 · $300 · updated 2026-10-30
 - `Spectral-Finance/lux#80` — SushiSwap Integration and Cross-Chain Bridge Support $750 · $750 · updated 2026-10-30
-- NEW `lizTheDeveloper/privacy-the-game#400` — [find opt-out] NATIONAL STUDENT CLEARINGHOUSE: find the official opt-out route · updated 2026-10-30
-- NEW `lizTheDeveloper/privacy-the-game#401` — [find opt-out] Nielsen Marketing Cloud: find the official opt-out route · updated 2026-10-30
-- NEW `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · updated 2026-10-30
-- NEW `lizTheDeveloper/privacy-the-game#408` — [find opt-out] Safety Holdings Inc.: find the official opt-out route · updated 2026-10-30
-- NEW `lizTheDeveloper/privacy-the-game#409` — [find opt-out] SageStream LLC: find the official opt-out route · updated 2026-10-30
-- NEW `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · updated 2026-10-30
+- `lizTheDeveloper/privacy-the-game#400` — [find opt-out] NATIONAL STUDENT CLEARINGHOUSE: find the official opt-out route · updated 2026-10-30
+- `lizTheDeveloper/privacy-the-game#401` — [find opt-out] Nielsen Marketing Cloud: find the official opt-out route · updated 2026-10-30
+- `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · updated 2026-10-30
+- `lizTheDeveloper/privacy-the-game#408` — [find opt-out] Safety Holdings Inc.: find the official opt-out route · updated 2026-10-30
+- `lizTheDeveloper/privacy-the-game#409` — [find opt-out] SageStream LLC: find the official opt-out route · updated 2026-10-30
+- `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
