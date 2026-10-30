@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T13:29:49.081Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T15:03:36.298Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Ikalus1988/MisakaNet#4117` — [Bounty] Answer the 3 linked question(s) · updated 2026-10-30
-- `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-10-30
-- `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-10-30
-- NEW `relayhop/sn-monetization-runtime#1335` — [radar] SN open bounty 2026-10-26T00:09 · updated 2026-10-30
-- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-30
-- `FreezingMoon/AncientBeast#1445` — Disturbing Sound sprite [bounty: 31 XTR] · updated 2026-10-30
-- `alfrexo95/bounty-bot#64` — 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-H · updated 2026-10-30
-- `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-10-30
+- NEW `XHToken/Spark-X2.6#16` — HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛 · updated 2026-10-30
+- NEW `Scottcjn/rustchain-bounties#1115` — [BOUNTY: 3 RTC] Starstruck 128 Stars Celebration Graphic · updated 2026-10-30
+- NEW `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-10-30
+- NEW `hanzoai/ui#257` — List only the hooks @hanzo/react exports; delete 9 empty hook files · updated 2026-10-30
+- NEW `hanzo-js/sdk#1` — Add the LICENSE file the README links to · updated 2026-10-30
+- NEW `relayhop/sn-monetization-runtime#1333` — [radar] SN open bounty 2026-10-25T21:40 · updated 2026-10-30
+- `lizTheDeveloper/privacy-the-game#413` — [find opt-out] Vintel AI: find the official opt-out route · updated 2026-10-30
+- NEW `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `alfrexo95/bounty-bot#64` — 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-H · score 6 (uncontested, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#4117` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
-3. `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · score 4 (2 rivals, $900, fresh)
+1. `relayhop/sn-monetization-runtime#1333` — [radar] SN open bounty 2026-10-25T21:40 · score 4 (uncontested, fresh)
+2. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 4 (1 rival, skill fit, fresh)
+3. `Scottcjn/rustchain-bounties#12` — [BOUNTY] Run a Full Attestation Node · score 4 (2 rivals, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
