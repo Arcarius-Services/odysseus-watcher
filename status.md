@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T20:33:35.877Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T21:03:36.149Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · updated 2026-10-30
+- NEW `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · updated 2026-10-30
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-30
+- NEW `alfrexo95/bounty-bot#53` — 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author · $250 · updated 2026-10-30
+- NEW `FreezingMoon/AncientBeast#1772` — showcase ability targeting area better [bounty: 16 XTR] · updated 2026-10-30
+- `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · updated 2026-10-30
 - `zhangjiayang6835-cyber/bounty-plaza#4187` — [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-10-30
-- NEW `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-10-30
+- `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-10-30
 - `Ikalus1988/MisakaNet#4134` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-30
-- `MicahHeneveld/bros-analysis#5` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6] · updated 2026-10-30
-- `alfrexo95/bounty-bot#67` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-30
-- NEW `NSPG13/agent-bounties#651` — [META · unavailable] Bounty-distribution standing-meta bounty · updated 2026-10-30
-- NEW `NSPG13/agent-bounties#647` — [META · unavailable] API reliability standing-meta bounty · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · score 6 (uncontested, $1,000, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4187` — [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · score 4 (1 rival, $750, fresh)
-3. `Ikalus1988/MisakaNet#4134` — [Bounty] Answer the 2 linked question(s) · score 4 (uncontested, fresh)
+1. `alfrexo95/bounty-bot#53` — 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author · $250 · score 6 (uncontested, $250, fresh)
+2. `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · score 6 (uncontested, $1,000, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#4187` — [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · score 4 (1 rival, $750, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
