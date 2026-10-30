@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T02:33:35.753Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T03:03:35.753Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `riteshbonthalakoti/HELPDESK.AI#4116` — bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Ba · updated 2026-10-30
+- NEW `Scottcjn/rustchain-bounties#12444` — [BOUNTY: 3 RTC] Proof of Antiquity vs Proof of Storage (Filecoin/Chia/Arweave) · updated 2026-10-30
+- `Spectral-Finance/lux#82` — Hyperliquid Integration and Perpetual Trading $900 · $900 · updated 2026-10-30
+- `lizTheDeveloper/privacy-the-game#412` — [find opt-out] United One Resources, Inc.: find the official opt-out route · updated 2026-10-30
+- `lizTheDeveloper/privacy-the-game#408` — [find opt-out] Safety Holdings Inc.: find the official opt-out route · updated 2026-10-30
+- `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-10-30
 - `Spectral-Finance/lux#100` — Cargo Package Management Integration $300 · $300 · updated 2026-10-30
 - `Spectral-Finance/lux#80` — SushiSwap Integration and Cross-Chain Bridge Support $750 · $750 · updated 2026-10-30
-- `lizTheDeveloper/privacy-the-game#400` — [find opt-out] NATIONAL STUDENT CLEARINGHOUSE: find the official opt-out route · updated 2026-10-30
-- `lizTheDeveloper/privacy-the-game#401` — [find opt-out] Nielsen Marketing Cloud: find the official opt-out route · updated 2026-10-30
-- `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · updated 2026-10-30
-- `lizTheDeveloper/privacy-the-game#408` — [find opt-out] Safety Holdings Inc.: find the official opt-out route · updated 2026-10-30
-- `lizTheDeveloper/privacy-the-game#409` — [find opt-out] SageStream LLC: find the official opt-out route · updated 2026-10-30
-- `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `lizTheDeveloper/privacy-the-game#400` — [find opt-out] NATIONAL STUDENT CLEARINGHOUSE: find the official opt-out route · score 4 (uncontested, fresh)
-2. `lizTheDeveloper/privacy-the-game#401` — [find opt-out] Nielsen Marketing Cloud: find the official opt-out route · score 4 (uncontested, fresh)
-3. `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · score 4 (uncontested, fresh)
+1. `riteshbonthalakoti/HELPDESK.AI#4116` — bounty: [level:critical] Predictive SLA Breach Forecasting & Dynamic Capacity Ba · score 4 (uncontested, fresh)
+2. `hanzoai/agents#8` — Make the agent counts in README.md match the files · score 4 (2 rivals, skill fit, fresh)
+3. `tenstorrent/tt-metal#59732` — [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th · $3,000 · score 4 (2 rivals, $3,000, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
