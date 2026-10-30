@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T12:33:36.286Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T13:03:35.724Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-10-30
-- NEW `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-10-30
-- `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-10-30
-- NEW `alfrexo95/bounty-bot#37` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-30
-- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-30
-- NEW `hanzo-go/lz4#1` — Point the README install steps and badges at hanzo.ai/lz4/v4 · updated 2026-10-30
+- `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-10-30
+- `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-10-30
 - `FreezingMoon/AncientBeast#1445` — Disturbing Sound sprite [bounty: 31 XTR] · updated 2026-10-30
-- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-30
+- NEW `alfrexo95/bounty-bot#64` — 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-H · updated 2026-10-30
+- `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-10-30
+- `alfrexo95/bounty-bot#37` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-30
+- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-30
+- `hanzo-go/lz4#1` — Point the README install steps and badges at hanzo.ai/lz4/v4 · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · score 4 (2 rivals, $900, fresh)
-2. `alfrexo95/bounty-bot#37` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · score 4 (uncontested, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · score 4 (1 rival, $3,000, fresh)
+1. `alfrexo95/bounty-bot#64` — 💰 Bounty Seguro (Ver enlace): 🪙 [Web3] bounty: [level:critical] Agentic Self-H · score 6 (uncontested, skill fit, fresh)
+2. `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · score 4 (2 rivals, $900, fresh)
+3. `alfrexo95/bounty-bot#37` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
