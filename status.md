@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T00:03:35.706Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T00:18:01.089Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,12 +14,12 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1285` — [BOUNTY] Suggestion #1258 · updated 2026-10-29
-- `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-10-29
-- NEW `MicahHeneveld/bros-analysis#5` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6] · updated 2026-10-29
+- `SPLURT-Station/S.P.L.U.R.T-tg#1285` — [BOUNTY] Suggestion #1258 · updated 2026-10-30
+- `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-10-30
+- `MicahHeneveld/bros-analysis#5` — Bounty: ultrank_11_20 — 250 frames (label from scratch) [5/6] · updated 2026-10-29
 - `INDIGOAZUL/la-tanda-web#86` — ⚡ Performance Audit + Lighthouse Optimization — 150 LTD Bounty · updated 2026-10-29
-- NEW `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-29
-- NEW `Dasharo/dasharo-issues#1182` — Separate builds for 7010 and 9010, SFF, MT/DT · updated 2026-10-29
+- `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-29
+- `Dasharo/dasharo-issues#1182` — Separate builds for 7010 and 9010, SFF, MT/DT · updated 2026-10-29
 - `iv-org/invidious#5740` — [Bug] Videos with multiple authors (collaboration) do not show published date an · updated 2026-10-29
 - `hanzoai/mcp#14` — Make skipFor ci/headless work and count skipped tests in test-suite · updated 2026-10-29
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
