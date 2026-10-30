@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-30T22:03:35.709Z (UTC), on GitHub Actions._
+_Last run: 2026-10-30T22:33:35.773Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -15,13 +15,13 @@ _none open right now_
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
 - `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · updated 2026-10-30
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-30
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-30
-- NEW `WholeTroutMedia/oss-verification-sandbox#2` — Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts  · updated 2026-10-30
-- `alfrexo95/bounty-bot#53` — 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author · $250 · updated 2026-10-30
+- NEW `alfrexo95/bounty-bot#68` — 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred · $750 · updated 2026-10-30
 - `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-30
-- `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-10-30
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-10-30
+- `Ikalus1988/MisakaNet#4134` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-30
+- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-30
+- `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-10-30
+- `WholeTroutMedia/oss-verification-sandbox#2` — Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer preempts  · updated 2026-10-30
+- `alfrexo95/bounty-bot#53` — 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author · $250 · updated 2026-10-30
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `alfrexo95/bounty-bot#53` — 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author · $250 · score 6 (uncontested, $250, fresh)
-2. `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · score 6 (uncontested, $1,000, fresh)
+1. `alfrexo95/bounty-bot#68` — 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred · $750 · score 6 (uncontested, $750, fresh)
+2. `alfrexo95/bounty-bot#53` — 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author · $250 · score 6 (uncontested, $250, fresh)
 3. `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · score 4 (1 rival, $3,000, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
