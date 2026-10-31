@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-31T08:50:46.831Z (UTC), on GitHub Actions._
+_Last run: 2026-10-31T10:03:35.980Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -17,11 +17,11 @@ _none open right now_
 - `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · updated 2026-10-31
 - `lizTheDeveloper/privacy-the-game#419` — [opt-out check] RocketReach: find a no-account opt-out route · updated 2026-10-31
 - `NSPG13/agent-bounties#686` — [DIRECT] Add a concise direct-bounty evidence checklist · updated 2026-10-31
+- NEW `Nexussyn/ai-growth-engine#4` — [AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion · updated 2026-10-31
+- NEW `aadarwal/swarmstatus-bounties#11` — Find the GDDY→TWLO same-date retrieval pair on another surface · updated 2026-10-31
+- NEW `Scottcjn/rustchain-bounties#2890` — [BOUNTY: 67 RTC] AgentFolio ↔ Beacon Integration Spec + Reference Implementation · updated 2026-10-31
 - `relayhop/sn-monetization-runtime#1335` — [radar] SN open bounty 2026-10-26T00:09 · updated 2026-10-31
 - `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-10-31
-- `lizTheDeveloper/privacy-the-game#404` — [find opt-out] Riv Data Corp: find the official opt-out route · updated 2026-10-31
-- `Ikalus1988/MisakaNet#4187` — [Good first issue · Nov 2026] Cover an environment nobody has — one real failure · updated 2026-10-31
-- `Ikalus1988/MisakaNet#3727` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-31
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · score 4 (2 rivals, skill fit, fresh)
 2. `lizTheDeveloper/privacy-the-game#419` — [opt-out check] RocketReach: find a no-account opt-out route · score 4 (uncontested, fresh)
-3. `relayhop/sn-monetization-runtime#1335` — [radar] SN open bounty 2026-10-26T00:09 · score 4 (uncontested, fresh)
+3. `aadarwal/swarmstatus-bounties#11` — Find the GDDY→TWLO same-date retrieval pair on another surface · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
