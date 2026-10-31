@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-31T15:16:25.635Z (UTC), on GitHub Actions._
+_Last run: 2026-10-31T16:33:36.110Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `lizTheDeveloper/privacy-the-game#403` — [find opt-out] Quality Planning Corporation: find the official opt-out route · updated 2026-10-31
-- NEW `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · updated 2026-10-31
-- NEW `lizTheDeveloper/privacy-the-game#401` — [find opt-out] Nielsen Marketing Cloud: find the official opt-out route · updated 2026-10-31
-- `relayhop/sn-monetization-runtime#1333` — [radar] SN open bounty 2026-10-25T21:40 · updated 2026-10-31
-- `linuxboot/heads#2003` — Experiences with NovaCustom dGPU variants · updated 2026-10-31
-- `aashu91/robinhood-evm-mcp#2` — 🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yie · updated 2026-10-31
-- `Arrow-air/website#217` — Design the purchase flow on top of the store prototype · updated 2026-10-31
-- `lizTheDeveloper/privacy-the-game#405` — [find opt-out] Roq.ad GmbH: find the official opt-out route · updated 2026-10-31
+- NEW `Scottcjn/rustchain-bounties#1115` — [BOUNTY: 3 RTC] Starstruck 128 Stars Celebration Graphic · updated 2026-10-31
+- NEW `lizTheDeveloper/privacy-the-game#417` — [opt-out check] American Express: marketing opt-out page says "currently not ava · updated 2026-10-31
+- NEW `FreezingMoon/AncientBeast#2250` — hexagon coordinate view tweaks [bounty: 7 XTR] · updated 2026-10-31
+- `lizTheDeveloper/privacy-the-game#410` — [find opt-out] SalesTech, LLC: find the official opt-out route · updated 2026-10-31
+- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-31
+- `Scottcjn/rustchain-bounties#71` — [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC (133 RTC Pool) · updated 2026-10-31
+- NEW `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-10-31
+- NEW `lizTheDeveloper/privacy-the-game#406` — [find opt-out] RP On-Site LLC: find the official opt-out route · updated 2026-10-31
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · score 4 (uncontested, fresh)
-2. `lizTheDeveloper/privacy-the-game#401` — [find opt-out] Nielsen Marketing Cloud: find the official opt-out route · score 4 (uncontested, fresh)
-3. `relayhop/sn-monetization-runtime#1333` — [radar] SN open bounty 2026-10-25T21:40 · score 4 (uncontested, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · score 4 (1 rival, $3,000, fresh)
+2. `lizTheDeveloper/privacy-the-game#406` — [find opt-out] RP On-Site LLC: find the official opt-out route · score 4 (uncontested, fresh)
+3. `lizTheDeveloper/privacy-the-game#405` — [find opt-out] Roq.ad GmbH: find the official opt-out route · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
