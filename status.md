@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-31T22:03:36.142Z (UTC), on GitHub Actions._
+_Last run: 2026-10-31T22:33:35.716Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,17 +14,17 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `hanzo-js/sdk#1` — Add the LICENSE file the README links to · updated 2026-10-31
-- NEW `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-31
-- NEW `bolivian-peru/os-moda#4` — 🏆 BOUNTY (1 SOL): Film "I Gave AI Root Access — Here's Every Single Thing It Di · updated 2026-10-31
-- `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · updated 2026-10-31
-- `SimsChad12/go-redis#1` — 🎯 Fix State Inconsistency in `Pipeline.Exec()` Upon Context Cancellation · updated 2026-10-31
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-10-31
+- NEW `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-31
+- NEW `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-31
 - `Nexussyn/ai-growth-platform#4` — 🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout · updated 2026-10-31
-- `jomaaabbe78-spec/bookningsapp#1` — [TEST BOUNTY] Fix typo in README · updated 2026-10-31
+- `hanzo-js/sdk#1` — Add the LICENSE file the README links to · updated 2026-10-31
+- NEW `amiller/bounty-arcade#3` — [board] Work-in-progress limit on Doing · updated 2026-10-31
+- NEW `NSPG13/agent-bounties#590` — [META · unavailable] Agent-discovery standing-meta bounty · updated 2026-10-31
+- `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-31
+- `bolivian-peru/os-moda#4` — 🏆 BOUNTY (1 SOL): Film "I Gave AI Root Access — Here's Every Single Thing It Di · updated 2026-10-31
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 4 (1 rival, skill fit, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `jomaaabbe78-spec/bookningsapp#1` — [TEST BOUNTY] Fix typo in README · score 4 (2 rivals, skill fit, fresh)
+2. `amiller/bounty-arcade#3` — [board] Work-in-progress limit on Doing · score 2 (1 rival, fresh)
+3. `bolivian-peru/os-moda#4` — 🏆 BOUNTY (1 SOL): Film "I Gave AI Root Access — Here's Every Single Thing It Di · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
