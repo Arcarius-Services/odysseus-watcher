@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-31T22:33:35.716Z (UTC), on GitHub Actions._
+_Last run: 2026-10-31T22:47:46.112Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-31
-- NEW `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-31
+- NEW `daydreamsai/agent-bounties#5` — Approval Risk Auditor · updated 2026-10-31
+- NEW `capofficial/client#19` — Show available margin in Add/Remove margin modal · updated 2026-10-31
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-10-31
+- NEW `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-10-31
+- `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-10-31
+- `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-10-31
 - `Nexussyn/ai-growth-platform#4` — 🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout · updated 2026-10-31
 - `hanzo-js/sdk#1` — Add the LICENSE file the README links to · updated 2026-10-31
-- NEW `amiller/bounty-arcade#3` — [board] Work-in-progress limit on Doing · updated 2026-10-31
-- NEW `NSPG13/agent-bounties#590` — [META · unavailable] Agent-discovery standing-meta bounty · updated 2026-10-31
-- `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-10-31
-- `bolivian-peru/os-moda#4` — 🏆 BOUNTY (1 SOL): Film "I Gave AI Root Access — Here's Every Single Thing It Di · updated 2026-10-31
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 4 (1 rival, skill fit, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · score 2 (5 rivals — crowded, $100, skill fit, fresh)
 2. `amiller/bounty-arcade#3` — [board] Work-in-progress limit on Doing · score 2 (1 rival, fresh)
-3. `bolivian-peru/os-moda#4` — 🏆 BOUNTY (1 SOL): Film "I Gave AI Root Access — Here's Every Single Thing It Di · score 2 (2 rivals, fresh)
+3. `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · score 0 (8 rivals — crowded, $50, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
