@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-31T14:03:35.834Z (UTC), on GitHub Actions._
+_Last run: 2026-10-31T14:33:35.743Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `FreezingMoon/AncientBeast#1445` — Disturbing Sound sprite [bounty: 31 XTR] · updated 2026-10-31
-- `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-10-31
-- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-31
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-10-31
-- `Ikalus1988/MisakaNet#4133` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-31
-- NEW `linuxboot/heads#2003` — Experiences with NovaCustom dGPU variants · updated 2026-10-31
-- NEW `aashu91/robinhood-evm-mcp#2` — 🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yie · updated 2026-10-31
-- NEW `maitebloger111/Apache-Arrow#1` — 🎯 Optimize Partition Pruning and Expression Evaluation for Large Partitioned Pa · updated 2026-10-31
+- NEW `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-10-31
+- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-31
+- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-31
+- `zhangjiayang6835-cyber/bounty-plaza#4187` — [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-10-31
+- NEW `FreezingMoon/AncientBeast#2092` — less distracting HUD when in the background [bounty: 8 XTR] · updated 2026-10-31
+- NEW `FreezingMoon/AncientBeast#2530` — no music on iPhone [bounty: 7 XTR] · updated 2026-10-31
+- NEW `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-10-31
+- NEW `lizTheDeveloper/privacy-the-game#400` — [find opt-out] NATIONAL STUDENT CLEARINGHOUSE: find the official opt-out route · updated 2026-10-31
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `lizTheDeveloper/privacy-the-game#405` — [find opt-out] Roq.ad GmbH: find the official opt-out route · score 4 (uncontested, fresh)
-2. `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · score 2 (5 rivals — crowded, $200, skill fit, fresh)
-3. `Ikalus1988/MisakaNet#4133` — [Bounty] Answer the 2 linked question(s) · score 2 (1 rival, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · score 4 (1 rival, $3,000, fresh)
+2. `FreezingMoon/AncientBeast#2092` — less distracting HUD when in the background [bounty: 8 XTR] · score 4 (uncontested, fresh)
+3. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
