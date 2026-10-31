@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-31T02:17:21.124Z (UTC), on GitHub Actions._
+_Last run: 2026-10-31T03:33:36.092Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-31
-- `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · updated 2026-10-31
 - `Ikalus1988/MisakaNet#3727` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-31
+- `Ikalus1988/MisakaNet#4187` — [Good first issue · Nov 2026] Cover an environment nobody has — one real failure · updated 2026-10-31
+- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-10-31
+- `NSPG13/agent-bounties#1222` — Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical G · updated 2026-10-31
+- `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · updated 2026-10-31
 - `TauCetiStation/TauCetiClassic#14911` — Mob crawl on table h vfix · updated 2026-10-31
 - `TauCetiStation/TauCetiClassic#14912` — Фикс драки из под стола · updated 2026-10-31
 - `alfrexo95/bounty-bot#37` — 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro ( · updated 2026-10-31
-- `aadarwal/swarmstatus-bounties#54` — Independently date 13 K4be bodies with December 2025–March 2026 creation asserti · updated 2026-10-31
-- `Scottcjn/rustchain-bounties#67` — [BOUNTY] 🔴 Red Team: Payment Widget XSS & Injection (75 RTC) · updated 2026-10-31
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
