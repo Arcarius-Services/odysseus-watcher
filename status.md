@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-31T21:03:36.448Z (UTC), on GitHub Actions._
+_Last run: 2026-10-31T21:33:35.892Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `theselfish/SlopStation13#3` — [BOUNTY][$67] Add the Tung Tung Tung Sahur antagonist. · $67 · updated 2026-10-31
-- NEW `hanzo-js/sdk#1` — Add the LICENSE file the README links to · updated 2026-10-31
-- NEW `aashu91/robinhood-evm-mcp#1` — 🏆 [Bounty: 50,000 $ROBIN_MCP] Integrate Pyth / Chainlink Oracles for Real-Time  · updated 2026-10-31
-- NEW `Spectral-Finance/lux#76` — Gas Optimization and Transaction Management $1,250 · $1,250 · updated 2026-10-31
-- NEW `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-10-31
-- NEW `ditto-assistant/ditto-subnet#2943` — Add bounty operator controls and gate funded activation · updated 2026-10-31
-- `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-10-31
-- NEW `Ikalus1988/MisakaNet#4187` — [Good first issue · Nov 2026] Cover an environment nobody has — one real failure · updated 2026-10-31
+- NEW `alfrexo95/bounty-bot#72` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount · $750 · updated 2026-10-31
+- `FreezingMoon/AncientBeast#1445` — Disturbing Sound sprite [bounty: 31 XTR] · updated 2026-10-31
+- `SimsChad12/go-redis#1` — 🎯 Fix State Inconsistency in `Pipeline.Exec()` Upon Context Cancellation · updated 2026-10-31
+- `Spectral-Finance/lux#81` — Curve Finance Integration and Stablecoin Management $900 · $900 · updated 2026-10-31
+- `Scottcjn/rustchain-bounties#2161` — [BOUNTY: 17 RTC] BoTTube — Creator Collaboration Features · updated 2026-10-31
+- NEW `Scottcjn/rustchain-bounties#36` — [BOUNTY] RustChain Python SDK - pip-installable API Client · updated 2026-10-31
+- `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · updated 2026-10-31
+- NEW `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-10-31
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -35,14 +35,14 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
 - [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
-- [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
+- NEW [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 - [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#3730` — [Bounty] Answer the 2 linked question(s) · score 4 (uncontested, fresh)
-3. `Spectral-Finance/lux#76` — Gas Optimization and Transaction Management $1,250 · $1,250 · score 2 (6 rivals — crowded, $1,250, skill fit, fresh)
+1. `alfrexo95/bounty-bot#72` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount · $750 · score 4 (1 rival, $750, fresh)
+2. `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · score 4 (2 rivals, skill fit, fresh)
+3. `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · score 4 (2 rivals, $900, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
