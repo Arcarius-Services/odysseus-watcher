@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-31T15:03:35.709Z (UTC), on GitHub Actions._
+_Last run: 2026-10-31T15:16:25.635Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1333` — [radar] SN open bounty 2026-10-25T21:40 · updated 2026-10-31
+- NEW `lizTheDeveloper/privacy-the-game#403` — [find opt-out] Quality Planning Corporation: find the official opt-out route · updated 2026-10-31
+- NEW `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · updated 2026-10-31
+- NEW `lizTheDeveloper/privacy-the-game#401` — [find opt-out] Nielsen Marketing Cloud: find the official opt-out route · updated 2026-10-31
+- `relayhop/sn-monetization-runtime#1333` — [radar] SN open bounty 2026-10-25T21:40 · updated 2026-10-31
 - `linuxboot/heads#2003` — Experiences with NovaCustom dGPU variants · updated 2026-10-31
 - `aashu91/robinhood-evm-mcp#2` — 🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yie · updated 2026-10-31
 - `Arrow-air/website#217` — Design the purchase flow on top of the store prototype · updated 2026-10-31
 - `lizTheDeveloper/privacy-the-game#405` — [find opt-out] Roq.ad GmbH: find the official opt-out route · updated 2026-10-31
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4190` — [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty  · $750 · updated 2026-10-31
-- `XHToken/Spark-X2.6#16` — HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛 · updated 2026-10-31
-- `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-10-31
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `relayhop/sn-monetization-runtime#1333` — [radar] SN open bounty 2026-10-25T21:40 · score 4 (uncontested, fresh)
-2. `lizTheDeveloper/privacy-the-game#405` — [find opt-out] Roq.ad GmbH: find the official opt-out route · score 4 (uncontested, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#4190` — [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty  · $750 · score 4 (1 rival, $750, fresh)
+1. `lizTheDeveloper/privacy-the-game#402` — [find opt-out] Partners Credit and Verification Solutions: find the official opt · score 4 (uncontested, fresh)
+2. `lizTheDeveloper/privacy-the-game#401` — [find opt-out] Nielsen Marketing Cloud: find the official opt-out route · score 4 (uncontested, fresh)
+3. `relayhop/sn-monetization-runtime#1333` — [radar] SN open bounty 2026-10-25T21:40 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
