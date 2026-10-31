@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-10-31T13:03:35.697Z (UTC), on GitHub Actions._
+_Last run: 2026-10-31T13:33:35.873Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-10-31
-- NEW `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-10-31
-- `Ikalus1988/MisakaNet#4134` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-31
-- NEW `Ikalus1988/MisakaNet#4133` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-31
-- NEW `Ikalus1988/MisakaNet#4132` — [Bounty] Answer the 2 linked question(s) · updated 2026-10-31
-- NEW `tenstorrent/tt-metal#59732` — [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random th · $3,000 · updated 2026-10-31
-- `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-10-31
-- `Scottcjn/rustchain-bounties#71` — [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC (133 RTC Pool) · updated 2026-10-31
+- NEW `hanzoai/sqlite#3` — Fix README: it documents sqlite APIs that do not exist · updated 2026-10-31
+- NEW `hanzoai/cli#12` — Rewrite CONTRIBUTING.md for the Rust CLI; it describes a Python app · updated 2026-10-31
+- `hanzoai/mcp#14` — Make skipFor ci/headless work and count skipped tests in test-suite · updated 2026-10-31
+- NEW `Reqrefusion/FreeCAD-Documentation-Project#332` — Maintaining Macros · updated 2026-10-31
+- `hanzoai/sqlite#4` — Add tests for the Option constructors and DB.Encrypted · updated 2026-10-31
+- `WholeTroutMedia/oss-verification-sandbox#1` — Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_ · updated 2026-10-31
+- `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · updated 2026-10-31
+- `zhangjiayang6835-cyber/bounty-plaza#4187` — [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-10-31
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · score 6 (2 rivals, $130, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#4133` — [Bounty] Answer the 2 linked question(s) · score 4 (uncontested, fresh)
-3. `Ikalus1988/MisakaNet#4132` — [Bounty] Answer the 2 linked question(s) · score 4 (uncontested, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · score 4 (1 rival, $3,000, fresh)
+2. `hanzoai/sqlite#3` — Fix README: it documents sqlite APIs that do not exist · score 2 (2 rivals, fresh)
+3. `Reqrefusion/FreeCAD-Documentation-Project#332` — Maintaining Macros · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
