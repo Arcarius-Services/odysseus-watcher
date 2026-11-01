@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-01T04:33:35.749Z (UTC), on GitHub Actions._
+_Last run: 2026-11-01T05:03:35.711Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `cxlinux-ai/cx-core#425` — [ARCHITECTURE] Replace Ollama with llama.cpp native C++ integration · updated 2026-11-01
-- `hanzoai/agents#6` — Fix 103 broken relative links in the README · updated 2026-11-01
 - `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · updated 2026-11-01
-- `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · updated 2026-11-01
-- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-11-01
-- `shaiananvari8/zeroeye#1` — [$35 BOUNTY] [TypeScript] Add single-flight token refresh handling · $35 · updated 2026-11-01
-- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-11-01
-- `Sifchain/sifnode#503` — [sifnode] $1000 bounty for implementing Azure AKS support for sifnode · $1000 · updated 2026-11-01
+- NEW `XHToken/Spark-X2.6#16` — HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛 · updated 2026-11-01
+- `fyne-io/fyne#142` — Add drag and drop support · updated 2026-11-01
+- `Spectral-Finance/lux#80` — SushiSwap Integration and Cross-Chain Bridge Support $750 · $750 · updated 2026-11-01
+- `Reqrefusion/FreeCAD-Documentation-Project#332` — Maintaining Macros · updated 2026-11-01
+- `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-01
+- `illbnm/homelab-stack#8` — [BOUNTY $250] Robustness — 国内网络适配 + 环境鲁棒性 · $250 · updated 2026-11-01
+- `Ikalus1988/MisakaNet#3729` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-01
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,7 +31,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
 - [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
 - [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `Sifchain/sifnode#503` — [sifnode] $1000 bounty for implementing Azure AKS support for sifnode · $1000 · score 6 (2 rivals, $1000, skill fit, fresh)
-3. `cxlinux-ai/cx-core#425` — [ARCHITECTURE] Replace Ollama with llama.cpp native C++ integration · score 2 (2 rivals, fresh)
+2. `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
+3. `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
