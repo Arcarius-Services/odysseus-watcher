@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-01T13:33:35.821Z (UTC), on GitHub Actions._
+_Last run: 2026-11-01T14:03:35.678Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#423` — [BOUNTY] Refer a Friend Who Completes a Bounty - 2 RTC per referral (Pool: 100 R · updated 2026-11-01
-- NEW `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · updated 2026-11-01
-- `hanzoai/agents#7` — Fix 9 broken relative links in the examples and Go SDK READMEs · updated 2026-11-01
-- `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-01
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-01
-- NEW `Scottcjn/rustchain-bounties#2271` — [BOUNTY: 2 RTC] Download and test the RustChain miner (dry run) · updated 2026-11-01
-- NEW `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-11-01
-- NEW `Ikalus1988/MisakaNet#4133` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-01
+- NEW `hanzoai/agents#7` — Fix 9 broken relative links in the examples and Go SDK READMEs · updated 2026-11-01
+- `Scottcjn/rustchain-bounties#49` — [BOUNTY] Attestation Data Export Pipeline - CSV/JSON/Parquet · updated 2026-11-01
+- `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-11-01
+- `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-11-01
+- NEW `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-11-01
+- `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-11-01
+- `Scottcjn/rustchain-bounties#11` — [BOUNTY] Vintage Hardware Revival · updated 2026-11-01
+- `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-11-01
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · score 4 (2 rivals, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
-3. `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · score 2 (1 rival, fresh)
+1. `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · score 2 (2 rivals, fresh)
+2. `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · score 2 (2 rivals, fresh)
+3. `Scottcjn/rustchain-bounties#11` — [BOUNTY] Vintage Hardware Revival · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
