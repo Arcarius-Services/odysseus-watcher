@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-01T20:03:35.696Z (UTC), on GitHub Actions._
+_Last run: 2026-11-01T20:27:29.784Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `commaai/openpilot#30950` — Match stock Hyundai button logic · updated 2026-11-01
-- `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · updated 2026-11-01
-- `hanzoai/agents#7` — Fix 9 broken relative links in the examples and Go SDK READMEs · updated 2026-11-01
-- `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-11-01
-- `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-01
-- `Ikalus1988/MisakaNet#4133` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-01
-- `illbnm/homelab-stack#11` — [BOUNTY $130] Database Layer — PostgreSQL + Redis + MariaDB 共享实例 · $130 · updated 2026-11-01
-- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-11-01
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-01
+- `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-01
+- `zhangjiayang6835-cyber/bounty-plaza#4142` — [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer  · updated 2026-11-01
+- `lizTheDeveloper/privacy-the-game#411` — [find opt-out] Statara Solutuions LLC: find the official opt-out route · updated 2026-11-01
+- `cxlinux-ai/cx-core#425` — [ARCHITECTURE] Replace Ollama with llama.cpp native C++ integration · updated 2026-11-01
+- `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · updated 2026-11-01
+- `Scottcjn/rustchain-bounties#423` — [BOUNTY] Refer a Friend Who Completes a Bounty - 2 RTC per referral (Pool: 100 R · updated 2026-11-01
+- `Scottcjn/rustchain-bounties#11` — [BOUNTY] Vintage Hardware Revival · updated 2026-11-01
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,7 +31,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
 - [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
 - [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · score 4 (2 rivals, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
-3. `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · score 2 (1 rival, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#4142` — [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer  · score 2 (2 rivals, fresh)
+2. `lizTheDeveloper/privacy-the-game#411` — [find opt-out] Statara Solutuions LLC: find the official opt-out route · score 2 (2 rivals, fresh)
+3. `cxlinux-ai/cx-core#425` — [ARCHITECTURE] Replace Ollama with llama.cpp native C++ integration · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
