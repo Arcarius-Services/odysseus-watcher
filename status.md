@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-01T14:33:35.803Z (UTC), on GitHub Actions._
+_Last run: 2026-11-01T15:03:35.697Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `hanzoai/agents#7` — Fix 9 broken relative links in the examples and Go SDK READMEs · updated 2026-11-01
-- NEW `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-01
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4198` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty  · $750 · updated 2026-11-01
-- `Scottcjn/rustchain-bounties#2819` — [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (33-133 RTC) · updated 2026-11-01
-- `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-11-01
-- `Ikalus1988/MisakaNet#4133` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-01
-- `illbnm/homelab-stack#11` — [BOUNTY $130] Database Layer — PostgreSQL + Redis + MariaDB 共享实例 · $130 · updated 2026-11-01
-- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-11-01
+- NEW `relayhop/sn-monetization-runtime#1348` — [radar] SN open bounty 2026-11-01T14:58 · updated 2026-11-01
+- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1383` — [BOUNTY] Suggestion #1301 · updated 2026-11-01
+- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1382` — [BOUNTY] Suggestion #1298 · updated 2026-11-01
+- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-11-01
+- `Scottcjn/rustchain-bounties#11` — [BOUNTY] Vintage Hardware Revival · updated 2026-11-01
+- `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-11-01
+- `shaiananvari8/zeroeye#1` — [$35 BOUNTY] [TypeScript] Add single-flight token refresh handling · $35 · updated 2026-11-01
+- `lizTheDeveloper/privacy-the-game#411` — [find opt-out] Statara Solutuions LLC: find the official opt-out route · updated 2026-11-01
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4198` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty  · $750 · score 4 (2 rivals, $750, fresh)
-3. `relayhop/sn-monetization-runtime#1329` — [radar] SN open bounty 2026-10-25T16:02 · score 4 (uncontested, fresh)
+1. `relayhop/sn-monetization-runtime#1348` — [radar] SN open bounty 2026-11-01T14:58 · score 4 (uncontested, fresh)
+2. `SPLURT-Station/S.P.L.U.R.T-tg#1383` — [BOUNTY] Suggestion #1301 · score 4 (uncontested, fresh)
+3. `SPLURT-Station/S.P.L.U.R.T-tg#1382` — [BOUNTY] Suggestion #1298 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
