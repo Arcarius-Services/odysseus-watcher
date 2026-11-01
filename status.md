@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-01T11:03:36.090Z (UTC), on GitHub Actions._
+_Last run: 2026-11-01T11:33:35.798Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `cxlinux-ai/cx-core#425` — [ARCHITECTURE] Replace Ollama with llama.cpp native C++ integration · updated 2026-11-01
-- `hanzoai/agents#6` — Fix 103 broken relative links in the README · updated 2026-11-01
-- `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · updated 2026-11-01
-- NEW `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-11-01
-- `shaiananvari8/zeroeye#1` — [$35 BOUNTY] [TypeScript] Add single-flight token refresh handling · $35 · updated 2026-11-01
-- `Sifchain/sifnode#503` — [sifnode] $1000 bounty for implementing Azure AKS support for sifnode · $1000 · updated 2026-11-01
+- NEW `bodycount0/stellar-drips-protocol#4` — [FEAT] Implement on-chain subscription analytics and event history viewer · updated 2026-11-01
+- `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · updated 2026-11-01
 - `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-01
-- `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-11-01
+- `fyne-io/fyne#142` — Add drag and drop support · updated 2026-11-01
+- `Spectral-Finance/lux#80` — SushiSwap Integration and Cross-Chain Bridge Support $750 · $750 · updated 2026-11-01
+- `Reqrefusion/FreeCAD-Documentation-Project#332` — Maintaining Macros · updated 2026-11-01
+- `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-01
+- `illbnm/homelab-stack#8` — [BOUNTY $250] Robustness — 国内网络适配 + 环境鲁棒性 · $250 · updated 2026-11-01
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Sifchain/sifnode#503` — [sifnode] $1000 bounty for implementing Azure AKS support for sifnode · $1000 · score 6 (2 rivals, $1000, skill fit, fresh)
-2. `cxlinux-ai/cx-core#425` — [ARCHITECTURE] Replace Ollama with llama.cpp native C++ integration · score 2 (2 rivals, fresh)
-3. `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · score 2 (5 rivals — crowded, $600, skill fit, fresh)
+1. `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
+2. `bodycount0/stellar-drips-protocol#4` — [FEAT] Implement on-chain subscription analytics and event history viewer · score 2 (2 rivals, fresh)
+3. `Scottcjn/rustchain-bounties#66` — [BOUNTY] 🔴 Red Team: x402 Payment Protocol Exploits (100 RTC) · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
