@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-01T07:03:35.766Z (UTC), on GitHub Actions._
+_Last run: 2026-11-01T07:33:35.751Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `fyne-io/fyne#142` — Add drag and drop support · updated 2026-11-01
-- `Spectral-Finance/lux#80` — SushiSwap Integration and Cross-Chain Bridge Support $750 · $750 · updated 2026-11-01
-- NEW `Spectral-Finance/lux#75` — Smart Contract Event Monitoring System $1,500 · $1,500 · updated 2026-11-01
-- NEW `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-11-01
-- `Spectral-Finance/lux#74` — Multi-Chain Data Aggregation Engine $1,750 · $1,750 · updated 2026-11-01
-- `Reqrefusion/FreeCAD-Documentation-Project#332` — Maintaining Macros · updated 2026-11-01
-- `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-01
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-11-01
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4197` — [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty  · $750 · updated 2026-11-01
+- `hanzoai/agents#7` — Fix 9 broken relative links in the examples and Go SDK READMEs · updated 2026-11-01
+- `Arrow-air/website#217` — Design the purchase flow on top of the store prototype · updated 2026-11-01
+- `illbnm/homelab-stack#13` — [BOUNTY $80] Notifications — 统一通知中心 (Gotify + Apprise) · $80 · updated 2026-11-01
+- `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-01
+- `zhangjiayang6835-cyber/bounty-plaza#4168` — [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty  · $250 · updated 2026-11-01
+- `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-11-01
+- `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · updated 2026-11-01
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4188` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code · $750 · score 4 (2 rivals, $750, fresh)
-3. `fyne-io/fyne#142` — Add drag and drop support · score 2 (1 rival, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#4197` — [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty  · $750 · score 4 (2 rivals, $750, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1836` — [Bounty] [Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision  · $3,000 · score 4 (2 rivals, $3,000, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#4188` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code · $750 · score 4 (2 rivals, $750, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
