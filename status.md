@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-01T12:33:35.760Z (UTC), on GitHub Actions._
+_Last run: 2026-11-01T13:03:35.724Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,17 +14,17 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · updated 2026-11-01
-- `fyne-io/fyne#142` — Add drag and drop support · updated 2026-11-01
-- `Spectral-Finance/lux#80` — SushiSwap Integration and Cross-Chain Bridge Support $750 · $750 · updated 2026-11-01
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-01
-- `Reqrefusion/FreeCAD-Documentation-Project#332` — Maintaining Macros · updated 2026-11-01
-- `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-01
-- `illbnm/homelab-stack#8` — [BOUNTY $250] Robustness — 国内网络适配 + 环境鲁棒性 · $250 · updated 2026-11-01
-- `Ikalus1988/MisakaNet#3729` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-01
+- NEW `relayhop/sn-monetization-runtime#1341` — [radar] SN open bounty 2026-10-26T23:46 · updated 2026-11-01
+- NEW `illbnm/homelab-stack#14` — [BOUNTY $200] Testing — 自动化测试套件 · $200 · updated 2026-11-01
+- NEW `Nexussyn/ai-growth-engine#4` — [AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion · updated 2026-11-01
+- NEW `alfrexo95/bounty-bot#74` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · updated 2026-11-01
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-01
+- NEW `Scottcjn/rustchain-bounties#49` — [BOUNTY] Attestation Data Export Pipeline - CSV/JSON/Parquet · updated 2026-11-01
+- NEW `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-11-01
+- NEW `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-11-01
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
-2. `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · score 2 (2 rivals, fresh)
-3. `fyne-io/fyne#142` — Add drag and drop support · score 2 (1 rival, fresh)
+1. `alfrexo95/bounty-bot#74` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · score 4 (1 rival, $750, fresh)
+2. `relayhop/sn-monetization-runtime#1341` — [radar] SN open bounty 2026-10-26T23:46 · score 2 (1 rival, fresh)
+3. `illbnm/homelab-stack#14` — [BOUNTY $200] Testing — 自动化测试套件 · $200 · score 2 (4 rivals — crowded, $200, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
