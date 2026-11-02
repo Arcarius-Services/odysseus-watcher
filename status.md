@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T14:03:35.883Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T14:33:35.887Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Spectral-Finance/lux#65` — Telegram Group Management ($1,800) · $1,800 · updated 2026-11-02
+- NEW `Spectral-Finance/lux#61` — Twitter Automation and Engagement ( $1,800) · $1,800 · updated 2026-11-02
+- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-02
+- `Spectral-Finance/lux#65` — Telegram Group Management ($1,800) · $1,800 · updated 2026-11-02
 - `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-11-02
 - `Ikalus1988/MisakaNet#3728` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-02
-- NEW `warpspeedopen-source/warpspeed-bounties#1` — [PAID BOUNTY - $960] Attachment Summarizer Service · $960 · updated 2026-11-02
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-02
+- `warpspeedopen-source/warpspeed-bounties#1` — [PAID BOUNTY - $960] Attachment Summarizer Service · $960 · updated 2026-11-02
 - `Spectral-Finance/lux#54` — Discord Signals System ($500) · $500 · updated 2026-11-02
 - `Spectral-Finance/lux#63` — Telegram Message Processing ($2,000) · $2,000 · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,17 +32,17 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
-- NEW [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
+- [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
 - [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
 - [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
-- NEW [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
+- [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Spectral-Finance/lux#59` — Twitter Analytics and Monitoring ($2,000) · $2,000 · score 6 (uncontested, $2,000, fresh)
+1. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 2. `warpspeedopen-source/warpspeed-bounties#1` — [PAID BOUNTY - $960] Attachment Summarizer Service · $960 · score 4 (2 rivals, $960, fresh)
-3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+3. `Spectral-Finance/lux#54` — Discord Signals System ($500) · $500 · score 4 (2 rivals, $500, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
