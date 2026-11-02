@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T05:03:35.753Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T05:33:35.793Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-11-02
+- `relayhop/sn-monetization-runtime#1341` — [radar] SN open bounty 2026-10-26T23:46 · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-11-02
 - `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#423` — [BOUNTY] Refer a Friend Who Completes a Bounty - 2 RTC per referral (Pool: 100 R · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#11` — [BOUNTY] Vintage Hardware Revival · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · updated 2026-11-02
-- `hanzoai/agents#7` — Fix 9 broken relative links in the examples and Go SDK READMEs · updated 2026-11-02
-- `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-02
-- `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-11-02
+- `cxlinux-ai/cx-core#425` — [ARCHITECTURE] Replace Ollama with llama.cpp native C++ integration · updated 2026-11-02
+- `illbnm/homelab-stack#14` — [BOUNTY $200] Testing — 自动化测试套件 · $200 · updated 2026-11-02
+- `Nexussyn/ai-growth-engine#4` — [AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#49` — [BOUNTY] Attestation Data Export Pipeline - CSV/JSON/Parquet · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -35,14 +35,14 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
 - [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
-- [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
+- NEW [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 - [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · score 4 (2 rivals, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
-3. `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · score 2 (2 rivals, fresh)
+1. `relayhop/sn-monetization-runtime#1341` — [radar] SN open bounty 2026-10-26T23:46 · score 2 (1 rival, fresh)
+2. `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · score 2 (2 rivals, fresh)
+3. `cxlinux-ai/cx-core#425` — [ARCHITECTURE] Replace Ollama with llama.cpp native C++ integration · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
