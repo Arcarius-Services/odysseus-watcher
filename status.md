@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T14:33:35.887Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T15:03:35.843Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Spectral-Finance/lux#61` — Twitter Automation and Engagement ( $1,800) · $1,800 · updated 2026-11-02
-- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-02
-- `Spectral-Finance/lux#65` — Telegram Group Management ($1,800) · $1,800 · updated 2026-11-02
-- `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-11-02
-- `Ikalus1988/MisakaNet#3728` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-02
-- `warpspeedopen-source/warpspeed-bounties#1` — [PAID BOUNTY - $960] Attachment Summarizer Service · $960 · updated 2026-11-02
-- `Spectral-Finance/lux#54` — Discord Signals System ($500) · $500 · updated 2026-11-02
-- `Spectral-Finance/lux#63` — Telegram Message Processing ($2,000) · $2,000 · updated 2026-11-02
+- NEW `Scottcjn/rustchain-bounties#517` — [Bounty] Block Explorer Bug Hunt - 1 RTC · updated 2026-11-02
+- NEW `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-11-02
+- NEW `iii123iii/Crystal-PDF#3` — Bug bounty 100 usd to whoever makes my landing page responsive for mobile · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4061` — [Bounty] [TEST BOUNTY] Fix typo in README · updated 2026-11-02
+- NEW `Spectral-Finance/lux#67` — Telegram Analytics and Monitoring ($1,200) · $1,200 · updated 2026-11-02
+- `Spectral-Finance/lux#61` — Twitter Automation and Engagement ( $1,800) · $1,800 · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
-2. `warpspeedopen-source/warpspeed-bounties#1` — [PAID BOUNTY - $960] Attachment Summarizer Service · $960 · score 4 (2 rivals, $960, fresh)
-3. `Spectral-Finance/lux#54` — Discord Signals System ($500) · $500 · score 4 (2 rivals, $500, fresh)
+1. `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · score 6 (uncontested, $1,000, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#4061` — [Bounty] [TEST BOUNTY] Fix typo in README · score 4 (2 rivals, skill fit, fresh)
+3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
