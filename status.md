@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T22:03:35.806Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T22:33:35.782Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,6 +14,7 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `Scottcjn/rustchain-bounties#415` — [BOUNTY] Review BoTTube on ToolPilot — 1 RTC · updated 2026-11-02
 - `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-02
 - `Scottcjn/rustchain-bounties#356` — [BOUNTY] Break the RustChain Mechanism Spec + Falsification Matrix · updated 2026-11-02
 - `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-11-02
@@ -21,7 +22,6 @@ _none open right now_
 - `Scottcjn/rustchain-bounties#423` — [BOUNTY] Refer a Friend Who Completes a Bounty - 2 RTC per referral (Pool: 100 R · updated 2026-11-02
 - `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-11-02
 - `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-02
-- `ergoplatform/ergo#938` — [API] Specify context variables in creating transaction · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `ergoplatform/ergo#938` — [API] Specify context variables in creating transaction · score 4 (1 rival, skill fit, fresh)
 2. `zhangjiayang6835-cyber/bounty-plaza#4201` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty  · $750 · score 4 (2 rivals, $750, fresh)
-3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+3. `Scottcjn/rustchain-bounties#356` — [BOUNTY] Break the RustChain Mechanism Spec + Falsification Matrix · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
