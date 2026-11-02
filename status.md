@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T19:33:35.928Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T20:03:35.744Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4201` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty  · $750 · updated 2026-11-02
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-02
-- NEW `Scottcjn/rustchain-bounties#50` — [BOUNTY] On-Chain Governance - Proposal & Voting System · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-11-02
-- `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-11-02
+- NEW `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-02
 - `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#1104` — [EASY BOUNTY: 1 RTC] Set Up Your BoTTube Profile · updated 2026-11-02
+- NEW `Scottcjn/rustchain-bounties#1113` — [BOUNTY: 5 RTC] RTC Token Distribution Analysis · updated 2026-11-02
+- NEW `ergoplatform/ergo#938` — [API] Specify context variables in creating transaction · updated 2026-11-02
+- `zhangjiayang6835-cyber/bounty-plaza#4201` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty  · $750 · updated 2026-11-02
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#50` — [BOUNTY] On-Chain Governance - Proposal & Voting System · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#4201` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty  · $750 · score 4 (1 rival, $750, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `Bitcoindefi/OpenAO#11` — Etapa 3: publicar mapas en vivo sin reiniciar el server · score 4 (uncontested, fresh)
+1. `ergoplatform/ergo#938` — [API] Specify context variables in creating transaction · score 4 (1 rival, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#4201` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty  · $750 · score 4 (2 rivals, $750, fresh)
+3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
