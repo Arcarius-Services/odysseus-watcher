@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T15:03:35.843Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T15:33:35.909Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#517` — [Bounty] Block Explorer Bug Hunt - 1 RTC · updated 2026-11-02
-- NEW `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · updated 2026-11-02
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-11-02
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-11-02
-- NEW `iii123iii/Crystal-PDF#3` — Bug bounty 100 usd to whoever makes my landing page responsive for mobile · updated 2026-11-02
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4061` — [Bounty] [TEST BOUNTY] Fix typo in README · updated 2026-11-02
-- NEW `Spectral-Finance/lux#67` — Telegram Analytics and Monitoring ($1,200) · $1,200 · updated 2026-11-02
-- `Spectral-Finance/lux#61` — Twitter Automation and Engagement ( $1,800) · $1,800 · updated 2026-11-02
+- NEW `Spectral-Finance/lux#82` — Hyperliquid Integration and Perpetual Trading $900 · $900 · updated 2026-11-02
+- NEW `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-11-02
+- NEW `Spectral-Finance/lux#81` — Curve Finance Integration and Stablecoin Management $900 · $900 · updated 2026-11-02
+- NEW `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#517` — [Bounty] Block Explorer Bug Hunt - 1 RTC · updated 2026-11-02
+- `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · updated 2026-11-02
+- `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-11-02
+- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · score 6 (uncontested, $1,000, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4061` — [Bounty] [TEST BOUNTY] Fix typo in README · score 4 (2 rivals, skill fit, fresh)
-3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+2. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
+3. `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · score 4 (1 rival, $900, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
