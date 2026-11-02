@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T12:03:35.982Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T12:33:35.882Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-11-02
-- NEW `Ikalus1988/MisakaNet#3728` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-02
-- NEW `Scottcjn/rustchain-bounties#19` — [BOUNTY] Entropy Profile Temporal Validation · updated 2026-11-02
-- NEW `mozzimorzam-sudo/project100-mcp#7` — Add rate limiting to /api/v1/artifacts endpoint · updated 2026-11-02
+- NEW `Spectral-Finance/lux#62` — Telegram Core API Integration ($2,500) · $2,500 · updated 2026-11-02
+- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-02
+- `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-11-02
+- `Ikalus1988/MisakaNet#3728` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#19` — [BOUNTY] Entropy Profile Temporal Validation · updated 2026-11-02
+- `mozzimorzam-sudo/project100-mcp#7` — Add rate limiting to /api/v1/artifacts endpoint · updated 2026-11-02
 - `alfrexo95/bounty-bot#77` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · updated 2026-11-02
 - `SPLURT-Station/S.P.L.U.R.T-tg#1385` — [BOUNTY] Suggestion #1283 · updated 2026-11-02
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-02
-- NEW `Spectral-Finance/lux#58` — Twitter API Core Integration ($2,500) · $2,500 · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,7 +40,7 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Spectral-Finance/lux#73` — Web3 Wallet Management and Transaction Infrastructure $2,000 · $2,000 · score 6 (1 rival, $2,000, skill fit, fresh)
+1. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 2. `alfrexo95/bounty-bot#77` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · score 4 (1 rival, $750, fresh)
 3. `SPLURT-Station/S.P.L.U.R.T-tg#1385` — [BOUNTY] Suggestion #1283 · score 4 (uncontested, fresh)
 
