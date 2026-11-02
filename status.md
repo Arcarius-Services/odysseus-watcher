@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T20:03:35.744Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T20:33:35.726Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-11-02
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-02
 - `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-02
-- NEW `Scottcjn/rustchain-bounties#1113` — [BOUNTY: 5 RTC] RTC Token Distribution Analysis · updated 2026-11-02
-- NEW `ergoplatform/ergo#938` — [API] Specify context variables in creating transaction · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#1113` — [BOUNTY: 5 RTC] RTC Token Distribution Analysis · updated 2026-11-02
+- `ergoplatform/ergo#938` — [API] Specify context variables in creating transaction · updated 2026-11-02
 - `zhangjiayang6835-cyber/bounty-plaza#4201` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty  · $750 · updated 2026-11-02
 - `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-02
 - `Scottcjn/rustchain-bounties#50` — [BOUNTY] On-Chain Governance - Proposal & Voting System · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
