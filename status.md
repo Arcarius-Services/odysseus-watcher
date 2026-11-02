@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T18:33:35.914Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T19:03:36.317Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,17 +14,17 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#1104` — [EASY BOUNTY: 1 RTC] Set Up Your BoTTube Profile · updated 2026-11-02
-- NEW `Scottcjn/rustchain-bounties#2890` — [BOUNTY: 67 RTC] AgentFolio ↔ Beacon Integration Spec + Reference Implementation · updated 2026-11-02
-- NEW `Bitcoindefi/OpenAO#11` — Etapa 3: publicar mapas en vivo sin reiniciar el server · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#422` — [BOUNTY] Register Your Agent on Beacon Atlas - 3 RTC · updated 2026-11-02
+- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-11-02
 - `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-02
-- `zhangjiayang6835-cyber/bounty-plaza#4168` — [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty  · $250 · updated 2026-11-02
-- `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-11-02
-- `zhangjiayang6835-cyber/bounty-plaza#4142` — [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer  · updated 2026-11-02
+- NEW `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#1104` — [EASY BOUNTY: 1 RTC] Set Up Your BoTTube Profile · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#2890` — [BOUNTY: 67 RTC] AgentFolio ↔ Beacon Integration Spec + Reference Implementation · updated 2026-11-02
+- `Bitcoindefi/OpenAO#11` — Etapa 3: publicar mapas en vivo sin reiniciar el server · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#422` — [BOUNTY] Register Your Agent on Beacon Atlas - 3 RTC · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `Bitcoindefi/OpenAO#11` — Etapa 3: publicar mapas en vivo sin reiniciar el server · score 4 (uncontested, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4142` — [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer  · score 2 (2 rivals, fresh)
-3. `Scottcjn/rustchain-bounties#1104` — [EASY BOUNTY: 1 RTC] Set Up Your BoTTube Profile · score 0 (4 rivals — crowded, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · score 0 (3 rivals — crowded, $75, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · score 0 (3 rivals — crowded, $250, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
