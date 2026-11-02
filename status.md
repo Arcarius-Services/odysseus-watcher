@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T11:33:35.850Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T12:03:35.982Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Spectral-Finance/lux#73` — Web3 Wallet Management and Transaction Infrastructure $2,000 · $2,000 · updated 2026-11-02
-- NEW `Scottcjn/rustchain-bounties#1102` — [EASY BOUNTY: 2-3 RTC] Find and Report a BoTTube Bug · updated 2026-11-02
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-02
+- NEW `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-11-02
+- NEW `Ikalus1988/MisakaNet#3728` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-02
+- NEW `Scottcjn/rustchain-bounties#19` — [BOUNTY] Entropy Profile Temporal Validation · updated 2026-11-02
+- NEW `mozzimorzam-sudo/project100-mcp#7` — Add rate limiting to /api/v1/artifacts endpoint · updated 2026-11-02
 - `alfrexo95/bounty-bot#77` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · updated 2026-11-02
-- `hledgerorg/hledger#2648` — Support simple arithmetic expressions in posting amounts · updated 2026-11-02
 - `SPLURT-Station/S.P.L.U.R.T-tg#1385` — [BOUNTY] Suggestion #1283 · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#12` — [BOUNTY] Run a Full Attestation Node · updated 2026-11-02
-- `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-11-02
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-02
+- NEW `Spectral-Finance/lux#58` — Twitter API Core Integration ($2,500) · $2,500 · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `Spectral-Finance/lux#73` — Web3 Wallet Management and Transaction Infrastructure $2,000 · $2,000 · score 6 (1 rival, $2,000, skill fit, fresh)
-2. `Scottcjn/rustchain-bounties#1102` — [EASY BOUNTY: 2-3 RTC] Find and Report a BoTTube Bug · score 4 (1 rival, skill fit, fresh)
-3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+2. `alfrexo95/bounty-bot#77` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · score 4 (1 rival, $750, fresh)
+3. `SPLURT-Station/S.P.L.U.R.T-tg#1385` — [BOUNTY] Suggestion #1283 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
