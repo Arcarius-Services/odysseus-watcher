@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T13:03:35.843Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T13:33:35.760Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `alfrexo95/bounty-bot#71` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · updated 2026-11-02
-- NEW `Spectral-Finance/lux#59` — Twitter Analytics and Monitoring ($2,000) · $2,000 · updated 2026-11-02
-- NEW `alfrexo95/bounty-bot#73` — 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro  · $750 · updated 2026-11-02
-- NEW `alfrexo95/bounty-bot#72` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount · $750 · updated 2026-11-02
-- `alfrexo95/bounty-bot#76` — 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro  · $750 · updated 2026-11-02
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4187` — [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-11-02
-- `zhangjiayang6835-cyber/bounty-plaza#4199` — [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty  · $750 · updated 2026-11-02
-- `alfrexo95/bounty-bot#77` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · updated 2026-11-02
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-02
+- NEW `Spectral-Finance/lux#54` — Discord Signals System ($500) · $500 · updated 2026-11-02
+- NEW `Spectral-Finance/lux#63` — Telegram Message Processing ($2,000) · $2,000 · updated 2026-11-02
+- NEW `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-11-02
+- `alfrexo95/bounty-bot#71` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · updated 2026-11-02
+- `Spectral-Finance/lux#59` — Twitter Analytics and Monitoring ($2,000) · $2,000 · updated 2026-11-02
+- `alfrexo95/bounty-bot#73` — 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro  · $750 · updated 2026-11-02
+- `alfrexo95/bounty-bot#72` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount · $750 · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,7 +31,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
 - [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
 - [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `Spectral-Finance/lux#59` — Twitter Analytics and Monitoring ($2,000) · $2,000 · score 6 (uncontested, $2,000, fresh)
-2. `alfrexo95/bounty-bot#71` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · score 4 (2 rivals, $750, fresh)
-3. `alfrexo95/bounty-bot#73` — 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro  · $750 · score 4 (2 rivals, $750, fresh)
+2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+3. `Spectral-Finance/lux#54` — Discord Signals System ($500) · $500 · score 4 (2 rivals, $500, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
