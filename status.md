@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T15:39:05.189Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T17:03:36.164Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1352` — [radar] SN open bounty 2026-11-02T15:36 · updated 2026-11-02
-- `Spectral-Finance/lux#82` — Hyperliquid Integration and Perpetual Trading $900 · $900 · updated 2026-11-02
-- `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · updated 2026-11-02
-- `Spectral-Finance/lux#81` — Curve Finance Integration and Stablecoin Management $900 · $900 · updated 2026-11-02
-- `Spectral-Finance/lux#78` — Uniswap V3 Integration and Liquidity Management $900 · $900 · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#517` — [Bounty] Block Explorer Bug Hunt - 1 RTC · updated 2026-11-02
-- `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · updated 2026-11-02
-- `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4142` — [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer  · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4143` — [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Reque · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4168` — [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty  · $250 · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-11-02
+- `zhangjiayang6835-cyber/bounty-plaza#4187` — [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-11-02
+- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4188` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code · $750 · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -33,16 +33,16 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
 - [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
-- [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
-- [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
+- NEW [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
+- NEW [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
 - [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 - [Raiden — one character delivered twice: portrait + that character voice ($25)](https://dealwork.ai/jobs/08031924-0517-4e2c-9d6e-746a696be4d1) · $?–$25.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Spectral-Finance/lux#77` — Web3 Authentication and Authorization Framework $1,000 · $1,000 · score 6 (uncontested, $1,000, fresh)
-2. `relayhop/sn-monetization-runtime#1352` — [radar] SN open bounty 2026-11-02T15:36 · score 4 (uncontested, fresh)
-3. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#4188` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code · $750 · score 4 (2 rivals, $750, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#4142` — [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer  · score 2 (2 rivals, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
