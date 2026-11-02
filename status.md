@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-01T23:52:32.190Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T01:03:35.952Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Scottcjn/rustchain-bounties#423` — [BOUNTY] Refer a Friend Who Completes a Bounty - 2 RTC per referral (Pool: 100 R · updated 2026-11-01
-- `Scottcjn/rustchain-bounties#18` — [BOUNTY] Nonce Binding & Attestation Replay Prevention · updated 2026-11-01
-- `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · updated 2026-11-01
-- `Scottcjn/rustchain-bounties#49` — [BOUNTY] Attestation Data Export Pipeline - CSV/JSON/Parquet · updated 2026-11-01
-- `Scottcjn/rustchain-bounties#11` — [BOUNTY] Vintage Hardware Revival · updated 2026-11-01
-- `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-11-01
-- `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-11-01
-- `illbnm/homelab-stack#14` — [BOUNTY $200] Testing — 自动化测试套件 · $200 · updated 2026-11-01
+- `illbnm/homelab-stack#14` — [BOUNTY $200] Testing — 自动化测试套件 · $200 · updated 2026-11-02
+- `Nexussyn/ai-growth-engine#4` — [AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion · updated 2026-11-02
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#49` — [BOUNTY] Attestation Data Export Pipeline - CSV/JSON/Parquet · updated 2026-11-02
+- `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-11-02
+- `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#18` — [BOUNTY] Nonce Binding & Attestation Replay Prevention · updated 2026-11-02
+- `hanzoai/agents#7` — Fix 9 broken relative links in the examples and Go SDK READMEs · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · score 4 (2 rivals, skill fit, fresh)
-2. `Scottcjn/rustchain-bounties#11` — [BOUNTY] Vintage Hardware Revival · score 2 (2 rivals, fresh)
+1. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+2. `illbnm/homelab-stack#14` — [BOUNTY $200] Testing — 自动化测试套件 · $200 · score 2 (4 rivals — crowded, $200, skill fit, fresh)
 3. `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
