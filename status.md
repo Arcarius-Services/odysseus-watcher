@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T12:33:35.882Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T13:03:35.843Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Spectral-Finance/lux#62` — Telegram Core API Integration ($2,500) · $2,500 · updated 2026-11-02
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-02
-- `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-11-02
-- `Ikalus1988/MisakaNet#3728` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#19` — [BOUNTY] Entropy Profile Temporal Validation · updated 2026-11-02
-- `mozzimorzam-sudo/project100-mcp#7` — Add rate limiting to /api/v1/artifacts endpoint · updated 2026-11-02
+- NEW `alfrexo95/bounty-bot#71` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · updated 2026-11-02
+- NEW `Spectral-Finance/lux#59` — Twitter Analytics and Monitoring ($2,000) · $2,000 · updated 2026-11-02
+- NEW `alfrexo95/bounty-bot#73` — 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro  · $750 · updated 2026-11-02
+- NEW `alfrexo95/bounty-bot#72` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount · $750 · updated 2026-11-02
+- `alfrexo95/bounty-bot#76` — 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro  · $750 · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4187` — [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-11-02
+- `zhangjiayang6835-cyber/bounty-plaza#4199` — [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty  · $750 · updated 2026-11-02
 - `alfrexo95/bounty-bot#77` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · updated 2026-11-02
-- `SPLURT-Station/S.P.L.U.R.T-tg#1385` — [BOUNTY] Suggestion #1283 · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-2. `alfrexo95/bounty-bot#77` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · score 4 (1 rival, $750, fresh)
-3. `SPLURT-Station/S.P.L.U.R.T-tg#1385` — [BOUNTY] Suggestion #1283 · score 4 (uncontested, fresh)
+1. `Spectral-Finance/lux#59` — Twitter Analytics and Monitoring ($2,000) · $2,000 · score 6 (uncontested, $2,000, fresh)
+2. `alfrexo95/bounty-bot#71` — 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro  · $750 · score 4 (2 rivals, $750, fresh)
+3. `alfrexo95/bounty-bot#73` — 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro  · $750 · score 4 (2 rivals, $750, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
