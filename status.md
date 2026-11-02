@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T02:33:35.842Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T03:03:35.820Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-02
-- `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-11-02
-- NEW `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · updated 2026-11-02
-- `illbnm/homelab-stack#11` — [BOUNTY $130] Database Layer — PostgreSQL + Redis + MariaDB 共享实例 · $130 · updated 2026-11-02
-- `Ikalus1988/MisakaNet#4133` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-02
-- `bodycount0/stellar-drips-protocol#4` — [FEAT] Implement on-chain subscription analytics and event history viewer · updated 2026-11-02
-- NEW `bolivian-peru/os-moda#4` — 🏆 BOUNTY (1 SOL): Film "I Gave AI Root Access — Here's Every Single Thing It Di · updated 2026-11-02
-- `sybil-solutions/local-ai-registry#219` — Bounty $50: recipe for RX 7900 XTX 24 GB · $50 · updated 2026-11-02
+- NEW `Spectral-Finance/lux#71` — YouTube Content Creation Pipeline $2,500 · $2,500 · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#49` — [BOUNTY] Attestation Data Export Pipeline - CSV/JSON/Parquet · updated 2026-11-02
+- `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-11-02
+- `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-11-02
+- `lizTheDeveloper/privacy-the-game#411` — [find opt-out] Statara Solutuions LLC: find the official opt-out route · updated 2026-11-02
+- `cxlinux-ai/cx-core#425` — [ARCHITECTURE] Replace Ollama with llama.cpp native C++ integration · updated 2026-11-02
+- `NSPG13/agent-bounties#872` — [DIRECT] Generate deterministic inventory replenishment plans · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#423` — [BOUNTY] Refer a Friend Who Completes a Bounty - 2 RTC per referral (Pool: 100 R · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
-2. `hanzoai/agents#10` — Return 500, not 404, when node details fail for another reason · score 4 (2 rivals, skill fit, fresh)
-3. `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · score 2 (1 rival, fresh)
+1. `Spectral-Finance/lux#71` — YouTube Content Creation Pipeline $2,500 · $2,500 · score 4 (2 rivals, $2,500, fresh)
+2. `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · score 2 (2 rivals, fresh)
+3. `lizTheDeveloper/privacy-the-game#411` — [find opt-out] Statara Solutuions LLC: find the official opt-out route · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
