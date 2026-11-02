@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-02T01:33:35.751Z (UTC), on GitHub Actions._
+_Last run: 2026-11-02T02:03:35.724Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · updated 2026-11-02
-- `hanzoai/agents#7` — Fix 9 broken relative links in the examples and Go SDK READMEs · updated 2026-11-02
-- `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-02
-- `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · updated 2026-11-02
-- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-02
-- `Scottcjn/rustchain-bounties#398` — [QUEST] Harden the Chain — Security Quest, 100 RTC Total (per-claimant) · updated 2026-11-02
-- `illbnm/homelab-stack#11` — [BOUNTY $130] Database Layer — PostgreSQL + Redis + MariaDB 共享实例 · $130 · updated 2026-11-02
-- `Ikalus1988/MisakaNet#4133` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-02
+- NEW `Spectral-Finance/lux#69` — YouTube Content Intelligence System $2,500 · $2,500 · updated 2026-11-02
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4199` — [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty  · $750 · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#49` — [BOUNTY] Attestation Data Export Pipeline - CSV/JSON/Parquet · updated 2026-11-02
+- `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · updated 2026-11-02
+- `hanzoai/agents#8` — Make the agent counts in README.md match the files · updated 2026-11-02
+- NEW `Spectral-Finance/lux#70` — YouTube Community Management and Engagement $2,000 · $2,000 · updated 2026-11-02
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-02
+- `lizTheDeveloper/privacy-the-game#411` — [find opt-out] Statara Solutuions LLC: find the official opt-out route · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Scottcjn/rustchain-bounties#16` — [BOUNTY] Replay & Relay - Attestation Protocol Attacks · score 4 (2 rivals, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#3726` — [Bounty] Answer the 3 linked question(s) · score 4 (uncontested, fresh)
-3. `ditto-assistant/ditto-subnet#2944` — Evaluate one scoped build-bounty pilot against an internal build · score 2 (1 rival, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#4199` — [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty  · $750 · score 4 (2 rivals, $750, fresh)
+2. `Bitcoindefi/OpenAO#14` — Research: como editan mapas los otros proyectos de Argentum Online · score 2 (2 rivals, fresh)
+3. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
