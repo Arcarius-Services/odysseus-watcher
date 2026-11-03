@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-03T08:03:35.773Z (UTC), on GitHub Actions._
+_Last run: 2026-11-03T08:33:35.797Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,17 +14,17 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Spectral-Finance/lux#86` — TradingView Technical Analysis Integration $600 · $600 · updated 2026-11-03
+- `Scottcjn/rustchain-bounties#12444` — [BOUNTY: 3 RTC] Proof of Antiquity vs Proof of Storage (Filecoin/Chia/Arweave) · updated 2026-11-03
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-03
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-11-03
 - `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-03
-- NEW `Scottcjn/rustchain-bounties#12444` — [BOUNTY: 3 RTC] Proof of Antiquity vs Proof of Storage (Filecoin/Chia/Arweave) · updated 2026-11-03
-- NEW `SPLURT-Station/S.P.L.U.R.T-tg#1385` — [BOUNTY] Suggestion #1283 · updated 2026-11-03
-- NEW `alfrexo95/bounty-bot#62` — 🪙 [Web3] bounty: [level:critical] Predictive SLA Breach For · updated 2026-11-03
-- NEW `mjg-foundation/passport2-monero#6` — Sign Monero Transactions · updated 2026-11-03
-- `WholeTroutMedia/oss-verification-sandbox#1` — Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_ · updated 2026-11-03
-- `Scottcjn/rustchain-bounties#421` — [BOUNTY] Upload Your First BoTTube Video - 2 RTC · updated 2026-11-03
-- `zhangjiayang6835-cyber/bounty-plaza#4168` — [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty  · $250 · updated 2026-11-03
+- `SPLURT-Station/S.P.L.U.R.T-tg#1385` — [BOUNTY] Suggestion #1283 · updated 2026-11-03
+- `alfrexo95/bounty-bot#62` — 🪙 [Web3] bounty: [level:critical] Predictive SLA Breach For · updated 2026-11-03
+- `mjg-foundation/passport2-monero#6` — Sign Monero Transactions · updated 2026-11-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -36,7 +36,7 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
 - [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
-- NEW [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
+- [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
