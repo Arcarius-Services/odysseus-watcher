@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-03T03:55:14.018Z (UTC), on GitHub Actions._
+_Last run: 2026-11-03T05:33:36.570Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `tenstorrent/tt-metal#62571` — [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-11-03
-- NEW `Spectral-Finance/lux#55` — Agent Discord Capabilities ($500) · $500 · updated 2026-11-03
-- NEW `SecureBananaLabs/bug-bounty#76` — Technical Poem Generation and Content Creation · updated 2026-11-03
-- `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-11-03
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-03
-- `Scottcjn/rustchain-bounties#1097` — [EASY BOUNTY: 1 RTC] Follow 5 BoTTube Creators · updated 2026-11-03
-- `Spectral-Finance/lux#103` — Rust Component Definition Support $500 · $500 · updated 2026-11-03
-- `Spectral-Finance/lux#102` — Rust Testing Framework Integration $350 · $350 · updated 2026-11-03
+- NEW `Scottcjn/rustchain-bounties#49` — [BOUNTY] Attestation Data Export Pipeline - CSV/JSON/Parquet · updated 2026-11-03
+- `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-11-03
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4187` — [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-11-03
+- `zhangjiayang6835-cyber/bounty-plaza#4188` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code · $750 · updated 2026-11-03
+- NEW `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-11-03
+- NEW `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · updated 2026-11-03
+- NEW `SimsChad12/go-redis#1` — 🎯 Fix State Inconsistency in `Pipeline.Exec()` Upon Context Cancellation · updated 2026-11-03
+- NEW `Bigg770/soroban-defi-analytics#4` — [FEAT] Implement CSV export functionality for historical pool TVL data · updated 2026-11-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tenstorrent/tt-metal#62571` — [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · score 4 (1 rival, $750, fresh)
-2. `Spectral-Finance/lux#55` — Agent Discord Capabilities ($500) · $500 · score 2 (4 rivals — crowded, $500, skill fit, fresh)
-3. `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · score 2 (5 rivals — crowded, $600, skill fit, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#4188` — [Bounty] 💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code · $750 · score 4 (2 rivals, $750, fresh)
+2. `Scottcjn/rustchain-bounties#1112` — [BOUNTY: 7 RTC] Fuzz the /attest/submit Endpoint · score 4 (2 rivals, skill fit, fresh)
+3. `Bigg770/soroban-defi-analytics#4` — [FEAT] Implement CSV export functionality for historical pool TVL data · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
