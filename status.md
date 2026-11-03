@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-03T08:33:35.797Z (UTC), on GitHub Actions._
+_Last run: 2026-11-03T09:03:35.823Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,17 +14,17 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- NEW `Scottcjn/rustchain-bounties#2890` — [BOUNTY: 67 RTC] AgentFolio ↔ Beacon Integration Spec + Reference Implementation · updated 2026-11-03
+- NEW `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-03
+- `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-03
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-03
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-03
 - `Spectral-Finance/lux#86` — TradingView Technical Analysis Integration $600 · $600 · updated 2026-11-03
 - `Scottcjn/rustchain-bounties#12444` — [BOUNTY: 3 RTC] Proof of Antiquity vs Proof of Storage (Filecoin/Chia/Arweave) · updated 2026-11-03
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-03
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-11-03
-- `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-03
-- `SPLURT-Station/S.P.L.U.R.T-tg#1385` — [BOUNTY] Suggestion #1283 · updated 2026-11-03
-- `alfrexo95/bounty-bot#62` — 🪙 [Web3] bounty: [level:critical] Predictive SLA Breach For · updated 2026-11-03
-- `mjg-foundation/passport2-monero#6` — Sign Monero Transactions · updated 2026-11-03
+- `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-11-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -40,7 +40,7 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `mjg-foundation/passport2-monero#6` — Sign Monero Transactions · score 6 (uncontested, skill fit, fresh)
+1. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 2. `SPLURT-Station/S.P.L.U.R.T-tg#1385` — [BOUNTY] Suggestion #1283 · score 4 (uncontested, fresh)
 3. `alfrexo95/bounty-bot#62` — 🪙 [Web3] bounty: [level:critical] Predictive SLA Breach For · score 4 (uncontested, fresh)
 
