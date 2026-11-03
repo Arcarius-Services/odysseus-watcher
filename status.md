@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-03T02:03:35.695Z (UTC), on GitHub Actions._
+_Last run: 2026-11-03T02:33:35.820Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#1096` — [EASY BOUNTY: 1 RTC] Upvote 10 BoTTube Videos · updated 2026-11-03
-- NEW `ergoplatform/ergo#878` — Wallet API and Exchange Integration Documentation · updated 2026-11-03
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-03
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-03
-- `Scottcjn/rustchain-bounties#23` — [BOUNTY] Port RustChain Miner to 68K Macintosh · updated 2026-11-03
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-03
-- `Scottcjn/rustchain-bounties#504` — [BOUNTY] Prometheus Metrics Exporter + Grafana Dashboard (27 RTC) · updated 2026-11-03
-- `Bitcoindefi/OpenAO#24` — Etapa 5: espacio aislado de mapas de usuario con propiedad y cuotas · updated 2026-11-03
+- NEW `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · updated 2026-11-03
+- NEW `Spectral-Finance/lux#83` — Coinbase Exchange Integration $750 · $750 · updated 2026-11-03
+- NEW `Scottcjn/rustchain-bounties#2156` — [BOUNTY: 10 RTC] BoTTube — Video Page Customization · updated 2026-11-03
+- NEW `Spectral-Finance/lux#84` — Binance Exchange Integration $750 · $750 · updated 2026-11-03
+- NEW `Nexussyn/ai-growth-platform#4` — 🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout · updated 2026-11-03
+- NEW `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-11-03
+- NEW `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-11-03
+- NEW `Spectral-Finance/lux#79` — PancakeSwap Integration and Yield Farming $750 · $750 · updated 2026-11-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `ergoplatform/ergo#878` — Wallet API and Exchange Integration Documentation · score 4 (uncontested, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `relayhop/sn-monetization-runtime#1353` — [radar] SN open bounty 2026-11-02T23:25 · score 4 (uncontested, fresh)
+1. `Spectral-Finance/lux#79` — PancakeSwap Integration and Yield Farming $750 · $750 · score 4 (2 rivals, $750, fresh)
+2. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
+3. `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · score 0 (3 rivals — crowded, $750, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
