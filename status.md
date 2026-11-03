@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-03T13:33:36.004Z (UTC), on GitHub Actions._
+_Last run: 2026-11-03T14:03:35.804Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#12442` — [BOUNTY: 3 RTC] RustChain vs Helium / DePIN Networks Comparison · updated 2026-11-03
 - `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-03
+- NEW `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-11-03
+- NEW `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · updated 2026-11-03
+- `Scottcjn/rustchain-bounties#12442` — [BOUNTY: 3 RTC] RustChain vs Helium / DePIN Networks Comparison · updated 2026-11-03
 - `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-03
 - `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-03
 - `Scottcjn/rustchain-bounties#2890` — [BOUNTY: 67 RTC] AgentFolio ↔ Beacon Integration Spec + Reference Implementation · updated 2026-11-03
-- NEW `Scottcjn/rustchain-bounties#67` — [BOUNTY] 🔴 Red Team: Payment Widget XSS & Injection (75 RTC) · updated 2026-11-03
-- `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-11-03
-- `Scottcjn/rustchain-bounties#2797` — [BOTTUBE: 3 RTC] Make a Video Response to an Existing Video · updated 2026-11-03
+- `Scottcjn/rustchain-bounties#67` — [BOUNTY] 🔴 Red Team: Payment Widget XSS & Injection (75 RTC) · updated 2026-11-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -42,7 +42,7 @@ _read-only watch — registration + bids wait for GO._
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 2. `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · score 4 (uncontested, fresh)
-3. `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · score 0 (3 rivals — crowded, $300, fresh)
+3. `Scottcjn/rustchain-bounties#16863` — [MICRO-BOUNTY: 0.1 RTC] Why did you choose to work on an Elyan Labs repo? · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
