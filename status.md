@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-03T00:33:36.117Z (UTC), on GitHub Actions._
+_Last run: 2026-11-03T01:03:35.730Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,13 +14,13 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#504` — [BOUNTY] Prometheus Metrics Exporter + Grafana Dashboard (27 RTC) · updated 2026-11-03
-- NEW `Bitcoindefi/OpenAO#24` — Etapa 5: espacio aislado de mapas de usuario con propiedad y cuotas · updated 2026-11-03
-- NEW `Scottcjn/rustchain-bounties#67` — [BOUNTY] 🔴 Red Team: Payment Widget XSS & Injection (75 RTC) · updated 2026-11-02
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-02
-- NEW `relayhop/sn-monetization-runtime#1353` — [radar] SN open bounty 2026-11-02T23:25 · updated 2026-11-02
-- NEW `Bitcoindefi/OpenAO#13` — Etapa 4: editor visual de mapas dentro del juego · updated 2026-11-02
-- NEW `Scottcjn/rustchain-bounties#249` — [BOUNTY] RustChain Telegram Community Bot (33 RTC) · updated 2026-11-02
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-03
+- `Scottcjn/rustchain-bounties#504` — [BOUNTY] Prometheus Metrics Exporter + Grafana Dashboard (27 RTC) · updated 2026-11-03
+- `Bitcoindefi/OpenAO#24` — Etapa 5: espacio aislado de mapas de usuario con propiedad y cuotas · updated 2026-11-03
+- `Scottcjn/rustchain-bounties#67` — [BOUNTY] 🔴 Red Team: Payment Widget XSS & Injection (75 RTC) · updated 2026-11-02
+- `relayhop/sn-monetization-runtime#1353` — [radar] SN open bounty 2026-11-02T23:25 · updated 2026-11-02
+- `Bitcoindefi/OpenAO#13` — Etapa 4: editor visual de mapas dentro del juego · updated 2026-11-02
+- `Scottcjn/rustchain-bounties#249` — [BOUNTY] RustChain Telegram Community Bot (33 RTC) · updated 2026-11-02
 - `Scottcjn/rustchain-bounties#1095` — [EASY BOUNTY: 1 RTC] Comment on 5 BoTTube Videos · updated 2026-11-02
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
