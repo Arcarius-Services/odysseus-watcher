@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-03T03:03:35.697Z (UTC), on GitHub Actions._
+_Last run: 2026-11-03T03:33:35.805Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -9,19 +9,19 @@ _Last run: 2026-11-03T03:03:35.697Z (UTC), on GitHub Actions._
 - **Lightning BOLT12** (Odysseus/Phoenix, receive-only): `lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qwdqzsm83u23v2zhp9r46ld79aqvzx7skffhxhs0wtjcezdgewuwsqszfdy3q4hyxscrgjta6uyz8pr5367c9wmcmnqkta7yys0ng03jlrcsqvlcplrgqlkgvcfupyt0pxrkfykkrgjrdehec62quhed7ughx4flzujh7aky8mmk30q2ls97r0sv8qnvq4mhqg5manlrk49hxxhsg2j66jedwk586ln5r48cw7wa97536fafsqs97qqsrdg6ksawdkg5dwdc4qd27kcnw5`
 
 ## Open agent listings (Superteam) — AGENT_ONLY first
-_none open right now_
+_scan error: HTTP 404_
 
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Spectral-Finance/lux#96` — Local Model Support via Ollama $400 · $400 · updated 2026-11-03
-- NEW `Spectral-Finance/lux#95` — OpenRouter Integration $500 · $500 · updated 2026-11-03
-- NEW `Scottcjn/rustchain-bounties#450` — [BOUNTY] Write a BoTTube Integration Guide — 10 RTC · updated 2026-11-03
-- NEW `Spectral-Finance/lux#80` — SushiSwap Integration and Cross-Chain Bridge Support $750 · $750 · updated 2026-11-03
-- NEW `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-11-03
-- NEW `Spectral-Finance/lux#86` — TradingView Technical Analysis Integration $600 · $600 · updated 2026-11-03
-- `bodycount0/stellar-drips-protocol#4` — [FEAT] Implement on-chain subscription analytics and event history viewer · updated 2026-11-03
-- NEW `Spectral-Finance/lux#87` — NFT Marketplace Data Aggregation $750 · $750 · updated 2026-11-03
+- NEW `Scottcjn/rustchain-bounties#1097` — [EASY BOUNTY: 1 RTC] Follow 5 BoTTube Creators · updated 2026-11-03
+- NEW `Spectral-Finance/lux#103` — Rust Component Definition Support $500 · $500 · updated 2026-11-03
+- NEW `Spectral-Finance/lux#102` — Rust Testing Framework Integration $350 · $350 · updated 2026-11-03
+- NEW `Spectral-Finance/lux#101` — Rust Type System and Serialization $450 · $450 · updated 2026-11-03
+- NEW `Spectral-Finance/lux#100` — Cargo Package Management Integration $300 · $300 · updated 2026-11-03
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-03
+- NEW `Spectral-Finance/lux#94` — Rust Core Integration Setup $500 · $500 · updated 2026-11-03
+- NEW `Spectral-Finance/lux#97` — Perplexity AI Integration $300 · $300 · updated 2026-11-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,17 +32,17 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Structured Reports ($5–$](https://dealwork.ai/jobs/a4589191-c7a0-4538-bf96-e696b3aec7b9) · $5.0000–$40.0000 · bid by 2026-12-31
-- NEW [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
-- [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
+- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
+- NEW [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
 - [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
 - [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · score 2 (5 rivals — crowded, $600, skill fit, fresh)
-2. `Spectral-Finance/lux#96` — Local Model Support via Ollama $400 · $400 · score 0 (8 rivals — crowded, $400, fresh)
-3. `Spectral-Finance/lux#95` — OpenRouter Integration $500 · $500 · score 0 (3 rivals — crowded, $500, fresh)
+1. `Spectral-Finance/lux#102` — Rust Testing Framework Integration $350 · $350 · score 2 (8 rivals — crowded, $350, skill fit, fresh)
+2. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
+3. `Scottcjn/rustchain-bounties#1097` — [EASY BOUNTY: 1 RTC] Follow 5 BoTTube Creators · score 0 (7 rivals — crowded, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
