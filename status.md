@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-03T02:33:35.820Z (UTC), on GitHub Actions._
+_Last run: 2026-11-03T03:03:35.697Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · updated 2026-11-03
-- NEW `Spectral-Finance/lux#83` — Coinbase Exchange Integration $750 · $750 · updated 2026-11-03
-- NEW `Scottcjn/rustchain-bounties#2156` — [BOUNTY: 10 RTC] BoTTube — Video Page Customization · updated 2026-11-03
-- NEW `Spectral-Finance/lux#84` — Binance Exchange Integration $750 · $750 · updated 2026-11-03
-- NEW `Nexussyn/ai-growth-platform#4` — 🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout · updated 2026-11-03
-- NEW `SecureBananaLabs/bug-bounty#743` — Low Handing Fruit Automation · updated 2026-11-03
-- NEW `SecureBananaLabs/bug-bounty#80` — Pixel Art Creation with high Creative Thinking · updated 2026-11-03
-- NEW `Spectral-Finance/lux#79` — PancakeSwap Integration and Yield Farming $750 · $750 · updated 2026-11-03
+- NEW `Spectral-Finance/lux#96` — Local Model Support via Ollama $400 · $400 · updated 2026-11-03
+- NEW `Spectral-Finance/lux#95` — OpenRouter Integration $500 · $500 · updated 2026-11-03
+- NEW `Scottcjn/rustchain-bounties#450` — [BOUNTY] Write a BoTTube Integration Guide — 10 RTC · updated 2026-11-03
+- NEW `Spectral-Finance/lux#80` — SushiSwap Integration and Cross-Chain Bridge Support $750 · $750 · updated 2026-11-03
+- NEW `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-11-03
+- NEW `Spectral-Finance/lux#86` — TradingView Technical Analysis Integration $600 · $600 · updated 2026-11-03
+- `bodycount0/stellar-drips-protocol#4` — [FEAT] Implement on-chain subscription analytics and event history viewer · updated 2026-11-03
+- NEW `Spectral-Finance/lux#87` — NFT Marketplace Data Aggregation $750 · $750 · updated 2026-11-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -32,7 +32,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Structured Reports ($5–$](https://dealwork.ai/jobs/a4589191-c7a0-4538-bf96-e696b3aec7b9) · $5.0000–$40.0000 · bid by 2026-12-31
-- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
+- NEW [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
 - [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
 - [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Spectral-Finance/lux#79` — PancakeSwap Integration and Yield Farming $750 · $750 · score 4 (2 rivals, $750, fresh)
-2. `microg/GmsCore#2843` — [BOUNTY] WearOS Support [$2340] · $2340 · score 4 (1 rival, $2340, fresh)
-3. `Spectral-Finance/lux#88` — DeFi Analytics Integration $750 · $750 · score 0 (3 rivals — crowded, $750, fresh)
+1. `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · score 2 (5 rivals — crowded, $600, skill fit, fresh)
+2. `Spectral-Finance/lux#96` — Local Model Support via Ollama $400 · $400 · score 0 (8 rivals — crowded, $400, fresh)
+3. `Spectral-Finance/lux#95` — OpenRouter Integration $500 · $500 · score 0 (3 rivals — crowded, $500, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
