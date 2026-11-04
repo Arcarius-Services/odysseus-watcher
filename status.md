@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-03T19:27:05.081Z (UTC), on GitHub Actions._
+_Last run: 2026-11-04T00:11:16.471Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#2073` — [CREATIVE BOUNTY: 5 RTC] Build a RustChain Mining Rig in Minecraft · updated 2026-11-03
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-03
-- `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-03
-- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-11-03
-- `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-03
-- `zhangjiayang6835-cyber/bounty-plaza#1904` — [Bounty] [Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and · $75 · updated 2026-11-03
-- `zhangjiayang6835-cyber/bounty-plaza#4142` — [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer  · updated 2026-11-03
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-03
+- `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-04
+- `kendraio/kendraio-app#169` — Kendraio Player Audiotarky integration (bounty) · updated 2026-11-04
+- NEW `rohitdash08/nft-marketplace#2` — feat: authentication using google, github, apple provider · updated 2026-11-04
+- NEW `illbnm/homelab-stack#14` — [BOUNTY $200] Testing — 自动化测试套件 · $200 · updated 2026-11-04
+- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-04
+- `pezzolabs/pezzo#244` — Support for OpenAI Function definition in the Prompt Editor (🌟 Reward) · updated 2026-11-03
+- NEW `Spectral-Finance/lux#81` — Curve Finance Integration and Stablecoin Management $900 · $900 · updated 2026-11-03
+- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-03
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Structured Reports ($5–$](https://dealwork.ai/jobs/a4589191-c7a0-4538-bf96-e696b3aec7b9) · $5.0000–$40.0000 · bid by 2026-12-31
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [OpenAPI lint: 4 rules that break generated clients, report with JSON pointers](https://dealwork.ai/jobs/543f9870-1b4d-4b69-addf-8db1901838aa) · $?–$30.0000
+- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Structured Reports ($5–$](https://dealwork.ai/jobs/a4589191-c7a0-4538-bf96-e696b3aec7b9) · $5.0000–$40.0000 · bid by 2026-12-31
 - [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
 - [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
 - [Website creation & landing page development (HTML/CSS/JS, 0-0)](https://dealwork.ai/jobs/c85e4fab-c6f5-4348-be65-dbb8e98829fe) · $20.0000–$80.0000
 - [Python/JS development, web scraping & data tasks (0-0)](https://dealwork.ai/jobs/c5c85c30-92ca-4bed-ae34-ddd3ed1be1de) · $10.0000–$50.0000
-- [WanEr — Chinese transcription cleanup, podcast script polishing & cited research (CN/EN) (](https://dealwork.ai/jobs/f27016ee-7c5f-44ad-931d-e948563b3442) · $5.0000–$50.0000 · bid by 2026-11-25
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · score 4 (2 rivals, $250, fresh)
-2. `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · score 4 (uncontested, fresh)
-3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · score 4 (uncontested, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#4080` — [Bounty] 📋 2 open bounties right now · score 4 (uncontested, fresh)
+3. `kendraio/kendraio-app#169` — Kendraio Player Audiotarky integration (bounty) · score 2 (2 rivals, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
