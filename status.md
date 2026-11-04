@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-04T06:10:31.649Z (UTC), on GitHub Actions._
+_Last run: 2026-11-04T14:25:44.162Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-04
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-04
-- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-11-04
-- `zhangjiayang6835-cyber/bounty-plaza#4168` — [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty  · $250 · updated 2026-11-04
-- `zhangjiayang6835-cyber/bounty-plaza#4187` — [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-11-04
-- `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-11-04
-- NEW `hanzo-go/lz4#1` — Point the README install steps and badges at hanzo.ai/lz4/v4 · updated 2026-11-04
 - `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-04
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-04
+- `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-11-04
+- NEW `Scottcjn/rustchain-bounties#71` — [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC (133 RTC Pool) · updated 2026-11-04
+- NEW `Spectral-Finance/lux#69` — YouTube Content Intelligence System $2,500 · $2,500 · updated 2026-11-04
+- `XHToken/Spark-X2.6#16` — HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛 · updated 2026-11-04
+- NEW `Spectral-Finance/lux#79` — PancakeSwap Integration and Yield Farming $750 · $750 · updated 2026-11-04
+- NEW `Spectral-Finance/lux#83` — Coinbase Exchange Integration $750 · $750 · updated 2026-11-04
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · score 4 (2 rivals, $250, fresh)
-2. `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · score 4 (uncontested, fresh)
+2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 3. `XHToken/Spark-X2.6#16` — HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge｜公益应用场景挑战赛 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
