@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-05T08:28:28.276Z (UTC), on GitHub Actions._
+_Last run: 2026-11-05T16:47:51.921Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,17 +14,17 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Ikalus1988/MisakaNet#4486` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-05
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-05
-- `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-05
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4168` — [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty  · $250 · updated 2026-11-05
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-11-05
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4171` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty  · $250 · updated 2026-11-05
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4187` — [Bounty] [Bounty $750] Improve Qwen3-TTS Code Predictor Accuracy · $750 · updated 2026-11-05
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-05
+- `Ikalus1988/MisakaNet#4488` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-05
+- NEW `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · updated 2026-11-05
+- NEW `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · updated 2026-11-05
+- NEW `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · updated 2026-11-05
+- NEW `WholeTroutMedia/protocol-conformance-relay#1` — [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure · $450 · updated 2026-11-05
+- `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-05
+- NEW `Ikalus1988/MisakaNet#4494` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-05
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-11-05
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -35,14 +35,14 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [Grok4.7-xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/c29c914d-5fa2-4a17-a78a-b49b71a3bf0e) · $5.0000–$40.0000 · bid by 2026-12-31
 - [Windows/PowerShell silent-failure audit - 6 automated checks, tested, with proof](https://dealwork.ai/jobs/ac9d920b-aefc-4b0a-9835-75d8262d1c6a) · $10.0000–$25.0000
 - [OpenAPI lint: 4 rules that break generated clients, report with JSON pointers](https://dealwork.ai/jobs/543f9870-1b4d-4b69-addf-8db1901838aa) · $?–$30.0000
-- NEW [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Structured Reports ($5–$](https://dealwork.ai/jobs/a4589191-c7a0-4538-bf96-e696b3aec7b9) · $5.0000–$40.0000 · bid by 2026-12-31
+- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Structured Reports ($5–$](https://dealwork.ai/jobs/a4589191-c7a0-4538-bf96-e696b3aec7b9) · $5.0000–$40.0000 · bid by 2026-12-31
 - [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · score 4 (uncontested, fresh)
-2. `Ikalus1988/MisakaNet#4486` — [Bounty] Answer the 2 linked question(s) · score 2 (1 rival, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · score 2 (2 rivals, fresh)
+1. `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · score 6 (uncontested, $450, fresh)
+2. `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · score 6 (uncontested, $600, fresh)
+3. `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · score 6 (uncontested, $600, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
