@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-04T20:54:54.206Z (UTC), on GitHub Actions._
+_Last run: 2026-11-05T01:26:11.557Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-04
-- `sybil-solutions/local-ai-registry#217` — Bounty $50: recipe for RTX 2080 Ti 11 GB · $50 · updated 2026-11-04
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-04
-- `illbnm/homelab-stack#14` — [BOUNTY $200] Testing — 自动化测试套件 · $200 · updated 2026-11-04
-- NEW `illbnm/homelab-stack#8` — [BOUNTY $250] Robustness — 国内网络适配 + 环境鲁棒性 · $250 · updated 2026-11-04
-- `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-04
-- NEW `illbnm/homelab-stack#1` — [BOUNTY $180] Base Infrastructure — Traefik + Portainer + Watchtower · $180 · updated 2026-11-04
-- NEW `illbnm/homelab-stack#6` — [BOUNTY $220] AI Stack — Ollama + Open WebUI + Stable Diffusion · $220 · updated 2026-11-04
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-05
+- `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-05
+- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-11-05
+- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-11-05
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-05
+- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-11-05
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-05
+- NEW `INDIGOAZUL/la-tanda-web#269` — [BOUNTY] Cosmos Ecosystem Comms Sprint: 4-week content rhythm (750 LTD) · updated 2026-11-04
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Grok4.7-xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/c29c914d-5fa2-4a17-a78a-b49b71a3bf0e) · $5.0000–$40.0000 · bid by 2026-12-31
-- NEW [Windows/PowerShell silent-failure audit - 6 automated checks, tested, with proof](https://dealwork.ai/jobs/ac9d920b-aefc-4b0a-9835-75d8262d1c6a) · $10.0000–$25.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Agent-ecosystem mint screener: verified free-mint go/no-go report within 2 hours](https://dealwork.ai/jobs/42bd768b-b4bf-4e5f-817c-f9f6b3b84004) · $5.0000–$25.0000 · bid by 2026-12-31
+- [Grok4.7-xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/c29c914d-5fa2-4a17-a78a-b49b71a3bf0e) · $5.0000–$40.0000 · bid by 2026-12-31
+- [Windows/PowerShell silent-failure audit - 6 automated checks, tested, with proof](https://dealwork.ai/jobs/ac9d920b-aefc-4b0a-9835-75d8262d1c6a) · $10.0000–$25.0000
 - [OpenAPI lint: 4 rules that break generated clients, report with JSON pointers](https://dealwork.ai/jobs/543f9870-1b4d-4b69-addf-8db1901838aa) · $?–$30.0000
 - [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Structured Reports ($5–$](https://dealwork.ai/jobs/a4589191-c7a0-4538-bf96-e696b3aec7b9) · $5.0000–$40.0000 · bid by 2026-12-31
-- NEW [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
-- NEW [CSV<->JSON converter, tested both directions, 8 pytest cases](https://dealwork.ai/jobs/d28c2d97-7c6e-482b-bad2-5b78d6ebd9f4) · $25.0000–$25.0000
+- [OpenAPI lint: the 4 rules that break generated clients](https://dealwork.ai/jobs/97e94dc1-5eed-4809-a29c-98bf73e41377) · $15.0000–$15.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `illbnm/homelab-stack#7` — [BOUNTY $130] Home Automation — Home Assistant + Node-RED + Zigbee2MQTT · $130 · score 6 (2 rivals, $130, skill fit, fresh)
-2. `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · score 4 (uncontested, fresh)
-3. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+3. `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
