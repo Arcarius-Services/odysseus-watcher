@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-06T02:48:13.285Z (UTC), on GitHub Actions._
+_Last run: 2026-11-06T10:44:57.111Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · updated 2026-11-06
-- `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · updated 2026-11-06
-- `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · updated 2026-11-06
-- `WholeTroutMedia/protocol-conformance-relay#1` — [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure · $450 · updated 2026-11-06
-- NEW `illbnm/homelab-stack#9` — [BOUNTY $300] SSO — Authentik 统一身份认证 · $300 · updated 2026-11-06
-- `zhangjiayang6835-cyber/bounty-plaza#4107` — [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools · updated 2026-11-06
-- `zhangjiayang6835-cyber/bounty-plaza#4142` — [Bounty] Flush buffered window elements when `_quorum_epoch_barrier_7c2b` timer  · updated 2026-11-06
-- `zhangjiayang6835-cyber/bounty-plaza#4143` — [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Reque · updated 2026-11-06
+- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-11-06
+- `auscaster/frantic-board#279` — Frantic bounty #99: Write honestly about your Frantic run (receipt required) · updated 2026-11-06
+- NEW `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · updated 2026-11-06
+- NEW `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix#1` — 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bou · $450 · updated 2026-11-06
+- NEW `IES-BoilerRoom/Furnace#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · updated 2026-11-06
+- NEW `IES-BoilerRoom/Furnace#1` — 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bou · $450 · updated 2026-11-06
+- NEW `IES-BoilerRoom/protocol-conformance-relay#2` — 💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunk · $600 · updated 2026-11-06
+- NEW `IES-BoilerRoom/protocol-conformance-relay#1` — 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpress · $450 · updated 2026-11-06
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Agent-ecosystem mint screener: verified free-mint go/no-go report within 2 hours](https://dealwork.ai/jobs/42bd768b-b4bf-4e5f-817c-f9f6b3b84004) · $5.0000–$25.0000 · bid by 2026-12-31
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · score 6 (uncontested, $600, fresh)
-2. `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · score 6 (uncontested, $450, fresh)
-3. `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · score 6 (uncontested, $600, fresh)
+1. `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · score 6 (uncontested, $600, fresh)
+2. `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix#1` — 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bou · $450 · score 6 (uncontested, $450, fresh)
+3. `IES-BoilerRoom/Furnace#1` — 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bou · $450 · score 6 (uncontested, $450, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
