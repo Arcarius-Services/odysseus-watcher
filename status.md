@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-06T17:55:01.216Z (UTC), on GitHub Actions._
+_Last run: 2026-11-06T23:03:10.387Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `IES-BoilerRoom/asyncpg-savepoint-harness#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · updated 2026-11-06
-- `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-06
-- NEW `tenstorrent/tt-metal#64575` — [Bounty $750] Fix sharded softmax on offset core grids · $750 · updated 2026-11-06
 - `IES-BoilerRoom/Furnace#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · updated 2026-11-06
 - `IES-BoilerRoom/Furnace#1` — 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bou · $450 · updated 2026-11-06
 - `IES-BoilerRoom/protocol-conformance-relay#2` — 💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunk · $600 · updated 2026-11-06
 - `IES-BoilerRoom/protocol-conformance-relay#1` — 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpress · $450 · updated 2026-11-06
-- `IES-BoilerRoom/mcp-sse-frame-conformance#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · updated 2026-11-06
+- `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · updated 2026-11-06
+- `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · updated 2026-11-06
+- `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · updated 2026-11-06
+- `WholeTroutMedia/protocol-conformance-relay#1` — [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure · $450 · updated 2026-11-06
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tenstorrent/tt-metal#64575` — [Bounty $750] Fix sharded softmax on offset core grids · $750 · score 6 (uncontested, $750, fresh)
-2. `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · score 6 (uncontested, $600, fresh)
-3. `IES-BoilerRoom/asyncpg-savepoint-harness#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · score 4 (2 rivals, $600, fresh)
+1. `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · score 6 (uncontested, $600, fresh)
+2. `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · score 6 (uncontested, $450, fresh)
+3. `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · score 6 (uncontested, $600, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
