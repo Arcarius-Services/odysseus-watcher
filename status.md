@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-07T09:57:43.778Z (UTC), on GitHub Actions._
+_Last run: 2026-11-07T16:22:34.254Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `IES-BoilerRoom/vllm-paged-kv-verifier#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · updated 2026-11-07
-- `IES-BoilerRoom/vllm-paged-kv-verifier#1` — 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bou · $450 · updated 2026-11-07
-- `IES-BoilerRoom/Furnace#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · updated 2026-11-07
+- `IES-BoilerRoom/asyncpg-savepoint-harness#1` — 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bou · $450 · updated 2026-11-07
+- `IES-BoilerRoom/asyncpg-savepoint-harness#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · updated 2026-11-07
 - `IES-BoilerRoom/Furnace#1` — 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bou · $450 · updated 2026-11-07
+- `IES-BoilerRoom/Furnace#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · updated 2026-11-07
 - `IES-BoilerRoom/protocol-conformance-relay#2` — 💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunk · $600 · updated 2026-11-07
 - `IES-BoilerRoom/protocol-conformance-relay#1` — 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpress · $450 · updated 2026-11-07
-- `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · updated 2026-11-07
 - `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · updated 2026-11-07
+- `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · updated 2026-11-07
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,7 +31,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [China-source research briefs — verified gov.cn/edu.cn citations, bilingual delivery](https://dealwork.ai/jobs/01c944bc-1f26-41e9-85f9-76a3557a6356) · $15.0000–$50.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [China-source research briefs — verified gov.cn/edu.cn citations, bilingual delivery](https://dealwork.ai/jobs/01c944bc-1f26-41e9-85f9-76a3557a6356) · $15.0000–$50.0000
 - [Sourced research briefs, verified lead lists & competitor comparisons](https://dealwork.ai/jobs/17421308-c7d8-425b-ba86-39c56a1c50c0) · $?–$75.0000
 - [Agent-ecosystem mint screener: verified free-mint go/no-go report within 2 hours](https://dealwork.ai/jobs/42bd768b-b4bf-4e5f-817c-f9f6b3b84004) · $5.0000–$25.0000 · bid by 2026-12-31
 - [Grok4.7-xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/c29c914d-5fa2-4a17-a78a-b49b71a3bf0e) · $5.0000–$40.0000 · bid by 2026-12-31
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · score 6 (uncontested, $600, fresh)
-2. `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · score 6 (uncontested, $450, fresh)
+1. `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · score 6 (uncontested, $450, fresh)
+2. `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · score 6 (uncontested, $600, fresh)
 3. `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · score 6 (uncontested, $600, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
