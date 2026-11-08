@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-08T13:14:58.913Z (UTC), on GitHub Actions._
+_Last run: 2026-11-08T18:29:00.843Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,19 +14,19 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1359` — [radar] SN open bounty 2026-11-08T13:13 · updated 2026-11-08
-- NEW `PhanKhoa95/oss-bot-trap-benchmark#5` — [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le · $450 · updated 2026-11-08
-- `PhanKhoa95/oss-bot-trap-benchmark#48` — [Bounty $1,200] security(validator): reject float and bool sequence inputs in co · $1,200 · updated 2026-11-08
-- `PhanKhoa95/oss-bot-trap-benchmark#20` — [Bounty $750] feat(validator): support custom step_size in verify_sequence_gap · $750 · updated 2026-11-08
-- `PhanKhoa95/oss-bot-trap-benchmark#49` — [Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq · $1,100 · updated 2026-11-08
-- `PhanKhoa95/oss-bot-trap-benchmark#44` — [Bounty $900] perf(validator): replace floor division with bitwise mask in compu · $900 · updated 2026-11-08
-- NEW `PhanKhoa95/oss-bot-trap-benchmark#16` — [Bounty $350] docs(validator): add docstring usage examples for verify_sequence_ · $350 · updated 2026-11-08
-- `PhanKhoa95/oss-bot-trap-benchmark#21` — [Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub  · $850 · updated 2026-11-08
+- NEW `PhanKhoa95/oss-bot-trap-benchmark#9` — [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in  · $500 · updated 2026-11-08
+- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-08
+- `tari-project/universe#3492` — MCP server: no error shown when the configured port is already in use · updated 2026-11-08
+- NEW `FreezingMoon/AncientBeast#2704` — Undo Move mechanic [bounty: 222 XTR] · updated 2026-11-08
+- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-11-08
+- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-08
+- NEW `SolFoundry/solfoundry#830` — 🏭 Bounty T1: Getting Started Tutorial Blog Post · updated 2026-11-08
+- `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-08
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `PhanKhoa95/oss-bot-trap-benchmark#5` — [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le · $450 · score 8 (uncontested, $450, skill fit, fresh)
-2. `PhanKhoa95/oss-bot-trap-benchmark#20` — [Bounty $750] feat(validator): support custom step_size in verify_sequence_gap · $750 · score 6 (uncontested, $750, fresh)
-3. `PhanKhoa95/oss-bot-trap-benchmark#49` — [Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq · $1,100 · score 6 (1 rival, $1,100, skill fit, fresh)
+1. `PhanKhoa95/oss-bot-trap-benchmark#9` — [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in  · $500 · score 4 (1 rival, $500, fresh)
+2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
