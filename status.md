@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-08T18:29:00.843Z (UTC), on GitHub Actions._
+_Last run: 2026-11-08T22:27:34.023Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `PhanKhoa95/oss-bot-trap-benchmark#9` — [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in  · $500 · updated 2026-11-08
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-08
-- `tari-project/universe#3492` — MCP server: no error shown when the configured port is already in use · updated 2026-11-08
-- NEW `FreezingMoon/AncientBeast#2704` — Undo Move mechanic [bounty: 222 XTR] · updated 2026-11-08
-- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-11-08
-- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-08
-- NEW `SolFoundry/solfoundry#830` — 🏭 Bounty T1: Getting Started Tutorial Blog Post · updated 2026-11-08
-- `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-08
+- `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · updated 2026-11-08
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-08
+- NEW `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-11-08
+- NEW `Reqrefusion/FreeCAD-Documentation-Project#30` — Adding missing information to Release_notes_26.3 page. · updated 2026-11-08
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-08
+- NEW `weilixiong/TentOfTrials#5` — [$25 BOUNTY] [Python] Add independent log parser fixtures · $25 · updated 2026-11-08
+- `SolFoundry/solfoundry#830` — 🏭 Bounty T1: Getting Started Tutorial Blog Post · updated 2026-11-08
+- `tari-project/universe#3494` — Scheduled mining window doesn't apply its mode when mining is already running · updated 2026-11-08
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/d19e8890-5a4d-4b66-b38b-f635d7b5bb2c) · $5.0000–$40.0000 · bid by 2026-12-31
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `PhanKhoa95/oss-bot-trap-benchmark#9` — [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in  · $500 · score 4 (1 rival, $500, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · score 4 (uncontested, fresh)
+3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
