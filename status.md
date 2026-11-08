@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-08T05:53:24.525Z (UTC), on GitHub Actions._
+_Last run: 2026-11-08T13:14:58.913Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,19 +14,19 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `tari-project/universe#3489` — Linux Flatpak: copy to clipboard silently fails under Wayland (no X11 in sandbox · updated 2026-11-08
-- `IES-BoilerRoom/protocol-conformance-relay#1` — 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpress · $450 · updated 2026-11-08
-- NEW `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · updated 2026-11-08
-- NEW `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · updated 2026-11-08
-- NEW `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · updated 2026-11-08
-- NEW `WholeTroutMedia/protocol-conformance-relay#1` — [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure · $450 · updated 2026-11-08
-- `IES-BoilerRoom/vllm-paged-kv-verifier#2` — 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Blo · $600 · updated 2026-11-08
-- `IES-BoilerRoom/vllm-paged-kv-verifier#1` — 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bou · $450 · updated 2026-11-08
+- NEW `relayhop/sn-monetization-runtime#1359` — [radar] SN open bounty 2026-11-08T13:13 · updated 2026-11-08
+- NEW `PhanKhoa95/oss-bot-trap-benchmark#5` — [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le · $450 · updated 2026-11-08
+- `PhanKhoa95/oss-bot-trap-benchmark#48` — [Bounty $1,200] security(validator): reject float and bool sequence inputs in co · $1,200 · updated 2026-11-08
+- `PhanKhoa95/oss-bot-trap-benchmark#20` — [Bounty $750] feat(validator): support custom step_size in verify_sequence_gap · $750 · updated 2026-11-08
+- `PhanKhoa95/oss-bot-trap-benchmark#49` — [Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq · $1,100 · updated 2026-11-08
+- `PhanKhoa95/oss-bot-trap-benchmark#44` — [Bounty $900] perf(validator): replace floor division with bitwise mask in compu · $900 · updated 2026-11-08
+- NEW `PhanKhoa95/oss-bot-trap-benchmark#16` — [Bounty $350] docs(validator): add docstring usage examples for verify_sequence_ · $350 · updated 2026-11-08
+- `PhanKhoa95/oss-bot-trap-benchmark#21` — [Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub  · $850 · updated 2026-11-08
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · score 6 (uncontested, $600, fresh)
-2. `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · score 6 (uncontested, $450, fresh)
-3. `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · score 6 (uncontested, $600, fresh)
+1. `PhanKhoa95/oss-bot-trap-benchmark#5` — [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le · $450 · score 8 (uncontested, $450, skill fit, fresh)
+2. `PhanKhoa95/oss-bot-trap-benchmark#20` — [Bounty $750] feat(validator): support custom step_size in verify_sequence_gap · $750 · score 6 (uncontested, $750, fresh)
+3. `PhanKhoa95/oss-bot-trap-benchmark#49` — [Bounty $1,100] test(validator): add boundary regression test for seq=63 and seq · $1,100 · score 6 (1 rival, $1,100, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
