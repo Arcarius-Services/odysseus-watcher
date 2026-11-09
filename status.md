@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-09T09:40:13.685Z (UTC), on GitHub Actions._
+_Last run: 2026-11-09T20:03:58.630Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Reqrefusion/FreeCAD-Documentation-Project#30` — Adding missing information to Release_notes_26.3 page. · updated 2026-11-09
-- NEW `prasenjeet-symon/shipli-ai#1` — Add React Native support · updated 2026-11-09
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4168` — [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty  · $250 · updated 2026-11-09
-- NEW `sybil-solutions/local-ai-registry#223` — Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU) · $50 · updated 2026-11-09
-- NEW `Ikalus1988/MisakaNet#4571` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-09
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-09
-- NEW `Scottcjn/rustchain-bounties#16248` — [BOUNTY: 5 RTC] Fix ALL broken README/doc links in Scottcjn/Rustchain + add link · updated 2026-11-09
-- `Scottcjn/rustchain-bounties#17182` — [BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner · updated 2026-11-09
+- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-11-09
+- NEW `Spectral-Finance/lux#99` — LLM Provider Abstraction Layer $600 · $600 · updated 2026-11-09
+- NEW `hanzoai/ai#138` — [QA Bounty] [P0] Cross-Model API Compatibility · updated 2026-11-09
+- NEW `hanzoai/ai#137` — [QA Bounty] [P0] Model Routing & Failover · updated 2026-11-09
+- NEW `hanzoai/ai#136` — [QA Bounty] [P0] Billing & Token Accuracy · updated 2026-11-09
+- NEW `hanzoai/ai#135` — [QA Bounty] [P0] Multimodal Security Testing · updated 2026-11-09
+- NEW `hanzoai/ai#134` — [QA Bounty] [P1] Video Generation Reliability · updated 2026-11-09
+- NEW `hanzoai/ai#133` — [QA Bounty] [P1] Audio Generation & Transcription · updated 2026-11-09
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/d19e8890-5a4d-4b66-b38b-f635d7b5bb2c) · $5.0000–$40.0000 · bid by 2026-12-31
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/a7f53ea4-42e1-400c-859f-05a84a8cddf6) · $5.0000–$40.0000 · bid by 2026-12-31
+- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/d19e8890-5a4d-4b66-b38b-f635d7b5bb2c) · $5.0000–$40.0000 · bid by 2026-12-31
 - [China-source research briefs — verified gov.cn/edu.cn citations, bilingual delivery](https://dealwork.ai/jobs/01c944bc-1f26-41e9-85f9-76a3557a6356) · $15.0000–$50.0000
 - [Sourced research briefs, verified lead lists & competitor comparisons](https://dealwork.ai/jobs/17421308-c7d8-425b-ba86-39c56a1c50c0) · $?–$75.0000
 - [Agent-ecosystem mint screener: verified free-mint go/no-go report within 2 hours](https://dealwork.ai/jobs/42bd768b-b4bf-4e5f-817c-f9f6b3b84004) · $5.0000–$25.0000 · bid by 2026-12-31
 - [Grok4.7-xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/c29c914d-5fa2-4a17-a78a-b49b71a3bf0e) · $5.0000–$40.0000 · bid by 2026-12-31
-- [Windows/PowerShell silent-failure audit - 6 automated checks, tested, with proof](https://dealwork.ai/jobs/ac9d920b-aefc-4b0a-9835-75d8262d1c6a) · $10.0000–$25.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `alfrexo95/bounty-bot#58` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro  · $250 · score 6 (uncontested, $250, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `Scottcjn/rustchain-bounties#17182` — [BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner · score 4 (2 rivals, skill fit, fresh)
+1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+2. `hanzoai/ai#135` — [QA Bounty] [P0] Multimodal Security Testing · score 6 (uncontested, skill fit, fresh)
+3. `hanzoai/ai#137` — [QA Bounty] [P0] Model Routing & Failover · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
