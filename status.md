@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-09T01:56:34.205Z (UTC), on GitHub Actions._
+_Last run: 2026-11-09T09:40:13.685Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-11-09
-- `Scottcjn/rustchain-bounties#17181` — [BOUNTY: 15 RTC] Python SDK CLI has zero tests — add a Click CliRunner suite for · updated 2026-11-09
 - `Reqrefusion/FreeCAD-Documentation-Project#30` — Adding missing information to Release_notes_26.3 page. · updated 2026-11-09
+- NEW `prasenjeet-symon/shipli-ai#1` — Add React Native support · updated 2026-11-09
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4168` — [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty  · $250 · updated 2026-11-09
+- NEW `sybil-solutions/local-ai-registry#223` — Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU) · $50 · updated 2026-11-09
+- NEW `Ikalus1988/MisakaNet#4571` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-09
 - `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-09
-- `Scottcjn/rustchain-bounties#17180` — [BOUNTY: 25 RTC] Node liveness checks must validate the /health BODY, not just H · updated 2026-11-09
-- NEW `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-11-09
-- `Scottcjn/rustchain-bounties#17184` — [BOUNTY: 20 RTC] Catalog provider agent: list real work on the node /catalog, fu · updated 2026-11-09
-- NEW `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-11-08
+- NEW `Scottcjn/rustchain-bounties#16248` — [BOUNTY: 5 RTC] Fix ALL broken README/doc links in Scottcjn/Rustchain + add link · updated 2026-11-09
+- `Scottcjn/rustchain-bounties#17182` — [BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner · updated 2026-11-09
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
-3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+1. `alfrexo95/bounty-bot#58` — 💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro  · $250 · score 6 (uncontested, $250, fresh)
+2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
+3. `Scottcjn/rustchain-bounties#17182` — [BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner · score 4 (2 rivals, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
