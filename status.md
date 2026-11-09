@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-08T22:27:34.023Z (UTC), on GitHub Actions._
+_Last run: 2026-11-09T01:56:34.205Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,21 +14,21 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · updated 2026-11-08
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-08
-- NEW `Scottcjn/rustchain-bounties#58` — [BOUNTY] 🔴 Red Team: Cross-Node Consensus Attacks (100 RTC) · updated 2026-11-08
-- NEW `Reqrefusion/FreeCAD-Documentation-Project#30` — Adding missing information to Release_notes_26.3 page. · updated 2026-11-08
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-08
-- NEW `weilixiong/TentOfTrials#5` — [$25 BOUNTY] [Python] Add independent log parser fixtures · $25 · updated 2026-11-08
-- `SolFoundry/solfoundry#830` — 🏭 Bounty T1: Getting Started Tutorial Blog Post · updated 2026-11-08
-- `tari-project/universe#3494` — Scheduled mining window doesn't apply its mode when mining is already running · updated 2026-11-08
+- NEW `Scottcjn/rustchain-bounties#13949` — [EASY BOUNTY: 2 RTC] Add a RustChain Badge to Any Project README · updated 2026-11-09
+- `Scottcjn/rustchain-bounties#17181` — [BOUNTY: 15 RTC] Python SDK CLI has zero tests — add a Click CliRunner suite for · updated 2026-11-09
+- `Reqrefusion/FreeCAD-Documentation-Project#30` — Adding missing information to Release_notes_26.3 page. · updated 2026-11-09
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-09
+- `Scottcjn/rustchain-bounties#17180` — [BOUNTY: 25 RTC] Node liveness checks must validate the /health BODY, not just H · updated 2026-11-09
+- NEW `hanzoai/agents#9` — Honor the lines argument in MCPManager.Logs · updated 2026-11-09
+- `Scottcjn/rustchain-bounties#17184` — [BOUNTY: 20 RTC] Catalog provider agent: list real work on the node /catalog, fu · updated 2026-11-09
+- NEW `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-11-08
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/d19e8890-5a4d-4b66-b38b-f635d7b5bb2c) · $5.0000–$40.0000 · bid by 2026-12-31
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
 3. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
