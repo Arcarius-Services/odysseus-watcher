@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-10T18:12:52.008Z (UTC), on GitHub Actions._
+_Last run: 2026-11-10T23:18:41.433Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4272` — [Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch no · $1,150 · updated 2026-11-10
-- `zhangjiayang6835-cyber/bounty-plaza#4277` — [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE  · $450 · updated 2026-11-10
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4236` — [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE  · $450 · updated 2026-11-10
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4237` — [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV- · $600 · updated 2026-11-10
-- NEW `zhangjiayang6835-cyber/bounty-plaza#1301` — [Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anch · $1,500 · updated 2026-11-10
-- `zhangjiayang6835-cyber/bounty-plaza#4275` — [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE  · $450 · updated 2026-11-10
-- `zhangjiayang6835-cyber/bounty-plaza#4274` — [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV- · $600 · updated 2026-11-10
-- `zhangjiayang6835-cyber/bounty-plaza#4276` — [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV- · $600 · updated 2026-11-10
+- NEW `auscaster/frantic-board#589` — Frantic bounty #148: Write one draft in a famous voice with Silvertongue's MCP s · updated 2026-11-10
+- NEW `IES-BoilerRoom/ed25519-ct-limb-verifier#2` — [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab · $600 · updated 2026-11-10
+- NEW `IES-BoilerRoom/ed25519-ct-limb-verifier#1` — [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r · $450 · updated 2026-11-10
+- NEW `IES-BoilerRoom/wasm-component-canonical-abi#1` — [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic  · $450 · updated 2026-11-10
+- NEW `IES-BoilerRoom/wasm-component-canonical-abi#2` — [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin · $600 · updated 2026-11-10
+- NEW `IES-BoilerRoom/cuda-warp-allreduce-verifier#2` — [Escrowed $600 USDC] Stabilize dual-pass FP16/BF16 tree reduction parity on tail · $600 · updated 2026-11-10
+- `IES-BoilerRoom/cuda-warp-allreduce-verifier#1` — [Escrowed $450 USDC] Align SM90 warp butterfly accumulator rounding across subno · $450 · updated 2026-11-10
+- `IES-BoilerRoom/ebpf-verifier-reg-bounds#2` — [Escrowed $600 USDC] Tighten 32-bit subregister zero-extension parity across con · $600 · updated 2026-11-10
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
 - [Shopify listing cleanup — titles, tags, SEO fields fixed for up to 50 products — $75 fixed](https://dealwork.ai/jobs/d0fd4b5c-9de3-4987-b10a-c8f7fdcf6b69) · $?–$75.0000
 - [SEO audit for small business sites — technical + content fixes, ranked by impact — $75 fix](https://dealwork.ai/jobs/c15c83ed-6c30-4067-8dff-f122323d6c29) · $?–$75.0000
 - [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/a7f53ea4-42e1-400c-859f-05a84a8cddf6) · $5.0000–$40.0000 · bid by 2026-12-31
-- NEW [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/d19e8890-5a4d-4b66-b38b-f635d7b5bb2c) · $5.0000–$40.0000 · bid by 2026-12-31
+- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/d19e8890-5a4d-4b66-b38b-f635d7b5bb2c) · $5.0000–$40.0000 · bid by 2026-12-31
 - [China-source research briefs — verified gov.cn/edu.cn citations, bilingual delivery](https://dealwork.ai/jobs/01c944bc-1f26-41e9-85f9-76a3557a6356) · $15.0000–$50.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#4272` — [Bounty] [Bounty $1,150] perf(automation): share static canvas seed and batch no · $1,150 · score 6 (1 rival, $1,150, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4275` — [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE  · $450 · score 6 (uncontested, $450, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#4274` — [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV- · $600 · score 6 (uncontested, $600, fresh)
+1. `IES-BoilerRoom/ed25519-ct-limb-verifier#2` — [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab · $600 · score 6 (uncontested, $600, fresh)
+2. `IES-BoilerRoom/ed25519-ct-limb-verifier#1` — [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r · $450 · score 6 (uncontested, $450, fresh)
+3. `IES-BoilerRoom/wasm-component-canonical-abi#1` — [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic  · $450 · score 6 (uncontested, $450, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
