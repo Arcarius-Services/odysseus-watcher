@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-11T10:46:38.866Z (UTC), on GitHub Actions._
+_Last run: 2026-11-11T18:38:15.615Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,35 +14,35 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#589` — Frantic bounty #148: Write one draft in a famous voice with Silvertongue's MCP s · updated 2026-11-11
-- NEW `Scottcjn/rustchain-bounties#17181` — [BOUNTY: 15 RTC] Python SDK CLI has zero tests — add a Click CliRunner suite for · updated 2026-11-11
-- `IES-BoilerRoom/cuda-warp-allreduce-verifier#2` — [Escrowed $600 USDC] Stabilize dual-pass FP16/BF16 tree reduction parity on tail · $600 · updated 2026-11-11
-- `PhanKhoa95/oss-bot-trap-benchmark#69` — [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/qu · $1,400 · updated 2026-11-11
-- NEW `tari-project/universe#3494` — Scheduled mining window doesn't apply its mode when mining is already running · updated 2026-11-11
-- `Ikalus1988/MisakaNet#4642` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-11
-- NEW `Scottcjn/rustchain-bounties#16471` — [BOUNTY: 35 RTC + 10/defect] Audit the payout pipeline for silent-success failur · updated 2026-11-11
-- NEW `Scottcjn/rustchain-bounties#16271` — [BOUNTY: 35 RTC] Harden x86 vintage-arch reward validation (anti-spoof) · updated 2026-11-11
+- NEW `skndash96/bountic#12` — Feature Request: Multiple PR contributors payout distribution · updated 2026-11-11
+- `coreguard-global/CoreGuard#31` — Community bounties & contributor program (open call) · updated 2026-11-11
+- NEW `Kristywvs22/gin#1` — 🎯 Fix Data Race in (*Context).Copy() by Shallow Copying the Keys Map · updated 2026-11-11
+- NEW `Bitcoindefi/OpenAO#25` — Etapa 5: flujo de propuesta y moderacion de mapas de usuario · updated 2026-11-11
+- NEW `mergeos-bounties/mergeos#1` — Claim MRG Tokens for Bug Bounty Reports - Comment New Bugs Here Before Opening a · updated 2026-11-11
+- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-11
+- NEW `VARUN3WARE/textkit-bounty#4` — word_count() miscounts extra whitespace · updated 2026-11-11
+- NEW `VARUN3WARE/textkit-bounty#3` — parse_duration() ignores seconds · updated 2026-11-11
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Quietforge — Sourced Research Briefs, Competitive Analysis & Fact-Checking ($5-$40)](https://dealwork.ai/jobs/0a480d62-66a1-4122-bc95-5ef875c4ab26) · $5.0000–$40.0000 · bid by 2026-12-31
+- NEW [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/e76cd6b2-bbdd-479f-a008-9eae16ea461a) · $5.0000–$40.0000 · bid by 2026-12-31
+- [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
 - [Shopify listing cleanup — titles, tags, SEO fields fixed for up to 50 products — $75 fixed](https://dealwork.ai/jobs/d0fd4b5c-9de3-4987-b10a-c8f7fdcf6b69) · $?–$75.0000
 - [SEO audit for small business sites — technical + content fixes, ranked by impact — $75 fix](https://dealwork.ai/jobs/c15c83ed-6c30-4067-8dff-f122323d6c29) · $?–$75.0000
 - [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/a7f53ea4-42e1-400c-859f-05a84a8cddf6) · $5.0000–$40.0000 · bid by 2026-12-31
-- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/d19e8890-5a4d-4b66-b38b-f635d7b5bb2c) · $5.0000–$40.0000 · bid by 2026-12-31
-- [China-source research briefs — verified gov.cn/edu.cn citations, bilingual delivery](https://dealwork.ai/jobs/01c944bc-1f26-41e9-85f9-76a3557a6356) · $15.0000–$50.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#589` — Frantic bounty #148: Write one draft in a famous voice with Silvertongue's MCP s · score 4 (uncontested, fresh)
-2. `IES-BoilerRoom/cuda-warp-allreduce-verifier#2` — [Escrowed $600 USDC] Stabilize dual-pass FP16/BF16 tree reduction parity on tail · $600 · score 4 (1 rival, $600, fresh)
-3. `PhanKhoa95/oss-bot-trap-benchmark#69` — [Bounty $1,400] perf(dex): optimize constant-product AMM swap fee math in src/qu · $1,400 · score 4 (1 rival, $1,400, fresh)
+1. `coreguard-global/CoreGuard#31` — Community bounties & contributor program (open call) · score 4 (uncontested, fresh)
+2. `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · score 2 (4 rivals — crowded, $50, skill fit, fresh)
+3. `VARUN3WARE/textkit-bounty#4` — word_count() miscounts extra whitespace · score 2 (1 rival, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
