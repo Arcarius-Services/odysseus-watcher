@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-10T23:18:41.433Z (UTC), on GitHub Actions._
+_Last run: 2026-11-11T02:58:44.696Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,19 +14,19 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `auscaster/frantic-board#589` — Frantic bounty #148: Write one draft in a famous voice with Silvertongue's MCP s · updated 2026-11-10
-- NEW `IES-BoilerRoom/ed25519-ct-limb-verifier#2` — [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab · $600 · updated 2026-11-10
-- NEW `IES-BoilerRoom/ed25519-ct-limb-verifier#1` — [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r · $450 · updated 2026-11-10
-- NEW `IES-BoilerRoom/wasm-component-canonical-abi#1` — [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic  · $450 · updated 2026-11-10
-- NEW `IES-BoilerRoom/wasm-component-canonical-abi#2` — [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin · $600 · updated 2026-11-10
-- NEW `IES-BoilerRoom/cuda-warp-allreduce-verifier#2` — [Escrowed $600 USDC] Stabilize dual-pass FP16/BF16 tree reduction parity on tail · $600 · updated 2026-11-10
-- `IES-BoilerRoom/cuda-warp-allreduce-verifier#1` — [Escrowed $450 USDC] Align SM90 warp butterfly accumulator rounding across subno · $450 · updated 2026-11-10
-- `IES-BoilerRoom/ebpf-verifier-reg-bounds#2` — [Escrowed $600 USDC] Tighten 32-bit subregister zero-extension parity across con · $600 · updated 2026-11-10
+- `WholeTroutMedia/protocol-conformance-relay#1` — [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure · $450 · updated 2026-11-11
+- `IES-BoilerRoom/wasm-component-canonical-abi#1` — [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic  · $450 · updated 2026-11-11
+- `auscaster/frantic-board#589` — Frantic bounty #148: Write one draft in a famous voice with Silvertongue's MCP s · updated 2026-11-11
+- NEW `tari-project/universe#3518` — L2 menu opens PIN setup while L1 wallet is loading, even when a PIN is already s · updated 2026-11-11
+- `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · updated 2026-11-11
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4302` — [Bounty] 🪙 Bounty: Improve project documentation · updated 2026-11-11
+- `WholeTroutMedia/agent-conformance-quarantine#1` — [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda · $450 · updated 2026-11-11
+- `Ikalus1988/MisakaNet#4571` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-11
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `IES-BoilerRoom/ed25519-ct-limb-verifier#2` — [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab · $600 · score 6 (uncontested, $600, fresh)
-2. `IES-BoilerRoom/ed25519-ct-limb-verifier#1` — [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r · $450 · score 6 (uncontested, $450, fresh)
-3. `IES-BoilerRoom/wasm-component-canonical-abi#1` — [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic  · $450 · score 6 (uncontested, $450, fresh)
+1. `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · score 6 (uncontested, $600, fresh)
+2. `WholeTroutMedia/protocol-conformance-relay#1` — [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure · $450 · score 4 (1 rival, $450, fresh)
+3. `IES-BoilerRoom/wasm-component-canonical-abi#1` — [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic  · $450 · score 4 (1 rival, $450, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
