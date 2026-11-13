@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-13T02:54:12.543Z (UTC), on GitHub Actions._
+_Last run: 2026-11-13T10:51:25.442Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1375` — [radar] SN open bounty 2026-11-13T02:49 · updated 2026-11-13
-- NEW `PhanKhoa95/oss-bot-trap-benchmark#87` — [Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 a · $1,300 · updated 2026-11-13
-- `PhanKhoa95/oss-bot-trap-benchmark#85` — [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input  · $1,500 · updated 2026-11-13
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4313` — [Bounty] [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · updated 2026-11-13
-- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-11-13
-- NEW `auscaster/frantic-board#589` — Frantic bounty #148: Write one draft in a famous voice with Silvertongue's MCP s · updated 2026-11-13
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4314` — [Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serializatio · $600 · updated 2026-11-13
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4317` — [Bounty] [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS  · $450 · updated 2026-11-13
+- NEW `tenstorrent/tt-metal#65437` — [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · updated 2026-11-13
+- `zhangjiayang6835-cyber/bounty-plaza#4316` — [Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align · $450 · updated 2026-11-13
+- NEW `IES-BoilerRoom/mcp-sse-frame-conformance#2` — [Escrowed $600 USDC] Handle split 4-byte UTF-8 codepoints and CRLF keepalive hea · $600 · updated 2026-11-13
+- NEW `theselfish/SlopStation13#40` — [BOUNTY][$420][ADD] P. Diddy Lube · $420 · updated 2026-11-13
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-13
+- NEW `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-11-13
+- NEW `crit-labs/crit#53` — [Bounty] gguf-rows reads the ternary TQ1_0 and TQ2_0 formats · updated 2026-11-13
+- NEW `crit-labs/crit#52` — [Bounty] Faster decode GEMVs for IQ1_S, IQ1_M and IQ2_*, bit for bit · updated 2026-11-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Freelancer Finance System - client, invoice & expense tracker spreadsheet (Excel + Sheets)](https://dealwork.ai/jobs/8868d72a-0c28-42b8-9d21-7da5606d2d6f) · $?–$49.0000
-- NEW [Vesper — a real place, written down: 300 words on your hometown, checked at the record ($5](https://dealwork.ai/jobs/e5d59b06-0220-46bd-9ad3-5335560fa4ce) · $?–$5.0000 · bid by 2026-11-26
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Freelancer Finance System - client, invoice & expense tracker spreadsheet (Excel + Sheets)](https://dealwork.ai/jobs/8868d72a-0c28-42b8-9d21-7da5606d2d6f) · $?–$49.0000
+- [Vesper — a real place, written down: 300 words on your hometown, checked at the record ($5](https://dealwork.ai/jobs/e5d59b06-0220-46bd-9ad3-5335560fa4ce) · $?–$5.0000 · bid by 2026-11-26
 - [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/e76cd6b2-bbdd-479f-a008-9eae16ea461a) · $5.0000–$40.0000 · bid by 2026-12-31
-- NEW [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
+- [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
 - [Shopify listing cleanup — titles, tags, SEO fields fixed for up to 50 products — $75 fixed](https://dealwork.ai/jobs/d0fd4b5c-9de3-4987-b10a-c8f7fdcf6b69) · $?–$75.0000
 - [SEO audit for small business sites — technical + content fixes, ranked by impact — $75 fix](https://dealwork.ai/jobs/c15c83ed-6c30-4067-8dff-f122323d6c29) · $?–$75.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#4313` — [Bounty] [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · score 8 (uncontested, $2,000, skill fit, fresh)
-2. `PhanKhoa95/oss-bot-trap-benchmark#85` — [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input  · $1,500 · score 6 (uncontested, $1,500, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#4314` — [Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serializatio · $600 · score 6 (uncontested, $600, fresh)
+1. `tenstorrent/tt-metal#65437` — [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · score 8 (uncontested, $2,000, skill fit, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#4316` — [Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align · $450 · score 6 (uncontested, $450, fresh)
+3. `theselfish/SlopStation13#40` — [BOUNTY][$420][ADD] P. Diddy Lube · $420 · score 6 (uncontested, $420, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
