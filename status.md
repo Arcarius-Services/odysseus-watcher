@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-13T18:29:32.975Z (UTC), on GitHub Actions._
+_Last run: 2026-11-13T23:50:59.039Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,19 +14,19 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-13
-- NEW `SecureBananaLabs/bug-bounty#1742` — fix: prevent admin role self-assignment during registration · updated 2026-11-13
-- `FreezingMoon/AncientBeast#2004` — ability unit targeting tweaks [bounty: 15 XTR] · updated 2026-11-13
-- NEW `FreezingMoon/AncientBeast#2704` — Undo Move mechanic [bounty: 222 XTR] · updated 2026-11-13
-- NEW `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · updated 2026-11-13
-- NEW `Scottcjn/Rustchain#2239` — RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube · updated 2026-11-13
-- NEW `Ikalus1988/MisakaNet#4801` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-13
-- NEW `Ikalus1988/MisakaNet#4297` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-13
+- `IES-BoilerRoom/bgp-med-oscillation-verifier#1` — [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preferenc · $450 · updated 2026-11-13
+- `tenstorrent/tt-metal#65437` — [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · updated 2026-11-13
+- `IES-BoilerRoom/rfc9421-http-signature-gateway#1` — [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat · $450 · updated 2026-11-13
+- `IES-BoilerRoom/bgp-med-oscillation-verifier#2` — [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe · $600 · updated 2026-11-13
+- `IES-BoilerRoom/rfc9421-http-signature-gateway#2` — [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across  · $600 · updated 2026-11-13
+- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-13
+- `NSPG13/agent-bounties#1632` — Create the first funded bounty for an established open-source project · updated 2026-11-13
+- NEW `NSPG13/agent-bounties#1262` — [DRAFT DIRECT] Make verifier settlement deadline-aware and provider-resilient · updated 2026-11-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tenstorrent/tt-metal#65437` — [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · score 8 (uncontested, $2,000, skill fit, fresh)
-2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
-3. `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · score 4 (uncontested, fresh)
+1. `tenstorrent/tt-metal#65437` — [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · score 6 (1 rival, $2,000, skill fit, fresh)
+2. `IES-BoilerRoom/bgp-med-oscillation-verifier#1` — [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preferenc · $450 · score 4 (1 rival, $450, fresh)
+3. `IES-BoilerRoom/rfc9421-http-signature-gateway#1` — [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat · $450 · score 4 (1 rival, $450, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
