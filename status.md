@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-13T10:51:25.442Z (UTC), on GitHub Actions._
+_Last run: 2026-11-13T18:29:32.975Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,19 +14,19 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `tenstorrent/tt-metal#65437` — [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · updated 2026-11-13
-- `zhangjiayang6835-cyber/bounty-plaza#4316` — [Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align · $450 · updated 2026-11-13
-- NEW `IES-BoilerRoom/mcp-sse-frame-conformance#2` — [Escrowed $600 USDC] Handle split 4-byte UTF-8 codepoints and CRLF keepalive hea · $600 · updated 2026-11-13
-- NEW `theselfish/SlopStation13#40` — [BOUNTY][$420][ADD] P. Diddy Lube · $420 · updated 2026-11-13
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-13
-- NEW `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-11-13
-- NEW `crit-labs/crit#53` — [Bounty] gguf-rows reads the ternary TQ1_0 and TQ2_0 formats · updated 2026-11-13
-- NEW `crit-labs/crit#52` — [Bounty] Faster decode GEMVs for IQ1_S, IQ1_M and IQ2_*, bit for bit · updated 2026-11-13
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-13
+- NEW `SecureBananaLabs/bug-bounty#1742` — fix: prevent admin role self-assignment during registration · updated 2026-11-13
+- `FreezingMoon/AncientBeast#2004` — ability unit targeting tweaks [bounty: 15 XTR] · updated 2026-11-13
+- NEW `FreezingMoon/AncientBeast#2704` — Undo Move mechanic [bounty: 222 XTR] · updated 2026-11-13
+- NEW `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · updated 2026-11-13
+- NEW `Scottcjn/Rustchain#2239` — RIP-310: Social Mining — Earn RTC by Posting on 4claw, Moltbook, and BoTTube · updated 2026-11-13
+- NEW `Ikalus1988/MisakaNet#4801` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-13
+- NEW `Ikalus1988/MisakaNet#4297` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `tenstorrent/tt-metal#65437` — [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · score 8 (uncontested, $2,000, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4316` — [Bounty] [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align · $450 · score 6 (uncontested, $450, fresh)
-3. `theselfish/SlopStation13#40` — [BOUNTY][$420][ADD] P. Diddy Lube · $420 · score 6 (uncontested, $420, fresh)
+2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+3. `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
