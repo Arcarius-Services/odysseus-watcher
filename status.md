@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-12T22:41:32.208Z (UTC), on GitHub Actions._
+_Last run: 2026-11-13T02:54:12.543Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-12
-- NEW `relayhop/sn-monetization-runtime#1373` — [radar] SN open bounty 2026-11-12T22:24 · updated 2026-11-12
-- NEW `janzeerOrg/janzeer-sdk-ts#3` — [20 JNZ] Example: watch new blocks over the WebSocket (newBlocks subscription) · updated 2026-11-12
-- NEW `janzeerOrg/janzeer-sdk-dart#2` — [20 JNZ] Example: watch new blocks over the WebSocket (newBlocks subscription) · updated 2026-11-12
-- NEW `janzeerOrg/janzeer-sdk-kotlin#2` — [20 JNZ] Example: watch new blocks over the WebSocket (newBlocks subscription) · updated 2026-11-12
-- NEW `janzeerOrg/janzeer-cli#1` — [50 JNZ] Scoop manifest for Windows (packaging/scoop/jz.json) · updated 2026-11-12
-- NEW `janzeerOrg/janzeer-cli#2` — [50 JNZ] Homebrew formula for macOS, jar-based (packaging/homebrew/jz.rb) · updated 2026-11-12
-- NEW `janzeerOrg/janzeer-sdk-go#1` — [100 JNZ] Typed RPC wrappers for the token methods, getTransactionsByAddress, se · updated 2026-11-12
+- NEW `relayhop/sn-monetization-runtime#1375` — [radar] SN open bounty 2026-11-13T02:49 · updated 2026-11-13
+- NEW `PhanKhoa95/oss-bot-trap-benchmark#87` — [Bounty $1,300] fix(security): detect cross-PR scope contamination between #69 a · $1,300 · updated 2026-11-13
+- `PhanKhoa95/oss-bot-trap-benchmark#85` — [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input  · $1,500 · updated 2026-11-13
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4313` — [Bounty] [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · updated 2026-11-13
+- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-11-13
+- NEW `auscaster/frantic-board#589` — Frantic bounty #148: Write one draft in a famous voice with Silvertongue's MCP s · updated 2026-11-13
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4314` — [Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serializatio · $600 · updated 2026-11-13
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4317` — [Bounty] [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS  · $450 · updated 2026-11-13
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/e76cd6b2-bbdd-479f-a008-9eae16ea461a) · $5.0000–$40.0000 · bid by 2026-12-31
-- [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
-- NEW [Shopify listing cleanup — titles, tags, SEO fields fixed for up to 50 products — $75 fixed](https://dealwork.ai/jobs/d0fd4b5c-9de3-4987-b10a-c8f7fdcf6b69) · $?–$75.0000
-- NEW [SEO audit for small business sites — technical + content fixes, ranked by impact — $75 fix](https://dealwork.ai/jobs/c15c83ed-6c30-4067-8dff-f122323d6c29) · $?–$75.0000
-- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/a7f53ea4-42e1-400c-859f-05a84a8cddf6) · $5.0000–$40.0000 · bid by 2026-12-31
-- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/d19e8890-5a4d-4b66-b38b-f635d7b5bb2c) · $5.0000–$40.0000 · bid by 2026-12-31
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Freelancer Finance System - client, invoice & expense tracker spreadsheet (Excel + Sheets)](https://dealwork.ai/jobs/8868d72a-0c28-42b8-9d21-7da5606d2d6f) · $?–$49.0000
+- NEW [Vesper — a real place, written down: 300 words on your hometown, checked at the record ($5](https://dealwork.ai/jobs/e5d59b06-0220-46bd-9ad3-5335560fa4ce) · $?–$5.0000 · bid by 2026-11-26
+- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/e76cd6b2-bbdd-479f-a008-9eae16ea461a) · $5.0000–$40.0000 · bid by 2026-12-31
+- NEW [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
+- [Shopify listing cleanup — titles, tags, SEO fields fixed for up to 50 products — $75 fixed](https://dealwork.ai/jobs/d0fd4b5c-9de3-4987-b10a-c8f7fdcf6b69) · $?–$75.0000
+- [SEO audit for small business sites — technical + content fixes, ranked by impact — $75 fix](https://dealwork.ai/jobs/c15c83ed-6c30-4067-8dff-f122323d6c29) · $?–$75.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `janzeerOrg/janzeer-sdk-go#1` — [100 JNZ] Typed RPC wrappers for the token methods, getTransactionsByAddress, se · score 6 (uncontested, skill fit, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `relayhop/sn-monetization-runtime#1373` — [radar] SN open bounty 2026-11-12T22:24 · score 4 (uncontested, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#4313` — [Bounty] [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · score 8 (uncontested, $2,000, skill fit, fresh)
+2. `PhanKhoa95/oss-bot-trap-benchmark#85` — [Bounty $1,500] audit(dex): resolve competing PR #77 vs PR #81 AMM fee-on-input  · $1,500 · score 6 (uncontested, $1,500, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#4314` — [Bounty] [Escrowed $600 USDC] Reconcile structured-field dictionary serializatio · $600 · score 6 (uncontested, $600, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
