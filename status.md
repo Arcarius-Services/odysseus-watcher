@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-14T18:50:23.727Z (UTC), on GitHub Actions._
+_Last run: 2026-11-14T22:56:17.737Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Ikalus1988/MisakaNet#4297` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-14
+- `janzeerOrg/janzeer-sdk-go#1` — [100 JNZ] Typed RPC wrappers for the token methods, getTransactionsByAddress, se · updated 2026-11-14
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-14
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-14
 - `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-14
-- NEW `PhanKhoa95/oss-bot-trap-benchmark#19` — security(validator): prevent negative overflow in checkpoint frame arithmetic · updated 2026-11-14
-- NEW `Ikalus1988/MisakaNet#1258` — Start here: give your coding agent a failure memory (MCP, 60 seconds) · updated 2026-11-14
-- NEW `FreezingMoon/AncientBeast#2004` — ability unit targeting tweaks [bounty: 15 XTR] · updated 2026-11-14
-- `SecureBananaLabs/bug-bounty#1742` — fix: prevent admin role self-assignment during registration · updated 2026-11-14
-- `tenstorrent/tt-metal#65437` — [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · updated 2026-11-14
-- `FreezingMoon/AncientBeast#2704` — Undo Move mechanic [bounty: 222 XTR] · updated 2026-11-14
-- `janzeerOrg/janzeer-cli#2` — [50 JNZ] Homebrew formula for macOS, jar-based (packaging/homebrew/jz.rb) · updated 2026-11-14
+- `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · updated 2026-11-14
+- NEW `Mantitup-Org/vista#62` — Bug: vista deploy still breaks static hosts and platform adapters · updated 2026-11-14
+- `Ikalus1988/MisakaNet#4751` — [Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português( · $0 · updated 2026-11-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tenstorrent/tt-metal#65437` — [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · score 6 (1 rival, $2,000, skill fit, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4341` — [Bounty] [Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit  · $450 · score 6 (uncontested, $450, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#4340` — [Bounty] [Escrowed $450 USDC] Resolve TLP frame ceiling boundary and infinite-wr · $450 · score 6 (uncontested, $450, fresh)
+1. `janzeerOrg/janzeer-sdk-go#1` — [100 JNZ] Typed RPC wrappers for the token methods, getTransactionsByAddress, se · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+3. `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
