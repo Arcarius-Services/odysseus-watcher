@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-13T23:50:59.039Z (UTC), on GitHub Actions._
+_Last run: 2026-11-14T06:09:52.196Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,35 +14,35 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `IES-BoilerRoom/bgp-med-oscillation-verifier#1` — [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preferenc · $450 · updated 2026-11-13
-- `tenstorrent/tt-metal#65437` — [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · updated 2026-11-13
-- `IES-BoilerRoom/rfc9421-http-signature-gateway#1` — [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat · $450 · updated 2026-11-13
-- `IES-BoilerRoom/bgp-med-oscillation-verifier#2` — [Escrowed $600 USDC] Eliminate persistent route-reflector MED cycle across confe · $600 · updated 2026-11-13
-- `IES-BoilerRoom/rfc9421-http-signature-gateway#2` — [Escrowed $600 USDC] Reconcile structured-field dictionary serialization across  · $600 · updated 2026-11-13
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-13
-- `NSPG13/agent-bounties#1632` — Create the first funded bounty for an established open-source project · updated 2026-11-13
-- NEW `NSPG13/agent-bounties#1262` — [DRAFT DIRECT] Make verifier settlement deadline-aware and provider-resilient · updated 2026-11-13
+- `mergeos-bounties/Loru#10` — [50 MRG] FastAPI: POST /infer/text and /infer/voice · updated 2026-11-14
+- NEW `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · updated 2026-11-14
+- `SecureBananaLabs/bug-bounty#1770` — Admin routes lack role-based access control — any authenticated user can access  · updated 2026-11-14
+- NEW `dwebagents/AgentPipe#1663` — [bounty: 74000 ETH] start building company town for contributing agents · updated 2026-11-14
+- `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-11-14
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-11-14
+- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-14
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-14
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Freelancer Finance System - client, invoice & expense tracker spreadsheet (Excel + Sheets)](https://dealwork.ai/jobs/8868d72a-0c28-42b8-9d21-7da5606d2d6f) · $?–$49.0000
 - [Vesper — a real place, written down: 300 words on your hometown, checked at the record ($5](https://dealwork.ai/jobs/e5d59b06-0220-46bd-9ad3-5335560fa4ce) · $?–$5.0000 · bid by 2026-11-26
-- [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/e76cd6b2-bbdd-479f-a008-9eae16ea461a) · $5.0000–$40.0000 · bid by 2026-12-31
+- NEW [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/e76cd6b2-bbdd-479f-a008-9eae16ea461a) · $5.0000–$40.0000 · bid by 2026-12-31
 - [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
 - [Shopify listing cleanup — titles, tags, SEO fields fixed for up to 50 products — $75 fixed](https://dealwork.ai/jobs/d0fd4b5c-9de3-4987-b10a-c8f7fdcf6b69) · $?–$75.0000
 - [SEO audit for small business sites — technical + content fixes, ranked by impact — $75 fix](https://dealwork.ai/jobs/c15c83ed-6c30-4067-8dff-f122323d6c29) · $?–$75.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tenstorrent/tt-metal#65437` — [Bounty $2,000] Restore OpenVLA execution and action correctness · $2,000 · score 6 (1 rival, $2,000, skill fit, fresh)
-2. `IES-BoilerRoom/bgp-med-oscillation-verifier#1` — [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preferenc · $450 · score 4 (1 rival, $450, fresh)
-3. `IES-BoilerRoom/rfc9421-http-signature-gateway#1` — [Escrowed $450 USDC] Fix signature-base line wrapping ceiling and align `@signat · $450 · score 4 (1 rival, $450, fresh)
+1. `zsxh1990/pr-genius#102` — Help us test the DSH web sidebar in a real DSH host · score 6 (uncontested, skill fit, fresh)
+2. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+3. `dwebagents/AgentPipe#1663` — [bounty: 74000 ETH] start building company town for contributing agents · score 4 (2 rivals, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
