@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-14T22:56:17.737Z (UTC), on GitHub Actions._
+_Last run: 2026-11-15T02:35:47.463Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Ikalus1988/MisakaNet#4297` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-14
-- `janzeerOrg/janzeer-sdk-go#1` — [100 JNZ] Typed RPC wrappers for the token methods, getTransactionsByAddress, se · updated 2026-11-14
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-14
-- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-14
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-14
-- `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · updated 2026-11-14
-- NEW `Mantitup-Org/vista#62` — Bug: vista deploy still breaks static hosts and platform adapters · updated 2026-11-14
-- `Ikalus1988/MisakaNet#4751` — [Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português( · $0 · updated 2026-11-14
+- `Ikalus1988/MisakaNet#4876` — [Bounty][$0][corpus] devops 20 篇缺 verify：补一条可执行的确认，或标记失效 · $0 · updated 2026-11-15
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-15
+- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-15
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-11-15
+- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-11-15
+- `Ikalus1988/MisakaNet#4801` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-15
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4299` — [Bounty] 🪙 Bounty: Improve project documentation · updated 2026-11-15
+- `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · updated 2026-11-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -40,8 +40,8 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `janzeerOrg/janzeer-sdk-go#1` — [100 JNZ] Typed RPC wrappers for the token methods, getTransactionsByAddress, se · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
 3. `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
