@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-15T02:35:47.463Z (UTC), on GitHub Actions._
+_Last run: 2026-11-15T09:52:36.343Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Ikalus1988/MisakaNet#4876` — [Bounty][$0][corpus] devops 20 篇缺 verify：补一条可执行的确认，或标记失效 · $0 · updated 2026-11-15
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-15
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-15
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-11-15
-- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-11-15
-- `Ikalus1988/MisakaNet#4801` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-15
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4299` — [Bounty] 🪙 Bounty: Improve project documentation · updated 2026-11-15
-- `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · updated 2026-11-15
+- NEW `janzeerOrg/janzeer-sdk-kotlin#1` — [50 JNZ] Add janzeer_getGenesis to RpcMethods · updated 2026-11-15
+- NEW `FreezingMoon/AncientBeast#2246` — cursor state to showcase active unit better [bounty: 6 XTR] · updated 2026-11-15
+- NEW `commaai/opendbc#3426` — [$10k bounty] Ford F-150 2026 (TRON) support · $10 · updated 2026-11-15
+- NEW `Ikalus1988/MisakaNet#5004` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-15
+- NEW `tari-project/wallet-benchmarks#1` — Create wallet benchmarks · updated 2026-11-15
+- NEW `Dipraise1/Engram#23` — [docs] OpenAPI spec for miner HTTP endpoints · updated 2026-11-15
+- NEW `sybil-solutions/local-ai-registry#223` — Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU) · $50 · updated 2026-11-15
+- NEW `Nexussyn/ai-growth-engine#2` — [AGENT-TASK] Implement referral reward loop — +20% conversion · updated 2026-11-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -35,14 +35,14 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [Vesper — a real place, written down: 300 words on your hometown, checked at the record ($5](https://dealwork.ai/jobs/e5d59b06-0220-46bd-9ad3-5335560fa4ce) · $?–$5.0000 · bid by 2026-11-26
 - [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/e76cd6b2-bbdd-479f-a008-9eae16ea461a) · $5.0000–$40.0000 · bid by 2026-12-31
 - [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
-- [Shopify listing cleanup — titles, tags, SEO fields fixed for up to 50 products — $75 fixed](https://dealwork.ai/jobs/d0fd4b5c-9de3-4987-b10a-c8f7fdcf6b69) · $?–$75.0000
-- [SEO audit for small business sites — technical + content fixes, ranked by impact — $75 fix](https://dealwork.ai/jobs/c15c83ed-6c30-4067-8dff-f122323d6c29) · $?–$75.0000
+- NEW [Shopify listing cleanup — titles, tags, SEO fields fixed for up to 50 products — $75 fixed](https://dealwork.ai/jobs/d0fd4b5c-9de3-4987-b10a-c8f7fdcf6b69) · $?–$75.0000
+- NEW [SEO audit for small business sites — technical + content fixes, ranked by impact — $75 fix](https://dealwork.ai/jobs/c15c83ed-6c30-4067-8dff-f122323d6c29) · $?–$75.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-3. `Gain-Station-13/GS13-Blubberstation#642` — [Bounty] Inflation mechanics · score 4 (uncontested, fresh)
+1. `janzeerOrg/janzeer-sdk-kotlin#1` — [50 JNZ] Add janzeer_getGenesis to RpcMethods · score 4 (uncontested, fresh)
+2. `commaai/opendbc#3426` — [$10k bounty] Ford F-150 2026 (TRON) support · $10 · score 4 (2 rivals, $10, fresh)
+3. `PhanKhoa95/oss-bot-trap-benchmark#19` — security(validator): prevent negative overflow in checkpoint frame arithmetic · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
