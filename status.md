@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-15T09:52:36.343Z (UTC), on GitHub Actions._
+_Last run: 2026-11-15T17:01:22.043Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `janzeerOrg/janzeer-sdk-kotlin#1` — [50 JNZ] Add janzeer_getGenesis to RpcMethods · updated 2026-11-15
-- NEW `FreezingMoon/AncientBeast#2246` — cursor state to showcase active unit better [bounty: 6 XTR] · updated 2026-11-15
-- NEW `commaai/opendbc#3426` — [$10k bounty] Ford F-150 2026 (TRON) support · $10 · updated 2026-11-15
-- NEW `Ikalus1988/MisakaNet#5004` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-15
-- NEW `tari-project/wallet-benchmarks#1` — Create wallet benchmarks · updated 2026-11-15
-- NEW `Dipraise1/Engram#23` — [docs] OpenAPI spec for miner HTTP endpoints · updated 2026-11-15
-- NEW `sybil-solutions/local-ai-registry#223` — Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU) · $50 · updated 2026-11-15
-- NEW `Nexussyn/ai-growth-engine#2` — [AGENT-TASK] Implement referral reward loop — +20% conversion · updated 2026-11-15
+- NEW `relayhop/sn-monetization-runtime#1385` — [radar] SN open bounty 2026-11-15T16:59 · updated 2026-11-15
+- NEW `weilixiong/TentOfTrials#1` — [$50 BOUNTY] [Python] Add cross-platform health check fallbacks · $50 · updated 2026-11-15
+- NEW `1nsharma-labs/tokenarmor#4` — Feature: Add Prometheus /metrics endpoint for FinOps dashboards · updated 2026-11-15
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4317` — [Bounty] [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS  · $450 · updated 2026-11-15
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4348` — [Bounty] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or · $25 · updated 2026-11-15
+- NEW `relayhop/sn-monetization-runtime#1383` — [radar] SN open bounty 2026-11-15T13:51 · updated 2026-11-15
+- NEW `Scottcjn/rustchain-bounties#16251` — [BOUNTY: 10 RTC] Fix rustchain.org install script — wrong paths + macOS crash (R · updated 2026-11-15
+- `Ikalus1988/MisakaNet#5005` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Freelancer Finance System - client, invoice & expense tracker spreadsheet (Excel + Sheets)](https://dealwork.ai/jobs/8868d72a-0c28-42b8-9d21-7da5606d2d6f) · $?–$49.0000
-- [Vesper — a real place, written down: 300 words on your hometown, checked at the record ($5](https://dealwork.ai/jobs/e5d59b06-0220-46bd-9ad3-5335560fa4ce) · $?–$5.0000 · bid by 2026-11-26
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Quarterly Tax & Estimates Pack for Freelancers - quarterly income tracker, estimated-tax c](https://dealwork.ai/jobs/3c535dc7-d86b-47b3-8542-da1c81c3b5f6) · $?–$39.0000
+- NEW [Freelancer Finance System - client, invoice & expense tracker spreadsheet (Excel + Sheets)](https://dealwork.ai/jobs/8868d72a-0c28-42b8-9d21-7da5606d2d6f) · $?–$49.0000
+- NEW [Vesper — a real place, written down: 300 words on your hometown, checked at the record ($5](https://dealwork.ai/jobs/e5d59b06-0220-46bd-9ad3-5335560fa4ce) · $?–$5.0000 · bid by 2026-11-26
 - [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/e76cd6b2-bbdd-479f-a008-9eae16ea461a) · $5.0000–$40.0000 · bid by 2026-12-31
-- [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
-- NEW [Shopify listing cleanup — titles, tags, SEO fields fixed for up to 50 products — $75 fixed](https://dealwork.ai/jobs/d0fd4b5c-9de3-4987-b10a-c8f7fdcf6b69) · $?–$75.0000
-- NEW [SEO audit for small business sites — technical + content fixes, ranked by impact — $75 fix](https://dealwork.ai/jobs/c15c83ed-6c30-4067-8dff-f122323d6c29) · $?–$75.0000
+- NEW [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
+- [Shopify listing cleanup — titles, tags, SEO fields fixed for up to 50 products — $75 fixed](https://dealwork.ai/jobs/d0fd4b5c-9de3-4987-b10a-c8f7fdcf6b69) · $?–$75.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `janzeerOrg/janzeer-sdk-kotlin#1` — [50 JNZ] Add janzeer_getGenesis to RpcMethods · score 4 (uncontested, fresh)
-2. `commaai/opendbc#3426` — [$10k bounty] Ford F-150 2026 (TRON) support · $10 · score 4 (2 rivals, $10, fresh)
-3. `PhanKhoa95/oss-bot-trap-benchmark#19` — security(validator): prevent negative overflow in checkpoint frame arithmetic · score 4 (uncontested, fresh)
+1. `relayhop/sn-monetization-runtime#1385` — [radar] SN open bounty 2026-11-15T16:59 · score 4 (uncontested, fresh)
+2. `1nsharma-labs/tokenarmor#4` — Feature: Add Prometheus /metrics endpoint for FinOps dashboards · score 4 (uncontested, fresh)
+3. `zhangjiayang6835-cyber/bounty-plaza#4317` — [Bounty] [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS  · $450 · score 4 (1 rival, $450, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
