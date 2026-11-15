@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-15T17:01:22.043Z (UTC), on GitHub Actions._
+_Last run: 2026-11-15T21:43:25.498Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1385` — [radar] SN open bounty 2026-11-15T16:59 · updated 2026-11-15
-- NEW `weilixiong/TentOfTrials#1` — [$50 BOUNTY] [Python] Add cross-platform health check fallbacks · $50 · updated 2026-11-15
-- NEW `1nsharma-labs/tokenarmor#4` — Feature: Add Prometheus /metrics endpoint for FinOps dashboards · updated 2026-11-15
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4317` — [Bounty] [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS  · $450 · updated 2026-11-15
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4348` — [Bounty] [$25 USDC Bounty] Live Chain-Feed Drift Catch (53 Indexed Protocols) or · $25 · updated 2026-11-15
-- NEW `relayhop/sn-monetization-runtime#1383` — [radar] SN open bounty 2026-11-15T13:51 · updated 2026-11-15
-- NEW `Scottcjn/rustchain-bounties#16251` — [BOUNTY: 10 RTC] Fix rustchain.org install script — wrong paths + macOS crash (R · updated 2026-11-15
-- `Ikalus1988/MisakaNet#5005` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-15
+- NEW `relayhop/sn-monetization-runtime#1387` — [radar] SN open bounty 2026-11-15T21:41 · updated 2026-11-15
+- `hanzo-go/lz4#1` — Point the README install steps and badges at hanzo.ai/lz4/v4 · updated 2026-11-15
+- `tari-project/wallet-benchmarks#1` — Create wallet benchmarks · updated 2026-11-15
+- NEW `warpspeedopen-source/warpspeed-bounties#2` — [PAID BOUNTY - $330] Email Inbox Classic View Page UI · $330 · updated 2026-11-15
+- NEW `NSPG13/agent-bounties#1376` — Generate qualifying GMV for Highest externally funded canonical GMV — August 24  · updated 2026-11-15
+- NEW `NSPG13/agent-bounties#927` — Capture a macOS Safari compatibility evidence bundle · updated 2026-11-15
+- `Fractal-Neurons/pacta#22` — [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 — Ethereum Mainnet (>=$25 · $25 · updated 2026-11-15
+- NEW `Fractal-Neurons/pacta#21` — [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 — Ethereum Mainnet (>=$25 · $25 · updated 2026-11-15
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Quarterly Tax & Estimates Pack for Freelancers - quarterly income tracker, estimated-tax c](https://dealwork.ai/jobs/3c535dc7-d86b-47b3-8542-da1c81c3b5f6) · $?–$39.0000
-- NEW [Freelancer Finance System - client, invoice & expense tracker spreadsheet (Excel + Sheets)](https://dealwork.ai/jobs/8868d72a-0c28-42b8-9d21-7da5606d2d6f) · $?–$49.0000
-- NEW [Vesper — a real place, written down: 300 words on your hometown, checked at the record ($5](https://dealwork.ai/jobs/e5d59b06-0220-46bd-9ad3-5335560fa4ce) · $?–$5.0000 · bid by 2026-11-26
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Grok by xAI — Sourced Research Brief or Technical Doc ($15 fixed)](https://dealwork.ai/jobs/b2226384-9a86-4e49-9dc8-a20ec1698fdc) · $?–$15.0000
+- [Quarterly Tax & Estimates Pack for Freelancers - quarterly income tracker, estimated-tax c](https://dealwork.ai/jobs/3c535dc7-d86b-47b3-8542-da1c81c3b5f6) · $?–$39.0000
+- [Freelancer Finance System - client, invoice & expense tracker spreadsheet (Excel + Sheets)](https://dealwork.ai/jobs/8868d72a-0c28-42b8-9d21-7da5606d2d6f) · $?–$49.0000
+- [Vesper — a real place, written down: 300 words on your hometown, checked at the record ($5](https://dealwork.ai/jobs/e5d59b06-0220-46bd-9ad3-5335560fa4ce) · $?–$5.0000 · bid by 2026-11-26
 - [Grok by xAI — Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/e76cd6b2-bbdd-479f-a008-9eae16ea461a) · $5.0000–$40.0000 · bid by 2026-12-31
-- NEW [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
-- [Shopify listing cleanup — titles, tags, SEO fields fixed for up to 50 products — $75 fixed](https://dealwork.ai/jobs/d0fd4b5c-9de3-4987-b10a-c8f7fdcf6b69) · $?–$75.0000
+- [Grok by xAI — Sourced Research Briefs, Technical Writing, Data Analysis & Coding ($5–$40)](https://dealwork.ai/jobs/ab191776-0ee1-4136-96f2-2e803a6e9d22) · $?–$40.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `relayhop/sn-monetization-runtime#1385` — [radar] SN open bounty 2026-11-15T16:59 · score 4 (uncontested, fresh)
-2. `1nsharma-labs/tokenarmor#4` — Feature: Add Prometheus /metrics endpoint for FinOps dashboards · score 4 (uncontested, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#4317` — [Bounty] [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS  · $450 · score 4 (1 rival, $450, fresh)
+1. `Fractal-Neurons/pacta#22` — [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 — Ethereum Mainnet (>=$25 · $25 · score 6 (uncontested, $25, fresh)
+2. `relayhop/sn-monetization-runtime#1387` — [radar] SN open bounty 2026-11-15T21:41 · score 4 (uncontested, fresh)
+3. `Fractal-Neurons/pacta#21` — [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 — Ethereum Mainnet (>=$25 · $25 · score 4 (1 rival, $25, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
