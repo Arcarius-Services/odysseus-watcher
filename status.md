@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-15T21:43:25.498Z (UTC), on GitHub Actions._
+_Last run: 2026-11-16T01:57:09.413Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,24 +14,24 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `relayhop/sn-monetization-runtime#1387` — [radar] SN open bounty 2026-11-15T21:41 · updated 2026-11-15
-- `hanzo-go/lz4#1` — Point the README install steps and badges at hanzo.ai/lz4/v4 · updated 2026-11-15
-- `tari-project/wallet-benchmarks#1` — Create wallet benchmarks · updated 2026-11-15
-- NEW `warpspeedopen-source/warpspeed-bounties#2` — [PAID BOUNTY - $330] Email Inbox Classic View Page UI · $330 · updated 2026-11-15
-- NEW `NSPG13/agent-bounties#1376` — Generate qualifying GMV for Highest externally funded canonical GMV — August 24  · updated 2026-11-15
-- NEW `NSPG13/agent-bounties#927` — Capture a macOS Safari compatibility evidence bundle · updated 2026-11-15
-- `Fractal-Neurons/pacta#22` — [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 — Ethereum Mainnet (>=$25 · $25 · updated 2026-11-15
-- NEW `Fractal-Neurons/pacta#21` — [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 — Ethereum Mainnet (>=$25 · $25 · updated 2026-11-15
+- NEW `overturn-ai/overturn#20` — Bounty $150: capture adapter for Front · $150 · updated 2026-11-16
+- NEW `relayhop/sn-monetization-runtime#1389` — [radar] SN open bounty 2026-11-16T01:53 · updated 2026-11-16
+- NEW `overturn-ai/overturn#21` — Bounty $100: capture adapter for Intercom · $100 · updated 2026-11-16
+- NEW `overturn-ai/overturn#22` — Bounty $100: capture adapter for Gorgias · $100 · updated 2026-11-16
+- `sybil-solutions/local-ai-registry#223` — Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU) · $50 · updated 2026-11-16
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-16
+- NEW `hanzoai/vfs#29` — Native git on vfs: settings, batched fsync, alternates, clone by reference · updated 2026-11-16
+- NEW `pratikacharya1234/agentcop#1` — Escape the Cop — v0.1.0-beta challenge · updated 2026-11-16
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Grok by xAI — Sourced Research Brief or Technical Doc ($15 fixed)](https://dealwork.ai/jobs/b2226384-9a86-4e49-9dc8-a20ec1698fdc) · $?–$15.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Sourced Research Brief or Technical Doc ($15 fixed)](https://dealwork.ai/jobs/b2226384-9a86-4e49-9dc8-a20ec1698fdc) · $?–$15.0000
 - [Quarterly Tax & Estimates Pack for Freelancers - quarterly income tracker, estimated-tax c](https://dealwork.ai/jobs/3c535dc7-d86b-47b3-8542-da1c81c3b5f6) · $?–$39.0000
 - [Freelancer Finance System - client, invoice & expense tracker spreadsheet (Excel + Sheets)](https://dealwork.ai/jobs/8868d72a-0c28-42b8-9d21-7da5606d2d6f) · $?–$49.0000
 - [Vesper — a real place, written down: 300 words on your hometown, checked at the record ($5](https://dealwork.ai/jobs/e5d59b06-0220-46bd-9ad3-5335560fa4ce) · $?–$5.0000 · bid by 2026-11-26
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Fractal-Neurons/pacta#22` — [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #2 — Ethereum Mainnet (>=$25 · $25 · score 6 (uncontested, $25, fresh)
-2. `relayhop/sn-monetization-runtime#1387` — [radar] SN open bounty 2026-11-15T21:41 · score 4 (uncontested, fresh)
-3. `Fractal-Neurons/pacta#21` — [$25 USDC Bounty] Chain-Feed Control-Plane Mismatch #1 — Ethereum Mainnet (>=$25 · $25 · score 4 (1 rival, $25, fresh)
+1. `overturn-ai/overturn#20` — Bounty $150: capture adapter for Front · $150 · score 4 (2 rivals, $150, fresh)
+2. `relayhop/sn-monetization-runtime#1389` — [radar] SN open bounty 2026-11-16T01:53 · score 4 (uncontested, fresh)
+3. `overturn-ai/overturn#21` — Bounty $100: capture adapter for Intercom · $100 · score 4 (1 rival, $100, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
