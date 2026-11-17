@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-17T11:42:55.200Z (UTC), on GitHub Actions._
+_Last run: 2026-11-17T14:03:05.576Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `OphirPay/OphirPay#1895` — feat(ui): add search and memo filter in ScheduledPaymentsList · updated 2026-11-17
-- NEW `OphirPay/OphirPay#1997` — docs(setup): add step-by-step instructions for running a local Stellar Standalon · updated 2026-11-17
-- NEW `OphirPay/OphirPay#1919` — test(format): add unit tests for `formatStellarAmount` boundary values · updated 2026-11-17
-- NEW `OphirPay/OphirPay#1946` — feat(api): add Zod schema validation capping batch payment recipients to 100 per · updated 2026-11-17
-- NEW `OphirPay/OphirPay#1964` — test(contracts): add Rust unit test verifying spending limit enforcement across  · updated 2026-11-17
-- NEW `AstralDeep/AstralDeep#266` — Connect tracked remote-job completion to authorized wakeups · updated 2026-11-17
-- NEW `OphirPay/OphirPay#1979` — ci(typescript): add GitHub Actions step to verify TypeScript types without emitt · updated 2026-11-17
-- NEW `hanzoai/engine#96` — [Bounty #15] Multi-tenant LoRA paging · engine (S-LoRA) · updated 2026-11-17
+- `overturn-ai/overturn#22` — Bounty $100: capture adapter for Gorgias · $100 · updated 2026-11-17
+- `overturn-ai/overturn#21` — Bounty $100: capture adapter for Intercom · $100 · updated 2026-11-17
+- `overturn-ai/overturn#20` — Bounty $150: capture adapter for Front · $150 · updated 2026-11-17
+- `hanzoai/vfs#29` — Native git on vfs: settings, batched fsync, alternates, clone by reference · updated 2026-11-17
+- `AstralDeep/AstralDeep#266` — Connect tracked remote-job completion to authorized wakeups · updated 2026-11-17
+- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-17
+- `hanzoai/engine#98` — [Bounty #19] Non-prefix RAG KV fusion · engine / index (CacheBlend) · updated 2026-11-17
+- NEW `relayhop/sn-monetization-runtime#1400` — [radar] SN open bounty 2026-11-17T13:08 · updated 2026-11-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -41,8 +41,8 @@ _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `OphirPay/OphirPay#1997` — docs(setup): add step-by-step instructions for running a local Stellar Standalon · score 6 (uncontested, skill fit, fresh)
-2. `OphirPay/OphirPay#1919` — test(format): add unit tests for `formatStellarAmount` boundary values · score 6 (uncontested, skill fit, fresh)
-3. `OphirPay/OphirPay#1964` — test(contracts): add Rust unit test verifying spending limit enforcement across  · score 6 (uncontested, skill fit, fresh)
+2. `overturn-ai/overturn#21` — Bounty $100: capture adapter for Intercom · $100 · score 4 (1 rival, $100, fresh)
+3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
