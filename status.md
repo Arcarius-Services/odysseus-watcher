@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-17T02:53:44.633Z (UTC), on GitHub Actions._
+_Last run: 2026-11-17T11:42:55.200Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `bshelby88/raen-bounties#18` — BOUNTY-05: Buyer script — real $0.05 settle on royal-ruby (EIP-3009 two-call flo · $0.05 · updated 2026-11-17
-- NEW `hanzoai/hips#16` — [HIP-1346] Umbrella Research Bounties: Evidence-Grounded Retrieval and Decision  · updated 2026-11-17
-- NEW `hanzoai/extension#10` — Simplify the Chrome extension to a chatbot with in-browser capabilities · updated 2026-11-17
-- NEW `bshelby88/raen-bounties#20` — BOUNTY-07: Test suite for the settlement-collector claim-code flow (RAEN-8922B92 · updated 2026-11-17
-- NEW `hanzoai/hips#17` — [HIP-1347] Umbrella Research Bounties: Event-Driven Agent Reliability · updated 2026-11-17
-- NEW `IES-BoilerRoom/solana-svm-cpi-conformance#1` — [Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account b · $450 · updated 2026-11-17
-- NEW `hanzoai/ml#49` — [Bounty #46] Training data-pipeline cache allocation · ml (Seneca) · updated 2026-11-17
-- NEW `tari-project/universe#3299` — CPU mining capped at 64 threads on Windows machines with 64+ logical cores · updated 2026-11-17
+- NEW `OphirPay/OphirPay#1895` — feat(ui): add search and memo filter in ScheduledPaymentsList · updated 2026-11-17
+- NEW `OphirPay/OphirPay#1997` — docs(setup): add step-by-step instructions for running a local Stellar Standalon · updated 2026-11-17
+- NEW `OphirPay/OphirPay#1919` — test(format): add unit tests for `formatStellarAmount` boundary values · updated 2026-11-17
+- NEW `OphirPay/OphirPay#1946` — feat(api): add Zod schema validation capping batch payment recipients to 100 per · updated 2026-11-17
+- NEW `OphirPay/OphirPay#1964` — test(contracts): add Rust unit test verifying spending limit enforcement across  · updated 2026-11-17
+- NEW `AstralDeep/AstralDeep#266` — Connect tracked remote-job completion to authorized wakeups · updated 2026-11-17
+- NEW `OphirPay/OphirPay#1979` — ci(typescript): add GitHub Actions step to verify TypeScript types without emitt · updated 2026-11-17
+- NEW `hanzoai/engine#96` — [Bounty #15] Multi-tenant LoRA paging · engine (S-LoRA) · updated 2026-11-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,7 +31,7 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Python automation, scrapers & data pipelines — runnable script + run log, 4h turnaround](https://dealwork.ai/jobs/b4007ad6-1a43-4808-b63a-15ed54e66ffa) · $?–$30.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Python automation, scrapers & data pipelines — runnable script + run log, 4h turnaround](https://dealwork.ai/jobs/b4007ad6-1a43-4808-b63a-15ed54e66ffa) · $?–$30.0000
 - [Document summary — concise summary with key points and takeaways](https://dealwork.ai/jobs/a85dfbef-0a43-48c6-a14f-7cea9c4fbe82) · $3.0000–$10.0000 · bid by 2026-12-31
 - [Indonesian-English translation — natural, fluent, accurate](https://dealwork.ai/jobs/3de56cee-176e-40fa-a0c7-2aa695206bf6) · $3.0000–$10.0000 · bid by 2026-12-31
 - [Sourced research brief with citations (800-1500 words) — verified sources, structured sect](https://dealwork.ai/jobs/fc3726a3-ecaa-4053-866f-2b7937437c52) · $5.0000–$15.0000 · bid by 2026-12-31
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `hanzoai/extension#10` — Simplify the Chrome extension to a chatbot with in-browser capabilities · score 6 (uncontested, skill fit, fresh)
-2. `hanzoai/hips#17` — [HIP-1347] Umbrella Research Bounties: Event-Driven Agent Reliability · score 6 (uncontested, skill fit, fresh)
-3. `IES-BoilerRoom/solana-svm-cpi-conformance#1` — [Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account b · $450 · score 6 (uncontested, $450, fresh)
+1. `OphirPay/OphirPay#1997` — docs(setup): add step-by-step instructions for running a local Stellar Standalon · score 6 (uncontested, skill fit, fresh)
+2. `OphirPay/OphirPay#1919` — test(format): add unit tests for `formatStellarAmount` boundary values · score 6 (uncontested, skill fit, fresh)
+3. `OphirPay/OphirPay#1964` — test(contracts): add Rust unit test verifying spending limit enforcement across  · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
