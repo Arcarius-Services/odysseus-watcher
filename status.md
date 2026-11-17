@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-17T14:03:05.576Z (UTC), on GitHub Actions._
+_Last run: 2026-11-17T20:01:17.395Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `overturn-ai/overturn#22` — Bounty $100: capture adapter for Gorgias · $100 · updated 2026-11-17
-- `overturn-ai/overturn#21` — Bounty $100: capture adapter for Intercom · $100 · updated 2026-11-17
-- `overturn-ai/overturn#20` — Bounty $150: capture adapter for Front · $150 · updated 2026-11-17
-- `hanzoai/vfs#29` — Native git on vfs: settings, batched fsync, alternates, clone by reference · updated 2026-11-17
-- `AstralDeep/AstralDeep#266` — Connect tracked remote-job completion to authorized wakeups · updated 2026-11-17
-- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-17
-- `hanzoai/engine#98` — [Bounty #19] Non-prefix RAG KV fusion · engine / index (CacheBlend) · updated 2026-11-17
-- NEW `relayhop/sn-monetization-runtime#1400` — [radar] SN open bounty 2026-11-17T13:08 · updated 2026-11-17
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4370` — [Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FM · $450 · updated 2026-11-17
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4369` — [Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial roundin · $600 · updated 2026-11-17
+- NEW `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix#1` — [Escrowed $450 USDC] Fix slot batch ceiling check and align multi-stride ring wr · $450 · updated 2026-11-17
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-17
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4222` — [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE  · $450 · updated 2026-11-17
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4221` — [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV- · $600 · updated 2026-11-17
+- `zhangjiayang6835-cyber/bounty-plaza#4223` — [Bounty] 💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aw · $600 · updated 2026-11-17
+- NEW `Ikalus1988/MisakaNet#5190` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#1997` — docs(setup): add step-by-step instructions for running a local Stellar Standalon · score 6 (uncontested, skill fit, fresh)
-2. `overturn-ai/overturn#21` — Bounty $100: capture adapter for Intercom · $100 · score 4 (1 rival, $100, fresh)
-3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#4370` — [Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FM · $450 · score 6 (uncontested, $450, fresh)
+2. `zhangjiayang6835-cyber/bounty-plaza#4369` — [Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial roundin · $600 · score 6 (uncontested, $600, fresh)
+3. `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix#1` — [Escrowed $450 USDC] Fix slot batch ceiling check and align multi-stride ring wr · $450 · score 6 (uncontested, $450, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
