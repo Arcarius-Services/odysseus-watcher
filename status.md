@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-16T19:49:43.517Z (UTC), on GitHub Actions._
+_Last run: 2026-11-17T02:53:44.633Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,35 +14,35 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4368` — [Bounty] [Wave 2 · Epoch 1: 25 × $1 USDC | 1,000-Slot Program] Continuous Agent  · $1 · updated 2026-11-16
-- NEW `tenstorrent/tt-metal#64575` — [Bounty $750] Fix sharded softmax on offset core grids · $750 · updated 2026-11-16
-- `overturn-ai/overturn#22` — Bounty $100: capture adapter for Gorgias · $100 · updated 2026-11-16
-- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-11-16
-- NEW `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · updated 2026-11-16
-- NEW `WholeTroutMedia/agent-conformance-quarantine#2` — [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block  · $600 · updated 2026-11-16
-- NEW `WholeTroutMedia/protocol-conformance-relay#1` — [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure · $450 · updated 2026-11-16
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4152` — [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host a · $250 · updated 2026-11-16
+- NEW `bshelby88/raen-bounties#18` — BOUNTY-05: Buyer script — real $0.05 settle on royal-ruby (EIP-3009 two-call flo · $0.05 · updated 2026-11-17
+- NEW `hanzoai/hips#16` — [HIP-1346] Umbrella Research Bounties: Evidence-Grounded Retrieval and Decision  · updated 2026-11-17
+- NEW `hanzoai/extension#10` — Simplify the Chrome extension to a chatbot with in-browser capabilities · updated 2026-11-17
+- NEW `bshelby88/raen-bounties#20` — BOUNTY-07: Test suite for the settlement-collector claim-code flow (RAEN-8922B92 · updated 2026-11-17
+- NEW `hanzoai/hips#17` — [HIP-1347] Umbrella Research Bounties: Event-Driven Agent Reliability · updated 2026-11-17
+- NEW `IES-BoilerRoom/solana-svm-cpi-conformance#1` — [Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account b · $450 · updated 2026-11-17
+- NEW `hanzoai/ml#49` — [Bounty #46] Training data-pipeline cache allocation · ml (Seneca) · updated 2026-11-17
+- NEW `tari-project/universe#3299` — CPU mining capped at 64 threads on Windows machines with 64+ logical cores · updated 2026-11-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Document summary — concise summary with key points and takeaways](https://dealwork.ai/jobs/a85dfbef-0a43-48c6-a14f-7cea9c4fbe82) · $3.0000–$10.0000 · bid by 2026-12-31
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Python automation, scrapers & data pipelines — runnable script + run log, 4h turnaround](https://dealwork.ai/jobs/b4007ad6-1a43-4808-b63a-15ed54e66ffa) · $?–$30.0000
+- [Document summary — concise summary with key points and takeaways](https://dealwork.ai/jobs/a85dfbef-0a43-48c6-a14f-7cea9c4fbe82) · $3.0000–$10.0000 · bid by 2026-12-31
 - [Indonesian-English translation — natural, fluent, accurate](https://dealwork.ai/jobs/3de56cee-176e-40fa-a0c7-2aa695206bf6) · $3.0000–$10.0000 · bid by 2026-12-31
 - [Sourced research brief with citations (800-1500 words) — verified sources, structured sect](https://dealwork.ai/jobs/fc3726a3-ecaa-4053-866f-2b7937437c52) · $5.0000–$15.0000 · bid by 2026-12-31
 - [Grok by xAI — Sourced Research Brief or Technical Doc ($15 fixed)](https://dealwork.ai/jobs/b2226384-9a86-4e49-9dc8-a20ec1698fdc) · $?–$15.0000
 - [Quarterly Tax & Estimates Pack for Freelancers - quarterly income tracker, estimated-tax c](https://dealwork.ai/jobs/3c535dc7-d86b-47b3-8542-da1c81c3b5f6) · $?–$39.0000
-- [Freelancer Finance System - client, invoice & expense tracker spreadsheet (Excel + Sheets)](https://dealwork.ai/jobs/8868d72a-0c28-42b8-9d21-7da5606d2d6f) · $?–$49.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#4368` — [Bounty] [Wave 2 · Epoch 1: 25 × $1 USDC | 1,000-Slot Program] Continuous Agent  · $1 · score 8 (uncontested, $1, skill fit, fresh)
-2. `tenstorrent/tt-metal#64575` — [Bounty $750] Fix sharded softmax on offset core grids · $750 · score 4 (1 rival, $750, fresh)
-3. `WholeTroutMedia/protocol-conformance-relay#2` — [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked  · $600 · score 4 (1 rival, $600, fresh)
+1. `hanzoai/extension#10` — Simplify the Chrome extension to a chatbot with in-browser capabilities · score 6 (uncontested, skill fit, fresh)
+2. `hanzoai/hips#17` — [HIP-1347] Umbrella Research Bounties: Event-Driven Agent Reliability · score 6 (uncontested, skill fit, fresh)
+3. `IES-BoilerRoom/solana-svm-cpi-conformance#1` — [Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account b · $450 · score 6 (uncontested, $450, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
