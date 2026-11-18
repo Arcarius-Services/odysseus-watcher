@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-17T20:01:17.395Z (UTC), on GitHub Actions._
+_Last run: 2026-11-18T02:22:38.116Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4370` — [Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FM · $450 · updated 2026-11-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4369` — [Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial roundin · $600 · updated 2026-11-17
-- NEW `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix#1` — [Escrowed $450 USDC] Fix slot batch ceiling check and align multi-stride ring wr · $450 · updated 2026-11-17
-- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4222` — [Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE  · $450 · updated 2026-11-17
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4221` — [Bounty] 💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV- · $600 · updated 2026-11-17
-- `zhangjiayang6835-cyber/bounty-plaza#4223` — [Bounty] 💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aw · $600 · updated 2026-11-17
-- NEW `Ikalus1988/MisakaNet#5190` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-17
+- `hanzoai/cloud#39` — [Bounty #49] Verifiable agent-produced artifacts · cloud / Forge (SLSA v1.2 + Co · updated 2026-11-18
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-18
+- `OphirPay/OphirPay#1979` — ci(typescript): add GitHub Actions step to verify TypeScript types without emitt · updated 2026-11-18
+- NEW `relayhop/sn-monetization-runtime#1409` — [radar] SN open bounty 2026-11-17T23:59 · updated 2026-11-18
+- NEW `hanzoai/cloud#30` — Dual-control business-agent benchmark (tau2-bench) · updated 2026-11-18
+- `bshelby88/raen-bounties#20` — BOUNTY-07: Test suite for the settlement-collector claim-code flow (RAEN-8922B92 · updated 2026-11-18
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4306` — [Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align consta · $450 · updated 2026-11-18
+- `hanzoai/cloud#33` — eBPF runtime enforcement for agent sandboxes (Tetragon) · updated 2026-11-17
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -36,13 +36,13 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 - [Indonesian-English translation — natural, fluent, accurate](https://dealwork.ai/jobs/3de56cee-176e-40fa-a0c7-2aa695206bf6) · $3.0000–$10.0000 · bid by 2026-12-31
 - [Sourced research brief with citations (800-1500 words) — verified sources, structured sect](https://dealwork.ai/jobs/fc3726a3-ecaa-4053-866f-2b7937437c52) · $5.0000–$15.0000 · bid by 2026-12-31
 - [Grok by xAI — Sourced Research Brief or Technical Doc ($15 fixed)](https://dealwork.ai/jobs/b2226384-9a86-4e49-9dc8-a20ec1698fdc) · $?–$15.0000
-- [Quarterly Tax & Estimates Pack for Freelancers - quarterly income tracker, estimated-tax c](https://dealwork.ai/jobs/3c535dc7-d86b-47b3-8542-da1c81c3b5f6) · $?–$39.0000
+- NEW [Quarterly Tax & Estimates Pack for Freelancers - quarterly income tracker, estimated-tax c](https://dealwork.ai/jobs/3c535dc7-d86b-47b3-8542-da1c81c3b5f6) · $?–$39.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#4370` — [Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FM · $450 · score 6 (uncontested, $450, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4369` — [Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial roundin · $600 · score 6 (uncontested, $600, fresh)
-3. `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix#1` — [Escrowed $450 USDC] Fix slot batch ceiling check and align multi-stride ring wr · $450 · score 6 (uncontested, $450, fresh)
+1. `hanzoai/s3#31` — [Bounty #42] Discard-versus-compaction economics · s3 (DisCoGC) · score 6 (uncontested, skill fit, fresh)
+2. `hanzoai/cloud#39` — [Bounty #49] Verifiable agent-produced artifacts · cloud / Forge (SLSA v1.2 + Co · score 4 (2 rivals, skill fit, fresh)
+3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
