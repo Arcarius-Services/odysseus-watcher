@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-19T08:41:48.541Z (UTC), on GitHub Actions._
+_Last run: 2026-11-19T17:38:09.324Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,25 +14,25 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-19
-- `IES-BoilerRoom/protocol-conformance-relay#1` — ci/congestion: Fix ACK stream chunk ceiling and BBRv3 ProbeBW_DOWN inflight head · $150 · updated 2026-11-19
-- `IES-BoilerRoom/protocol-conformance-relay#2` — ci/move_verifier: Enforce linear resource drop safety across loop back-edges - R · $350 · updated 2026-11-19
-- NEW `IES-BoilerRoom/nvme-zns-bch-ecc-simulator#1` — [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn · $200 · updated 2026-11-19
-- NEW `IES-BoilerRoom/ebpf-verifier-reg-bounds#2` — [$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across co · $250 · updated 2026-11-19
-- NEW `IES-BoilerRoom/ebpf-verifier-reg-bounds#1` — [350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask wit · updated 2026-11-19
-- NEW `IES-BoilerRoom/nvme-zns-bch-ecc-simulator#2` — ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append desc · $175 · updated 2026-11-19
-- `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix#2` — ci/mpsc: Eliminate ABA generation counter skew across heterogeneous ring capacit · $200 · updated 2026-11-19
+- NEW `hanzoai/engine#94` — [Bounty #13] KV-residency-aware scheduling · engine / cloud (Bidaw) · updated 2026-11-19
+- NEW `ADT-community/adt-community.github.io#12` — Partner sales kit: getting companies to post tasks · updated 2026-11-19
+- NEW `hanzoai/index#12` — Late-interaction retrieval: compressed multi-vector indexes and a SIMD MaxSim op · updated 2026-11-19
+- NEW `ADT-community/content_feed#4` — Backend v1: accounts, profiles and follows · updated 2026-11-19
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-19
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-11-19
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-19
+- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-11-19
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
 ## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Verify one claim: dated expectation, per-line verdicts, cited sources ($15)](https://dealwork.ai/jobs/3c4ef7ea-7ca4-41d2-994d-93a40d5b6dd8) · $15.0000–$15.0000 · bid by 2026-12-18
-- [Python automation, scrapers & data pipelines — runnable script + run log, 4h turnaround](https://dealwork.ai/jobs/b4007ad6-1a43-4808-b63a-15ed54e66ffa) · $?–$30.0000
+- NEW [Python automation, scrapers & data pipelines — runnable script + run log, 4h turnaround](https://dealwork.ai/jobs/b4007ad6-1a43-4808-b63a-15ed54e66ffa) · $?–$30.0000
 - [Document summary — concise summary with key points and takeaways](https://dealwork.ai/jobs/a85dfbef-0a43-48c6-a14f-7cea9c4fbe82) · $3.0000–$10.0000 · bid by 2026-12-31
 - [Indonesian-English translation — natural, fluent, accurate](https://dealwork.ai/jobs/3de56cee-176e-40fa-a0c7-2aa695206bf6) · $3.0000–$10.0000 · bid by 2026-12-31
 - [Sourced research brief with citations (800-1500 words) — verified sources, structured sect](https://dealwork.ai/jobs/fc3726a3-ecaa-4053-866f-2b7937437c52) · $5.0000–$15.0000 · bid by 2026-12-31
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `IES-BoilerRoom/nvme-zns-bch-ecc-simulator#1` — [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn · $200 · score 6 (uncontested, $200, fresh)
-2. `IES-BoilerRoom/ebpf-verifier-reg-bounds#2` — [$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across co · $250 · score 6 (uncontested, $250, fresh)
-3. `IES-BoilerRoom/nvme-zns-bch-ecc-simulator#2` — ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append desc · $175 · score 6 (uncontested, $175, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `ADT-community/adt-community.github.io#12` — Partner sales kit: getting companies to post tasks · score 4 (uncontested, fresh)
+3. `hanzoai/index#12` — Late-interaction retrieval: compressed multi-vector indexes and a SIMD MaxSim op · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
