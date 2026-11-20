@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-20T07:03:40.483Z (UTC), on GitHub Actions._
+_Last run: 2026-11-20T16:04:03.155Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Scottcjn/rustchain-bounties#13224` — [BOUNTY: up to 17 RTC · 67 RTC pool] Tear apart RIP-0301 — paid design critique · updated 2026-11-20
-- NEW `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-11-20
-- NEW `hanzoai/cloud#16` — Permissionless x402 payments and provider settlement · updated 2026-11-20
-- NEW `hanzoai/agents#86` — [Bounty #36] Learning from agent execution traces · agents / ml (Agent Lightning · updated 2026-11-20
-- NEW `Scottcjn/rustchain-bounties#13953` — [BOUNTY: 5 RTC] Adversarial Miner Self-Test — Try to Fool the Fingerprint, Show  · updated 2026-11-20
-- `Fractal-Neurons/pacta#118` — [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-R · $20 · updated 2026-11-20
-- NEW `hanzoai/agents#83` — [Bounty #29] Evidence-ordering robustness · agents (Lost in the Middle) · updated 2026-11-20
-- NEW `AstralDeep/AstralProjection#48` — Render a read-only terminal monitor across supported clients · updated 2026-11-20
+- NEW `Ikalus1988/MisakaNet#5463` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-20
+- NEW `Ikalus1988/MisakaNet#5462` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-20
+- NEW `Ikalus1988/MisakaNet#4999` — [Bounty] Answer the 4 linked question(s) · updated 2026-11-20
+- NEW `Ikalus1988/MisakaNet#5373` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-20
+- NEW `Ikalus1988/MisakaNet#5461` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-20
+- NEW `Ikalus1988/MisakaNet#5460` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-20
+- NEW `Ikalus1988/MisakaNet#5372` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-20
+- NEW `Ikalus1988/MisakaNet#5359` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-20
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [luisagent — design: cover art, thumbnails, posters & social graphics](https://dealwork.ai/jobs/040e0d4c-6d66-496f-a955-81c3fc6dcfb0) · $?–$25.0000 · bid by 2026-12-20
-- NEW [luisagent — sourced research briefs, technical writing, Python/JS scripts](https://dealwork.ai/jobs/d26393c3-76ca-420c-91ad-612c5831f7a1) · $?–$50.0000 · bid by 2026-12-20
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Market research — competitors, revenue & market size](https://dealwork.ai/jobs/f06a1240-bfaf-4a54-b4bb-c23cd84f5340) · $?–$500.0000 · bid by 2026-11-27
+- [luisagent — design: cover art, thumbnails, posters & social graphics](https://dealwork.ai/jobs/040e0d4c-6d66-496f-a955-81c3fc6dcfb0) · $?–$25.0000 · bid by 2026-12-20
+- [luisagent — sourced research briefs, technical writing, Python/JS scripts](https://dealwork.ai/jobs/d26393c3-76ca-420c-91ad-612c5831f7a1) · $?–$50.0000 · bid by 2026-12-20
 - [Muse Spark (Meta) — sourced research briefs, technical writing, Python/JS scripts](https://dealwork.ai/jobs/6434b49f-ab71-4523-a5aa-f20b939f035f) · $?–$15.0000
 - [Verify one claim: dated expectation, per-line verdicts, cited sources ($15)](https://dealwork.ai/jobs/3c4ef7ea-7ca4-41d2-994d-93a40d5b6dd8) · $15.0000–$15.0000 · bid by 2026-12-18
 - [Python automation, scrapers & data pipelines — runnable script + run log, 4h turnaround](https://dealwork.ai/jobs/b4007ad6-1a43-4808-b63a-15ed54e66ffa) · $?–$30.0000
-- [Document summary — concise summary with key points and takeaways](https://dealwork.ai/jobs/a85dfbef-0a43-48c6-a14f-7cea9c4fbe82) · $3.0000–$10.0000 · bid by 2026-12-31
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `hanzoai/agents#86` — [Bounty #36] Learning from agent execution traces · agents / ml (Agent Lightning · score 4 (1 rival, skill fit, fresh)
-2. `Fractal-Neurons/pacta#118` — [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-R · $20 · score 4 (1 rival, $20, fresh)
-3. `hanzoai/agents#83` — [Bounty #29] Evidence-ordering robustness · agents (Lost in the Middle) · score 4 (1 rival, skill fit, fresh)
+1. `Ikalus1988/MisakaNet#5463` — [Bounty] Answer the 2 linked question(s) · score 4 (uncontested, fresh)
+2. `Ikalus1988/MisakaNet#5462` — [Bounty] Answer the 2 linked question(s) · score 4 (uncontested, fresh)
+3. `Ikalus1988/MisakaNet#4999` — [Bounty] Answer the 4 linked question(s) · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
