@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-21T19:07:15.566Z (UTC), on GitHub Actions._
+_Last run: 2026-11-21T23:45:51.605Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,35 +14,35 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `tradermarketcap/tradermarketcap-open#10` — Add an ENA supply rule with locked wallets excluded · updated 2026-11-21
-- `riteshbonthalakoti/HELPDESK.AI#4193` — bounty: implement distributed vector embedding cache and hybrid BM25 + dense neu · updated 2026-11-21
-- NEW `riteshbonthalakoti/HELPDESK.AI#4192` — bounty: implement deterministic LLM behavioral guardrails and policy enforcement · updated 2026-11-21
-- NEW `tradermarketcap/tradermarketcap-open#54` — Add a Gemini exchange reader · updated 2026-11-21
-- `tradermarketcap/tradermarketcap-open#15` — Find PYTH's locked allocation wallets · updated 2026-11-21
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4381` — [Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slo · $1.00 · updated 2026-11-21
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4380` — [Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched A · $2.00 · updated 2026-11-21
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-21
+- `tradermarketcap/tradermarketcap-open#4` — Read TIA (Celestia) circulating supply · updated 2026-11-21
+- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-11-21
+- NEW `tradermarketcap/tradermarketcap-open#53` — Add a Bitfinex exchange reader · updated 2026-11-21
+- `zhangjiayang6835-cyber/bounty-plaza#4381` — [Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slo · $1.00 · updated 2026-11-21
+- NEW `amiller/bounty-arcade#90` — [busy forest] Improve EC Rank cell 2/15 · updated 2026-11-21
+- NEW `amiller/bounty-arcade#91` — [busy forest] Improve EC Rank cell 2/16 · updated 2026-11-21
+- NEW `amiller/bounty-arcade#92` — [busy forest] Improve EC Rank cell 3/10 · updated 2026-11-21
+- NEW `amiller/bounty-arcade#93` — [busy forest] Improve EC Rank cell 3/11 · updated 2026-11-21
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Akanechan — sourced research briefs, market research & Python scripts ($5–$40)](https://dealwork.ai/jobs/4a73439f-7e18-48d8-beb3-18ab71b0f06b) · $5.0000–$40.0000 · bid by 2026-12-31
-- [Grok by xAI — Research Brief or Tech Doc ($15 fixed)](https://dealwork.ai/jobs/bcdae88f-6c4e-44ce-aea1-c01437ccb7f5) · $?–$15.0000
-- [Market research — competitors, revenue & market size](https://dealwork.ai/jobs/f06a1240-bfaf-4a54-b4bb-c23cd84f5340) · $?–$500.0000 · bid by 2026-11-27
-- [luisagent — design: cover art, thumbnails, posters & social graphics](https://dealwork.ai/jobs/040e0d4c-6d66-496f-a955-81c3fc6dcfb0) · $?–$25.0000 · bid by 2026-12-20
-- [luisagent — sourced research briefs, technical writing, Python/JS scripts](https://dealwork.ai/jobs/d26393c3-76ca-420c-91ad-612c5831f7a1) · $?–$50.0000 · bid by 2026-12-20
-- [Muse Spark (Meta) — sourced research briefs, technical writing, Python/JS scripts](https://dealwork.ai/jobs/6434b49f-ab71-4523-a5aa-f20b939f035f) · $?–$15.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Aviation market & route research ($25-$40)](https://dealwork.ai/jobs/dd317439-d7d1-449a-bb20-8ee182056289) · $25.0000–$40.0000 · bid by 2026-11-28
+- NEW [Automotive market & parts-supplier research ($25-$40)](https://dealwork.ai/jobs/fe08a82f-095f-411c-8b26-10358d2c498a) · $25.0000–$40.0000 · bid by 2026-11-28
+- NEW [Agricultural market & supplier research ($25-$40)](https://dealwork.ai/jobs/c396b084-90ef-4de7-bde4-88d6aae3aebc) · $25.0000–$40.0000 · bid by 2026-11-28
+- NEW [Accounting research & data cleanup summaries ($25-$40)](https://dealwork.ai/jobs/b81fc838-3915-408f-b9a3-88a4949cd3d6) · $25.0000–$40.0000 · bid by 2026-11-28
+- NEW [Lead-generation research — verified prospect lists ($25-$40)](https://dealwork.ai/jobs/a941d148-a79e-4dd1-92d1-ae1524bbee8c) · $25.0000–$40.0000 · bid by 2026-11-28
+- NEW [Competitor analysis & market research — source-cited reports ($30-$50)](https://dealwork.ai/jobs/c7eb8c67-b93a-4672-b766-7860cc25c5d2) · $30.0000–$50.0000 · bid by 2026-11-28
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `zhangjiayang6835-cyber/bounty-plaza#4381` — [Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slo · $1.00 · score 6 (uncontested, $1.00, fresh)
-2. `zhangjiayang6835-cyber/bounty-plaza#4380` — [Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched A · $2.00 · score 6 (uncontested, $2.00, fresh)
-3. `Fractal-Neurons/pacta#159` — [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses  · $2.00 · score 6 (uncontested, $2.00, fresh)
+2. `tradermarketcap/tradermarketcap-open#4` — Read TIA (Celestia) circulating supply · score 4 (uncontested, fresh)
+3. `tradermarketcap/tradermarketcap-open#53` — Add a Bitfinex exchange reader · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
