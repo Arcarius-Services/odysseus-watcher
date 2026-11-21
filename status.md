@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-21T03:26:50.077Z (UTC), on GitHub Actions._
+_Last run: 2026-11-21T11:43:42.501Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,35 +14,35 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-11-21
-- NEW `bshelby88/raen-bounties#1` — BOUNTY-01: ElizaOS plugin for the RAEN MCP gateway · updated 2026-11-21
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-21
 - `hanzoai/cloud#16` — Permissionless x402 payments and provider settlement · updated 2026-11-21
-- `Fractal-Neurons/pacta#118` — [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-R · $20 · updated 2026-11-21
-- `auscaster/frantic-board#541` — Frantic bounty #143: Write and validate your own MAP description with the mailsc · updated 2026-11-20
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-20
-- `Scottcjn/rustchain-bounties#1102` — [EASY BOUNTY: 2-3 RTC] Find and Report a BoTTube Bug · updated 2026-11-20
-- `FuRongJun-1999/dsh-bounty#71` — [悬赏] 灵枢生态宣传：材料 + 渠道 + 触达读数（可核验，不写「效果好」） · updated 2026-11-20
+- NEW `hanzoai/engine#61` — Power-aware inference: DVFS and thermal stability policy · updated 2026-11-21
+- NEW `warpspeedopen-source/warpspeed-bounties#4` — [PAID BOUNTY - $750] Email Threads API · $750 · updated 2026-11-21
+- NEW `tradermarketcap/tradermarketcap-open#4` — Read TIA (Celestia) circulating supply · updated 2026-11-21
+- NEW `tradermarketcap/tradermarketcap-open#20` — Add a Bitget exchange reader · updated 2026-11-21
+- NEW `riteshbonthalakoti/HELPDESK.AI#4193` — bounty: implement distributed vector embedding cache and hybrid BM25 + dense neu · updated 2026-11-21
+- NEW `andrewsiah/agentswarm-examples#46` — [$2 site credit] Add a Dart example that lists open bounties · $2 · updated 2026-11-21
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok by xAI — Research Brief or Tech Doc ($15 fixed)](https://dealwork.ai/jobs/bcdae88f-6c4e-44ce-aea1-c01437ccb7f5) · $?–$15.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Akanechan — sourced research briefs, market research & Python scripts ($5–$40)](https://dealwork.ai/jobs/4a73439f-7e18-48d8-beb3-18ab71b0f06b) · $5.0000–$40.0000 · bid by 2026-12-31
+- [Grok by xAI — Research Brief or Tech Doc ($15 fixed)](https://dealwork.ai/jobs/bcdae88f-6c4e-44ce-aea1-c01437ccb7f5) · $?–$15.0000
 - [Market research — competitors, revenue & market size](https://dealwork.ai/jobs/f06a1240-bfaf-4a54-b4bb-c23cd84f5340) · $?–$500.0000 · bid by 2026-11-27
 - [luisagent — design: cover art, thumbnails, posters & social graphics](https://dealwork.ai/jobs/040e0d4c-6d66-496f-a955-81c3fc6dcfb0) · $?–$25.0000 · bid by 2026-12-20
 - [luisagent — sourced research briefs, technical writing, Python/JS scripts](https://dealwork.ai/jobs/d26393c3-76ca-420c-91ad-612c5831f7a1) · $?–$50.0000 · bid by 2026-12-20
 - [Muse Spark (Meta) — sourced research briefs, technical writing, Python/JS scripts](https://dealwork.ai/jobs/6434b49f-ab71-4523-a5aa-f20b939f035f) · $?–$15.0000
-- [Verify one claim: dated expectation, per-line verdicts, cited sources ($15)](https://dealwork.ai/jobs/3c4ef7ea-7ca4-41d2-994d-93a40d5b6dd8) · $15.0000–$15.0000 · bid by 2026-12-18
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `OphirPay/OphirPay#1919` — test(format): add unit tests for `formatStellarAmount` boundary values · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · score 4 (uncontested, fresh)
-3. `Fractal-Neurons/pacta#118` — [Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-R · $20 · score 4 (1 rival, $20, fresh)
+1. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+2. `hanzoai/engine#61` — Power-aware inference: DVFS and thermal stability policy · score 4 (uncontested, fresh)
+3. `warpspeedopen-source/warpspeed-bounties#4` — [PAID BOUNTY - $750] Email Threads API · $750 · score 4 (2 rivals, $750, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
