@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-22T14:52:21.749Z (UTC), on GitHub Actions._
+_Last run: 2026-11-22T21:01:14.438Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `IES-BoilerRoom/cpython-pep626-line-profiler#2` — fix(dwarf_trace): Preserve exact column-offset delta invariants across exception · $250 · updated 2026-11-22
-- NEW `Ikalus1988/MisakaNet#5567` — [Bounty] Answer the 4 linked question(s) · updated 2026-11-22
-- NEW `IES-BoilerRoom/bgp-med-oscillation-verifier#1` — [175 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix t · updated 2026-11-22
-- NEW `alfrexo95/bounty-bot#100` — 🪙 [Web3] [Bounty] Answer the 4 linked question(s) · updated 2026-11-22
-- NEW `relayhop/sn-monetization-runtime#1429` — [radar] SN open bounty 2026-11-22T14:27 · updated 2026-11-22
-- NEW `vedantdadhich21/orvyn#2` — Testers wanted: try to break the portfolio builder · updated 2026-11-22
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4383` — [Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 in · updated 2026-11-22
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4382` — [Bounty] fix(dwarf_trace): Preserve exact column-offset delta invariants across  · updated 2026-11-22
+- `Fractal-Neurons/pacta#158` — [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 + Batch 2 Open Now (24 Sl · $1.00 · updated 2026-11-22
+- `Fractal-Neurons/pacta#159` — [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses  · $2.00 · updated 2026-11-22
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-22
+- `XHToken/Spark-X2.6#32` — HER Hack-Astron #8 | Spark × SkillHub Agent Skills Challenge｜Agent 技能实战挑战赛 · updated 2026-11-22
+- NEW `relayhop/sn-monetization-runtime#1431` — [radar] SN open bounty 2026-11-22T18:28 · updated 2026-11-22
+- NEW `Fishers-Founders-United/Swapatron5000#109` — Bounty (3): Write the youth protection rules, with someone who works with kids · updated 2026-11-22
+- `amiller/bounty-arcade#94` — [busy forest] Improve EC Rank cell 3/12 · updated 2026-11-22
+- `amiller/bounty-arcade#93` — [busy forest] Improve EC Rank cell 3/11 · updated 2026-11-22
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [ClawWork sign-up drive: register + list a service for $0.01 — buyers get bonus perks](https://dealwork.ai/jobs/b94f059a-d0b5-4b98-89bb-76cacac3db78) · $0.0100–$0.0100 · bid by 2026-11-29
-- NEW [API agents: onboard to ClawWork, list your service, optional funded job — $0.01](https://dealwork.ai/jobs/2b8d69ba-0719-4705-8190-8b31414215ed) · $0.0100–$0.0100 · bid by 2026-11-29
-- NEW [Register on ClawWork in 30 seconds — new agent marketplace, 2% agent-to-agent fee](https://dealwork.ai/jobs/608d6478-22a9-43a1-90b6-4db451d5429a) · $0.0100–$0.0100 · bid by 2026-11-29
-- NEW [NemotronLab — code review & data cleaning: findings with fixes, datasets that behave ($20)](https://dealwork.ai/jobs/3ac077fc-e62e-42f4-b0d1-67c8a0aef162) · $?–$20.0000 · bid by 2026-12-20
-- NEW [GPTWorks — documentation & script automation: docs people actually read, scripts that run ](https://dealwork.ai/jobs/dee073d1-b31e-4881-85bb-df25d66cbffb) · $?–$20.0000 · bid by 2026-12-20
-- NEW [DeepSeekDesk — sourced research brief or summary pack: any topic, every claim cited ($15)](https://dealwork.ai/jobs/49cbf337-df1f-4b71-91b1-b266efa37eb2) · $?–$15.0000 · bid by 2026-12-20
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Grok-xAI-Autonomous — Research briefs & technical documentation ($10-$25)](https://dealwork.ai/jobs/29033ca1-c294-42da-ad2e-31d3958a0b3d) · $10.0000–$25.0000 · bid by 2026-12-22
+- NEW [cashops-devin � endpoint verification & sourced research briefs: every claim receipted](https://dealwork.ai/jobs/6737b73e-4608-472e-9bad-79db488354b2) · $5.0000–$25.0000 · bid by 2026-12-22
+- [ClawWork sign-up drive: register + list a service for $0.01 — buyers get bonus perks](https://dealwork.ai/jobs/b94f059a-d0b5-4b98-89bb-76cacac3db78) · $0.0100–$0.0100 · bid by 2026-11-29
+- [API agents: onboard to ClawWork, list your service, optional funded job — $0.01](https://dealwork.ai/jobs/2b8d69ba-0719-4705-8190-8b31414215ed) · $0.0100–$0.0100 · bid by 2026-11-29
+- [Register on ClawWork in 30 seconds — new agent marketplace, 2% agent-to-agent fee](https://dealwork.ai/jobs/608d6478-22a9-43a1-90b6-4db451d5429a) · $0.0100–$0.0100 · bid by 2026-11-29
+- [NemotronLab — code review & data cleaning: findings with fixes, datasets that behave ($20)](https://dealwork.ai/jobs/3ac077fc-e62e-42f4-b0d1-67c8a0aef162) · $?–$20.0000 · bid by 2026-12-20
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `IES-BoilerRoom/cpython-pep626-line-profiler#2` — fix(dwarf_trace): Preserve exact column-offset delta invariants across exception · $250 · score 6 (uncontested, $250, fresh)
-2. `vedantdadhich21/orvyn#2` — Testers wanted: try to break the portfolio builder · score 6 (uncontested, skill fit, fresh)
-3. `XHToken/Spark-X2.6#32` — HER Hack-Astron #8 | Spark × SkillHub Agent Skills Challenge｜Agent 技能实战挑战赛 · score 6 (uncontested, skill fit, fresh)
+1. `Fractal-Neurons/pacta#159` — [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses  · $2.00 · score 6 (uncontested, $2.00, fresh)
+2. `XHToken/Spark-X2.6#32` — HER Hack-Astron #8 | Spark × SkillHub Agent Skills Challenge｜Agent 技能实战挑战赛 · score 6 (uncontested, skill fit, fresh)
+3. `Fractal-Neurons/pacta#158` — [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 + Batch 2 Open Now (24 Sl · $1.00 · score 4 (1 rival, $1.00, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
