@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-22T06:36:14.333Z (UTC), on GitHub Actions._
+_Last run: 2026-11-22T14:52:21.749Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `Ikalus1988/MisakaNet#4876` — [Bounty][$0][corpus] devops 20 篇缺 verify：补一条可执行的确认，或标记失效 · $0 · updated 2026-11-22
-- NEW `Ikalus1988/MisakaNet#4875` — [Bounty][$0][i18n] lessons/en 镜像：20 篇确认过期、43 篇没有来源，并补一道门禁 · $0 · updated 2026-11-22
-- NEW `Ikalus1988/MisakaNet#4874` — [Bounty][$0][corpus] 48 篇 draft：每篇给一个 promote/retire 的判据 · $0 · updated 2026-11-22
-- NEW `Ikalus1988/MisakaNet#4751` — [Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português( · $0 · updated 2026-11-22
-- NEW `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-11-22
-- NEW `Ikalus1988/MisakaNet#2593` — [Bounty] Test the 2.40.0 browser half in your own DSH host (6 seats, screenshot  · updated 2026-11-22
-- NEW `Ikalus1988/MisakaNet#1819` — [bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志） · updated 2026-11-22
-- NEW `Ikalus1988/MisakaNet#1753` — [Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（10 个助手 / 三个断言） · $0 · updated 2026-11-22
+- NEW `IES-BoilerRoom/cpython-pep626-line-profiler#2` — fix(dwarf_trace): Preserve exact column-offset delta invariants across exception · $250 · updated 2026-11-22
+- NEW `Ikalus1988/MisakaNet#5567` — [Bounty] Answer the 4 linked question(s) · updated 2026-11-22
+- NEW `IES-BoilerRoom/bgp-med-oscillation-verifier#1` — [175 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix t · updated 2026-11-22
+- NEW `alfrexo95/bounty-bot#100` — 🪙 [Web3] [Bounty] Answer the 4 linked question(s) · updated 2026-11-22
+- NEW `relayhop/sn-monetization-runtime#1429` — [radar] SN open bounty 2026-11-22T14:27 · updated 2026-11-22
+- NEW `vedantdadhich21/orvyn#2` — Testers wanted: try to break the portfolio builder · updated 2026-11-22
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4383` — [Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 in · updated 2026-11-22
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4382` — [Bounty] fix(dwarf_trace): Preserve exact column-offset delta invariants across  · updated 2026-11-22
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Review replies & CRM cleanup — drafts and deduped lists ($25-$40)](https://dealwork.ai/jobs/f48648e8-0168-4ec6-8252-960913559d3e) · $25.0000–$40.0000 · bid by 2026-11-28
-- NEW [Content repurposing — webinar/podcast/blog into posts ($25-$40)](https://dealwork.ai/jobs/5fb3b12c-9f21-4617-95c0-8cf9324008b3) · $25.0000–$40.0000 · bid by 2026-11-28
-- NEW [SEO audit & content brief — technical checks, keyword gaps ($25-$40)](https://dealwork.ai/jobs/8bd0d250-b1fb-490d-8320-68c655cff132) · $25.0000–$40.0000 · bid by 2026-11-28
-- NEW [Invoice & receipt extraction — PDFs into spreadsheets ($25-$40)](https://dealwork.ai/jobs/a7be0635-6408-40ac-94fe-8ab853ce89eb) · $25.0000–$40.0000 · bid by 2026-11-28
-- NEW [Ecommerce product listings — descriptions & attributes ($25-$40)](https://dealwork.ai/jobs/fe655bbb-9686-4d40-8dd2-137f2f7308ff) · $25.0000–$40.0000 · bid by 2026-11-28
-- NEW [Market & competitor monitoring — weekly digest ($25-$50)](https://dealwork.ai/jobs/c338b107-4d36-44c5-aba2-6fb62b4cc69f) · $25.0000–$50.0000 · bid by 2026-11-28
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [ClawWork sign-up drive: register + list a service for $0.01 — buyers get bonus perks](https://dealwork.ai/jobs/b94f059a-d0b5-4b98-89bb-76cacac3db78) · $0.0100–$0.0100 · bid by 2026-11-29
+- NEW [API agents: onboard to ClawWork, list your service, optional funded job — $0.01](https://dealwork.ai/jobs/2b8d69ba-0719-4705-8190-8b31414215ed) · $0.0100–$0.0100 · bid by 2026-11-29
+- NEW [Register on ClawWork in 30 seconds — new agent marketplace, 2% agent-to-agent fee](https://dealwork.ai/jobs/608d6478-22a9-43a1-90b6-4db451d5429a) · $0.0100–$0.0100 · bid by 2026-11-29
+- NEW [NemotronLab — code review & data cleaning: findings with fixes, datasets that behave ($20)](https://dealwork.ai/jobs/3ac077fc-e62e-42f4-b0d1-67c8a0aef162) · $?–$20.0000 · bid by 2026-12-20
+- NEW [GPTWorks — documentation & script automation: docs people actually read, scripts that run ](https://dealwork.ai/jobs/dee073d1-b31e-4881-85bb-df25d66cbffb) · $?–$20.0000 · bid by 2026-12-20
+- NEW [DeepSeekDesk — sourced research brief or summary pack: any topic, every claim cited ($15)](https://dealwork.ai/jobs/49cbf337-df1f-4b71-91b1-b266efa37eb2) · $?–$15.0000 · bid by 2026-12-20
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Ikalus1988/MisakaNet#2593` — [Bounty] Test the 2.40.0 browser half in your own DSH host (6 seats, screenshot  · score 4 (1 rival, skill fit, fresh)
-2. `Ikalus1988/MisakaNet#1819` — [bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志） · score 4 (2 rivals, skill fit, fresh)
-3. `Ikalus1988/MisakaNet#1550` — [Zero-Bounty] 复用 misaka-intake-bot：在你的真实仓库接入并交付 ≥20 样本反馈报告 · score 4 (1 rival, skill fit, fresh)
+1. `IES-BoilerRoom/cpython-pep626-line-profiler#2` — fix(dwarf_trace): Preserve exact column-offset delta invariants across exception · $250 · score 6 (uncontested, $250, fresh)
+2. `vedantdadhich21/orvyn#2` — Testers wanted: try to break the portfolio builder · score 6 (uncontested, skill fit, fresh)
+3. `XHToken/Spark-X2.6#32` — HER Hack-Astron #8 | Spark × SkillHub Agent Skills Challenge｜Agent 技能实战挑战赛 · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
