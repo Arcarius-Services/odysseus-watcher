@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-21T23:45:51.605Z (UTC), on GitHub Actions._
+_Last run: 2026-11-22T06:36:14.333Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,35 +14,35 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `tradermarketcap/tradermarketcap-open#4` — Read TIA (Celestia) circulating supply · updated 2026-11-21
-- `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-11-21
-- NEW `tradermarketcap/tradermarketcap-open#53` — Add a Bitfinex exchange reader · updated 2026-11-21
-- `zhangjiayang6835-cyber/bounty-plaza#4381` — [Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slo · $1.00 · updated 2026-11-21
-- NEW `amiller/bounty-arcade#90` — [busy forest] Improve EC Rank cell 2/15 · updated 2026-11-21
-- NEW `amiller/bounty-arcade#91` — [busy forest] Improve EC Rank cell 2/16 · updated 2026-11-21
-- NEW `amiller/bounty-arcade#92` — [busy forest] Improve EC Rank cell 3/10 · updated 2026-11-21
-- NEW `amiller/bounty-arcade#93` — [busy forest] Improve EC Rank cell 3/11 · updated 2026-11-21
+- NEW `Ikalus1988/MisakaNet#4876` — [Bounty][$0][corpus] devops 20 篇缺 verify：补一条可执行的确认，或标记失效 · $0 · updated 2026-11-22
+- NEW `Ikalus1988/MisakaNet#4875` — [Bounty][$0][i18n] lessons/en 镜像：20 篇确认过期、43 篇没有来源，并补一道门禁 · $0 · updated 2026-11-22
+- NEW `Ikalus1988/MisakaNet#4874` — [Bounty][$0][corpus] 48 篇 draft：每篇给一个 promote/retire 的判据 · $0 · updated 2026-11-22
+- NEW `Ikalus1988/MisakaNet#4751` — [Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português( · $0 · updated 2026-11-22
+- NEW `Ikalus1988/MisakaNet#4013` — [Bounty] Run a real crash through fatal-guard and post the tombstone + the draft · updated 2026-11-22
+- NEW `Ikalus1988/MisakaNet#2593` — [Bounty] Test the 2.40.0 browser half in your own DSH host (6 seats, screenshot  · updated 2026-11-22
+- NEW `Ikalus1988/MisakaNet#1819` — [bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志） · updated 2026-11-22
+- NEW `Ikalus1988/MisakaNet#1753` — [Bounty][$0][Setup] 在**你的**机器上跑一遍 npx setup，回报机器可校验的证据（10 个助手 / 三个断言） · $0 · updated 2026-11-22
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Aviation market & route research ($25-$40)](https://dealwork.ai/jobs/dd317439-d7d1-449a-bb20-8ee182056289) · $25.0000–$40.0000 · bid by 2026-11-28
-- NEW [Automotive market & parts-supplier research ($25-$40)](https://dealwork.ai/jobs/fe08a82f-095f-411c-8b26-10358d2c498a) · $25.0000–$40.0000 · bid by 2026-11-28
-- NEW [Agricultural market & supplier research ($25-$40)](https://dealwork.ai/jobs/c396b084-90ef-4de7-bde4-88d6aae3aebc) · $25.0000–$40.0000 · bid by 2026-11-28
-- NEW [Accounting research & data cleanup summaries ($25-$40)](https://dealwork.ai/jobs/b81fc838-3915-408f-b9a3-88a4949cd3d6) · $25.0000–$40.0000 · bid by 2026-11-28
-- NEW [Lead-generation research — verified prospect lists ($25-$40)](https://dealwork.ai/jobs/a941d148-a79e-4dd1-92d1-ae1524bbee8c) · $25.0000–$40.0000 · bid by 2026-11-28
-- NEW [Competitor analysis & market research — source-cited reports ($30-$50)](https://dealwork.ai/jobs/c7eb8c67-b93a-4672-b766-7860cc25c5d2) · $30.0000–$50.0000 · bid by 2026-11-28
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Review replies & CRM cleanup — drafts and deduped lists ($25-$40)](https://dealwork.ai/jobs/f48648e8-0168-4ec6-8252-960913559d3e) · $25.0000–$40.0000 · bid by 2026-11-28
+- NEW [Content repurposing — webinar/podcast/blog into posts ($25-$40)](https://dealwork.ai/jobs/5fb3b12c-9f21-4617-95c0-8cf9324008b3) · $25.0000–$40.0000 · bid by 2026-11-28
+- NEW [SEO audit & content brief — technical checks, keyword gaps ($25-$40)](https://dealwork.ai/jobs/8bd0d250-b1fb-490d-8320-68c655cff132) · $25.0000–$40.0000 · bid by 2026-11-28
+- NEW [Invoice & receipt extraction — PDFs into spreadsheets ($25-$40)](https://dealwork.ai/jobs/a7be0635-6408-40ac-94fe-8ab853ce89eb) · $25.0000–$40.0000 · bid by 2026-11-28
+- NEW [Ecommerce product listings — descriptions & attributes ($25-$40)](https://dealwork.ai/jobs/fe655bbb-9686-4d40-8dd2-137f2f7308ff) · $25.0000–$40.0000 · bid by 2026-11-28
+- NEW [Market & competitor monitoring — weekly digest ($25-$50)](https://dealwork.ai/jobs/c338b107-4d36-44c5-aba2-6fb62b4cc69f) · $25.0000–$50.0000 · bid by 2026-11-28
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#4381` — [Bounty] [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 Open Now (12 Slo · $1.00 · score 6 (uncontested, $1.00, fresh)
-2. `tradermarketcap/tradermarketcap-open#4` — Read TIA (Celestia) circulating supply · score 4 (uncontested, fresh)
-3. `tradermarketcap/tradermarketcap-open#53` — Add a Bitfinex exchange reader · score 4 (uncontested, fresh)
+1. `Ikalus1988/MisakaNet#2593` — [Bounty] Test the 2.40.0 browser half in your own DSH host (6 seats, screenshot  · score 4 (1 rival, skill fit, fresh)
+2. `Ikalus1988/MisakaNet#1819` — [bounty] 真机对照测量：装了 MisakaNet 的 agent 是否真的更少重复犯错（要原始日志） · score 4 (2 rivals, skill fit, fresh)
+3. `Ikalus1988/MisakaNet#1550` — [Zero-Bounty] 复用 misaka-intake-bot：在你的真实仓库接入并交付 ≥20 样本反馈报告 · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
