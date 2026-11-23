@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-23T01:35:49.125Z (UTC), on GitHub Actions._
+_Last run: 2026-11-23T09:43:58.749Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,19 +14,19 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
+- `Fractal-Neurons/pacta#161` — [Wave 4: 5 × $2.00 USDC | Documents Changed] Open Now (160 Protocols · 246 Quote · $2.00 · updated 2026-11-23
+- NEW `relayhop/sn-monetization-runtime#1436` — [radar] SN open bounty 2026-11-23T08:55 · updated 2026-11-23
+- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-23
+- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-11-23
+- `tradermarketcap/tradermarketcap-open#4` — Read TIA (Celestia) circulating supply · updated 2026-11-23
 - `Fractal-Neurons/pacta#158` — [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 + Batch 2 Open Now (24 Sl · $1.00 · updated 2026-11-23
-- `Fractal-Neurons/pacta#159` — [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses  · $2.00 · updated 2026-11-23
-- NEW `relayhop/sn-monetization-runtime#1433` — [radar] SN open bounty 2026-11-23T00:12 · updated 2026-11-23
-- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-22
-- `tradermarketcap/tradermarketcap-open#6` — Read ALGO circulating supply with Foundation wallets excluded · updated 2026-11-22
-- NEW `SolFoundry/solfoundry#840` — 🏭 Bounty T2: GitHub Issue Scraper for Foundry Bounties · updated 2026-11-22
-- `Fractal-Neurons/pacta#161` — [Wave 4: 5 × $2.00 USDC | Documents Changed] Open Now (160 Protocols · 246 Quote · $2.00 · updated 2026-11-22
-- `XHToken/Spark-X2.6#32` — HER Hack-Astron #8 | Spark × SkillHub Agent Skills Challenge｜Agent 技能实战挑战赛 · updated 2026-11-22
+- `tradermarketcap/tradermarketcap-open#9` — Split AVAX locked stake out of the total · updated 2026-11-23
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-23
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
@@ -40,9 +40,9 @@ _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Fractal-Neurons/pacta#159` — [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses  · $2.00 · score 6 (uncontested, $2.00, fresh)
-2. `Fractal-Neurons/pacta#161` — [Wave 4: 5 × $2.00 USDC | Documents Changed] Open Now (160 Protocols · 246 Quote · $2.00 · score 6 (uncontested, $2.00, fresh)
-3. `XHToken/Spark-X2.6#32` — HER Hack-Astron #8 | Spark × SkillHub Agent Skills Challenge｜Agent 技能实战挑战赛 · score 6 (uncontested, skill fit, fresh)
+1. `Fractal-Neurons/pacta#161` — [Wave 4: 5 × $2.00 USDC | Documents Changed] Open Now (160 Protocols · 246 Quote · $2.00 · score 6 (uncontested, $2.00, fresh)
+2. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+3. `relayhop/sn-monetization-runtime#1436` — [radar] SN open bounty 2026-11-23T08:55 · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
