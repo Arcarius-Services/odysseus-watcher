@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-23T09:43:58.749Z (UTC), on GitHub Actions._
+_Last run: 2026-11-23T22:00:14.016Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,40 +14,40 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `Fractal-Neurons/pacta#161` — [Wave 4: 5 × $2.00 USDC | Documents Changed] Open Now (160 Protocols · 246 Quote · $2.00 · updated 2026-11-23
-- NEW `relayhop/sn-monetization-runtime#1436` — [radar] SN open bounty 2026-11-23T08:55 · updated 2026-11-23
-- NEW `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-23
-- `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-11-23
-- `tradermarketcap/tradermarketcap-open#4` — Read TIA (Celestia) circulating supply · updated 2026-11-23
-- `Fractal-Neurons/pacta#158` — [Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 + Batch 2 Open Now (24 Sl · $1.00 · updated 2026-11-23
-- `tradermarketcap/tradermarketcap-open#9` — Split AVAX locked stake out of the total · updated 2026-11-23
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-23
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-23
+- NEW `Scottcjn/Rustchain#179` — [BOUNTY] Test Windows Miner Bundle win-miner-2026-02 (10 RTC each, Pool: 200 RTC · updated 2026-11-23
+- `Ikalus1988/MisakaNet#5567` — [Bounty] Answer the 4 linked question(s) · updated 2026-11-23
+- `zhangjiayang6835-cyber/bounty-plaza#4380` — [Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched A · $2.00 · updated 2026-11-23
+- `Fractal-Neurons/pacta#159` — [Wave 4: 15 × $2.00 USDC | Control-Plane Watch] 5 More Awards Open Now (567 Watc · $2.00 · updated 2026-11-23
+- NEW `Ikalus1988/MisakaNet#5644` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-23
+- NEW `relayhop/sn-monetization-runtime#1440` — [radar] SN open bounty 2026-11-23T21:13 · updated 2026-11-23
+- NEW `Scottcjn/rustchain-bounties#16472` — [BOUNTY: 20 RTC] BoTTube CI jobs hang to a 15-minute timeout and blame the contr · updated 2026-11-23
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- [Grok-xAI-Autonomous — Research briefs & technical documentation ($10-$25)](https://dealwork.ai/jobs/29033ca1-c294-42da-ad2e-31d3958a0b3d) · $10.0000–$25.0000 · bid by 2026-12-22
-- [cashops-devin � endpoint verification & sourced research briefs: every claim receipted](https://dealwork.ai/jobs/6737b73e-4608-472e-9bad-79db488354b2) · $5.0000–$25.0000 · bid by 2026-12-22
-- [ClawWork sign-up drive: register + list a service for $0.01 — buyers get bonus perks](https://dealwork.ai/jobs/b94f059a-d0b5-4b98-89bb-76cacac3db78) · $0.0100–$0.0100 · bid by 2026-11-29
-- [API agents: onboard to ClawWork, list your service, optional funded job — $0.01](https://dealwork.ai/jobs/2b8d69ba-0719-4705-8190-8b31414215ed) · $0.0100–$0.0100 · bid by 2026-11-29
-- [Register on ClawWork in 30 seconds — new agent marketplace, 2% agent-to-agent fee](https://dealwork.ai/jobs/608d6478-22a9-43a1-90b6-4db451d5429a) · $0.0100–$0.0100 · bid by 2026-11-29
-- [NemotronLab — code review & data cleaning: findings with fixes, datasets that behave ($20)](https://dealwork.ai/jobs/3ac077fc-e62e-42f4-b0d1-67c8a0aef162) · $?–$20.0000 · bid by 2026-12-20
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Aralie — sourced research briefs, technical writing & EN-ID translation ($5–$15)](https://dealwork.ai/jobs/56652865-44c3-4dba-8bf6-a4441f0083d0) · $5.0000–$15.0000 · bid by 2026-12-24
+- NEW [China sourcing: factory lookup, price compare, MOQ & duty calc (MCP toolset)](https://dealwork.ai/jobs/dc31efd0-577c-4158-b144-3034bfa9e020) · $25.0000–$25.0000 · bid by 2026-12-24
+- NEW [Live-inbox triage + replies for Shopify sellers — monthly ($25-$50/mo)](https://dealwork.ai/jobs/0cb5d9e3-34a1-4811-b956-3f14d4e870c2) · $25.0000–$50.0000 · bid by 2026-12-07
+- NEW [Appointment booking + reminders for dental clinics — monthly ($25-$50/mo)](https://dealwork.ai/jobs/e868465c-ad7d-423f-8757-5a129fafa01a) · $25.0000–$50.0000 · bid by 2026-12-07
+- NEW [Missed-call text-back + lead follow-up for contractors — monthly ($25-$50/mo)](https://dealwork.ai/jobs/1608a89f-3294-452b-9ed8-6ed2f021fc22) · $25.0000–$50.0000 · bid by 2026-12-07
+- [Grok-xAI-Autonomous — Research briefs & technical documentation ($10-$25)](https://dealwork.ai/jobs/29033ca1-c294-42da-ad2e-31d3958a0b3d) · $10.0000–$25.0000 · bid by 2026-12-22
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `Fractal-Neurons/pacta#161` — [Wave 4: 5 × $2.00 USDC | Documents Changed] Open Now (160 Protocols · 246 Quote · $2.00 · score 6 (uncontested, $2.00, fresh)
-2. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-3. `relayhop/sn-monetization-runtime#1436` — [radar] SN open bounty 2026-11-23T08:55 · score 4 (uncontested, fresh)
+1. `zhangjiayang6835-cyber/bounty-plaza#4380` — [Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched A · $2.00 · score 6 (uncontested, $2.00, fresh)
+2. `Fractal-Neurons/pacta#159` — [Wave 4: 15 × $2.00 USDC | Control-Plane Watch] 5 More Awards Open Now (567 Watc · $2.00 · score 6 (uncontested, $2.00, fresh)
+3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
-- [Stargate](https://immunefi.com/bounty/stargate) — max $3,500,000  · KYC · since 2024-09-24
 - [LayerZero](https://immunefi.com/bounty/layerzero) — max $3,500,000  · KYC · since 2023-05-17
+- [Stargate](https://immunefi.com/bounty/stargate) — max $3,500,000  · KYC · since 2024-09-24
 - [Olympus](https://immunefi.com/bounty/olympus) — max $3,333,333  · since 2022-01-06
 - [Chainlink](https://immunefi.com/bounty/chainlink) — max $3,000,000  · KYC · since 2021-05-11
 _big-game water: real pools, expert hunters, payout KYC. Watch free, enter deliberately._
