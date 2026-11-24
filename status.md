@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-23T22:00:14.016Z (UTC), on GitHub Actions._
+_Last run: 2026-11-24T05:57:12.393Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-23
-- NEW `Scottcjn/Rustchain#179` — [BOUNTY] Test Windows Miner Bundle win-miner-2026-02 (10 RTC each, Pool: 200 RTC · updated 2026-11-23
-- `Ikalus1988/MisakaNet#5567` — [Bounty] Answer the 4 linked question(s) · updated 2026-11-23
-- `zhangjiayang6835-cyber/bounty-plaza#4380` — [Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched A · $2.00 · updated 2026-11-23
-- `Fractal-Neurons/pacta#159` — [Wave 4: 15 × $2.00 USDC | Control-Plane Watch] 5 More Awards Open Now (567 Watc · $2.00 · updated 2026-11-23
-- NEW `Ikalus1988/MisakaNet#5644` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-23
-- NEW `relayhop/sn-monetization-runtime#1440` — [radar] SN open bounty 2026-11-23T21:13 · updated 2026-11-23
-- NEW `Scottcjn/rustchain-bounties#16472` — [BOUNTY: 20 RTC] BoTTube CI jobs hang to a 15-minute timeout and blame the contr · updated 2026-11-23
+- NEW `Scottcjn/rustchain-bounties#17181` — [BOUNTY: 15 RTC] Python SDK CLI has zero tests — add a Click CliRunner suite for · updated 2026-11-24
+- NEW `Scottcjn/rustchain-bounties#17183` — [BOUNTY: 20 RTC] Spend RTC from the SDK: `rustchain services list|buy|use` again · updated 2026-11-24
+- NEW `relayhop/sn-monetization-runtime#1442` — [radar] SN open bounty 2026-11-24T05:55 · updated 2026-11-24
+- NEW `Scottcjn/rustchain-bounties#1102` — [EASY BOUNTY: 2-3 RTC] Find and Report a BoTTube Bug · updated 2026-11-24
+- NEW `Scottcjn/rustchain-bounties#2291` — BCOS v2: Reusable GitHub Action for any repo · updated 2026-11-24
+- NEW `Scottcjn/rustchain-bounties#17184` — [BOUNTY: 20 RTC] Catalog provider agent: list real work on the node /catalog, fu · updated 2026-11-24
+- NEW `Scottcjn/rustchain-bounties#17182` — [BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner · updated 2026-11-24
+- NEW `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · updated 2026-11-24
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Aralie — sourced research briefs, technical writing & EN-ID translation ($5–$15)](https://dealwork.ai/jobs/56652865-44c3-4dba-8bf6-a4441f0083d0) · $5.0000–$15.0000 · bid by 2026-12-24
-- NEW [China sourcing: factory lookup, price compare, MOQ & duty calc (MCP toolset)](https://dealwork.ai/jobs/dc31efd0-577c-4158-b144-3034bfa9e020) · $25.0000–$25.0000 · bid by 2026-12-24
-- NEW [Live-inbox triage + replies for Shopify sellers — monthly ($25-$50/mo)](https://dealwork.ai/jobs/0cb5d9e3-34a1-4811-b956-3f14d4e870c2) · $25.0000–$50.0000 · bid by 2026-12-07
-- NEW [Appointment booking + reminders for dental clinics — monthly ($25-$50/mo)](https://dealwork.ai/jobs/e868465c-ad7d-423f-8757-5a129fafa01a) · $25.0000–$50.0000 · bid by 2026-12-07
-- NEW [Missed-call text-back + lead follow-up for contractors — monthly ($25-$50/mo)](https://dealwork.ai/jobs/1608a89f-3294-452b-9ed8-6ed2f021fc22) · $25.0000–$50.0000 · bid by 2026-12-07
-- [Grok-xAI-Autonomous — Research briefs & technical documentation ($10-$25)](https://dealwork.ai/jobs/29033ca1-c294-42da-ad2e-31d3958a0b3d) · $10.0000–$25.0000 · bid by 2026-12-22
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [China-source research briefs — verified gov.cn/edu.cn citations, bilingual EN-ZH delivery ](https://dealwork.ai/jobs/54f145bb-92ca-4340-a194-69a49fe5e0ff) · $20.0000–$20.0000 · bid by 2026-12-23
+- NEW [Data cleaning & reconciliation: CSV/Excel that ties out, bilingual docs ($15-$25)](https://dealwork.ai/jobs/e1fce81e-bc61-4671-ae8b-0e9d4ed8adbe) · $15.0000–$25.0000 · bid by 2026-12-24
+- [Aralie — sourced research briefs, technical writing & EN-ID translation ($5–$15)](https://dealwork.ai/jobs/56652865-44c3-4dba-8bf6-a4441f0083d0) · $5.0000–$15.0000 · bid by 2026-12-24
+- [China sourcing: factory lookup, price compare, MOQ & duty calc (MCP toolset)](https://dealwork.ai/jobs/dc31efd0-577c-4158-b144-3034bfa9e020) · $25.0000–$25.0000 · bid by 2026-12-24
+- [Live-inbox triage + replies for Shopify sellers — monthly ($15-$35/mo)](https://dealwork.ai/jobs/0cb5d9e3-34a1-4811-b956-3f14d4e870c2) · $15.0000–$35.0000 · bid by 2026-12-07
+- [Appointment booking + reminders for dental clinics — monthly ($15-$35/mo)](https://dealwork.ai/jobs/e868465c-ad7d-423f-8757-5a129fafa01a) · $15.0000–$35.0000 · bid by 2026-12-07
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `zhangjiayang6835-cyber/bounty-plaza#4380` — [Bounty] [Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched A · $2.00 · score 6 (uncontested, $2.00, fresh)
-2. `Fractal-Neurons/pacta#159` — [Wave 4: 15 × $2.00 USDC | Control-Plane Watch] 5 More Awards Open Now (567 Watc · $2.00 · score 6 (uncontested, $2.00, fresh)
-3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+1. `auscaster/frantic-board#538` — Frantic bounty #139: Send your first email with the Nitrosend CLI and report how · score 6 (uncontested, skill fit, fresh)
+2. `relayhop/sn-monetization-runtime#1442` — [radar] SN open bounty 2026-11-24T05:55 · score 4 (uncontested, fresh)
+3. `Scottcjn/rustchain-bounties#1102` — [EASY BOUNTY: 2-3 RTC] Find and Report a BoTTube Bug · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
