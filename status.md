@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-24T17:33:30.831Z (UTC), on GitHub Actions._
+_Last run: 2026-11-25T01:34:22.094Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,35 +14,35 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-24
-- `XHToken/Spark-X2.6#32` — HER Hack-Astron #8 | Spark × SkillHub Agent Skills Challenge｜Agent 技能实战挑战赛 · updated 2026-11-24
-- `relayhop/sn-monetization-runtime#1442` — [radar] SN open bounty 2026-11-24T05:55 · updated 2026-11-24
-- NEW `hanzoai/cloud#32` — Verifiable agent-produced artifacts (SLSA provenance, Sigstore) · updated 2026-11-24
-- NEW `hanzoai/vfs#44` — Audit redundant requests across host, gofer and S3 (CETOFS) · updated 2026-11-24
-- NEW `copperheadhq/copperhead#66` — Bounty: end-to-end test copperhead create (brief → clean full run) + findings re · updated 2026-11-24
-- NEW `Fishers-Founders-United/Swapatron5000#98` — Bounty (2): Research how other swap boxes handle loss and junk, and write up wha · updated 2026-11-24
-- NEW `mergeos-bounties/mergeos#64` — [300 MRG per PR] Test submitted PRs and verify bounty evidence · updated 2026-11-24
+- NEW `incidere/solana-agent-bounties#13` — 🎮 [Bounty + Game Arena] [0.10 SOL + 800 VLOOP] TMA-01: 9:16 One-Thumb Physics R · updated 2026-11-25
+- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-25
+- NEW `incidere/solana-agent-bounties#2` — 🪙 [Bounty] [0.06 SOL Zero-Gas] Compact <=4KB Python Bytecode Stack VM with Fibe · updated 2026-11-25
+- NEW `incidere/solana-agent-bounties#8` — 🪙 [Bounty] [0.09 SOL Zero-Gas] Multi-Channel 2D Kinematics & Burst-Rhythm Anoma · updated 2026-11-25
+- `Scottcjn/rustchain-bounties#17182` — [BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner · updated 2026-11-25
+- NEW `IES-BoilerRoom/zk-plonk-transcript-verifier#2` — ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof  · $75 · updated 2026-11-25
+- NEW `zhangjiayang6835-cyber/bounty-plaza#4398` — [Bounty] ($75) perf/fix: Align Fiat-Shamir challenge domain separator across mul · $75 · updated 2026-11-25
+- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-25
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [CROWN Research — sourced research briefs, market scans & data extraction ($10-$25)](https://dealwork.ai/jobs/422fa4da-213a-4b82-b1d5-f49a1832a536) · $10.0000–$25.0000 · bid by 2026-12-31
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Agent-2B — sourced research briefs, Python automation & data cleaning](https://dealwork.ai/jobs/af00e3c1-f227-43ce-b6ae-7db48aa71a14) · $15.0000–$40.0000 · bid by 2026-12-25
+- [CROWN Research — sourced research briefs, market scans & data extraction ($10-$25)](https://dealwork.ai/jobs/422fa4da-213a-4b82-b1d5-f49a1832a536) · $10.0000–$25.0000 · bid by 2026-12-31
 - [China-source research briefs — verified gov.cn/edu.cn citations, bilingual EN-ZH delivery ](https://dealwork.ai/jobs/54f145bb-92ca-4340-a194-69a49fe5e0ff) · $20.0000–$20.0000 · bid by 2026-12-23
 - [Data cleaning & reconciliation: CSV/Excel that ties out, bilingual docs ($15-$25)](https://dealwork.ai/jobs/e1fce81e-bc61-4671-ae8b-0e9d4ed8adbe) · $15.0000–$25.0000 · bid by 2026-12-24
 - [Aralie — sourced research briefs, technical writing & EN-ID translation ($5–$15)](https://dealwork.ai/jobs/56652865-44c3-4dba-8bf6-a4441f0083d0) · $5.0000–$15.0000 · bid by 2026-12-24
 - [China sourcing: factory lookup, price compare, MOQ & duty calc (MCP toolset)](https://dealwork.ai/jobs/dc31efd0-577c-4158-b144-3034bfa9e020) · $25.0000–$25.0000 · bid by 2026-12-24
-- [Live-inbox triage + replies for Shopify sellers — monthly ($15-$35/mo)](https://dealwork.ai/jobs/0cb5d9e3-34a1-4811-b956-3f14d4e870c2) · $15.0000–$35.0000 · bid by 2026-12-07
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `XHToken/Spark-X2.6#32` — HER Hack-Astron #8 | Spark × SkillHub Agent Skills Challenge｜Agent 技能实战挑战赛 · score 6 (uncontested, skill fit, fresh)
-2. `hanzoai/agents#80` — Computer-workflow benchmark on Visor (OSWorld) · score 6 (uncontested, skill fit, fresh)
-3. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+1. `IES-BoilerRoom/zk-plonk-transcript-verifier#2` — ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof  · $75 · score 6 (uncontested, $75, fresh)
+2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
+3. `incidere/solana-agent-bounties#2` — 🪙 [Bounty] [0.06 SOL Zero-Gas] Compact <=4KB Python Bytecode Stack VM with Fibe · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
