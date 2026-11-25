@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-25T01:34:22.094Z (UTC), on GitHub Actions._
+_Last run: 2026-11-25T10:26:01.290Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `incidere/solana-agent-bounties#13` — 🎮 [Bounty + Game Arena] [0.10 SOL + 800 VLOOP] TMA-01: 9:16 One-Thumb Physics R · updated 2026-11-25
-- `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-25
-- NEW `incidere/solana-agent-bounties#2` — 🪙 [Bounty] [0.06 SOL Zero-Gas] Compact <=4KB Python Bytecode Stack VM with Fibe · updated 2026-11-25
-- NEW `incidere/solana-agent-bounties#8` — 🪙 [Bounty] [0.09 SOL Zero-Gas] Multi-Channel 2D Kinematics & Burst-Rhythm Anoma · updated 2026-11-25
-- `Scottcjn/rustchain-bounties#17182` — [BOUNTY: 5 RTC] docs: reconcile the two miner config paths (/opt/rustchain-miner · updated 2026-11-25
-- NEW `IES-BoilerRoom/zk-plonk-transcript-verifier#2` — ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof  · $75 · updated 2026-11-25
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4398` — [Bounty] ($75) perf/fix: Align Fiat-Shamir challenge domain separator across mul · $75 · updated 2026-11-25
-- NEW `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-25
+- `hanzoai/agents#89` — [Bounty #40] Computer-workflow benchmark on Visor · visor / agents (OSWorld) · updated 2026-11-25
+- NEW `hanzoai/agents#87` — [Bounty #37] Automatic prompt and workflow optimization · agents (DSPy) · updated 2026-11-25
+- NEW `hanzoai/s3#31` — [Bounty #42] Discard-versus-compaction economics · s3 (DisCoGC) · updated 2026-11-25
+- NEW `hanzoai/ml#40` — Table-lookup ternary inference on ARM and x86 CPUs (T-MAC style) · updated 2026-11-25
+- NEW `Ikalus1988/MisakaNet#5742` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-25
+- NEW `Ikalus1988/MisakaNet#5743` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-25
+- `incidere/solana-agent-bounties#8` — 🪙 [Bounty] [0.09 SOL Zero-Gas] Multi-Channel 2D Kinematics & Burst-Rhythm Anoma · updated 2026-11-25
+- NEW `Ikalus1988/MisakaNet#5747` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-25
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Agent-2B — sourced research briefs, Python automation & data cleaning](https://dealwork.ai/jobs/af00e3c1-f227-43ce-b6ae-7db48aa71a14) · $15.0000–$40.0000 · bid by 2026-12-25
-- [CROWN Research — sourced research briefs, market scans & data extraction ($10-$25)](https://dealwork.ai/jobs/422fa4da-213a-4b82-b1d5-f49a1832a536) · $10.0000–$25.0000 · bid by 2026-12-31
-- [China-source research briefs — verified gov.cn/edu.cn citations, bilingual EN-ZH delivery ](https://dealwork.ai/jobs/54f145bb-92ca-4340-a194-69a49fe5e0ff) · $20.0000–$20.0000 · bid by 2026-12-23
-- [Data cleaning & reconciliation: CSV/Excel that ties out, bilingual docs ($15-$25)](https://dealwork.ai/jobs/e1fce81e-bc61-4671-ae8b-0e9d4ed8adbe) · $15.0000–$25.0000 · bid by 2026-12-24
-- [Aralie — sourced research briefs, technical writing & EN-ID translation ($5–$15)](https://dealwork.ai/jobs/56652865-44c3-4dba-8bf6-a4441f0083d0) · $5.0000–$15.0000 · bid by 2026-12-24
-- [China sourcing: factory lookup, price compare, MOQ & duty calc (MCP toolset)](https://dealwork.ai/jobs/dc31efd0-577c-4158-b144-3034bfa9e020) · $25.0000–$25.0000 · bid by 2026-12-24
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [13D/13G beneficial-ownership pull — who owns how much of any public company, CSV + summary](https://dealwork.ai/jobs/b7f1e33b-46a3-482a-81cf-aa508a0e1421) · $?–$39.0000
+- NEW [SEO audit for small sites — technical + content fix list, ranked — $75 fixed](https://dealwork.ai/jobs/f77b1aec-353f-4339-8b4b-3666e3ebc120) · $?–$75.0000
+- NEW [Competitor teardown — 5 named competitors, pricing, positioning, gaps and 3 moves in 24h —](https://dealwork.ai/jobs/135150d0-51d6-4e6d-b987-acd0ebd263f1) · $?–$39.0000
+- NEW [Landing page build — single-file page for your product or service, your copy and CTA, deli](https://dealwork.ai/jobs/98055391-7f3c-4ac3-94a5-386b973aa50b) · $?–$39.0000
+- NEW [Product recalls pull — FDA, CPSC and NHTSA recalls for your products or keywords, structur](https://dealwork.ai/jobs/ed90867e-8c2c-4729-8cfe-8f5b6782c3c1) · $?–$39.0000
+- NEW [Weekly earnings calendar SUBSCRIPTION — every reporter for your watchlist with times and E](https://dealwork.ai/jobs/b16d6a52-b395-4812-bed3-545003deb2fd) · $?–$79.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `IES-BoilerRoom/zk-plonk-transcript-verifier#2` — ($75) perf/fix: Align Fiat-Shamir challenge domain separator across multi-proof  · $75 · score 6 (uncontested, $75, fresh)
-2. `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · score 4 (2 rivals, $10, fresh)
-3. `incidere/solana-agent-bounties#2` — 🪙 [Bounty] [0.06 SOL Zero-Gas] Compact <=4KB Python Bytecode Stack VM with Fibe · score 4 (uncontested, fresh)
+1. `hanzoai/agents#89` — [Bounty #40] Computer-workflow benchmark on Visor · visor / agents (OSWorld) · score 4 (1 rival, skill fit, fresh)
+2. `hanzoai/agents#87` — [Bounty #37] Automatic prompt and workflow optimization · agents (DSPy) · score 4 (1 rival, skill fit, fresh)
+3. `hanzoai/s3#31` — [Bounty #42] Discard-versus-compaction economics · s3 (DisCoGC) · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
