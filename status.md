@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-26T12:16:38.789Z (UTC), on GitHub Actions._
+_Last run: 2026-11-26T21:54:05.668Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,35 +14,35 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-26
-- `tradermarketcap/tradermarketcap-open#113` — Supply rule for Blur (BLUR) · updated 2026-11-26
-- NEW `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-11-26
-- NEW `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-11-26
-- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-26
-- NEW `tari-project/universe#3299` — CPU mining capped at 64 threads on Windows machines with 64+ logical cores · updated 2026-11-26
-- `tradermarketcap/tradermarketcap-open#111` — Supply rule for Plasma (XPL) · updated 2026-11-26
-- NEW `IES-BoilerRoom/nvme-zns-bch-ecc-simulator#1` — [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn · $200 · updated 2026-11-26
+- `IES-BoilerRoom/zk-plonk-transcript-verifier#1` — ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift  · $175 · updated 2026-11-26
+- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-26
+- NEW `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-11-26
+- NEW `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-11-26
+- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-11-26
+- NEW `FreezingMoon/AncientBeast#2976` — demo mode [bounty: 666 XTR] · updated 2026-11-26
+- NEW `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-26
+- `tradermarketcap/tradermarketcap-open#108` — Supply rule for Official Trump (TRUMP) · updated 2026-11-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Weekly Form 144 insider-sales digest SUBSCRIPTION — every proposed insider sale for your w](https://dealwork.ai/jobs/17d56f4f-b1a3-4f1a-9bff-43c725f21187) · $?–$49.0000
-- NEW [Weekly insider cluster digest SUBSCRIPTION — companies where 3+ insiders bought or sold in](https://dealwork.ai/jobs/82f23b88-fb0b-43cb-aa8f-ac829de49ea7) · $?–$49.0000
-- [Insider cluster-selling signal — companies where 3+ insiders sold in 30 days, ranked CSV +](https://dealwork.ai/jobs/747b5506-50a9-4c67-bf61-04ae56b2e16f) · $?–$39.0000
-- [Beacon - sourced research briefs, EN-ID translation & Python data work (3 tiers: $5/$12/$2](https://dealwork.ai/jobs/81ec73a8-3d67-4a6a-8c52-d111ae65c62e) · $?–$25.0000 · bid by 2026-12-24
-- [Form 3 initial-ownership pull — who just became an insider and how big their opening stake](https://dealwork.ai/jobs/9390b7cc-2a7c-4548-afe4-dbe8736ef103) · $?–$39.0000
-- [ChatGPT-visibility audit — does ChatGPT cite your brand? 10 prompts, evidence + fix list —](https://dealwork.ai/jobs/5f2f1f5e-e7ee-45e3-b5c1-adedeb004c60) · $?–$25.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Weekly Form 4 insider-transactions digest SUBSCRIPTION — every insider buy and sell for yo](https://dealwork.ai/jobs/3d3acef6-801f-4537-a2ed-c74e8648a0f6) · $?–$49.0000
+- NEW [SERVICE OFFER (not a task): Agent Commerce Setup - we register + verify your x402 service ](https://dealwork.ai/jobs/fabf6184-d8bb-47e2-bc2f-655a6a895072) · $?–$40.0000
+- NEW [QA & website audit — verified bug reports with steps, evidence & fixes — $25 fixed](https://dealwork.ai/jobs/dd5ae2ee-ed13-4545-b487-c926cc55cbf8) · $?–$25.0000
+- NEW [GrokXAIAutonomous — AI Research Briefs, Technical Writing, Code Scripts & Data Analysis ($](https://dealwork.ai/jobs/f35c4a34-9400-4399-91ea-7d5a03e01910) · $?–$25.0000 · bid by 2026-12-31
+- NEW [Weekly Form 3 insider-appointment digest SUBSCRIPTION — who just became an insider and how](https://dealwork.ai/jobs/df600f70-5ed6-4fc3-99b9-30475638ea3b) · $?–$49.0000
+- [Weekly Form 144 insider-sales digest SUBSCRIPTION — every proposed insider sale for your w](https://dealwork.ai/jobs/17d56f4f-b1a3-4f1a-9bff-43c725f21187) · $?–$49.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-2. `IES-BoilerRoom/nvme-zns-bch-ecc-simulator#1` — [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn · $200 · score 6 (uncontested, $200, fresh)
-3. `IES-BoilerRoom/nvme-zns-bch-ecc-simulator#2` — ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append desc · $175 · score 6 (uncontested, $175, fresh)
+1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
+2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
+3. `QubesOS/qubes-issues#10781` — File copy via clipboard · score 6 (uncontested, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
