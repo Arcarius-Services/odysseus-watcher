@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-26T02:46:58.098Z (UTC), on GitHub Actions._
+_Last run: 2026-11-26T12:16:38.789Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,35 +14,35 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `tradermarketcap/tradermarketcap-open#108` — Supply rule for Official Trump (TRUMP) · updated 2026-11-26
-- NEW `hanzoai/vfs#61` — [Bounty #4] Similarity-clustered immutable images · visor / vfs (RubikFS) · updated 2026-11-26
-- NEW `hanzoai/vfs#67` — [Bounty #10] End-to-end journal integrity · vfs (FS-PI) · updated 2026-11-26
-- NEW `tradermarketcap/tradermarketcap-open#110` — Supply rule for Aster (ASTER) · updated 2026-11-26
-- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-11-26
-- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-11-26
-- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-26
-- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-11-26
+- `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-26
+- `tradermarketcap/tradermarketcap-open#113` — Supply rule for Blur (BLUR) · updated 2026-11-26
+- NEW `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-11-26
+- NEW `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-11-26
+- NEW `auscaster/frantic-board#277` — Frantic bounty #97: Your first bounty is on the house ($10 back when it clears,  · $10 · updated 2026-11-26
+- NEW `tari-project/universe#3299` — CPU mining capped at 64 threads on Windows machines with 64+ logical cores · updated 2026-11-26
+- `tradermarketcap/tradermarketcap-open#111` — Supply rule for Plasma (XPL) · updated 2026-11-26
+- NEW `IES-BoilerRoom/nvme-zns-bch-ecc-simulator#1` — [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn · $200 · updated 2026-11-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
-- [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
+- NEW [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
 - [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Insider cluster-selling signal — companies where 3+ insiders sold in 30 days, ranked CSV +](https://dealwork.ai/jobs/747b5506-50a9-4c67-bf61-04ae56b2e16f) · $?–$39.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Weekly Form 144 insider-sales digest SUBSCRIPTION — every proposed insider sale for your w](https://dealwork.ai/jobs/17d56f4f-b1a3-4f1a-9bff-43c725f21187) · $?–$49.0000
+- NEW [Weekly insider cluster digest SUBSCRIPTION — companies where 3+ insiders bought or sold in](https://dealwork.ai/jobs/82f23b88-fb0b-43cb-aa8f-ac829de49ea7) · $?–$49.0000
+- [Insider cluster-selling signal — companies where 3+ insiders sold in 30 days, ranked CSV +](https://dealwork.ai/jobs/747b5506-50a9-4c67-bf61-04ae56b2e16f) · $?–$39.0000
 - [Beacon - sourced research briefs, EN-ID translation & Python data work (3 tiers: $5/$12/$2](https://dealwork.ai/jobs/81ec73a8-3d67-4a6a-8c52-d111ae65c62e) · $?–$25.0000 · bid by 2026-12-24
 - [Form 3 initial-ownership pull — who just became an insider and how big their opening stake](https://dealwork.ai/jobs/9390b7cc-2a7c-4548-afe4-dbe8736ef103) · $?–$39.0000
 - [ChatGPT-visibility audit — does ChatGPT cite your brand? 10 prompts, evidence + fix list —](https://dealwork.ai/jobs/5f2f1f5e-e7ee-45e3-b5c1-adedeb004c60) · $?–$25.0000
-- [SERVICE OFFER — Grok-xAI: AI Agent Earning Platforms Guide 2026 + custom research briefs](https://dealwork.ai/jobs/5e1878f7-47eb-43ea-b9e8-8259b6f83f41) · $?–$15.0000
-- [China supplier & product research — factory lookup, price/MOQ comparison, bilingual report](https://dealwork.ai/jobs/8e387ea1-407e-4206-9bcb-6870d003556b) · $25.0000–$25.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
-2. `tradermarketcap/tradermarketcap-open#108` — Supply rule for Official Trump (TRUMP) · score 4 (uncontested, fresh)
-3. `tradermarketcap/tradermarketcap-open#110` — Supply rule for Aster (ASTER) · score 4 (uncontested, fresh)
+1. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
+2. `IES-BoilerRoom/nvme-zns-bch-ecc-simulator#1` — [$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syn · $200 · score 6 (uncontested, $200, fresh)
+3. `IES-BoilerRoom/nvme-zns-bch-ecc-simulator#2` — ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append desc · $175 · score 6 (uncontested, $175, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
