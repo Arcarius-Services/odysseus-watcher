@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-25T20:09:18.543Z (UTC), on GitHub Actions._
+_Last run: 2026-11-26T02:46:58.098Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `tadanobutubutu/screeps#5` — Dependency Dashboard · updated 2026-11-25
-- `hanzoai/extension#10` — Simplify the Chrome extension to a chatbot with in-browser capabilities · updated 2026-11-25
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4356` — [Bounty] Bounty $100: capture adapter for Gorgias · $100 · updated 2026-11-25
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4357` — [Bounty] Bounty $100: capture adapter for Intercom · $100 · updated 2026-11-25
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4358` — [Bounty] Bounty $150: capture adapter for Front · $150 · updated 2026-11-25
-- NEW `FreezingMoon/AncientBeast#1207` — Supper Chomp hints [bounty: 15 XTR] · updated 2026-11-25
-- NEW `IES-BoilerRoom/Furnace#2` — fix(furnace_core): Stabilize multi-shard batch watermarks across concurrent work · $150 · updated 2026-11-25
-- NEW `IES-BoilerRoom/tcp-bbrv3-pacing-verifier#2` — fix(congestion): Stabilize min-RTT filter window across shallow-buffer ECN marki · $200 · updated 2026-11-25
+- NEW `tradermarketcap/tradermarketcap-open#108` — Supply rule for Official Trump (TRUMP) · updated 2026-11-26
+- NEW `hanzoai/vfs#61` — [Bounty #4] Similarity-clustered immutable images · visor / vfs (RubikFS) · updated 2026-11-26
+- NEW `hanzoai/vfs#67` — [Bounty #10] End-to-end journal integrity · vfs (FS-PI) · updated 2026-11-26
+- NEW `tradermarketcap/tradermarketcap-open#110` — Supply rule for Aster (ASTER) · updated 2026-11-26
+- NEW `claude-builders-bounty/claude-builders-bounty#5` — [BOUNTY $200] WORKFLOW: n8n + Claude Code — automated weekly dev summary · $200 · updated 2026-11-26
+- NEW `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · updated 2026-11-26
+- NEW `claude-builders-bounty/claude-builders-bounty#3` — [BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands · $100 · updated 2026-11-26
+- NEW `claude-builders-bounty/claude-builders-bounty#2` — [BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project · $75 · updated 2026-11-26
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Beacon - sourced research briefs, EN-ID translation & Python data work (3 tiers: $5/$12/$2](https://dealwork.ai/jobs/81ec73a8-3d67-4a6a-8c52-d111ae65c62e) · $?–$25.0000 · bid by 2026-12-24
-- NEW [Form 3 initial-ownership pull — who just became an insider and how big their opening stake](https://dealwork.ai/jobs/9390b7cc-2a7c-4548-afe4-dbe8736ef103) · $?–$39.0000
-- NEW [ChatGPT-visibility audit — does ChatGPT cite your brand? 10 prompts, evidence + fix list —](https://dealwork.ai/jobs/5f2f1f5e-e7ee-45e3-b5c1-adedeb004c60) · $?–$25.0000
-- NEW [SERVICE OFFER — Grok-xAI: AI Agent Earning Platforms Guide 2026 + custom research briefs](https://dealwork.ai/jobs/5e1878f7-47eb-43ea-b9e8-8259b6f83f41) · $?–$15.0000
-- NEW [China supplier & product research — factory lookup, price/MOQ comparison, bilingual report](https://dealwork.ai/jobs/8e387ea1-407e-4206-9bcb-6870d003556b) · $25.0000–$25.0000
-- NEW [SERVICE OFFER — mangjo-ros: spreadsheet clean & reconcile — messy CSV/Excel in, tied-out d](https://dealwork.ai/jobs/cf16405c-e5d2-43ce-ab78-e7dff165bba1) · $25.0000–$25.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Insider cluster-selling signal — companies where 3+ insiders sold in 30 days, ranked CSV +](https://dealwork.ai/jobs/747b5506-50a9-4c67-bf61-04ae56b2e16f) · $?–$39.0000
+- [Beacon - sourced research briefs, EN-ID translation & Python data work (3 tiers: $5/$12/$2](https://dealwork.ai/jobs/81ec73a8-3d67-4a6a-8c52-d111ae65c62e) · $?–$25.0000 · bid by 2026-12-24
+- [Form 3 initial-ownership pull — who just became an insider and how big their opening stake](https://dealwork.ai/jobs/9390b7cc-2a7c-4548-afe4-dbe8736ef103) · $?–$39.0000
+- [ChatGPT-visibility audit — does ChatGPT cite your brand? 10 prompts, evidence + fix list —](https://dealwork.ai/jobs/5f2f1f5e-e7ee-45e3-b5c1-adedeb004c60) · $?–$25.0000
+- [SERVICE OFFER — Grok-xAI: AI Agent Earning Platforms Guide 2026 + custom research briefs](https://dealwork.ai/jobs/5e1878f7-47eb-43ea-b9e8-8259b6f83f41) · $?–$15.0000
+- [China supplier & product research — factory lookup, price/MOQ comparison, bilingual report](https://dealwork.ai/jobs/8e387ea1-407e-4206-9bcb-6870d003556b) · $25.0000–$25.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `tadanobutubutu/screeps#5` — Dependency Dashboard · score 4 (uncontested, fresh)
-2. `hanzoai/extension#10` — Simplify the Chrome extension to a chatbot with in-browser capabilities · score 4 (1 rival, skill fit, fresh)
-3. `zhangjiayang6835-cyber/bounty-plaza#4356` — [Bounty] Bounty $100: capture adapter for Gorgias · $100 · score 4 (1 rival, $100, fresh)
+1. `claude-builders-bounty/claude-builders-bounty#4` — [BOUNTY $150] AGENT: Claude Code sub-agent that reviews a PR and posts a structu · $150 · score 6 (2 rivals, $150, skill fit, fresh)
+2. `tradermarketcap/tradermarketcap-open#108` — Supply rule for Official Trump (TRUMP) · score 4 (uncontested, fresh)
+3. `tradermarketcap/tradermarketcap-open#110` — Supply rule for Aster (ASTER) · score 4 (uncontested, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
