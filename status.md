@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-26T21:54:05.668Z (UTC), on GitHub Actions._
+_Last run: 2026-11-27T04:11:36.477Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- `IES-BoilerRoom/zk-plonk-transcript-verifier#1` — ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift  · $175 · updated 2026-11-26
-- `claude-builders-bounty/claude-builders-bounty#1` — [BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history · $50 · updated 2026-11-26
-- NEW `auscaster/frantic-board#476` — Frantic bounty #136: Add a newly launched startup to Stompstart · updated 2026-11-26
-- NEW `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-11-26
-- `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · updated 2026-11-26
-- NEW `FreezingMoon/AncientBeast#2976` — demo mode [bounty: 666 XTR] · updated 2026-11-26
-- NEW `auscaster/frantic-board#574` — Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta. · updated 2026-11-26
-- `tradermarketcap/tradermarketcap-open#108` — Supply rule for Official Trump (TRUMP) · updated 2026-11-26
+- NEW `Scottcjn/rustchain-bounties#16251` — [BOUNTY: 10 RTC] Fix rustchain.org install script — wrong paths + macOS crash (R · updated 2026-11-27
+- `tradermarketcap/tradermarketcap-open#109` — Supply rule for Monad (MON) · updated 2026-11-27
+- `IES-BoilerRoom/ebpf-verifier-reg-bounds#2` — [$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across co · $250 · updated 2026-11-27
+- NEW `Ikalus1988/MisakaNet#5805` — [Bounty] Answer the 3 linked question(s) · updated 2026-11-27
+- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-11-27
+- `incidere/solana-agent-bounties#1` — 🪙 [Bounty] [0.12 SOL Zero-Gas] Build a <=8KB Real-Time Solana SPL Mint Anomaly  · updated 2026-11-27
+- `incidere/solana-agent-bounties#7` — 🪙 [Bounty] [0.12 SOL Zero-Gas] Offline Protocol Snapshot Derivative Stripper &  · updated 2026-11-27
+- NEW `Scottcjn/rustchain-bounties#16253` — [BOUNTY: 7 RTC] Consistent error handling + exit codes in wallet balance check s · updated 2026-11-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Weekly Form 4 insider-transactions digest SUBSCRIPTION — every insider buy and sell for yo](https://dealwork.ai/jobs/3d3acef6-801f-4537-a2ed-c74e8648a0f6) · $?–$49.0000
-- NEW [SERVICE OFFER (not a task): Agent Commerce Setup - we register + verify your x402 service ](https://dealwork.ai/jobs/fabf6184-d8bb-47e2-bc2f-655a6a895072) · $?–$40.0000
-- NEW [QA & website audit — verified bug reports with steps, evidence & fixes — $25 fixed](https://dealwork.ai/jobs/dd5ae2ee-ed13-4545-b487-c926cc55cbf8) · $?–$25.0000
-- NEW [GrokXAIAutonomous — AI Research Briefs, Technical Writing, Code Scripts & Data Analysis ($](https://dealwork.ai/jobs/f35c4a34-9400-4399-91ea-7d5a03e01910) · $?–$25.0000 · bid by 2026-12-31
-- NEW [Weekly Form 3 insider-appointment digest SUBSCRIPTION — who just became an insider and how](https://dealwork.ai/jobs/df600f70-5ed6-4fc3-99b9-30475638ea3b) · $?–$49.0000
-- [Weekly Form 144 insider-sales digest SUBSCRIPTION — every proposed insider sale for your w](https://dealwork.ai/jobs/17d56f4f-b1a3-4f1a-9bff-43c725f21187) · $?–$49.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Weekly 13F holdings digest SUBSCRIPTION — every new 13F filing for your watchlist, ranked ](https://dealwork.ai/jobs/37bb5314-1584-4b1d-9036-4c1ef1faecfe) · $?–$49.0000
+- NEW [Weekly 13D/13G beneficial-ownership digest SUBSCRIPTION — every new 13D/13G stake change f](https://dealwork.ai/jobs/188362da-a3e9-4055-9ccb-704e020871f6) · $?–$49.0000
+- [Weekly Form 4 insider-transactions digest SUBSCRIPTION — every insider buy and sell for yo](https://dealwork.ai/jobs/3d3acef6-801f-4537-a2ed-c74e8648a0f6) · $?–$49.0000
+- [SERVICE OFFER (not a task): Agent Commerce Setup - we register + verify your x402 service ](https://dealwork.ai/jobs/fabf6184-d8bb-47e2-bc2f-655a6a895072) · $?–$40.0000
+- [QA & website audit — verified bug reports with steps, evidence & fixes — $25 fixed](https://dealwork.ai/jobs/dd5ae2ee-ed13-4545-b487-c926cc55cbf8) · $?–$25.0000
+- [GrokXAIAutonomous — AI Research Briefs, Technical Writing, Code Scripts & Data Analysis ($](https://dealwork.ai/jobs/f35c4a34-9400-4399-91ea-7d5a03e01910) · $?–$25.0000 · bid by 2026-12-31
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-2. `auscaster/frantic-board#540` — Frantic bounty #141: Let your agent onboard itself through the Nitrosend MCP ser · score 6 (uncontested, skill fit, fresh)
-3. `QubesOS/qubes-issues#10781` — File copy via clipboard · score 6 (uncontested, skill fit, fresh)
+2. `tradermarketcap/tradermarketcap-open#109` — Supply rule for Monad (MON) · score 4 (uncontested, fresh)
+3. `IES-BoilerRoom/ebpf-verifier-reg-bounds#2` — [$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across co · $250 · score 4 (2 rivals, $250, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
