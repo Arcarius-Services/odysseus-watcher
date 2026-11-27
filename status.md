@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-27T13:48:44.152Z (UTC), on GitHub Actions._
+_Last run: 2026-11-27T22:39:10.030Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,35 +14,35 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `hanzoai/extension#30` — [Intern] Browser extension (Chrome/Firefox/Edge) + VS Code `.vsix` build & ZAP/M · updated 2026-11-27
-- NEW `hanzoai/gui#21` — [Intern] Keyboard navigation, focus-ring & WCAG AA accessibility audit on core p · updated 2026-11-27
-- NEW `hanzoai/chat#3` — [Intern] Static SPA build against local `hanzoai/engine` + Playwright streaming  · updated 2026-11-27
-- NEW `zhangjiayang6835-cyber/bounty-plaza#4379` — [Bounty] fix(http2_hpack): Fix HTTP/2 frame payload ceiling and HPACK dynamic ta · updated 2026-11-27
-- `auscaster/frantic-board#330` — Frantic bounty #120: Add a valuable startup offer to Sourcey · updated 2026-11-27
+- NEW `hanzoai/mobile#2` — [Intern] Android APK/ADB & iOS Xcode USB end-to-end install and UX QA · updated 2026-11-27
 - `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-11-27
-- NEW `blitzcrieg1/agentmetry#317` — detection: agent-specific signals to add after the freeze · updated 2026-11-27
-- `zhangjiayang6835-cyber/bounty-plaza#4383` — [Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 in · updated 2026-11-27
+- NEW `FreezingMoon/AncientBeast#2711` — landscape orintation lock [bounty: 16 XTR] · updated 2026-11-27
+- NEW `FreezingMoon/AncientBeast#2632` — online multiplayer lobby [bounty: 6666 XTR] · updated 2026-11-27
+- NEW `FreezingMoon/AncientBeast#2088` — health visual offset when Brave's shield is on [bounty: 6 XTR] · updated 2026-11-27
+- `tari-project/universe#3299` — CPU mining capped at 64 threads on Windows machines with 64+ logical cores · updated 2026-11-27
+- NEW `hanzoai/post#21` — [Intern] Social publishing scheduler timezone & media validation unit tests · updated 2026-11-27
+- `hanzoai/docs#26` — [Intern] Copy-paste audit of Getting Started, Self-Hosting, Mobile, Desktop & OS · updated 2026-11-27
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
-## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- NEW [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
+## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [🧑‍🎤👨‍💼👨‍🏭 Cofounder, Community organizer and Creator positions ! \ 🍰Tiramisu Wallet](https://t.me/snow88488)
 - [Bitcoin Multi-Sig Wallet Engineer (Freelance, PSBT/Descriptor Focus) \ Evoke Solutions \ R](contact@evokesolutions.io)
-- NEW [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
-- NEW [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
+- [Software Engineer \ Cake Wallet \ Remote](jobs@cakewallet.com)
+- [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Weekly product-recalls digest SUBSCRIPTION — every new FDA, CPSC and NHTSA recall for your](https://dealwork.ai/jobs/2f6df1f1-d9df-4cb9-b3cc-f2e1e444d671) · $?–$49.0000
-- NEW [Weekly 8-K material-events digest SUBSCRIPTION — every new 8-K for your watchlist, item-co](https://dealwork.ai/jobs/2b8aaa92-70a5-4a99-9599-eb4368ba45fe) · $?–$49.0000
-- [Weekly 13F holdings digest SUBSCRIPTION — every new 13F filing for your watchlist, ranked ](https://dealwork.ai/jobs/37bb5314-1584-4b1d-9036-4c1ef1faecfe) · $?–$49.0000
-- [Weekly 13D/13G beneficial-ownership digest SUBSCRIPTION — every new 13D/13G stake change f](https://dealwork.ai/jobs/188362da-a3e9-4055-9ccb-704e020871f6) · $?–$49.0000
-- [Weekly Form 4 insider-transactions digest SUBSCRIPTION — every insider buy and sell for yo](https://dealwork.ai/jobs/3d3acef6-801f-4537-a2ed-c74e8648a0f6) · $?–$49.0000
-- [SERVICE OFFER (not a task): Agent Commerce Setup - we register + verify your x402 service ](https://dealwork.ai/jobs/fabf6184-d8bb-47e2-bc2f-655a6a895072) · $?–$40.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [SEC insider-activity CSV pull — Form 4/3 ranked extract + Markdown summary in 2h — $29 fix](https://dealwork.ai/jobs/e5b9feb6-8309-4f48-ba65-947d9355720c) · $29.0000–$29.0000
+- NEW [Weekly water-levels digest SUBSCRIPTION — river gauge heights and discharge for your stati](https://dealwork.ai/jobs/9bbde6e9-093c-47d1-82f2-a2f04ab27d8e) · $?–$49.0000
+- NEW [Weekly IPO / S-1 filings digest SUBSCRIPTION — every new S-1 for your watchlist, CSV + sum](https://dealwork.ai/jobs/2aecc9b3-e755-40b9-9626-82520ab86d9a) · $?–$49.0000
+- NEW [Weekly disaster-declarations digest SUBSCRIPTION — every new FEMA declaration for your sta](https://dealwork.ai/jobs/70b79892-1634-4a53-8ba6-2f50ca0e7130) · $?–$49.0000
+- [Weekly product-recalls digest SUBSCRIPTION — every new FDA, CPSC and NHTSA recall for your](https://dealwork.ai/jobs/2f6df1f1-d9df-4cb9-b3cc-f2e1e444d671) · $?–$49.0000
+- [Weekly 8-K material-events digest SUBSCRIPTION — every new 8-K for your watchlist, item-co](https://dealwork.ai/jobs/2b8aaa92-70a5-4a99-9599-eb4368ba45fe) · $?–$49.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
 1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-2. `blitzcrieg1/agentmetry#317` — detection: agent-specific signals to add after the freeze · score 6 (uncontested, skill fit, fresh)
-3. `hanzoai/extension#30` — [Intern] Browser extension (Chrome/Firefox/Edge) + VS Code `.vsix` build & ZAP/M · score 4 (uncontested, fresh)
+2. `FreezingMoon/AncientBeast#2632` — online multiplayer lobby [bounty: 6666 XTR] · score 4 (uncontested, fresh)
+3. `hanzoai/post#21` — [Intern] Social publishing scheduler timezone & media validation unit tests · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
