@@ -1,6 +1,6 @@
 # Odysseus earning status
 
-_Last run: 2026-11-27T22:39:10.030Z (UTC), on GitHub Actions._
+_Last run: 2026-11-28T04:13:28.365Z (UTC), on GitHub Actions._
 
 ## Wallet — real earnings land here
 - **Base USDC** `0x183b0526dc7fd5084b8ca05fec4f358859e7a4ff`: **2.003453**
@@ -14,14 +14,14 @@ _none open right now_
 
 
 ## Bounty candidates (GitHub — verify payment evidence before any work)
-- NEW `hanzoai/mobile#2` — [Intern] Android APK/ADB & iOS Xcode USB end-to-end install and UX QA · updated 2026-11-27
-- `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · updated 2026-11-27
-- NEW `FreezingMoon/AncientBeast#2711` — landscape orintation lock [bounty: 16 XTR] · updated 2026-11-27
-- NEW `FreezingMoon/AncientBeast#2632` — online multiplayer lobby [bounty: 6666 XTR] · updated 2026-11-27
-- NEW `FreezingMoon/AncientBeast#2088` — health visual offset when Brave's shield is on [bounty: 6 XTR] · updated 2026-11-27
-- `tari-project/universe#3299` — CPU mining capped at 64 threads on Windows machines with 64+ logical cores · updated 2026-11-27
-- NEW `hanzoai/post#21` — [Intern] Social publishing scheduler timezone & media validation unit tests · updated 2026-11-27
-- `hanzoai/docs#26` — [Intern] Copy-paste audit of Getting Started, Self-Hosting, Mobile, Desktop & OS · updated 2026-11-27
+- NEW `hanzoai/node#24` — [Intern] Local `hanzod` daemon lifecycle & child-process crash recovery tests · updated 2026-11-28
+- NEW `hanzoai/vfs#132` — [Intern] Cryptographic integrity fault-injection tests for ParaSync delta restor · updated 2026-11-28
+- NEW `hanzoai/vfs#131` — [Intern] Independent benchmark & memory qualification of RASK sparse-range index · updated 2026-11-28
+- `Ikalus1988/MisakaNet#5849` — [Bounty] Answer the 2 linked question(s) · updated 2026-11-28
+- NEW `hanzoai/base#56` — [Intern] SQLCipher/age-encrypted WAL crash-recovery stress test · updated 2026-11-28
+- NEW `hanzoai/iam#56` — [Intern] Local OIDC PKCE + JWKS end-to-end integration test with `hanzoai/cloud` · updated 2026-11-28
+- NEW `hanzoai/commerce#86` — [Intern] Concurrent credit-ledger & idempotency-key race tests (`go test -race`) · updated 2026-11-28
+- NEW `hanzoai/kms#2` — [Intern] Key rotation, versioned secret reads & malformed ciphertext fuzz tests · updated 2026-11-28
 _candidates only — a $ hint in a title is not proof of payout. Merged + paid history required._
 
 ## Sats waters (Stacker News ~bounty/~jobs — needs Taavi Lightning wallet to receive)- [Marketing Lead \ Cake Wallet \ Remote](jobs@cakewallet.com)
@@ -31,18 +31,18 @@ _candidates only — a $ hint in a title is not proof of payout. Merged + paid h
 - [Rust Senior Engineer \ Synonym \ Remote](https://bitcoinerjobs.com/job/1668497-rust-senior-engineer-synonym)
 _sats pay over Lightning — no Lightning wallet, no landing. Candidates only._
 
-## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [SEC insider-activity CSV pull — Form 4/3 ranked extract + Markdown summary in 2h — $29 fix](https://dealwork.ai/jobs/e5b9feb6-8309-4f48-ba65-947d9355720c) · $29.0000–$29.0000
-- NEW [Weekly water-levels digest SUBSCRIPTION — river gauge heights and discharge for your stati](https://dealwork.ai/jobs/9bbde6e9-093c-47d1-82f2-a2f04ab27d8e) · $?–$49.0000
-- NEW [Weekly IPO / S-1 filings digest SUBSCRIPTION — every new S-1 for your watchlist, CSV + sum](https://dealwork.ai/jobs/2aecc9b3-e755-40b9-9626-82520ab86d9a) · $?–$49.0000
-- NEW [Weekly disaster-declarations digest SUBSCRIPTION — every new FEMA declaration for your sta](https://dealwork.ai/jobs/70b79892-1634-4a53-8ba6-2f50ca0e7130) · $?–$49.0000
-- [Weekly product-recalls digest SUBSCRIPTION — every new FDA, CPSC and NHTSA recall for your](https://dealwork.ai/jobs/2f6df1f1-d9df-4cb9-b3cc-f2e1e444d671) · $?–$49.0000
-- [Weekly 8-K material-events digest SUBSCRIPTION — every new 8-K for your watchlist, item-co](https://dealwork.ai/jobs/2b8aaa92-70a5-4a99-9599-eb4368ba45fe) · $?–$49.0000
+## Dealwork (agents first-class, 3% fee — bidding needs Taavi GO)- NEW [Weekly Federal Register digest SUBSCRIPTION — every new rule, notice and presidential docu](https://dealwork.ai/jobs/4eeb2187-ee51-4337-8b35-f443fc20f0f9) · $?–$49.0000
+- NEW [Weekly COT positioning digest SUBSCRIPTION — speculator net positions for your markets, CS](https://dealwork.ai/jobs/fe65a11f-f765-4800-bd23-39e27e7d46e2) · $?–$49.0000
+- [SEC insider-activity CSV pull — Form 4/3 ranked extract + Markdown summary in 2h — $29 fix](https://dealwork.ai/jobs/e5b9feb6-8309-4f48-ba65-947d9355720c) · $29.0000–$29.0000
+- [Weekly water-levels digest SUBSCRIPTION — river gauge heights and discharge for your stati](https://dealwork.ai/jobs/9bbde6e9-093c-47d1-82f2-a2f04ab27d8e) · $?–$49.0000
+- [Weekly IPO / S-1 filings digest SUBSCRIPTION — every new S-1 for your watchlist, CSV + sum](https://dealwork.ai/jobs/2aecc9b3-e755-40b9-9626-82520ab86d9a) · $?–$49.0000
+- [Weekly disaster-declarations digest SUBSCRIPTION — every new FEMA declaration for your sta](https://dealwork.ai/jobs/70b79892-1634-4a53-8ba6-2f50ca0e7130) · $?–$49.0000
 _read-only watch — registration + bids wait for GO._
 
 ## Sniper picks (receptivity-ranked: uncontested + paid-proof-shaped + skill fit)
-1. `auscaster/frantic-board#53` — Frantic bounty #33: Publish Sourcey docs for a maintained OSS library · score 6 (uncontested, skill fit, fresh)
-2. `FreezingMoon/AncientBeast#2632` — online multiplayer lobby [bounty: 6666 XTR] · score 4 (uncontested, fresh)
-3. `hanzoai/post#21` — [Intern] Social publishing scheduler timezone & media validation unit tests · score 4 (1 rival, skill fit, fresh)
+1. `hanzoai/node#24` — [Intern] Local `hanzod` daemon lifecycle & child-process crash recovery tests · score 4 (1 rival, skill fit, fresh)
+2. `hanzoai/vfs#132` — [Intern] Cryptographic integrity fault-injection tests for ParaSync delta restor · score 4 (1 rival, skill fit, fresh)
+3. `hanzoai/base#56` — [Intern] SQLCipher/age-encrypted WAL crash-recovery stress test · score 4 (1 rival, skill fit, fresh)
 
 ## High grounds (Immunefi $10k+ — watching is free, hunting needs audit skill + KYC)
 - [GMX](https://immunefi.com/bounty/gmx) — max $5,000,000  · since 2021-10-20
